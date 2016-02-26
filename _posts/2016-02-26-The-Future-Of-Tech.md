@@ -1,6 +1,6 @@
 ---
-layout:post
-title:The Future of Technology
+layout: post
+title: The Future of Technology
 published: true
 ---
 
