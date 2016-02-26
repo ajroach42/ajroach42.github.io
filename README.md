@@ -18,9 +18,9 @@ In a few minutes you'll be set up with a minimal, responsive blog like the one b
 
 ### Step 1) Fork Jekyll Now to your User Repository
 
-Fork this repo, then rename the repository to yourgithubusername.github.io.
+Fork this repo, then rename the repository to ajroach42.github.io.
 
-Your Jekyll blog will often be viewable immediately at <http://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+Your Jekyll blog will often be viewable immediately at <http://ajroach42.github.io> (if it's not, you can often force it to build by completing step 2)
 
 ![Step 1](/images/step1.gif "Step 1")
 
@@ -49,7 +49,7 @@ Edit `/_posts/2014-3-3-Hello-World.md` to publish your first blog post. This [Ma
 ## Local Development
 
 1. Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
-2. Clone down your fork `git clone git@github.com:yourusername/yourusername.github.io.git`
+2. Clone down your fork `git clone git@github.com:ajroach42/ajroach42.github.io.git`
 3. Serve the site and watch for markup/sass changes `jekyll serve`
 4. View your website at http://127.0.0.1:4000/
 5. Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
