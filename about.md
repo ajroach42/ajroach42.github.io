@@ -2,14 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
 
-### More Information
+I'm a web developer, with 8+ years of experience. I'm a tinkerer. I run [Analog Revolution Records](http://analogrevolution.com) in Kennesaw. I write, and create.
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[me@andrewroach.net](mailto:me@andrewroach.net)
