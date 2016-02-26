@@ -4,6 +4,7 @@ title: The Future of Technology
 published: true
 ---
 
+
 I've been giving a lot of thought to what technologies that exist today will shape the world of tomorrow. Obviously, the era of the dedicated PC is over, and we are well in to the age of the smartphone. The watchwords of today are always some combination of "Smaller", "Cheaper", and "Faster", and that's all well and good.
 
 I'm glad to have tiny, inexpensive computers. They let me do neat things like build [game consoles][1]. But they are firmly technology of today. What's the technology of the future?
@@ -16,7 +17,6 @@ Decentralized manufacturing is, certainly, one of the biggest paradigm shifts of
 
 ![][3]
 
-The Badass activist responsible for the digital heist.
 
 But it's not just manufacturing, many industries are on the verge of being disrupted by this trend towards decentralization, and I think that's great. Recently, I stumbled across an ad for [GoTenna][4] on facebook, and fell in love with their vision of a truly distributed and decentralized communications platform.
 
@@ -25,8 +25,6 @@ GoTenna is a small stick, designed to clip on to your backpack, or be worn on yo
 It's easy to imagine a future where a device like this replaces existing top-down cellphone networks with a bottom-up wireless infrastructure, providing everyone access to a secondary (free! surveillance resistant! censor proof!) internet. (And there are [people working to make things like this a reality][5].)
 
 ![][6]
-
-GoTenna is the first in a wave of products that will revolutionize the way we communicate
 
 Of course, GoTenna is currently used for Point to Point texts, it's a tool to augment your smart device, not a replacement for the existing infrastructure, but it shows the potential for distributing and decentralizing communication channels in a tangible (and powerful) way.
 
@@ -42,4 +40,3 @@ The future is going to be fun.
 [6]: https://cdn-images-1.medium.com/max/800/1*pPntV6GGoWenZl74UeyeYg.png
 [7]: https://piratebox.cc/
 [8]: https://www.reddit.com/r/darknetplan
-  
