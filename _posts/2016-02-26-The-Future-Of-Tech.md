@@ -1,8 +1,7 @@
 ---
-layout:post
-title:The Future of Technology
-published: true
+published: false
 ---
+
 I've been giving a lot of thought to what technologies that exist today will shape the world of tomorrow. Obviously, the era of the dedicated PC is over, and we are well in to the age of the smartphone. The watchwords of today are always some combination of "Smaller", "Cheaper", and "Faster", and that's all well and good. 
 
 I'm glad to have tiny, inexpensive computers. They let me do neat things like building Game Consoles. But they are firmly technology of today. What's the technology of the future? 
@@ -17,4 +16,4 @@ Over the next several years, I imagine we'll see this explored in far greater de
 
 It's going to be fun. 
 
-If you enjoyed reading this, please consider [subscribing to my newsletter](https://tinyletter.com/ajroach42). I write about the fringes of technology whenever I have a spare moment at the office. 
+If you enjoyed reading this, please consider [subscribing to my newsletter](https://tinyletter.com/ajroach42). I write about the fringes of technology whenever I have a spare moment at the office.
