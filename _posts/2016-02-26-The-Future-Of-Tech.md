@@ -1,5 +1,7 @@
 ---
-published: false
+layout:post
+title:The Future of Technology
+published: true
 ---
 
 I've been giving a lot of thought to what technologies that exist today will shape the world of tomorrow. Obviously, the era of the dedicated PC is over, and we are well in to the age of the smartphone. The watchwords of today are always some combination of "Smaller", "Cheaper", and "Faster", and that's all well and good. 
