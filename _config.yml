@@ -18,15 +18,15 @@ avatar: https://pbs.twimg.com/profile_images/568431122007470080/CshTBt-y.jpeg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: ajroach42@gmail.com
+  email:
   facebook:
   flickr:
-  github: ajroach42
+  github: barryclark/jekyll-now
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: ajroach42
+  twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
