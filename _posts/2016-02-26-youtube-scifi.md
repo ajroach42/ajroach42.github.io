@@ -9,6 +9,6 @@ layout: post
 
 Check out this neat short sci-fi film Vacuity. It's a student film, that was produced over a span of two years. 
 
-Learn more: http://michaelmatzur.com/vacuitymovie
+Learn more: <http://michaelmatzur.com/vacuitymovie>
 
 [Sign up for my newsletter for more neat stuff.](http://tinyletter.com/ajroach42)
