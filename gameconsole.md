@@ -8,7 +8,9 @@ published: true
 
 
 
+
 I build things. Recent projects include: 
+
 - [A Raspberry Pi Based Game Console](/gameconsole)
 - Several games for said Console
 - A new method of manufacturing LP Records. 
