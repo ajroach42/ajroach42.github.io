@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 title: Great indie Science Fiction Flick on youtube
 Published: "No"
+layout: post
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VDbm4hpVs58" frameborder="0" allowfullscreen></iframe>
