@@ -8,11 +8,12 @@ published: true
 
 
 I build things. Recent projects include: 
+A Raspberry Pi Based Game Console
+![](https://scontent-atl3-1.cdninstagram.com/t51.2885-15/e35/12256857_770202449775815_1528387766_n.jpg?ig_cache_key=MTEzMzUzNzUzMzExMDUwMTY4MA%3D%3D.2 =250x)
 
-- A Raspberry Pi Based Game Console
-![]({{site.baseurl}}/https://scontent-atl3-1.cdninstagram.com/t51.2885-15/e35/12256857_770202449775815_1528387766_n.jpg?ig_cache_key=MTEzMzUzNzUzMzExMDUwMTY4MA%3D%3D.2)
-![]({{site.baseurl}}/https://scontent-atl3-1.cdninstagram.com/t51.2885-15/e35/12317312_1122606724438934_332433450_n.jpg?ig_cache_key=MTEzODQ4ODg4OTczMDY0NjkyMg%3D%3D.2)
-![]({{site.baseurl}}/https://scontent-atl3-1.cdninstagram.com/t51.2885-15/e35/12256857_770202449775815_1528387766_n.jpg?ig_cache_key=MTEzMzUzNzUzMzExMDUwMTY4MA%3D%3D.2)
+![](https://scontent-atl3-1.cdninstagram.com/t51.2885-15/e35/12317312_1122606724438934_332433450_n.jpg?ig_cache_key=MTEzODQ4ODg4OTczMDY0NjkyMg%3D%3D.2)
+
+![](https://scontent-atl3-1.cdninstagram.com/t51.2885-15/e35/12317815_455386881300687_44944613_n.jpg?ig_cache_key=MTEzODQ5OTEzMjgxNjYwNTQzMw%3D%3D.2)
 - Several games for said Console
 - A new method of manufacturing LP Records. 
 
