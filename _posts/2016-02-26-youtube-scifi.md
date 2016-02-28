@@ -6,7 +6,7 @@ layout: post
 ---
 
 
-![]({{site.baseurl}}//images/airlock.jpg)
+![]({{site.baseurl}}/images/airlock.jpg)
 
 Check out this neat short sci-fi film Vacuity. It's a student film, that was produced over a span of two years. 
 
