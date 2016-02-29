@@ -95,11 +95,16 @@ prose:
           element: "text"
           label: "Title"
           value: ""
-      - name: "splash"
+      - name: "splash-tall"
         field:
           element: "text"
-          label: "Splash image"
+          label: "Splash image (tall)"
           value: ""
+      - name: "splash-wide"
+        field:
+          element: "text"
+          label: "Splash image (wide)"
+          value: ""  
       - name: "tags"
         field:
           element: "multiselect"
