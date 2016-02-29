@@ -2,7 +2,7 @@
 layout: post
 category: blog
 published: true
-splash: "http://ajroach42.github.io/images/BraveNewWorld_FirstEdition.jpg"
+splash: images/BraveNewWorld_FirstEdition.jpg
 tags: 
   - art
 title: A Brave New Podcast
