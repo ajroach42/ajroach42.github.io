@@ -6,7 +6,10 @@ splash: images/BraveNewWorld_FirstEdition.jpg
 tags: 
   - art
 title: A Brave New Podcast
+"splash-tall": images/BraveNewWorld_FirstEdition.jpg
+"splash-wide": ""
 ---
+
 
 
 
