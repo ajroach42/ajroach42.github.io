@@ -1,12 +1,12 @@
 ---
+layout: post
+category: post
 published: true
 title: Great indie Science Fiction Flick on youtube
 Published: "No"
-layout: post
+splash: /images/airlock.jpg
+tags: null
 ---
-
-
-![]({{site.baseurl}}/images/airlock.jpg)
 
 Check out this neat short sci-fi film Vacuity. It's a student film, that was produced over a span of two years. 
 
