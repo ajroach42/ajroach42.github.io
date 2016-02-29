@@ -1,8 +1,8 @@
 ---
-layout: blog
+layout: post
 category: blog
 published: true
-splash: /images/BraveNewWorld_FirstEdition.jpg
+splash: http://ajroach42.github.io/images/BraveNewWorld_FirstEdition.jpg
 tags: 
   - art
 title: A Brave New Podcast
