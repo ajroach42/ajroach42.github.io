@@ -2,7 +2,7 @@
 layout: blog
 category: blog
 published: true
-splash: ""
+splash: /images/BraveNewWorld_FirstEdition.jpg
 tags: 
   - art
 title: A Brave New Podcast
