@@ -3,7 +3,8 @@ layout: blog
 category: blog
 published: true
 splash: ""
-tags: null
+tags: 
+  - art
 title: A Brave New Podcast
 ---
 
