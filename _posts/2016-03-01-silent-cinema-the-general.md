@@ -1,8 +1,8 @@
 ---
 layout: post
 category: post
-"splash-tall": /images/The_General_poster.jpg
-"splash-wide": ""
+"splash-tall": ""
+"splash-wide": /images/The_General_poster.jpg
 tags: 
   - "null"
 published: true
@@ -11,7 +11,7 @@ title: "Silent Cinema: The General"
 
 
 
-Since we've been making movies 100 years longer than I've been alive, there are far too many "must see classics" that I've missed. Each month, I devote one or two evenings to silent films, and classic cinema. I try to enter each film with an open mind, and I've discovered some real classics. Today, I had the pleasure of re-visiting Buster Keaton's The General with a friend who was seeing it for the first time. Watch the film, and read my impressions, below. 
+Since we've been making movies 100 years longer than I've been alive, there are far too many "must see classics" that I've missed. Each month, I devote one or two evenings to silent films, and vintage cinema. I try to enter each film with an open mind, and I've stumbled on to some real classics. Today, I had the pleasure of re-visiting Buster Keaton's The General with a friend who was seeing it for the first time. Watch the film, and read my impressions, below. 
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/x2X58JcO9G4" frameborder="0" allowfullscreen="true" style="max-width:100%;"></iframe>
 
