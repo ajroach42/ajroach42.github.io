@@ -5,7 +5,7 @@ category: post
 "splash-wide": /images/DEC_VT100_terminal.jpg
 tags: 
   - "null"
-published: false
+published: true
 title: "A Modern BBS: Reviving the local, distributed, weird precursor to Facebook."
 ---
 
