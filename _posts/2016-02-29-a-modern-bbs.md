@@ -38,7 +38,7 @@ There are other projects in the works (including one of my own) that aim to cove
 - The Wifi signal has a relatively limited range, meaning you can only access this system when you’re in the same (or possibly an adjacent) building.  
 - There isn’t, at the moment, a reliable way to pass data between these islands 
 
-Even with these limitations, a community can build quickly around a well placed modern BBS. For a few months last summer, we ran one at (Analog Revolution)[http://analogrevolution.com], and we saw it quickly become a place for community discussion, and to share (among other things) local music. Eventually, the hardware was cannibalized for further experimentation, but as a dry run the Analog BBS affirmed my belief that this is a viable, necessary, and potentially vital next step in the evolution of modern computing. 
+Even with these limitations, a community can build quickly around a well placed modern BBS. For a few months last summer, we ran one at [Analog Revolution](http://analogrevolution.com), and we saw it quickly become a place for community discussion, and to share (among other things) local music. Eventually, the hardware was cannibalized for further experimentation, but as a dry run the Analog BBS affirmed my belief that this is a viable, necessary, and potentially vital next step in the evolution of modern computing. 
 
 ## Surmounting the Obstacles
 
