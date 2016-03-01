@@ -23,7 +23,7 @@ The important things to remember about these early BBSs:
 - Anyone with a computer and a modem could run a BBS. There were no gatekeepers. 
 - Anyone with a computer and a modem could connect to a BBS, as long as they could afford the phone bill.
 
-Imagine it, a private/local anonymous/pseudonymous social network that required no additional infrastructure beyond that which has existing since Alexander Graham Bell invented telephony. A private, local, distributed, weird internet, complete with email ( [even cross-system email](https://en.wikipedia.org/wiki/FidoNet) ), [online games] (https://en.wikipedia.org/wiki/BBS_door) , public messaging, and [a culture](https://www.youtube.com/watch?v=JnSz-Hb9LQY) all it’s own. 
+Imagine it, a private/local anonymous/pseudonymous social network that required no additional infrastructure beyond that which has existing since Alexander Graham Bell invented telephony. A private, local, distributed, weird internet, complete with email ( [even cross-system email](https://en.wikipedia.org/wiki/FidoNet) ), [online games](https://en.wikipedia.org/wiki/BBS_door) , public messaging, and [a culture](https://www.youtube.com/watch?v=JnSz-Hb9LQY) all it’s own. 
 
 As the internet matured, BBSs died away, and that's a real shame, because BBSs were an astounding, and important development in early computing history and culture that has been all but lost today. I want to see this concept brought to modern technology to build a new, distributed, local, social network free from the privileges and restrictions of the internet, and I think it can be done in a new, and intentionally radical way. 
 
