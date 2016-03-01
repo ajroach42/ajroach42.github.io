@@ -10,9 +10,8 @@ title: "Silent Cinema: The General"
 ---
 
 
-Since we've been making movies 100 years longer than I've been alive, there are far too many "must see classics" that I've missed. Each month, I devote one or two evenings to silent films, and classic cinema. I try to enter each film with an open mind, and I've discovered some real classics. Today, I had the pleasure of re-visiting Buster Keaton's The General with a friend who was seeing it for the first time. Watch the film, and read my impressions, below. 
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/x2X58JcO9G4" frameborder="0" allowfullscreen="true" style="max-width:100%;"></iframe>
+Since we've been making movies 100 years longer than I've been alive, there are far too many "must see classics" that I've missed. Each month, I devote one or two evenings to silent films, and classic cinema. I try to enter each film with an open mind, and I've discovered some real classics. Today, I had the pleasure of re-visiting Buster Keaton's The General with a friend who was seeing it for the first time. Watch the film, and read my impressions, below. <iframe width="420" height="315" src="https://www.youtube.com/embed/x2X58JcO9G4" frameborder="0" allowfullscreen="true" style="max-width:100%;"></iframe>
 
 The General is a 1926 silent comedy, detailing the events of [The Great Train Robbery](https://en.wikipedia.org/wiki/Great_Locomotive_Chase), which was a real thing that happened about ten miles (and 150 years) from my apartment. The film stars Buster Keaton, who performs all of his own (incredibly dangerous) stunts. 
 
