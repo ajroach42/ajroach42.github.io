@@ -2,7 +2,7 @@
 layout: post
 category: post
 "splash-tall": ""
-"splash-wide": /images/The_General_poster.jpg
+"splash-wide": "/images/general-buster-keaton-1.jpg"
 tags: 
   - "null"
 published: true
