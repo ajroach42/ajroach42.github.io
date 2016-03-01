@@ -9,6 +9,7 @@ published: true
 title: "A Modern BBS: Reviving the local, distributed, weird precursor to Facebook."
 ---
 
+
 [BBSs](https://en.wikipedia.org/wiki/Bulletin_board_system) were a weird, wonderful facet of early computer culture, connecting community members in to a distributed, often free, local social network. I want to revive this almost forgotten concept, and find a modern spiritual successor.  
 
 <img src="{{site.baseurl}}/images/DEC_VT100_terminal.jpg" style="max-width:100%;"> Photo by [Jason Scott](https://www.flickr.com/people/54568729@N00)
@@ -18,6 +19,7 @@ title: "A Modern BBS: Reviving the local, distributed, weird precursor to Facebo
 Way before facebook, before the web in general, if you wanted to argue with strangers about politics you connected to one of your local BBSs. These were kind of like small, private, local, social networks. The BBS was just a computer in someone's home, and you connected to it by calling it from your computer. Dozens of people from your region (long distance was expensive) might also connect to this same BBS, and it was used by and large the way one might use facebook today. 
 
 The important things to remember about these early BBSs: 
+
 - They existed separate from the modern internet.
 - You connected directly to the BBS, by calling its phone number, rather than connecting to a single network that had access to many different pages. 
 - Anyone with a computer and a modem could run a BBS. There were no gatekeepers. 
@@ -52,4 +54,4 @@ We don’t deserve any better, either. We’ve given these large, private corpor
 
 [Wanna help?](https://ajroach42.typeform.com/to/tNxpkS)
 
-Of course, this might all be little more than a pipe dream but, the technology is there, the [need is there](https://www.eff.org/nsa-spying), and wouldn’t it be something if we could pull it off? 
+Of course, this might all be little more than a pipe dream but, the technology is there, the [need is there](https://www.eff.org/nsa-spying), and wouldn’t it be something if we could pull it off?
