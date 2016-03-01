@@ -2,7 +2,7 @@
 layout: post
 category: post
 "splash-tall": ""
-"splash-wide": /images/DEC_VT100_terminal.(1).jpg
+"splash-wide": /images/DEC_VT100_terminal.jpg
 tags: 
   - "null"
 published: false
@@ -11,7 +11,7 @@ title: "A Modern BBS: Reviving the local, distributed, weird precursor to Facebo
 
 [BBSs](https://en.wikipedia.org/wiki/Bulletin_board_system) were a weird, wonderful facent of early computer culture, connecting community memebers in to a distributed, often free, local social network. I want to revive this almost forgotten concept, and find a modern spiritual successor.  
 
-![Image by Jason Scott]({{site.baseurl}}/images/DEC_VT100_terminal.jpg) Photo by [Jason Scott](https://www.flickr.com/people/54568729@N00)
+<img src="{{site.baseurl}}/images/DEC_VT100_terminal.jpg"> Photo by [Jason Scott](https://www.flickr.com/people/54568729@N00)
 
 ##History Lesson#
 
