@@ -3,10 +3,12 @@ layout: post
 category: post
 "splash-tall": /images/The_General_poster.jp
 "splash-wide": ""
-tags: null
-published: false
+tags: 
+  - "null"
+published: true
 title: "Silent Cinema: The General"
 ---
+
 
 Since we've been making movies 100 years longer than I've been alive, there are far too many "must see classics" that I've missed. Each month, I devote one or two evenings to silent films, and classic cinema. I try to enter each film with an open mind, and I've discovered some real classics. Today, I had the pleasure of re-visiting Buster Keaton's The General with a friend who was seeing it for the first time. Watch the film, and read my impressions, below. 
 
@@ -25,4 +27,4 @@ The film is, of course, spectacular. The score on the version available on Youtu
 
 The plot is, as I said above, a contrived retelling of real events that took place durring the American Civil War, a few miles down the road from my apartment. It's silly, and a little slapstick, but it's also beautiful and emotionally poignant. It's worth watching, if only for Keaton's incredible stunt work and excellent comedic timing. 
 
-It makes a great first silent film, and serves as a wonderful introductory point to those who may be intimidated by the prospect of watching a (nearly) 100 year old film. 
+It makes a great first silent film, and serves as a wonderful introductory point to those who may be intimidated by the prospect of watching a (nearly) 100 year old film.
