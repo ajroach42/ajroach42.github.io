@@ -9,7 +9,7 @@ published: true
 title: "A Modern BBS: Reviving the local, distributed, weird precursor to Facebook."
 ---
 
-[BBSs](https://en.wikipedia.org/wiki/Bulletin_board_system) were a weird, wonderful facent of early computer culture, connecting community memebers in to a distributed, often free, local social network. I want to revive this almost forgotten concept, and find a modern spiritual successor.  
+[BBSs](https://en.wikipedia.org/wiki/Bulletin_board_system) were a weird, wonderful facet of early computer culture, connecting community members in to a distributed, often free, local social network. I want to revive this almost forgotten concept, and find a modern spiritual successor.  
 
 <img src="{{site.baseurl}}/images/DEC_VT100_terminal.jpg" style="max-width:100%;"> Photo by [Jason Scott](https://www.flickr.com/people/54568729@N00)
 
@@ -29,7 +29,7 @@ As the internet matured, BBSs died away, and that's a real shame, because BBSs w
 
 ## Reviving the BBS
 
-It is possible to build a BBS style system today using small, cheap, modern technologies and free software. One such project, [PirateBox](https://piratebox.cc/) (or the more ethically names [Library Box](http://librarybox.us/)), can be run on the ridiculously cheap [Raspberry Pi 0](https://www.raspberrypi.org/blog/raspberry-pi-zero/), (When coupled with the neccisary power supply and USB adapter.) Setup isn’t incredibly straightforward, since the Pi 0 doesn’t have an ethernet port, but it can be done with only minor frustration (I’m sure I’ll write about it at some point.) Once configured, you’ll have a bulletin board, a chat room, the ability to upload files, and a UPnP streaming server. It may not sound like much, but it can be revolutionary on a college campus, or in an apartment building. 
+It is possible to build a BBS style system today using small, cheap, modern technologies and free software. One such project, [PirateBox](https://piratebox.cc/) (or the more ethically names [Library Box](http://librarybox.us/)), can be run on the ridiculously cheap [Raspberry Pi 0](https://www.raspberrypi.org/blog/raspberry-pi-zero/), (When coupled with the necessary power supply and USB adapter.) Setup isn’t incredibly straightforward, since the Pi 0 doesn’t have an ethernet port, but it can be done with only minor frustration (I’m sure I’ll write about it at some point.) Once configured, you’ll have a bulletin board, a chat room, the ability to upload files, and a UPnP streaming server. It may not sound like much, but it can be revolutionary on a college campus, or in an apartment building. 
 
 There are other projects in the works (including one of my own) that aim to cover some of the same ground, that is, that aim to use cheap and readily accessible computers as a convenient way to serve up information, media, and communication tools for anyone in physical proximity. Of course, the biggest limitations of a system like this are: 
 
@@ -42,7 +42,7 @@ Even with these limitations, a community can build quickly around a well placed 
 
 Over the next several months, I’ll be working to overcome some of the obstacles I mentioned above. (If you’d like to [follow my progress, sign up for my newsletter.](http://tinyletter.com/ajroach42), I’m sure this topic will feature heavily in rotation.) My plan at the moment is to build several of these BBS nodes, powered by the newly released [Raspberry Pi 3](https://www.raspberrypi.org/blog/raspberry-pi-3-on-sale/), and to deploy them in several stratigic locations throughout my community. (If you’re a business owner in metro-atlanta, and you’re interested in running a modern BBS (mBBS), [let me know!](http://andrewroach.net/contact)) 
 
-From there, I want to enable long range communication with these nodes. Ideally, using [GoTenna](http://www.gotenna.com/	) radios, but possibly using something like the [xBee] (https://www.sparkfun.com/products/9099). This should enable client -> server connections over distances for 1-4 miles. In the long run, it is my hope to enable each of these nodes to connect together over a [mesh network](https://en.wikipedia.org/wiki/Mesh_networking), enabling access to a local, distributed, survielince resistent, censor proof, and unabashedly bizarre replacement-internet. 
+From there, I want to enable long range communication with these nodes. Ideally, using [GoTenna](http://www.gotenna.com/	) radios, but possibly using something like the [xBee] (https://www.sparkfun.com/products/9099). This should enable client -> server connections over distances for 1-4 miles. In the long run, it is my hope to enable each of these nodes to connect together over a [mesh network](https://en.wikipedia.org/wiki/Mesh_networking), enabling access to a local, distributed, surveillance resistant, censor proof, and unabashedly bizarre replacement-internet. 
 
 ## Why bother?
 
