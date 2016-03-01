@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-"splash-tall": /images/The_General_poster.jp
+"splash-tall": /images/The_General_poster.jpg
 "splash-wide": ""
 tags: 
   - "null"
