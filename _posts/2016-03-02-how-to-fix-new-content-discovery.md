@@ -45,6 +45,7 @@ And he's entirely right. We need our software (and our networks) to work on the 
 The answer may be that we need to combine the ease of use and ability to re-share that makes today's best content discovery platforms thrive, and combine them with a real limitation in scale that makes serindipity more likely. I can imagine, and I'm sure you can as well, a dozen ways that this might not work. There is one, however, that I think stands a real chance: 
 
 A local, human scale network. [Something akin to yesterday's BBSs](https://medium.com/@ajroach42/a-modern-bbs-reviving-the-local-distributed-weird-precursor-to-facebook-4b3db93f742d#.4m7bk0ghc), built in such a way that it can only operate at the local level, and on the human scale. A Community Network, if you will. If built correctly, a network or service that worked on this scale could revolutionize content discovery within a community (and then, within every community that community touches. Shortly, thanks to Kevin Bacon, every community would be represented.) The gains made from a Community Network would, neccisarily, find their way back in to the internet at large, resulting in: 
+
 - Easier content discovery for everyone
 - More diversity among the most popular content on the traditional internet platforms, even facebook
 - The ability to actually find stuff you like, by accident. 
