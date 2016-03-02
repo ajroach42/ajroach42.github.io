@@ -10,8 +10,6 @@ title: How to Fix Content Discovery
 ---
 
 
-
-
 First, let's introduce the problem in terms that really drive it home: Every hour, more than [2 years of video](http://www.tubefilter.com/2014/12/01/youtube-300-hours-video-per-minute/) content is added to youtube. If you were to start watching right now, and didn't take a break to sleep for the next 2 years, you'd be able to watch all the videos that had been uploaded in the last hour. Obviously this is more content than could reasonably be proccessed in any meaningful way, and there will be two more years worth in an hour. How is anything new supposed to get discovered in that overwhelming miasma of, mostly, crap? 
 
 ![Film_strip.jpg]({{site.baseurl}}/images/Film_strip.jpg)
