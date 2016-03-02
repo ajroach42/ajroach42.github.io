@@ -3,10 +3,12 @@ layout: post
 category: post
 "splash-tall": ""
 "splash-wide": /images/8552334852_d834f047ba_o.jpg
-tags: null
-published: false
+tags: 
+  - "null"
+published: true
 title: On Incremental Change and Living in the Future
 ---
+
 
 Recently, I had the pleasure of re-reading [Warren Ellis' Cunning Plans](http://www.amazon.com/dp/B00Z9LFC8U/ref=r_soa_w_d). It's an eBook, comprised of transcripts of talks that Mr. Ellis gave at various conferences in 2012. If that sounds boring to you, you might want to go read a little bit about [Mr. Ellis](http://www.warrenellis.com/?page_id=14415). I assure you, when he speaks, it's because he has something worthwhile to say. 
 
@@ -24,4 +26,4 @@ They're just quips. Soundbites in a larger work, but they speak volumes about ou
 
 We want magic, but we're afraid of change. We force the world through seives and filters until we're convinced that the magnificent is mundane, and that there is nothing left to be discovered. 
 
-We're stumbling backwards in to the future, and we're not ready. 
+We're stumbling backwards in to the future, and we're not ready.
