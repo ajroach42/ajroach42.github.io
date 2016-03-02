@@ -2,15 +2,18 @@
 layout: post
 category: post
 "splash-tall": ""
-"splash-wide": ""
+"splash-wide": images/1970s_fanzines_(21224199545).jpg
 tags: 
   - "null"
 published: true
-title: How to Fix New Content Discovery
+title: How to Fix Content Discovery
 ---
 
 
 First, let's introduce the problem in terms that really drive it home: Every hour, more than [2 years of video](http://www.tubefilter.com/2014/12/01/youtube-300-hours-video-per-minute/) content is added to youtube. If you were to start watching right now, and didn't take a break to sleep for the next 2 years, you'd be able to watch all the videos that had been uploaded in the last hour. Obviously this is more content than could reasonably be proccessed in any meaningful way, and there will be two more years worth in an hour. How is anything new supposed to get discovered in that overwhelming miasma of, mostly, crap? 
+
+![Film_strip.jpg]({{site.baseurl}}/images/Film_strip.jpg)
+
 
 To a greater or lesser extent, the same thing is a problem across all media platforms. Twitter has too much noise, Bandcamp and Soundcloud already have more than a lifetime's worth of music (with more added each day), and the problem is getting worse. It's easier than ever to create things. It's easier than ever to share them. It's impossible, as a result, to get noticed. 
 
@@ -44,7 +47,12 @@ And he's entirely right. We need our software (and our networks) to work on the 
 
 The answer may be that we need to combine the ease of use and ability to re-share that makes today's best content discovery platforms thrive, and combine them with a real limitation in scale that makes serindipity more likely. I can imagine, and I'm sure you can as well, a dozen ways that this might not work. There is one, however, that I think stands a real chance: 
 
-A local, human scale network. [Something akin to yesterday's BBSs](https://medium.com/@ajroach42/a-modern-bbs-reviving-the-local-distributed-weird-precursor-to-facebook-4b3db93f742d#.4m7bk0ghc), built in such a way that it can only operate at the local level, and on the human scale. A Community Network, if you will. If built correctly, a network or service that worked on this scale could revolutionize content discovery within a community (and then, within every community that community touches. Shortly, thanks to Kevin Bacon, every community would be represented.) The gains made from a Community Network would, neccisarily, find their way back in to the internet at large, resulting in: 
+![1970s_fanzines_(21224199545).jpg]({{site.baseurl}}/images/1970s_fanzines_(21224199545).jpg)
+
+
+A local, human scale network. [Something akin to yesterday's BBSs](https://medium.com/@ajroach42/a-modern-bbs-reviving-the-local-distributed-weird-precursor-to-facebook-4b3db93f742d#.4m7bk0ghc), with a little help from the Punk Zines of the 70s and 80s, built in such a way that it can only operate at the local level, and on the human scale. A Community Network, if you will. 
+
+If built correctly, a network or service that worked on this scale could revolutionize content discovery within a community (and then, within every community that community touches. Shortly, thanks to Kevin Bacon, every community would be represented.) The gains made from a Community Network would, neccisarily, find their way back in to the internet at large, resulting in: 
 
 - Easier content discovery for everyone
 - More diversity among the most popular content on the traditional internet platforms, even facebook
