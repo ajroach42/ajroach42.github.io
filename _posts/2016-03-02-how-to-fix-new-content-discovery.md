@@ -3,8 +3,9 @@ layout: post
 category: post
 "splash-tall": ""
 "splash-wide": ""
-tags: null
-published: false
+tags: 
+  - "null"
+published: true
 title: How to Fix New Content Discovery
 ---
 
