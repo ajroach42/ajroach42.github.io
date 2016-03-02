@@ -9,6 +9,7 @@ published: true
 title: How to Fix New Content Discovery
 ---
 
+
 First, let's introduce the problem in terms that really drive it home: Every hour, more than [2 years of video](http://www.tubefilter.com/2014/12/01/youtube-300-hours-video-per-minute/) content is added to youtube. If you were to start watching right now, and didn't take a break to sleep for the next 2 years, you'd be able to watch all the videos that had been uploaded in the last hour. Obviously this is more content than could reasonably be proccessed in any meaningful way, and there will be two more years worth in an hour. How is anything new supposed to get discovered in that overwhelming miasma of, mostly, crap? 
 
 To a greater or lesser extent, the same thing is a problem across all media platforms. Twitter has too much noise, Bandcamp and Soundcloud already have more than a lifetime's worth of music (with more added each day), and the problem is getting worse. It's easier than ever to create things. It's easier than ever to share them. It's impossible, as a result, to get noticed. 
@@ -35,7 +36,8 @@ Eventually, all of these artificial limitations run in to the same problems of s
 
 These systems for discovering new stuff can't scale well because individual people can't cope with that kind of scale. Computers can, but algorythmic curation will result in a digitally enforced monoculture. Large companies, like twitter and Facebook, need the scale of millions of users to turn a profit, so they're going to keep pushing for more users (and more data, and more opportunities to monotise their users), rather than for a better user experience. I think that there is another alternative, and it is to be found as much in our past as in our future. 
 
-In a [great piece that touched on many of these same issues](https://medium.com/@jkriss/anti-capitalist-human-scale-software-and-why-it-matters-5936a372b9d#.ldyuvtehy), [Jesse Kriss](https://medium.com/@jkriss) said: 
+In a [great piece that touched on many of these same issues](https://medium.com/@jkriss/anti-capitalist-human-scale-software-and-why-it-matters-5936a372b9d#.ldyuvtehy), [Jesse Kriss](https://medium.com/@jkriss) said:
+
 > I am coming to the conclusion that we simply can’t rely on corporations to produce and maintain great, reliable, human-centered software. The systems and incentives are in direct conflict.
 
 And he's entirely right. We need our software (and our networks) to work on the scale of individuals, rather than on the scale of millions of users. If we can achieve this, we'll reduce the volume of the current stream, and probably increase the signal-to-noise ratio all at once. 
@@ -50,7 +52,3 @@ A local, human scale network. [Something akin to yesterday's BBSs](https://mediu
 So, what do you think? 
 
 Want to help?
-
-
-
-
