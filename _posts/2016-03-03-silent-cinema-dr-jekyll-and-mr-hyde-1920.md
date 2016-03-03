@@ -12,7 +12,7 @@ title: "Silent Cinema: Dr. Jekyll and Mr. Hyde (1920)"
 
 
 A few days ago, I posted an article about [using Jekyll](AndrewRoach.net/Dr.-Jekyll/) to power this website. I used a still from the 1920 adaptation of Jekyll and Hyde to illustrate the post, because it's in the public domain and marginally related. As the film was already on my radar, and I had an hour and a half to spare, I chose to watch the movie last night. It wasn't horrible, but it had some flaws, and doesn't live up to the atmosphere of the fantastic poster. You're welcome to watch it yourself, and read my impressions, below. 
-<iframe src="https://archive.org/embed/DrJekyllandMrHyde" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/DrJekyllandMrHyde" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true"  style="max-width:100%;"></iframe>
 
 ![Dr-Jekyll-and-Mr-Hyde-1920-film-images-e1b680f3-d731-41fd-ae60-469f16ab5df.jpg]({{site.baseurl}}/images/Dr-Jekyll-and-Mr-Hyde-1920-film-images-e1b680f3-d731-41fd-ae60-469f16ab5df.jpg)
 
