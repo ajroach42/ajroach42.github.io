@@ -2,7 +2,7 @@
 layout: post
 category: post
 "splash-tall": ""
-"splash-wide": "/images/100-Best-Silent-Films-There-it-is.jpg)"
+"splash-wide": "/images/100-Best-Silent-Films-There-it-is.jpg"
 tags: 
   - "null"
 published: true
