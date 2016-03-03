@@ -10,6 +10,6 @@ title: "Silent Cinema: There it is! (1928)"
 ---
 
 
-After my disapointment with Dr. Jekyll and Mr. Hyde, I decided to look for something a little stranger. What I found was There It Is! It's a 1928 sureal, absurdist commedy, that's pretty heavy on Special Effects and stop-motion animation. It's weird and wacky, and remarkably well done. Far more well executed than many of it's contemporaries. You gotta check it out. 
+After my disapointment with [Dr. Jekyll and Mr. Hyde](http://andrewroach.net/silent-cinema-dr-jekyll-and-mr-hyde-1920/), I decided to look for something a little stranger. What I found was There It Is! It's a 1928 sureal, absurdist commedy, that's pretty heavy on Special Effects and stop-motion animation. It's weird and wacky, and remarkably well done. Far more well executed than many of it's contemporaries. You gotta check it out. 
 
 <iframe width="420" height="315" style="max-width:100%;" src="https://www.youtube.com/embed/N-lHhP69RFk" frameborder="0" allowfullscreen></iframe>
