@@ -107,5 +107,3 @@ Of course, this might all be little more than a pipe dream but, the technology i
 [22]: http://www.businessinsider.com/this-is-how-facebook-is-tracking-your-internet-activity-2012-9
 [23]: https://d262ilb51hltx0.cloudfront.net/max/800/1*i5Ekawy3LGYLsT2Hr1NIvQ.jpeg
 [24]: https://www.eff.org/nsa-spying
-  
- NIGHT MODE
