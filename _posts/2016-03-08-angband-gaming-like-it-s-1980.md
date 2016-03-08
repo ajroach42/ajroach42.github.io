@@ -3,10 +3,12 @@ layout: post
 category: post
 "splash-tall": ""
 "splash-wide": "/images/Screen%20Shot%202016-03-08%20at%201.03.44%20PM.png"
-tags: null
-published: false
+tags: 
+  - "null"
+published: true
 title: "Angband: Gaming like it's 1980"
 ---
+
 
 ![]({{site.baseurl}}/images/Screen Shot 2016-03-08 at 1.03.44 PM.png)
 Angband is a sprawling rouge-like adventure game that has been under steady development since some point in the 80s. It's massive, ugly, difficult, and a great way to lost an entire weekend. Simply put, it's one of the most intense, difficult RPGs that you'll ever encounter. 
@@ -23,4 +25,4 @@ You'll need the [Players Guide.](http://rephial.org/help/guide) and the [User Ma
 
 I lose a few hours a month to this game. Then I die, and in my anger I don't pick it up again for weeks (just in time to lose a few hours of the next month to it.) 
 
-Give it a shot, you won't be disapointed. 
+Give it a shot, you won't be disapointed.
