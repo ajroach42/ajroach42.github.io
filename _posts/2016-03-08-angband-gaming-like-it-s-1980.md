@@ -9,8 +9,6 @@ published: true
 title: "Angband: Gaming like it's 1980"
 ---
 
-
-![]({{site.baseurl}}/images/Screen Shot 2016-03-08 at 1.03.44 PM.png)
 Angband is a sprawling rouge-like adventure game that has been under steady development since some point in the 80s. It's massive, ugly, difficult, and a great way to lost an entire weekend. Simply put, it's one of the most intense, difficult RPGs that you'll ever encounter. 
 
 ![]({{site.baseurl}}/images/Screen%20Shot%202016-03-08%20at%201.03.44%20PM.png)
