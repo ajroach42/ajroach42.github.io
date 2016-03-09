@@ -2,7 +2,7 @@
 layout: post
 category: post
 "splash-tall": ""
-"splash-wide": ""
+"splash-wide": "/images/Screen%20Shot%202016-03-09%20at%2012.48.09%20PM.png"
 tags: null
 published: false
 title: "Silent Cinema: The Astronomer's Dream"
@@ -28,3 +28,4 @@ Other notable works:
 
 ABOUT THE MUSIC
 – Wesley Berrien is a member of the band Back There (https://backthere.bandcamp.com/)
+![]({{site.baseurl}}/images/Screen%20Shot%202016-03-09%20at%2012.48.09%20PM.png)
