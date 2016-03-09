@@ -2,15 +2,18 @@
 layout: post
 category: post
 "splash-tall": ""
-"splash-wide": ""
-tags: 
-  - "null"
+"splash-wide": "/images/sam-ashwell-contribution.jpg"
+tags: null
 published: true
 title: "Lost Pig - A Journey of Discovery"
 ---
 
 
+
 I'm a huge fan of modern Interactive Fiction, and I love it's cheesy roots. This story does a great job of melding the two in to something worth playing. Become Grunk, a troll in search of a lost pig, in this great little piece of Interactive Fiction.
+
+![sam-ashwell-contribution.jpg]({{site.baseurl}}/images/sam-ashwell-contribution.jpg)
+
 
 If you've never played Interactive Fiction before, click in the box below, type "Help" and press enter. You can navigate through the menu with the arrow keys and the enter key. 
 
