@@ -3,10 +3,12 @@ layout: post
 category: post
 "splash-tall": ""
 "splash-wide": "/images/Screen%20Shot%202016-03-09%20at%2012.48.09%20PM.png"
-tags: null
-published: false
+tags: 
+  - "null"
+published: true
 title: "Silent Cinema: The Astronomer's Dream"
 ---
+
 
 117 years after it was originally released, my buddy Wesley wrote and recorded a new score for the Georges Méliès sci-fi short film The Astronomer's Dream. It's part of an ongoing project, in which I'm working with local musicians and videographers to revitalize and rescore vintage films. I'm really pleased with this score, and the ultimate film is fantastic. 
 
