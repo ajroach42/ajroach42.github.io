@@ -12,10 +12,10 @@ title: Chat Interfaces are the new Command Line
 
 A lot of noise has been made of late re: chat interfaces and chat bots. People seem to think that they are new, revolutionary, and about to disrupt everything. No seriously, a lot of noise. Just look: 
 
-- https://medium.com/point-nine-news/are-chat-bots-a-feature-or-a-product-ce3aa3e8506a#.knia925kf
-- https://medium.com/@Borthwick/introducing-botwick-want-a-bot-got-a-bot-botwick-and-how-to-roll-your-own-a4253512c652#.sw5e60rl0
-- https://medium.com/@rob_ellis/slack-superscript-rise-of-the-bots-bba8506a043c#.snhn9e3k1
-- https://medium.com/stephen-keep/app-fatigue-chatbots-maybe-the-answer-d976253193c0#.s5f9hnu82
++ https://medium.com/point-nine-news/are-chat-bots-a-feature-or-a-product-ce3aa3e8506a#.knia925kf
++ https://medium.com/@Borthwick/introducing-botwick-want-a-bot-got-a-bot-botwick-and-how-to-roll-your-own-a4253512c652#.sw5e60rl0
++ https://medium.com/@rob_ellis/slack-superscript-rise-of-the-bots-bba8506a043c#.snhn9e3k1
++ https://medium.com/stephen-keep/app-fatigue-chatbots-maybe-the-answer-d976253193c0#.s5f9hnu82
 
 Which, honestly, has led me to a resounding "duh". 
 
@@ -37,23 +37,23 @@ Thanks to advances in natural language processing, and the fact that indiviual b
 
 For users: 
 
-1. Faster than a dedicated app for many tasks
-2. No apps to install means less storage space used, and no mucking about with the app store
-3. You're already using Messenger, iMessage, or Hangouts all the time. 
++ Faster than a dedicated app for many tasks
++ No apps to install means less storage space used, and no mucking about with the app store
++ You're already using Messenger, iMessage, or Hangouts all the time. 
 
 For developers: 
 
-1. No one has to approve your chat bot before users can connect with it
-2. No fancy-schmancy UI to design and implement 
-3. Can be built in simple tools (Python, Perl) and run on a server you control 
++ No one has to approve your chat bot before users can connect with it
++ No fancy-schmancy UI to design and implement 
++ Can be built in simple tools (Python, Perl) and run on a server you control 
 
 Granted, eveything isn't sunshine and daisies:
 
-- Facebook Messenger, for example, has a bot SDK but is only allowing a small number of developers to access it at this time.
-- SMS bots are more expensive than bots that communicate over XMPP or another internet based messaging service, because you have to pay for each message sent.
-- Folks in the US still aren't terribly used to interacting with web services in this way, so it might take a while for the trend to catch on like it has in China or India. 
-- Chat bots can't interact with local files. Depending on the chat platform, they may or may not be location aware, or capable of payment proccessing.
-- Language proccessing is still in it's infancy 
++ Facebook Messenger, for example, has a bot SDK but is only allowing a small number of developers to access it at this time.
++ SMS bots are more expensive than bots that communicate over XMPP or another internet based messaging service, because you have to pay for each message sent.
++ Folks in the US still aren't terribly used to interacting with web services in this way, so it might take a while for the trend to catch on like it has in China or India. 
++ Chat bots can't interact with local files. Depending on the chat platform, they may or may not be location aware, or capable of payment proccessing.
++ Language proccessing is still in it's infancy 
 
 But even with those hurdles to adoption, I think it's worthwhile for many web developers to start focusing their attention on implementing proof-of-concept and Minimum Viable Products as chat bots. We're only going to see more of them in the future. 
 
