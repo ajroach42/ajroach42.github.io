@@ -14,7 +14,7 @@ A lot of noise has been made of late re: chat interfaces and chat bots. People s
 
 * [https://medium.com/point-nine-news/are-chat-bots-a-feature-or-a-product-ce3aa3e8506a#.knia925kf](https://medium.com/point-nine-news/are-chat-bots-a-feature-or-a-product-ce3aa3e8506a#.knia925kf)
 * [https://medium.com/@Borthwick/introducing-botwick-want-a-bot-got-a-bot-botwick-and-how-to-roll-your-own-a4253512c652#.sw5e60rl0](https://medium.com/@Borthwick/introducing-botwick-want-a-bot-got-a-bot-botwick-and-how-to-roll-your-own-a4253512c652#.sw5e60rl0)
-https://medium.com/@rob_ellis/slack-superscript-rise-of-the-bots-bba8506a043c#.snhn9e3k1
+* [https://medium.com/@rob_ellis/slack-superscript-rise-of-the-bots-bba8506a043c#.snhn9e3k1](https://medium.com/@rob_ellis/slack-superscript-rise-of-the-bots-bba8506a043c#.snhn9e3k1)
 * [https://medium.com/stephen-keep/app-fatigue-chatbots-maybe-the-answer-d976253193c0#.s5f9hnu82](https://medium.com/stephen-keep/app-fatigue-chatbots-maybe-the-answer-d976253193c0#.s5f9hnu82)
 
 
