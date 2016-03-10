@@ -5,16 +5,18 @@ category: post
 "splash-wide": ""
 tags: 
   - "null"
-published: true
+published: false
 title: Chat Interfaces are the new Command Line
 ---
 
 
 A lot of noise has been made of late re: chat interfaces and chat bots. People seem to think that they are new, revolutionary, and about to disrupt everything. No seriously, a lot of noise. Just look: 
+
 - https://medium.com/point-nine-news/are-chat-bots-a-feature-or-a-product-ce3aa3e8506a#.knia925kf
 - https://medium.com/@Borthwick/introducing-botwick-want-a-bot-got-a-bot-botwick-and-how-to-roll-your-own-a4253512c652#.sw5e60rl0
 - https://medium.com/@rob_ellis/slack-superscript-rise-of-the-bots-bba8506a043c#.snhn9e3k1
 - https://medium.com/stephen-keep/app-fatigue-chatbots-maybe-the-answer-d976253193c0#.s5f9hnu82
+
 Which, honestly, has led me to a resounding "duh". 
 
 Of course there are many tasks for which smartphone apps suck. Of course there are plenty of cases in which a power user might want to access a service at a lower level. Essentially, Of course the Command Line is still relevant. 
@@ -34,16 +36,19 @@ Of course the rise of cloud computing in the browser means that everyone (well, 
 Thanks to advances in natural language processing, and the fact that indiviual bots only handle a relitively small number of operations, bots are on the rise. This is great for users and developers. 
 
 For users: 
+
 1. Faster than a dedicated app for many tasks
 2. No apps to install means less storage space used, and no mucking about with the app store
 3. You're already using Messenger, iMessage, or Hangouts all the time. 
 
 For developers: 
+
 1. No one has to approve your chat bot before users can connect with it
 2. No fancy-schmancy UI to design and implement 
 3. Can be built in simple tools (Python, Perl) and run on a server you control 
 
-Granted, eveything isn't sunshine and daisies. 
+Granted, eveything isn't sunshine and daisies:
+
 - Facebook Messenger, for example, has a bot SDK but is only allowing a small number of developers to access it at this time.
 - SMS bots are more expensive than bots that communicate over XMPP or another internet based messaging service, because you have to pay for each message sent.
 - Folks in the US still aren't terribly used to interacting with web services in this way, so it might take a while for the trend to catch on like it has in China or India. 
