@@ -38,7 +38,7 @@ You'll notice a few things as you play the game:
 
 After you've spent a bit of time with the original MIT Zork, I highly recommend you give Infocom's Zork I a few minutes of your time. The games are similar enough that you only really need to finish one or the other for the full effect, but the differences between the amature project and the commercial one are pretty interesting. (You can [play the infocom Zork here.](http://iplayif.com/?story=http%3A%2F%2Fwww.batmantis.com%2Fzorks%2Fzork1.z5) ) 
 
-If you enjoy Zork, you may also be interested in these games: 
+If you enjoy Zork, you may also be interested in these games, written in a Zorkian vein: 
 
 * [The Meteor, The Stone, and The Long Glass of Sherbet](http://iplayif.com/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fzcode%2Fsherbet.z5)
 * [Enlightenment](http://iplayif.com/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fcompetition98%2Finform%2Fenlighte%2Fenlighte.z5)
