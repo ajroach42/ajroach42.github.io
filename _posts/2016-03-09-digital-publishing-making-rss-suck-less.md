@@ -3,10 +3,12 @@ layout: post
 category: post
 "splash-tall": ""
 "splash-wide": ""
-tags: null
-published: false
+tags: 
+  - "null"
+published: true
 title: "Digital Publishing: Making RSS Suck Less "
 ---
+
 
 Magazines are rad, especially the weird counter-culture zines that gave rise to websites like BoingBoing. A lot of early blogs and online publications were born directly out of Zine culture, and most digital publications still operate under at least some of the same paradigms as traditional publishing. One of the earliest victories for the young web was RSS, a way to subscribe to blogs and websites that mirrored the idea of (but was fundamentally removed from) traditional magazine subscriptions.
 
