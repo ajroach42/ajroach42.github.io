@@ -2,7 +2,7 @@
 layout: post
 category: post
 "splash-tall": ""
-"splash-wide": ""
+"splash-wide": "images/1-AeFmAZTEGrX_nTCpUdKJqQ.jpeg"
 tags: 
   - "null"
 published: true
@@ -11,15 +11,12 @@ title: Chat Interfaces are the new Command Line
 
 A lot of noise has been made of late re: chat interfaces and chat bots. People seem to think that they are new, revolutionary, and about to disrupt everything. No seriously, a lot of noise. Just look:
 
-
 * [https://medium.com/point-nine-news/are-chat-bots-a-feature-or-a-product-ce3aa3e8506a#.knia925kf](https://medium.com/point-nine-news/are-chat-bots-a-feature-or-a-product-ce3aa3e8506a#.knia925kf)
 * [https://medium.com/@Borthwick/introducing-botwick-want-a-bot-got-a-bot-botwick-and-how-to-roll-your-own-a4253512c652#.sw5e60rl0](https://medium.com/@Borthwick/introducing-botwick-want-a-bot-got-a-bot-botwick-and-how-to-roll-your-own-a4253512c652#.sw5e60rl0)
 * [https://medium.com/@rob_ellis/slack-superscript-rise-of-the-bots-bba8506a043c#.snhn9e3k1](https://medium.com/@rob_ellis/slack-superscript-rise-of-the-bots-bba8506a043c#.snhn9e3k1)
 * [https://medium.com/stephen-keep/app-fatigue-chatbots-maybe-the-answer-d976253193c0#.s5f9hnu82](https://medium.com/stephen-keep/app-fatigue-chatbots-maybe-the-answer-d976253193c0#.s5f9hnu82)
 
-
 Which, honestly, has led me to a resounding "duh!"
-
 
 Of course there are many tasks for which smartphone apps suck. Of course there are plenty of cases in which a power user might want to access a service at a lower level. Essentially, Of course the Command Line is still relevant.
 
@@ -63,4 +60,4 @@ But even with those hurdles to adoption, I think it's worthwhile for many web de
 
 [1]: https://cdn-images-1.medium.com/max/600/1*RUD6vylzeUaN3Kz0EV1e0g.jpeg
 [2]: https://cdn-images-1.medium.com/max/2000/1*AeFmAZTEGrX_nTCpUdKJqQ.jpeg
-  
+
