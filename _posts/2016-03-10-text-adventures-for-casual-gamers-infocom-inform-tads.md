@@ -5,7 +5,7 @@ category: post
 "splash-wide": /images/planetfall2.jpg
 tags: 
   - "null"
-published: false
+published: true
 title: Zorking Around
 ---
 
