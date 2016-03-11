@@ -3,10 +3,12 @@ layout: post
 category: post
 "splash-tall": ""
 "splash-wide": /images/planetfall2.jpg
-tags: null
+tags: 
+  - "null"
 published: false
 title: Zorking Around
 ---
+
 
  	You are in an open field west of a big white house with a boarded front door.
 	 There is a small mailbox here.
@@ -21,7 +23,7 @@ title: Zorking Around
     In Zork, the intrepid explorer delves into the forgotten secrets of a lost labyrinth deep in the bowels of the earth, searching for vast treasures long hidden from prying eyes, treasures guarded by fearsome monsters and diabolical traps!
     Zork was created at the Programming Technology Division of the MIT Laboratory for Computer Science by Tim Anderson, Marc Blank, Bruce Daniels, and Dave Lebling.  It was inspired by the Adventure game of Crowther and Woods, and the Dungeons and Dragons game of Gygax and Arneson. 
 
-So begins the grandfather of all adventure games. It was originally written in 1977 by a bunch of students and weirdos at MIT. In 1979 the fledgling company Infocom began the long proccess of porting the massive mainframe game to home computers. Along the way, it was made slightly friendlier (but only slightly!), and split in to three installments. It became the corner-stone of a software company that consistently dominated computer games sales until they were purchased by Activision in 1986. 
+So begins the grandfather of all adventure games. It was originally written in 1977 by a bunch of students and weirdos at MIT. In 1979 the fledgling company Infocom began the long process of porting the massive mainframe game to home computers. Along the way, it was made slightly friendlier (but only slightly!), and split in to three installments. It became the cornerstone of a software company that consistently dominated computer games sales until they were purchased by Activision in 1986. 
 
 The original Zork is an absolutely massive game. It's funny, mean, and it hardly understands what you're asking it to do. It was polished in to a lean commercial series that, honestly change the way people thought about computer games. Zork was unique, it was the first of it's kind, and it was fantastic. 
 
@@ -40,10 +42,15 @@ After you've spent a bit of time with the original MIT Zork, I highly recommend 
 
 If you enjoy Zork, you may also be interested in these games, written in a Zorkian vein: 
 
-* [The Meteor, The Stone, and The Long Glass of Sherbet](http://iplayif.com/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fzcode%2Fsherbet.z5)
-* [Enlightenment](http://iplayif.com/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fcompetition98%2Finform%2Fenlighte%2Fenlighte.z5)
-* [Zork, a Troll's Eye View](http://iplayif.com/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fzcode%2Ftroll.z5)
-* [Zork: The Undiscovered Underground](http://iplayif.com/?story=http%3A%2F%2Fwww.batmantis.com%2Fzorks%2Fztuu.z5)
-* [The Scroll Theif](http://iplayif.com/?story=http%3A%2F%2Fmeadstelzer.com%2Fdaniel%2Fif%2Fscrollthief%2FScroll%2520Thief.gblorb)
+* [The Meteor, The Stone, and The Long Glass of Sherbet](http://iplayif.com/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fzcode%2Fsherbet.z5)- a fan homage to Zork, written in 1996 by acclaimed IF author Graham Nelson. 
+* [Enlightenment](http://iplayif.com/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fcompetition98%2Finform%2Fenlighte%2Fenlighte.z5) - A fun, funny, clever twist on one of the most common problems in the Zorkian universe. A one room puzzle-fest, but a lot of fun. Features an adaptive hint system. 
+* [Zork, a Troll's Eye View](http://iplayif.com/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fzcode%2Ftroll.z5)- A cute little Zork parody. A simple gag, but cute. 
+* [Zork: The Undiscovered Underground](http://iplayif.com/?story=http%3A%2F%2Fwww.batmantis.com%2Fzorks%2Fztuu.z5) - Released by activision to promote something or other. The last official Zork game. 
+* [The Scroll Thief](http://iplayif.com/?story=http%3A%2F%2Fmeadstelzer.com%2Fdaniel%2Fif%2Fscrollthief%2FScroll%2520Thief.gblorb) - This is a puzzle-heavy game in the Zork/Enchanter universe, meant as an "unofficial sequel" clearing up some of the mysteries of Spellbreaker. 
 * [Portcullis](http://versificator.net/portcullis/) 
-http://gallery.guetech.org/
+http://gallery.guetech.org/ - A satire of Zork created for it's 35th anniversary. 
+
+On the whole, Zork is responsible for many of the conventions of modern adventure games (text or otherwise), and it's spawned countless sequels, and imitations. It invented, and then defined, a genre and was *the* definitive computer game for a generation of gamers. (at least until The Hitchhiker's Guide to the Galaxy was released.) 
+
+Share and enjoy. 
+
