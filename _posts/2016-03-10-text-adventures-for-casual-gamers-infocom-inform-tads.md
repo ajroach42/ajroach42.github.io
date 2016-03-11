@@ -2,13 +2,12 @@
 layout: post
 category: post
 "splash-tall": ""
-"splash-wide": /images/planetfall2.jpg
+"splash-wide": "images/zork1-map.jpg"
 tags: 
   - "null"
 published: true
 title: Zorking Around
 ---
-
 
  	You are in an open field west of a big white house with a boarded front door.
 	 There is a small mailbox here.
@@ -35,7 +34,7 @@ So begins the grandfather of all adventure games. It was originally written in 1
 
 The original Zork is an absolutely massive game. It's funny, mean, and it hardly understands what you're asking it to do. It was polished in to a lean commercial series that, honestly change the way people thought about computer games. Zork was unique, it was the first of it's kind, and it was fantastic. 
 
-A port of the original zork can be played online: http://iplayif.com/?story=http://parchment.toolness.com/if-archive/games/zcode/zdungeon.z5.js
+A [port of the original MIT Zork can be played online](http://iplayif.com/?story=http://parchment.toolness.com/if-archive/games/zcode/zdungeon.z5.js). 
 
 And, though many purists would consider it cheating, I highly recommend that you take a map with you. For me, and for most modern gamers, the game is almost completely unwinnable without one. This one will probably work nicely: 
 ![dungeon.jpg]({{site.baseurl}}/images/dungeon.jpg)
@@ -60,5 +59,4 @@ http://gallery.guetech.org/ - A satire of Zork created for it's 35th anniversary
 
 On the whole, Zork is responsible for many of the conventions of modern adventure games (text or otherwise), and it's spawned countless sequels, and imitations. It invented, and then defined, a genre and was *the* definitive computer game for a generation of gamers. (at least until The Hitchhiker's Guide to the Galaxy was released.) 
 
-Share and enjoy. 
-
+Share and enjoy.
