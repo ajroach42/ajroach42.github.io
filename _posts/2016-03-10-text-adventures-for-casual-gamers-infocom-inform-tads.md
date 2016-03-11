@@ -2,14 +2,15 @@
 layout: post
 category: post
 "splash-tall": ""
-"splash-wide": "images/zork1-map.jpg"
+"splash-wide": images/zork2.jpg
 tags: 
   - "null"
 published: true
 title: Zorking Around
 ---
 
- 	You are in an open field west of a big white house with a boarded front door.
+	 
+     You are in an open field west of a big white house with a boarded front door.
 	 There is a small mailbox here.
 	 >open mailbox
 	 Opening the mailbox reveals:
