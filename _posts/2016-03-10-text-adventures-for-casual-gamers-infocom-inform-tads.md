@@ -42,7 +42,9 @@ The original Zork is an absolutely massive game. It's funny, mean, and it hardly
 A [port of the original MIT Zork can be played online](http://iplayif.com/?story=http://parchment.toolness.com/if-archive/games/zcode/zdungeon.z5.js). 
 
 And, though many purists would consider it cheating, I highly recommend that you take a map with you. For me, and for most modern gamers, the game is almost completely unwinnable without one. This one will probably work nicely: 
-[dungeon.jpg]({{site.baseurl}}/images/dungeon.jpg)
+[![dungeon.jpg]({{site.baseurl}}/images/dungeon.jpg)]({{site.baseurl}}/images/dungeon.jpg)
+
+
 
 You'll notice a few things as you play the game:
 
