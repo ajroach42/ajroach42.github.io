@@ -10,7 +10,8 @@ title: Zorking Around
 ---
 
 	 
-     You are in an open field west of a big white house with a boarded front door.
+     You are in an open field west of a big white house with a 
+     boarded front door.
 	 There is a small mailbox here.
 	 >open mailbox
 	 Opening the mailbox reveals:
