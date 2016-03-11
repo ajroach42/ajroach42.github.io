@@ -42,7 +42,7 @@ The original Zork is an absolutely massive game. It's funny, mean, and it hardly
 A [port of the original MIT Zork can be played online](http://iplayif.com/?story=http://parchment.toolness.com/if-archive/games/zcode/zdungeon.z5.js). 
 
 And, though many purists would consider it cheating, I highly recommend that you take a map with you. For me, and for most modern gamers, the game is almost completely unwinnable without one. This one will probably work nicely: 
-![dungeon.jpg]({{site.baseurl}}/images/dungeon.jpg)
+[dungeon.jpg]({{site.baseurl}}/images/dungeon.jpg)
 
 You'll notice a few things as you play the game:
 
@@ -60,8 +60,7 @@ If you enjoy Zork, you may also be interested in these games, written in a Zorki
 * [Zork, a Troll's Eye View](http://iplayif.com/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fzcode%2Ftroll.z5)- A cute little Zork parody. A simple gag, but cute. 
 * [Zork: The Undiscovered Underground](http://iplayif.com/?story=http%3A%2F%2Fwww.batmantis.com%2Fzorks%2Fztuu.z5) - Released by activision to promote something or other. The last official Zork game. 
 * [The Scroll Thief](http://iplayif.com/?story=http%3A%2F%2Fmeadstelzer.com%2Fdaniel%2Fif%2Fscrollthief%2FScroll%2520Thief.gblorb) - This is a puzzle-heavy game in the Zork/Enchanter universe, meant as an "unofficial sequel" clearing up some of the mysteries of Spellbreaker. 
-* [Portcullis](http://versificator.net/portcullis/) 
-http://gallery.guetech.org/ - A satire of Zork created for it's 35th anniversary. 
+* [Portcullis](http://versificator.net/portcullis/) - A satire of Zork created for it's 35th anniversary. 
 
 On the whole, Zork is responsible for many of the conventions of modern adventure games (text or otherwise), and it's spawned countless sequels, and imitations. It invented, and then defined, a genre and was *the* definitive computer game for a generation of gamers. (at least until The Hitchhiker's Guide to the Galaxy was released.) 
 
