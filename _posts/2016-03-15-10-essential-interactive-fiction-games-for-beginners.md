@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-"splash-tall": "i_got_the_babel_fish_t_shirt-r36508eb8d93b4d13891184d831d60857_jgymw_1024.jpg"
+"splash-tall": "/images/i_got_the_babel_fish_t_shirt-r36508eb8d93b4d13891184d831d60857_jgymw_1024.jpg"
 "splash-wide": ""
 tags: 
   - "null"
