@@ -5,7 +5,7 @@ category: post
 "splash-wide": ""
 tags: 
   - "null"
-published: false
+published: true
 title: 10 Essential Interactive Fiction Games for Beginners
 ---
 
