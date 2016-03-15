@@ -1,12 +1,14 @@
 ---
 layout: post
 category: post
-"splash-tall": ""
+"splash-tall": "i_got_the_babel_fish_t_shirt-r36508eb8d93b4d13891184d831d60857_jgymw_1024.jpg"
 "splash-wide": ""
-tags: null
+tags: 
+  - "null"
 published: false
 title: 10 Essential Interactive Fiction Games for Beginners
 ---
+
 
 Interactive Fiction Games are a subset of the larger genre of [text adventure games](http://ajroach42.github.io/text-adventures-for-casual-gamers-infocom-inform-tads/), distinguished by their high quality prose, plot development, and branching story lines. I have [long been of the opinion](http://analogrevolution.com/hitchhikers-guide-galaxy-30th-anniversary-game/) that Text Adventure games took their first stumbling steps towards Interactive Fiction starting with Douglas Adams excellent Hitchhiker's Guid to the Galaxy. 
 
@@ -81,4 +83,4 @@ A Mind Forever Voyaging is another work by Mr. Meretzky. It is consistently cons
 
 >But suppose that jumbo fortune cookie you got at Qwang's Take-Out Asteroid last shore leave was right. Maybe you will indeed narrowly escape disaster. It's even possible that you'll actually travel to an unknown corner of the Universe, where you'll save a doomed planet - or die in the attempt. In fact, we'll guarantee it - every crumb of it - because that's just the way the cosmic cookie crumbles. 
 
-Another Steve Meretzky game. The game itself is pretty simple, but the plot (while, admitedly, also fairly simple) is executed with a deftness that is not often seen. Well worth playing. 
+Another Steve Meretzky game. The game itself is pretty simple, but the plot (while, admitedly, also fairly simple) is executed with a deftness that is not often seen. Well worth playing.
