@@ -23,7 +23,7 @@ Thankfully, I stumbled across some truly great Interactive Fiction and Text Adve
 
 ## Here are 10 Essential Interactive Fiction Games for Beginners: 
 
-### More Game than Fiction
+### More Game than Fiction:
 
 #### [Curses](http://iplayif.com/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fzcode%2Fcurses.z5) 
 Curses, released in 1993, is the first Interactive Fiction game of the modern era. It was written by Graham Nelson, who also wrote the tools that he used to create the game (a programing language called Inform.) In the game, you play the role of a man exploring his attic, and also the occult gateways that link your attic to all manner of interesting times. 
@@ -57,7 +57,7 @@ Photopia presents a series of interactive vingettes that interweave in jarring a
 More of a conversation than a game. You're talking to a statue that has come to life. She's a great conversationalist. 
 
 
-### The 80s
+### The 80s:
 
 #### [The Hitchhiker's Guide to The Galaxy](http://iplayif.com/?story=http://labs.toolness.com/parchment/infocom/hitchhik.z5)
 Douglas Adams' masterpiece adapted to Interactive Fiction by Steve Meretzky and Mr. Adams himself. This game is punishingly difficult, and absolutely hillarious. I defy you to finish it without help. 
