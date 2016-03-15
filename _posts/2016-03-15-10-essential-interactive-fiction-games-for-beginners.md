@@ -14,10 +14,10 @@ Interactive Fiction Games are a subset of the larger genre of [text adventure ga
 
 Unfortunately, The Hitchhiker's Game is increadibly difficult and can be outright hostile towards inexperienced players. (One puzzle, that appears early in the game, was so notoriously difficult that Infocom sold T-Shirts, so that you could brag about solving it.) 
 
-Much of the Interactive Fiction of the 80s depended on the players already having more than a pasive familiarity with the conventions of Text Adventures in![i_got_the_babel_fish_t_shirt-r36508eb8d93b4d13891184d831d60857_jgymw_1024.jpg]({{site.baseurl}}/images/i_got_the_babel_fish_t_shirt-r36508eb8d93b4d13891184d831d60857_jgymw_1024.jpg)
- general. It was far more recently that we began developing IF games that were actually approachable by new players. 
+Much of the Interactive Fiction of the 80s depended on the players already having more than a pasive familiarity with the conventions of Text Adventures in general. It was far more recently that we began developing IF games that were actually approachable by new players. 
 
-![]({{site.baseurl}}/images/i_got_the_babel_fish_t_shirt-r36508eb8d93b4d13891184d831d60857_jgymw_1024.jpg)
+![i_got_the_babel_fish_t_shirt-r36508eb8d93b4d13891184d831d60857_jgymw_1024.jpg]({{site.baseurl}}/images/i_got_the_babel_fish_t_shirt-r36508eb8d93b4d13891184d831d60857_jgymw_1024.jpg)
+
 
 Thankfully, I stumbled across some truly great Interactive Fiction and Text Adventure games on a freeware collection purchased for a song from a long forgotten toy store when I was younger. This experience inspired a lifelong love of the format, and I'm always working to introduce new folks to it. 
 
