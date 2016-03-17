@@ -11,9 +11,8 @@ title: Writing Computer Games
 
 I've played a lot of computer games over the last few weeks, I've already written about some of them, and I'll be writing about many of the others soon. In writing about and playing these computer games, I have found myself working out plots for games in a similar format. After a lot of back and forth, I overcame my own objections and started building.
 
-![][1]![][2]<img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://d262ilb51hltx0.cloudfront.net/max/1200/0*Hpp5WXzvw8tmBMMW.png">
-
-My first UI experiments
+![Screen Shot 2016-03-17 at 10.31.24 AM.png]({{site.baseurl}}/images/Screen%20Shot%202016-03-17%20at%2010.31.24%20AM.png)
+***My first UI experiments
 
 ### Why I'm building games
 
@@ -67,9 +66,7 @@ You're an employee of ARR, investigating reports that The Wizard of Menlo park h
 
 Unless, of course, you accidentally destroy the planet.
 
-![][4]![][5]<img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://d262ilb51hltx0.cloudfront.net/max/1200/0*XvuVRmSeEEN8pccT.jpg">
-
-The Wizard of Menlo Park
+![wiz.jpg]({{site.baseurl}}/images/wiz.jpg)
 
 ### How I'm building games
 
