@@ -9,7 +9,8 @@ published: true
 title: Writing Computer Games
 ---
 
-I've played a lot of computer games over the last few weeks, I've already written about some of them, and I'll be writing about many of the others soon. In writing about and playing these computer games, I have found myself working out plots for games in a similar format. After a lot of back and forth, I overcame my own objections and started building.
+
+I've played a lot of computer games over the last few weeks, I've already [written about some of them](http://ajroach42.github.io/10-essential-interactive-fiction-games-for-beginners/), and I'll be [writing about many of the others soon](http://tinyletter.com/ajroach42). In writing about and playing these computer games, I have found myself working out plots for games in a similar format. After a lot of back and forth, I overcame my own objections and started building.
 
 ![Screen Shot 2016-03-17 at 10.31.24 AM.png]({{site.baseurl}}/images/Screen%20Shot%202016-03-17%20at%2010.31.24%20AM.png)
 _Here is a screenshot of one of my first UI experiments_
@@ -81,4 +82,3 @@ So far, I have a basic structure in place for 1 of the 3 titles mentioned above.
 [5]: https://medium.com/@ajroach42/undefined
 [6]: http://twinery.org/
 [7]: http://andrewroach.net
-  
