@@ -3,10 +3,12 @@ layout: post
 category: post
 "splash-tall": ""
 "splash-wide": ""
-tags: null
-published: false
+tags: 
+  - "null"
+published: true
 title: Further Ideas for Computer Games
 ---
+
 
 I recently posted about my desire to start [writing computer games](http://ajroach42.github.io/writing-computer-games/).
 
@@ -18,4 +20,4 @@ This is an occasionally updated list of ideas for other Computer Games or Intera
 - A massive, sprawling adventure game about Joan Carter - Warlord of Mars, set in a modified version of Edgar Rice Burroughs' Barsoom. Joan is an ageless woman, transported to mars by means she can't understand, and tasked with: Learning the Martian languages, Becoming a feared warlord, Learning to pilot an airship, and ultimately marrying Martian Princess Dejah Thoris. This game will be fully illustrated and feature persistent geography. Additionally, it will have several procedurally generated areas, many interactive NPCs, hundreds of unique items, and thousands of possible paths to several 'winning' end conditions. _I've already planned a significant portion of this game, and built the skeleton on which the game will exist. It's a big project, and it's going to take a whie._ 
 - *The Order of the Olive* was a secret society/running gag between myself and some friends in Middle and Highschool. I've always thought it would be a hoot to take the collected lore of the Order and turn it in to something that was 40% serious, 30% silly, and 30% absurd.
 
-That's all for now, though I imagine I'll keep this updated as more ideas trickle in. 
+That's all for now, though I imagine I'll keep this updated as more ideas trickle in.
