@@ -9,13 +9,14 @@ published: true
 title: 10 Essential Interactive Fiction Games for Beginners
 ---
 
+
 Interactive Fiction Games are a subset of the larger genre of [text adventure games][1], distinguished by their high quality prose, plot development, and branching story lines. I have [long been of the opinion][2] that Text Adventure games took their first stumbling steps towards Interactive Fiction starting with Douglas Adams excellent Hitchhiker's Guide to the Galaxy.
 
 Unfortunately, The Hitchhiker's Game is incredibly difficult and can be outright hostile towards inexperienced players. (One puzzle, that appears early in the game, was so notoriously difficult that Infocom sold T-Shirts, so that you could brag about solving it.)
 
 Much of the Interactive Fiction of the 80s depended on the players already having more than a passive familiarity with the conventions of Text Adventures in general. It was far more recently that we began developing IF games that were actually approachable by new players.
 
-![][3]![][4]<img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://d262ilb51hltx0.cloudfront.net/max/800/0*2E1luVad3XZfWcwq.jpg">
+<img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://d262ilb51hltx0.cloudfront.net/max/800/0*2E1luVad3XZfWcwq.jpg">
 
 Thankfully, over the years I've stumbled across some truly great Interactive Fiction and Text Adventure Games, and I'm always working to introduce new folks to the format.
 
@@ -101,4 +102,3 @@ Another Steve Meretzky game. The game itself is pretty simple, but the plot (whi
 [12]: http://ifdb.tads.org/viewgame?id=4h62dvooeg9ajtfa
 [13]: http://infocom.elsewhere.org/gallery/amfv/amfv.html
 [14]: http://tinyletter.com/ajroach42
-  
