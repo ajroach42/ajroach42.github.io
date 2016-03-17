@@ -13,8 +13,6 @@ I've played a lot of computer games over the last few weeks, I've already writte
 
 ![Screen Shot 2016-03-17 at 10.31.24 AM.png]({{site.baseurl}}/images/Screen%20Shot%202016-03-17%20at%2010.31.24%20AM.png)
 
-*** My first UI experiments
-
 ### Why I'm building games
 
 Mostly, because it's something I've wanted to do my whole life. Also, because I like writing fiction, and I want to experiment with new ways of presenting fiction to modern audiences. It helps that I've played some really great, and inspirational, games in the last few weeks.
