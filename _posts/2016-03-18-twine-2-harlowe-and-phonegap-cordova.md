@@ -14,5 +14,5 @@ One solution I've found is Apache Cordova / Adobe Phonegap. Cordova is an open s
 
 The important thing is this: I discovered after a few minutes of tinkering that Twine 2's default story format (Harlowe) can be re-packged in to a spiffy native application using Phone Gap. I was able to start a game, and play it through to completion. What's more, my Mobile CSS (after a few quick tweaks) looked great!
 
-I haven't had the chance to play with things much beyond this, but I'm looking forward to exploring the capabilities of Apache Cordova! 
+I haven't had the chance to play with things much beyond this, but I'm looking forward to exploring the capabilities of Apache Cordova! I guess I'll be registering for an Apple Developer Account and an Android Developer account in the near future, which are expenses I'm not looking forawrd to, but beyond that this is pretty exciting. 
 
