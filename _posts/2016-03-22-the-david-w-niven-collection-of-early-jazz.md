@@ -10,7 +10,7 @@ title: "The David W. Niven Collection of Early Jazz "
 ---
 
 
-[Here is a collection of 1,000 hours (originally spread across 650 cassette tapes) of "Early Jazz Legends"](https://archive.org/details/davidwnivenjazz&tab=about), serving as something of an Early Jazz education. The collection was originally currated by David W. Niven, an avid Jazz collector. He culled the best 1,000 hours of material, along with historical commentary, from more than 10,000 hours of source material. 
+[Here is a collection of 1,000 hours (originally spread across 650 cassette tapes) of "Early Jazz Legends"](https://archive.org/details/davidwnivenjazz&tab=about), serving as something of an Early Jazz education. The collection was originally curated by David W. Niven, an avid Jazz collector. He culled the best 1,000 hours of material, along with historical commentary, from more than 10,000 hours of source material. 
 
 The whole collection was packaged in to 650 audio cassettes, over a period of several years. It has since been digitized and made available by the fine folks at the Internet Archive. 
 
@@ -20,7 +20,7 @@ Niven discusses his early discovery of Jazz:
 
 > My hip cousin then advised me to get some recordings by another cornetist, Bix Beiderbecke, who started recording for OK the same year (1925). I dug, again, into my newspaper route money (35 cents) and bought the October 5, 1927, recording of “At the Jazz Band Ball,” backed by “Jazz Me Blues” by “Bix and his Gang”: Bix on cornet; Bill Rank, trombone; Don Murray, clarinet; Adrian Rollini, bass sax; Frank Signorelli, piano; and Chauncey Morehouse, drums. Over the next few years, I acquired every record Bix made prior to his early death in 1931.
 
-And his reasons for currating this collection: 
+And his reasons for curating this collection: 
 
 > The main reason for doing this rather major project was to put my collection into some kind of compendium form that would attract my children to the music that had been of such significance in my life. My collection amounted to over 10,000 hours of tapes. No two people will agree with my selection of Legends. I decided to choose from the years prior to the BeBop period, i.e., before Gillespie, Bird, Monk, Miles.
 
