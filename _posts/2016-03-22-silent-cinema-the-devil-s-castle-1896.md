@@ -17,4 +17,4 @@ Today, for Silent Cinema, we feature an 1896 short film by Georges Méliès feat
 This copy was lightly cleaned and restored. If anyone knows of a better print, please let me know!
 
 ![639px-George_Melies.jpg]({{site.baseurl}}/images/639px-George_Melies.jpg)
-(The director, circa 1890) 
+(The director, circa 1890)
