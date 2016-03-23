@@ -5,7 +5,7 @@ category: post
 "splash-wide": ""
 tags: 
   - "null"
-published: false
+published: true
 title: "Silent Cinema: The Devil's Castle (1896) "
 ---
 
