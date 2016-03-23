@@ -28,20 +28,35 @@ My Own Kind of Freedom is a novel set in the Firefly 'verse. It was written by S
 
 It is very true to the original characters, and is a thrill to read. 
 
-### A Study in Emerald
+### [A Study in Emerald](http://www.neilgaiman.com/mediafiles/exclusive/shortstories/emerald.pdf)
 
-### Star Trek Continues
+A Study in Emerald is a short Sherlock Holmes x Cthulu crossover written by Niel Gaiman. It supposes a world in which the British Royal Family are elder gods of unspeakable horror which, honestly, would make a lot of sense. 
 
-### Fuzzy Nation
+### [Star Trek Continues](http://www.startrekcontinues.com/episodes.html)
 
-### Planetary
+Exactly what it says on the tin. This youtube series presents a continuation of the original 5 year mission, with a stellar cast, accurate sets, and above par acting, including a number of cameos. 
 
-### Elementary
+There are six episodes out so far, and I recommend watching them all. 
 
-### Pride and Predjudice and Zombies
+### [Planetary](https://en.wikipedia.org/wiki/Planetary_(comics))
 
-### Dirk Gently's Holistic Detective Agency 
+Planetary is a 27 issue series of Comic Books by Warren Ellis. The series follows a group of "Archeologists of the Impossible", as they trace the roots of the Super Hero Genre. Large portions of the series are essentially FanFic of Doc Savage, The Shadow, and other 1930s era pre-super hero pulps. 
 
-Started life as an unreleased episode of Doctor Who. 
+### [Elementary](https://en.wikipedia.org/wiki/Elementary_(TV_series))
 
-At some point in the future, I'd like to explore more traditional works of Fan Fiction that, while they exist in a far more grey legal zone, deserve the same legitimacy as the above works. 
+This modern CBS TV series is essentially just a Modern!Holmes, Female!Watson Alternate Universe Fan Fiction series with a big budget and good actors. This does not detract from its quality. 
+
+### [Pride and Predjudice and Zombies](https://en.wikipedia.org/wiki/Pride_and_Prejudice_and_Zombies)
+A Zombie!Pride and Predjudice AU. It's a retelling of the events of the original novel, through the lens of a Zombie apocolypse. It sounds amazing, and it's better than that. 
+
+### [Dirk Gently's Holistic Detective Agency](https://en.wikipedia.org/wiki/Dirk_Gently%27s_Holistic_Detective_Agency) 
+
+This novel from Douglas Adams is one of my all time favorites. It started life as an episode of Doctor Who that Adams wrote. The episode entered production, but was never finished. 
+
+Several years later, Mr. Adams took the skeleton of that Doctor Who episode, and grafted a silly detective on top. Bang-Presto: Dirk Gently's Holistic Detective Agency. 
+
+------
+
+So there you have it. There are nine very different works that represent a small facet of the larger spectrum of Fan Fiction. Far from being derided, fanfic should be celibrated, and these works demonstrate that the field is far more diverse than many would give it credit for. 
+
+At some point in the future, I'd like to explore more traditional works of Fan Fiction that, while they exist in a far more grey legal zone, deserve the same legitimacy as the above works. If you have any recomendations, [please pass them my way.](http://twitter.com/ajroach42) 
