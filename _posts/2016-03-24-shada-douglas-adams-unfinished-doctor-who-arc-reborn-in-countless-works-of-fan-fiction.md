@@ -5,20 +5,19 @@ category: post
 "splash-wide": ""
 tags: 
   - "null"
-published: false
-title: "Shada - Douglas Adams' Unfinished Doctor Who Arc - reborn in countless works of fan fiction"
+published: true
+title: "Douglas Adams' Lost Doctor Who Episode (and resulting Fan Fiction) "
 ---
 
+For the 1979-80 season, Douglas Adams was the script editor for Doctor Who. In this role, he wrote, The Pirate Planet, and Shada, and re-wrote City of Death, as well as contributing bits to most other episodes released during this time, and that he was generally in charge of making sure things went smoothly. Predictably, things did not go smoothly at all. 
 
-For the 1979-80 season, Douglas Adams was the script editor for Doctor Who. In this role, he wrote, The Pirate Planet, and Shada, and re-wrote City of Death, as well as contributing bits to most other episodes released durring this time, and that he was generally in charge of making sure things went smoothly. Predictably, things did not go smoothly at all. 
-
-1980 was a tumoltious time for the BBC, and Adams' Who contributed to that a fair amount. One of the most infamous stories to come out of this era regards the unfinished episode Shada (which went on to [become the basis for Dirk Gently's Holistic Detective Agency](http://ajroach42.github.io/the-outer-edge-of-fanfic/).) There were a lot of problems surroudning the production of this episode, including the fact that the script was litterally being re-written as it was shot, due to Adams' stubborness. The production was interupted by a workers strike. The plot was full of holes. The whole thing was a mess and, at any rate, the episode was "never finished" 
+1980 was a tumultuous time for the BBC, and Adams' Who contributed to that a fair amount. One of the most infamous stories to come out of this era regards the unfinished episode Shada (which went on to [become the basis for Dirk Gently's Holistic Detective Agency](http://ajroach42.github.io/the-outer-edge-of-fanfic/).) There were a lot of problems surroudning the production of this episode, including the fact that the script was litterally being re-written as it was shot, due to Adams' stubborness. The production was interrupted by a workers strike. The plot was full of holes. The whole thing was a mess and, at any rate, the episode was "never finished" 
 
 Adams, being lazy and unwilling to give up on an okay idea, recycled major plot points from this episode in to his novel "Dirk Gently's Holistic Detective Agency." Adams' reasoning appears to have followed this logic: 1) The episode was never finished. 2) They will be unable to finish the episode. 3)The episode can't ever be aired. 4) The episode will never be seen by anyone, so it's okay for me to recycle it.
 
 Except that it's been finished at least half a dozen times. It might be the easiest Doctor Who episode to access on the internet. Don't believe me? 
 
-Well, theres: 
+Well, there's: 
 
 - [Dirk Gently's Holistic Detective Agency](http://users.telenet.be/sterf/texts/fiction/adams/DirkGentlysHolisticDetectiveAgency.pdf) (removed all Doctor Who elements, otherwise as close to an Adams novelization of the original as we'll get) 
 - The BBC's VHS/DVD release (featuring all the footage that was shot, plus some newly recorded narration.) (official)
