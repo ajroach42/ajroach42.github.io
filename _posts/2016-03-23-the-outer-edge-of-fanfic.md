@@ -10,7 +10,7 @@ title: The Outer Edge Of FanFic
 ---
 
 
-Fan Fiction gets a bad rap, which the folks who give it a bad rap justify by pointing to countless poorly written, often highly sexual examples written by young people. On the other hand, there are works of FanFiction that rival or eclipse their cannon, and deserve greater respect than the monkier of FanFic currently affords them. Remixing is the future, embrace it. 
+Fan Fiction gets a bad rap, which the folks who give it a bad rap justify by pointing to [countless poorly written](https://en.wikipedia.org/wiki/Sturgeon%27s_law), often highly sexual examples. On the other hand, there are works of FanFiction that rival or eclipse their cannon, and deserve greater respect than the monkier of FanFic currently affords them. Remixing is the future, embrace it. 
 
 -------
 
