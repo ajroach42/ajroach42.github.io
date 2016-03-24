@@ -9,7 +9,7 @@ published: true
 title: "Douglas Adams' Lost Doctor Who Episode (and resulting Fan Fiction) "
 ---
 
-For the 1979-80 season, Douglas Adams was the script editor for Doctor Who. In this role, he wrote, The Pirate Planet, and Shada, and re-wrote City of Death and contributed bits to most other episodes released during this time. He was generally in charge of making sure things went smoothly. Predictably, things did not go smoothly at all. 
+For the 1979-80 season, Douglas Adams was the script editor for Doctor Who. In this role, he wrote: The Pirate Planet, re-wrote City of Death and contributed bits to most other episodes. He was generally in charge of making sure things went smoothly. Predictably, things did not go smoothly at all, and his last episode was never finished.
 
 1980 was a tumultuous time for the BBC, and Adams' Who contributed to that a fair amount. One of the most infamous stories to come out of this era regards the unfinished episode Shada (which went on to [become the basis for Dirk Gently's Holistic Detective Agency](http://ajroach42.github.io/the-outer-edge-of-fanfic/).) There were a lot of problems surroudning the production of this episode, including the fact that the script was litterally being re-written as it was shot, due to Adams' stubborness. The production was interrupted by a workers strike. The plot was full of holes. The whole thing was a mess and, at any rate, the episode was "never finished" 
 
