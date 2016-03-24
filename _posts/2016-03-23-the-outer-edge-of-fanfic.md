@@ -2,13 +2,17 @@
 layout: post
 category: post
 "splash-tall": ""
-"splash-wide": ""
-tags: null
-published: false
+"splash-wide": "images/star-trek-continues.jpg"
+tags: 
+  - "null"
+published: true
 title: The Outer Edge Of FanFic
 ---
 
+
 Fan Fiction gets a bad rap, which the folks who give it a bad rap justify by pointing to countless poorly written, often highly sexual examples written by young people. On the other hand, there are works of FanFiction that rival or eclipse their cannon, and deserve greater respect than the monkier of FanFic currently affords them. Remixing is the future, embrace it. 
+
+-------
 
 I'd like to shake things up, and highlight some examples of Fan Fiction that have already ascended beyond the current confines of the conotations of the form, to stand as worthwhile works on their own. Check it out: 
 
@@ -59,4 +63,7 @@ Several years later, Mr. Adams took the skeleton of that Doctor Who episode, and
 
 So there you have it. There are nine very different works that represent a small facet of the larger spectrum of Fan Fiction. Far from being derided, fanfic should be celibrated, and these works demonstrate that the field is far more diverse than many would give it credit for. 
 
-At some point in the future, I'd like to explore more traditional works of Fan Fiction that, while they exist in a far more grey legal zone, deserve the same legitimacy as the above works. If you have any recomendations, [please pass them my way.](http://twitter.com/ajroach42) 
+At some point in the future, I'd like to explore more traditional works of Fan Fiction that, while they exist in a far more grey legal zone, deserve the same legitimacy as the above works. If you have any recomendations, [please pass them my way.](http://twitter.com/ajroach42)
+
+![star-trek-continues.jpg]({{site.baseurl}}/images/star-trek-continues.jpg)
+
