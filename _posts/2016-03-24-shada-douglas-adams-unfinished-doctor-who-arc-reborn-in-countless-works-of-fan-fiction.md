@@ -1,0 +1,35 @@
+---
+layout: post
+category: post
+"splash-tall": "/images/shada-2013-cd.jpg"
+"splash-wide": ""
+tags: 
+  - "null"
+published: false
+title: "Shada - Douglas Adams' Unfinished Doctor Who Arc - reborn in countless works of fan fiction"
+---
+
+
+For the 1979-80 season, Douglas Adams was the script editor for Doctor Who. In this role, he wrote, The Pirate Planet, and Shada, and re-wrote City of Death, as well as contributing bits to most other episodes released durring this time, and that he was generally in charge of making sure things went smoothly. Predictably, things did not go smoothly at all. 
+
+1980 was a tumoltious time for the BBC, and Adams' Who contributed to that a fair amount. One of the most infamous stories to come out of this era regards the unfinished episode Shada (which went on to [become the basis for Dirk Gently's Holistic Detective Agency](http://ajroach42.github.io/the-outer-edge-of-fanfic/).) There were a lot of problems surroudning the production of this episode, including the fact that the script was litterally being re-written as it was shot, due to Adams' stubborness. The production was interupted by a workers strike. The plot was full of holes. The whole thing was a mess and, at any rate, the episode was "never finished" 
+
+Adams, being lazy and unwilling to give up on an okay idea, recycled major plot points from this episode in to his novel "Dirk Gently's Holistic Detective Agency." Adams' reasoning appears to have followed this logic: 1) The episode was never finished. 2) They will be unable to finish the episode. 3)The episode can't ever be aired. 4) The episode will never be seen by anyone, so it's okay for me to recycle it.
+
+Except that it's been finished at least half a dozen times. It might be the easiest Doctor Who episode to access on the internet. Don't believe me? 
+
+Well, theres: 
+
+- [Dirk Gently's Holistic Detective Agency](http://users.telenet.be/sterf/texts/fiction/adams/DirkGentlysHolisticDetectiveAgency.pdf) (removed all Doctor Who elements, otherwise as close to an Adams novelization of the original as we'll get) 
+- The BBC's VHS/DVD release (featuring all the footage that was shot, plus some newly recorded narration.) (official)
+- [The Animated BBC webcast](http://www.bbc.co.uk/doctorwho/classic/webcasts/shada/) (official)  
+- [The Big Finish Audio Play](https://www.bigfinish.com/releases/v/shada-451) (an expanded, non-animated version of the above) 
+- [The Garath Roberts Novelization](http://www.amazon.com/Shada-Doctor-Who-Adventures-Douglas/dp/0425261166) (official) 
+- The Ian Levine Live Action/Animation Hybrid Edition (unofficial) - This edition is available intermitently from [torrent sites](https://thepiratebay.se/torrent/9037596/Doctor_Who_-_Shada_Ian_Levine_Special_Edition_DVD9) (and that's pretty much it, unfortunately.) 
+- [This Fan Edit combining](https://whoflix.wordpress.com/2013/12/06/shada-tom-baker/) all the official footage with some new effects shots and audio from the Big Finish Audio Play (unofficial) 
+- [A fan novelization](http://doctorwho.org.nz/archive/shada/prologue.html) (unofficial) 
+
+![shada-2013-cd.jpg]({{site.baseurl}}/images/shada-2013-cd.jpg)
+
+
+And that's just scratching the surface. I didn't mention all of the Dirk Gently adaptations (like the TV show, the [new TV show](http://www.radiotimes.com/news/2015-08-01/dirk-gently-is-getting-another-tv-show-and-moving-to-america), or the Comic Books), or the many less notable fan edits featuring combinations of the above. Shada has found its way in to all manner of *Doctor Who* related media. Not a bad afterlife for an unfinished serial, eh?
