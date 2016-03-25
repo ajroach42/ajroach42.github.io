@@ -36,8 +36,7 @@ Are you the same way?
 
 I've found two things that have empowered me to move beyond this mindset, and to create things worth seeing. 
 
-** Prioritize and showcase finished projects
-
+**2. Prioritize and showcase finished projects**
 It sounds simple, and almost silly, but it made a huge difference in the way I felt about the things I have done. In practice, it looks like this: 
 
 - I keep a list of running projects in [Trello](https://trello.com/). 
@@ -55,8 +54,7 @@ I'm still making progress on the "Showcase" project. It's a large part of why th
 
 There are some flaws with this method of project management, of course. Not the least of which is that it doesn't take in to account project deadlines or project significance. Turns out, I'm really bad at keeping track of those things, so when the time comes to manage a project of particular importance, I have to turn to trick #2. 
 
-** Teams. 
-
+**1. Teams.**
 It's amazing to me how much of a difference having a small team can bring to a project. I like to work in pairs or tricycles, occasionally reaching out to a larger team for a more complex project. Most of the time, when I bring people in on a project, it is in an advisory role. I want a sounding board, and extra set of eyes, and someone who is a little more removed from my massive list of projects that can help me prioritize the important bits, and keep track of the oncoming deadlines. 
 
 If that sounds like cheating, it is. I'm no good at keeping track of what things I am working on are the most important. I'm no good at keeping track of when the things I am working on need to be done. I am good at adapting to changing situations, and adding a partner or small team to a project means that I have an outside catalyst to help me make sure that the most important parts of the projects are receiving attention, and that I'm not getting too wrapped up in my systems to actually finish the things that need to be finished. 
