@@ -5,7 +5,7 @@ category: post
 "splash-wide": ""
 tags: null
 published: false
-title: "\"You can't do it all\" - 1 Weird Trick To Get Things Done"
+title: "\"You can't do it all\" - 2 ways to get things done. "
 ---
 
 My whole life, I've been called scatterbrained. I'm constantly accused of leaving too many things unfinished, of doing too many things in half measures. I've been told my whole life that I need to focus on one thing, specialize, and work faster. I have thoughts on this. Mostly, these thoughts are some varation on: "That's dumb" and "Why the hell would I change for you?" 
