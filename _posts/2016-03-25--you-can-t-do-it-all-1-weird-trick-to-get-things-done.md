@@ -3,10 +3,12 @@ layout: post
 category: post
 "splash-tall": ""
 "splash-wide": ""
-tags: null
+tags: 
+  - "null"
 published: false
 title: "\"You can't do it all\" - 2 ways to get things done. "
 ---
+
 
 My whole life, I've been called scatterbrained. I'm constantly accused of leaving too many things unfinished, of doing too many things in half measures. I've been told my whole life that I need to focus on one thing, specialize, and work faster. I have thoughts on this. Mostly, these thoughts are some varation on: "That's dumb" and "Why the hell would I change for you?" 
 
@@ -44,6 +46,8 @@ As time wears on, this means that the number of projects that are close to being
 
 Sometimes, I'll still feel like a failure. Sometimes, I'll still feel like I can't keep up with anything, or can't keep my head on straight. In those times, I can pull out my "done" list, and look through the things that I have acomplished. Sometimes, along the way, I think of ways to improve them (and they end up back on the list.) This won't beat a real bout of depression, but it does wonders for occasional self doubt. 
 
+I'm still making progress on the "Showcase" project. It's a large part of why this blog exists, actually. So far, I have used it mostly as a space for work in progress projects, and thoughts related to works in progress, but showcasing older projects keeps moving higher up the list. 
+
 There are some flaws with this method of project management, of course. Not the least of which is that it doesn't take in to account project deadlines or project significance. Turns out, I'm really bad at keeping track of those things, so when the time comes to manage a project of particular importance, I have to turn to trick #2. 
 
 ** 2. Teams. 
@@ -52,4 +56,8 @@ It's amazing to me how much of a difference having a small team can bring to a p
 
 If that sounds like cheating, it is. I'm no good at keeping track of what things I am working on are the most important. I'm no good at keeping track of when the things I am working on need to be done. I am good at adapting to changing situations, and adding a partner or small team to a project means that I have an outside catalyst to help me make sure that the most important parts of the projects are recieving attention, and that I'm not getting too wrapped up in my systems to actually finish the things that need to be finished. 
 
-Granted, this all hinges on finding the right team, which is an exercise left for the reader. 
+Granted, this all hinges on finding the right team, which is an exercise left for the reader.
+
+This is by no means the only, or even the best, project management method that I could use. Hell, it's probably actually worse than most others. But, and this is the important part, it works pretty well for me, and doesn't make me feel like shit. 
+
+If you're strugging to figure out how to manage the chaos in your brain, give it a shot. 
