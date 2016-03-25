@@ -1,13 +1,14 @@
 ---
 layout: post
 category: post
-"splash-tall": George_Washington_unfinished.JPG
+"splash-tall": /images/George_Washington_unfinished.JPG
 "splash-wide": ""
 tags: 
   - "null"
 published: true
 title: "\"You can't do it all\" - Or can you? "
 ---
+
 
 
 My whole life, I've been called scatterbrained. I'm constantly accused of leaving too many things unfinished, of doing too many things in half measures. I've been told my whole life that I need to focus on one thing, specialize, and work faster. I have thoughts on this. Mostly, these thoughts are some variation on: "That's dumb" and "Why the hell would I change for you?" 
@@ -63,4 +64,4 @@ Granted, this all hinges on finding the right team, which is an exercise left fo
 
 This is by no means the only, or even the best, project management method that I could use. Hell, it's probably actually worse than most others. But, and this is the important part, it works pretty well for me, and doesn't make me feel like shit. 
 
-If you're struggling to figure out how to manage the chaos in your brain, give it a shot. No one will call you organized. Hell, no one will notice that you've improved your ability to finish projects. You'll know, though, and that's what matters. 
+If you're struggling to figure out how to manage the chaos in your brain, give it a shot. No one will call you organized. Hell, no one will notice that you've improved your ability to finish projects. You'll know, though, and that's what matters.
