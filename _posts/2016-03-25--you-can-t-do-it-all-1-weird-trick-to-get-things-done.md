@@ -27,6 +27,7 @@ The people who give me this advice have failed to realize that their experience 
 Over the last three years, I've gone from feeling scatterbrained and unable to keep up, to feeling a strong sense of accomplishment, with plenty to show for myself. All it took was a slight adjustment in how I approach things. 
 
 ## 1 Weird Trick 
+
 ### To stop feeling like a failure. 
 
 I crave, and thrive, on novelty. I'm looking for new projects, new experiences, new knowledge, and new friends all the time. I love working through a state of change, and working in an environment of the unknown. For a long time, I prioritized novelty over pretty much anything else (the fact that this coincided with an increase in my use of social media must just be coincidental.) When I got bored with a project, I moved on. I learned the fun part, and left the rest of it unfinished. 
@@ -35,7 +36,7 @@ Are you the same way?
 
 I've found two things that have empowered me to move beyond this mindset, and to create things worth seeing. 
 
-** 1. Prioritize and showcase finished projects
+** Prioritize and showcase finished projects
 
 It sounds simple, and almost silly, but it made a huge difference in the way I felt about the things I have done. In practice, it looks like this: 
 
@@ -54,7 +55,7 @@ I'm still making progress on the "Showcase" project. It's a large part of why th
 
 There are some flaws with this method of project management, of course. Not the least of which is that it doesn't take in to account project deadlines or project significance. Turns out, I'm really bad at keeping track of those things, so when the time comes to manage a project of particular importance, I have to turn to trick #2. 
 
-** 2. Teams. 
+** Teams. 
 
 It's amazing to me how much of a difference having a small team can bring to a project. I like to work in pairs or tricycles, occasionally reaching out to a larger team for a more complex project. Most of the time, when I bring people in on a project, it is in an advisory role. I want a sounding board, and extra set of eyes, and someone who is a little more removed from my massive list of projects that can help me prioritize the important bits, and keep track of the oncoming deadlines. 
 
