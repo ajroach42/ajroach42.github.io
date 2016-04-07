@@ -10,9 +10,9 @@ title: Hamburger Helper and the Future of Branding and Marketing
 ---
 
 
-[Hamburger Helper Mixtape](https://soundcloud.com/hamburgerhelper/sets/watch-the-stove)
-
 Hamburger Helper released a mixtape called _Watch the Stove_. It's 5 surprisingly good tracks from some up and coming artists. The songs run the gamut from radio friendly to experimental and introspective. The only real common thread between them is that, lyrically, they're all about Hamburger Helper. Now, if this sounds like nonsense to you, you wouldn't be alone, but I recommend you give it a listen. 
+
+[Hamburger Helper Mixtape](https://soundcloud.com/hamburgerhelper/sets/watch-the-stove)
 
 This mixtape raises some interesting questions about Branding and Marketing, and the importance of Authenticity in the age of social media. The [@Helper twitter](https://twitter.com/helper) account has been talking about releasing his mixtape for 5 years. Most wrote it off as a clever, fairly genuine attempt to become relevant with the young/college demographic that makes up about half of their sales. A few of the commentators who were paying attention noted that @Helper was surprisingly authentic for a corporate brand, and that the account seemed to be run by 1) people who were already Twitter Users, 2) members of their target demographic. Essentially, the @Helper account was run by the kind of young guys @Helper wanted to reach. 
 
