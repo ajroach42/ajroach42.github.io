@@ -3,10 +3,12 @@ layout: post
 category: post
 "splash-tall": ""
 "splash-wide": "/images/watch-the-stove-mixtape-cover-3-HR.jpg"
-tags: null
-published: false
+tags: 
+  - "null"
+published: true
 title: Hamburger Helper and the Future of Branding and Marketing
 ---
+
 
 [Hamburger Helper Mixtape](https://soundcloud.com/hamburgerhelper/sets/watch-the-stove)
 
@@ -18,4 +20,4 @@ This mixtape raises some interesting questions about Branding and Marketing, and
 
 Lots of other brands have tried (with varrying degrees of success) to use a similar formula to engage with their audiences. Everyone has seen a funny tweet from Denny's, for example. Few have managed to do it with any degree of authenticity (everyone has groaned at a tweet from Denny's, for example.) The @Helper mixtape is significant, not only because it's actually pretty good, but also because it could indicate the beginnings of a fundamental shift in the way brands interact with consumers, which would be pretty welcome 
 
-Essentially, _Watch The Stove_ is the latest in a wave of marketing practices that feel less like cheap stunts, and more like people that care about a thing demonstrating the way that they care about the thing. Maybe other brands will take notice, and stop being afraid of their customers. If this kind of authenticity is the marketing of the future, I'm not sure that's a bad thing. 
+Essentially, _Watch The Stove_ is the latest in a wave of marketing practices that feel less like cheap stunts, and more like people that care about a thing demonstrating the way that they care about the thing. Maybe other brands will take notice, and stop being afraid of their customers. If this kind of authenticity is the marketing of the future, I'm not sure that's a bad thing.
