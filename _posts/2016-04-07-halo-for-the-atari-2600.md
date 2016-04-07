@@ -1,12 +1,14 @@
 ---
 layout: post
 category: post
-"splash-tall": ""
-"splash-wide": /images/5917723_orig.jpg
-tags: null
-published: false
+"splash-tall": /images/5917723_orig.jpg
+"splash-wide": ""
+tags: 
+  - "null"
+published: true
 title: Halo for the Atari 2600
 ---
+
 
 <iframe src="https://archive.org/embed/Halo_Atari_2600" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 Press 2 to Rest/Start the game. Move with Arrow keys. Once you've found a gun, shoot with left-ctrl. 
