@@ -5,7 +5,7 @@ category: post
 "splash-wide": "/images/watch-the-stove-mixtape-cover-3-HR.jpg"
 tags: null
 published: false
-title: ""
+title: Hamburger Helper and the Future of Branding and Marketing
 ---
 
 [Hamburger Helper Mixtape](https://soundcloud.com/hamburgerhelper/sets/watch-the-stove)
