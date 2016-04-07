@@ -1,13 +1,14 @@
 ---
 layout: post
 category: post
-"splash-tall": /images/5917723_orig.jpg
-"splash-wide": ""
+"splash-tall": ""
+"splash-wide": /images/5917723_orig.jpg
 tags: 
   - "null"
 published: true
 title: Halo for the Atari 2600
 ---
+
 
 
 <iframe src="https://archive.org/embed/Halo_Atari_2600" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
