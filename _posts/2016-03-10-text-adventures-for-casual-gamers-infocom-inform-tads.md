@@ -2,12 +2,13 @@
 layout: post
 category: post
 "splash-tall": ""
-"splash-wide": images/zork2.jpg
+"splash-wide": /images/zork2.jpg
 tags: 
   - "null"
 published: true
 title: Zorking Around
 ---
+
 
 	 
      You are in an open field west of a big white house with a 
