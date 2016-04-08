@@ -1,8 +1,13 @@
 ---
-published: true
 layout: post
+category: post
+published: true
 title: Introductions
+"splash-tall": ""
+"splash-wide": ""
+tags: null
 ---
+
 
 
 I'm Andrew. I'm a web developer, a technology blogger, and a record store owner from Kennesaw, GA. I write about technology, culture, techno-culture, and the often unexpected results of the collision of new technology and old culture. 
