@@ -1,13 +1,14 @@
 ---
 layout: post
 category: post
-"splash-tall": images/Frank_Sinatra_Tape_1_1940.jpg
+"splash-tall": /images/Frank_Sinatra_Tape_1_1940.jpg
 "splash-wide": ""
 tags: 
   - "null"
 published: true
 title: "The David W. Niven Collection of Early Jazz "
 ---
+
 
 
 [Here is a collection of 1,000 hours (originally spread across 650 cassette tapes) of "Early Jazz Legends"](https://archive.org/details/davidwnivenjazz&tab=about), serving as something of an Early Jazz education. The collection was originally curated by David W. Niven, an avid Jazz collector. He culled the best 1,000 hours of material, along with historical commentary, from more than 10,000 hours of source material. 
@@ -39,9 +40,3 @@ My Favorites So Far:
 But, of course, there are still hundreds left for me to listen to. 
 
 ![Frank_Sinatra_Tape_1_1940.jpg]({{site.baseurl}}/images/Frank_Sinatra_Tape_1_1940.jpg)
-
-
-
-
-
-
