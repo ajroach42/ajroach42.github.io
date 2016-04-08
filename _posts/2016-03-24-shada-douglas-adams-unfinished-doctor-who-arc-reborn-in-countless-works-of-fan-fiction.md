@@ -9,6 +9,7 @@ published: true
 title: "Douglas Adams' Lost Doctor Who Episode (and resulting Fan Fiction) "
 ---
 
+
 For the 1979-80 season, Douglas Adams was the script editor for Doctor Who. In this role, he wrote: The Pirate Planet, re-wrote City of Death and contributed bits to most other episodes. He was generally in charge of making sure things went smoothly. Predictably, things did not go smoothly at all, and his last episode was never finished.
 
 1980 was a tumultuous time for the BBC, and Adams' Who contributed to that a fair amount. He was notoriously over-budget, and wrote elaborate (often unshootable) scenes. One of the most infamous stories to come out of this era regards the unfinished episode *Shada*. There were a lot of problems surroudning the production of this episode, including the fact that the script was litterally being re-written as it was shot, due to Adams' stubborness. The production was interrupted by a workers strike. The plot was full of holes. The whole thing was a mess and, at any rate, the episode was "never finished" 
@@ -20,10 +21,10 @@ Except that it's been finished at least half a dozen times. It might be the easi
 Well, there's: 
 
 - [Dirk Gently's Holistic Detective Agency](http://users.telenet.be/sterf/texts/fiction/adams/DirkGentlysHolisticDetectiveAgency.pdf) - This adaptation removed all Doctor Who elements. It is, otherwise, as close to an Adams novelization of the original as we'll get. (See this article for more works that are, or evolved from, fanfiction.)
-- The BBC's VHS/DVD release (featuring all the footage that was shot, plus some newly recorded narration.) (official)
+- [The BBC's VHS/DVD release](http://amzn.to/25PBxze) (featuring all the footage that was shot, plus some newly recorded narration.) (official)
 - [The Animated BBC webcast](http://www.bbc.co.uk/doctorwho/classic/webcasts/shada/) (official)  
-- [The Big Finish Audio Play](https://www.bigfinish.com/releases/v/shada-451) (an expanded, non-animated version of the above) 
-- [The Garath Roberts Novelization](http://www.amazon.com/Shada-Doctor-Who-Adventures-Douglas/dp/0425261166) (official) 
+- [The Big Finish Audio Play](http://amzn.to/1Nebia9) (an expanded, non-animated version of the above) 
+- [The Garath Roberts Novelization](http://amzn.to/23pmFW8) (official) 
 - The Ian Levine Live Action/Animation Hybrid Edition (unofficial) - This edition is available intermitently from [torrent sites](https://thepiratebay.se/torrent/9037596/Doctor_Who_-_Shada_Ian_Levine_Special_Edition_DVD9) (and that's pretty much it, unfortunately.) 
 - [This Fan Edit combining](https://whoflix.wordpress.com/2013/12/06/shada-tom-baker/) all the official footage with some new effects shots and audio from the Big Finish Audio Play (unofficial) 
 - [A fan novelization](http://doctorwho.org.nz/archive/shada/prologue.html) (unofficial) 
