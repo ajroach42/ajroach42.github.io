@@ -2,13 +2,14 @@
 layout: post
 category: blog
 published: true
-splash: images/BraveNewWorld_FirstEdition.jpg
+splash: /images/BraveNewWorld_FirstEdition.jpg
 tags: 
   - art
 title: A Brave New Podcast
-"splash-tall": images/BraveNewWorld_FirstEdition.jpg
+"splash-tall": /images/BraveNewWorld_FirstEdition.jpg
 "splash-wide": ""
 ---
+
 
 
 Aldous Huxley's Brave New World was adapted for radio, and broadcast as part of the CBS Radio Workshop on February 2nd, 1952. Huxley narrates the show himself. It's a great little radio drama, that I have been listening to on my (rather short) commute for the last two days. I’ve just finished it, and I wanted to share it with you all. Listen below: 
