@@ -1,13 +1,14 @@
 ---
 layout: post
 category: post
-"splash-tall": "images/Dr-Jekyll-and-Mr-Hyde-1920-film-images-e1b680f3-d731-41fd-ae60-469f16ab5df.jpg"
+"splash-tall": "/images/Dr-Jekyll-and-Mr-Hyde-1920-film-images-e1b680f3-d731-41fd-ae60-469f16ab5df.jpg"
 "splash-wide": ""
 tags: 
   - "null"
 published: true
 title: "Silent Cinema: Dr. Jekyll and Mr. Hyde (1920)"
 ---
+
 
 
 
