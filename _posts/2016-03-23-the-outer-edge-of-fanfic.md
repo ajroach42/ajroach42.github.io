@@ -2,12 +2,13 @@
 layout: post
 category: post
 "splash-tall": ""
-"splash-wide": "images/star-trek-continues.jpg"
+"splash-wide": "/images/star-trek-continues.jpg"
 tags: 
   - "null"
 published: true
 title: The Outer Edge Of FanFic
 ---
+
 
 
 Fan Fiction gets a bad rap, which the folks who give it a bad rap justify by pointing to [countless poorly written](https://en.wikipedia.org/wiki/Sturgeon%27s_law), often highly sexual examples. On the other hand, there are works of FanFiction that rival or eclipse their cannon, and deserve greater respect than the moniker of FanFic currently affords them. Remixing is the future, embrace it. 
@@ -64,4 +65,3 @@ So there you have it. There are nine very different works that represent a small
 At some point in the future, I'd like to explore more traditional works of Fan Fiction that, while they exist in a far more grey legal zone, deserve the same legitimacy as the above works. If you have any recomendations, [please pass them my way.](http://twitter.com/ajroach42)
 
 ![star-trek-continues.jpg]({{site.baseurl}}/images/star-trek-continues.jpg)
-
