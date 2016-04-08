@@ -2,12 +2,13 @@
 layout: post
 category: post
 "splash-tall": ""
-"splash-wide": "images/1-AeFmAZTEGrX_nTCpUdKJqQ.jpeg"
+"splash-wide": "/images/1-AeFmAZTEGrX_nTCpUdKJqQ.jpeg"
 tags: 
   - "null"
 published: true
 title: Chat Interfaces are the new Command Line
 ---
+
 
 A lot of noise has been made of late re: chat interfaces and chat bots. People seem to think that they are new, revolutionary, and about to disrupt everything. No seriously, a lot of noise. Just look:
 
@@ -60,4 +61,3 @@ But even with those hurdles to adoption, I think it's worthwhile for many web de
 
 [1]: https://cdn-images-1.medium.com/max/600/1*RUD6vylzeUaN3Kz0EV1e0g.jpeg
 [2]: https://cdn-images-1.medium.com/max/2000/1*AeFmAZTEGrX_nTCpUdKJqQ.jpeg
-
