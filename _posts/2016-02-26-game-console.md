@@ -1,9 +1,14 @@
 ---
-published: true
 layout: post
+category: post
+published: true
 title: Projects
 permalink: /gameconsole/
+"splash-tall": ""
+"splash-wide": ""
+tags: null
 ---
+
 
 For the last few months I've been working on a Game Console based around the Raspberry Pi. So far, the results have been pretty great. 
 
