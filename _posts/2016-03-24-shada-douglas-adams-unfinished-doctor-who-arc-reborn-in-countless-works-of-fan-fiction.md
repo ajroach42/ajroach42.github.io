@@ -20,7 +20,7 @@ Except that it's been finished at least half a dozen times. It might be the easi
 
 Well, there's: 
 
-- [Dirk Gently's Holistic Detective Agency](http://users.telenet.be/sterf/texts/fiction/adams/DirkGentlysHolisticDetectiveAgency.pdf) - This adaptation removed all Doctor Who elements. It is, otherwise, as close to an Adams novelization of the original as we'll get. (See this article for more works that are, or evolved from, fanfiction.)
+- [Dirk Gently's Holistic Detective Agency](http://users.telenet.be/sterf/texts/fiction/adams/DirkGentlysHolisticDetectiveAgency.pdf) - This adaptation removed all Doctor Who elements. It is, otherwise, as close to an Adams novelization of the original as we'll get. 
 - [The BBC's VHS/DVD release](http://amzn.to/25PBxze) (featuring all the footage that was shot, plus some newly recorded narration.) (official)
 - [The Animated BBC webcast](http://www.bbc.co.uk/doctorwho/classic/webcasts/shada/) (official)  
 - [The Big Finish Audio Play](http://amzn.to/1Nebia9) (an expanded, non-animated version of the above) 
