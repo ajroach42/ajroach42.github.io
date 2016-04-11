@@ -2,12 +2,13 @@
 layout: post
 category: post
 "splash-tall": ""
-"splash-wide": images/1910_Waverley_Coupe.png
+"splash-wide": /images/1910_Waverley_Coupe.png
 tags: 
   - "null"
 published: true
 title: "100+ Year Old Electric Cars (or execution is everything) "
 ---
+
 
 The first electric car was developed in 1830. The first internal combustion car came in the late 1880s, nearly 60 years later. In 1905, there were more than 450,000 cars in the US. The majority of these cars were Electric or Steam powered, with a small number of Gasoline powered cars. Electric cars were prized for their reliability, comfort, and efficiency. The electric car was, essentially, the best vehicle on the market for most uses up through 1920. 
 
@@ -30,4 +31,4 @@ It was, however, the most well marketed. It was the cheapest to purchase ($325 i
 
 A great product won't make a company successful. The right business model won't make a company successful. A cheap product won't make a company successful. It takes most of these things, and a dozen others, plus a fair amount of luck. Any business is a risk, and sometimes the "right" or the "best" path will take 100 years to catch on. 
 
-Chin up, startups. Ideas are worthless, but the good ones catch on eventually. 
+Chin up, startups. Ideas are worthless, but the good ones catch on eventually.
