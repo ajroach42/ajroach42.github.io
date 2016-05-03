@@ -4,7 +4,7 @@ category: post
 "splash-tall": ""
 "splash-wide": ""
 tags: ""
-published: false
+published: true
 title: Potential Novel/Short Story Ideas
 ---
 I have been working on a couple of really interesting, but fairly incomplete projects for the past few weeks. Nothing is at a point where I can sing its praises publically. As a result, I haven't been writing much, beyond my own personal notes and journaling. I want to change that. Here are a number of ideas that I could turn in to novels or short stories. 
@@ -37,4 +37,4 @@ I have been working on a couple of really interesting, but fairly incomplete pro
 
 14. Space Patrol/Tom Corbet Space Cadet homage, by way of Battle Star Galactica 
 
-15. Urban fantasy. Magic is demonological in nature. 
+15. Urban fantasy. Magic is demonological in nature.
