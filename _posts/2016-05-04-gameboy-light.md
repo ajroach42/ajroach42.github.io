@@ -4,7 +4,7 @@ category: post
 "splash-tall": ""
 "splash-wide": images/MGLSVAfront.jpg
 tags: ""
-published: false
+published: true
 title: Gameboy Light
 ---
 Two months ago, I became obssessed with the Japanese exclusive Gameboy Lite. I set off on a quest to find one, but what I did instead is a little less conventional. If you're interested, you can get a[Gameboy light from Amazon for about $100.](http://amzn.to/1q0ysuY) The gameboy light is a neat little piece of hardware, released just before the launch of the gameboy color. It's about the size of a gameboy pocket (that is, about 4/5 the size of the gameboy color) and features an indiglow/backlit screen. It's probably the coolest gameboy ever officially released. 
@@ -37,4 +37,4 @@ There are sellers all over ([myself included](https://www.etsy.com/listing/29249
 Yes, these photos were taken in a Starbucks. Yes, that's because I did the disasembly, cleaning, soldering, and reasembly at a Starbucks. 
 
 
-The light is plenty bright, the contrast is good, and the shell and screen lens are brand new. I couldn't be happier with it. I have models like this available in [My Store](https://www.etsy.com/listing/292498775/gameboy-pocket-with-backlight?ref=pr_shop). 
+The light is plenty bright, the contrast is good, and the shell and screen lens are brand new. I couldn't be happier with it. I have models like this available in [My Store](https://www.etsy.com/listing/292498775/gameboy-pocket-with-backlight?ref=pr_shop).
