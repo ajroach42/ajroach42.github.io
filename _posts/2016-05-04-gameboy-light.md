@@ -30,8 +30,6 @@ There are sellers all over ([myself included](https://www.etsy.com/listing/29249
 
 ![]({{site.baseurl}}/images/IMG_9151.JPG)
 
-![IMG_9152.JPG]({{site.baseurl}}/images/IMG_9152.JPG)
-
 ![IMG_9153.JPG]({{site.baseurl}}/images/IMG_9153.JPG)
 
 Yes, these photos were taken in a Starbucks. Yes, that's because I did the disasembly, cleaning, soldering, and reasembly at a Starbucks. 
