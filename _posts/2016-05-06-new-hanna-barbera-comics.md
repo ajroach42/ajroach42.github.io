@@ -23,4 +23,9 @@ Here are some other promotional images that have been released.
 
 Normally, I avoid reboots. But look at that! The image of Jonny and Hadji confronting Space Ghost is especially well crafted. 
 
+And, for good measure, here is a GIF of The Mighty Mightor: 
+
+![safe_image.gif]({{site.baseurl}}/images/safe_image.gif)
+
+
 Here's hoping they do something cool with it all.
