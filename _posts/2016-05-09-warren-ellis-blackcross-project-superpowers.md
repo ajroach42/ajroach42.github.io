@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: "Warren Ellis' Blackcross (Project Superpowers) "
 "splash-wide": "images/Blackcross01-Cov-E-Incen1-Hardman-d697d.jpg"
 ---
@@ -17,6 +17,4 @@ _The Good:_ I enjoyed the comic. It was exceptionally well illustrated, and the 
 
 _The Bad:_ The story was rushed, and suffered for it. Action happened in single panels that deserved pages, and in single pages that deserved whole issues. If this had been a movie, the pace would have felt right. As a comic, it felt condensed, as if the publisher decided to cut the number of issues part way through. 
 
-_Verdict:_ I can't help but recommend the book, in spite of it's flaws. The story was perfectly unsettling, and the concept is one that I hope to see explored more, and more often. That, coupled with the magnificent artwork more than makes up for the rushed storytelling. 
-
-
+_Verdict:_ I can't help but recommend the book, in spite of it's flaws. The story was perfectly unsettling, and the concept is one that I hope to see explored more, and more often. That, coupled with the magnificent artwork more than makes up for the rushed storytelling.
