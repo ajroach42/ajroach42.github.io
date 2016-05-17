@@ -14,4 +14,6 @@ As a writing exercise, that's really cool. As an experiment in the nature of fic
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1882316417/size=small/bgcol=ffffff/linkcol=0687f5/track=4006055139/transparent=true/" seamless><a href="http://ninepinpress.bandcamp.com/album/the-family-arcana">The Family Arcana by Jedediah Berry</a></iframe>
 
-Those things, by themselves, would be enough to merrit a nod. The Family Arcana takes it a step further by offering what ammounts to a podcast you listen to on shuffle. [The audio edition](https://ninepinpress.bandcamp.com/releases) features 52 readers, and the whimsical instructions: "Shuffle Tracks Before Listenening." It's an entirely new take on the idea of an audiobook.
+Those things, by themselves, would be enough to merrit a nod. The Family Arcana takes it a step further by offering what ammounts to a podcast you listen to on shuffle. [The audio edition](https://ninepinpress.bandcamp.com/releases) features 52 readers, and the whimsical instructions: "Shuffle Tracks Before Listenening." It's an entirely new take on the idea of an audiobook, and on the concept of a narrative in general. 
+
+Isn't that neat? 
