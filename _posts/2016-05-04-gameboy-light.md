@@ -1,9 +1,7 @@
 ---
 layout: post
 category: post
-"splash-tall": ""
-"splash-wide": images/MGLSVAfront.jpg
-tags: ""
+splash-wide: /images/MGLSVAfront.jpg
 published: true
 title: Gameboy Light
 ---
