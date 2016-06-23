@@ -2,8 +2,8 @@
 layout: post
 category: post
 published: true
-title: "A story you can shuffle: The Family Arcana"
-"splash-wide": images/a2176361460_10.jpg
+title: 'A story you can shuffle: The Family Arcana'
+splash-wide: /images/a2176361460_10.jpg
 ---
 I'm not sure where I first encountered [The Family Arcana](http://ninepinpress.com/the-family-arcana), but the idea is wonderful. It's a deck of cards, each of them has a vignette telling a portion of a story about a strange family, and their decrepit farmhouse. You shuffle the cards, and experience the story as it unfolds in a new, random order. 
 
@@ -16,4 +16,4 @@ As a writing exercise, that's really cool. As an experiment in the nature of fic
 
 Those things, by themselves, would be enough to merrit a nod. The Family Arcana takes it a step further by offering what ammounts to a podcast you listen to on shuffle. [The audio edition](https://ninepinpress.bandcamp.com/releases) features 52 readers, and the whimsical instructions: "Shuffle Tracks Before Listenening." It's an entirely new take on the idea of an audiobook, and on the concept of a narrative in general. 
 
-Isn't that neat? 
+Isn't that neat?
