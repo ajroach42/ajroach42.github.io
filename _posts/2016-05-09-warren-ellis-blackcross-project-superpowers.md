@@ -2,8 +2,8 @@
 layout: post
 category: post
 published: true
-title: "Warren Ellis' Blackcross (Project Superpowers) "
-"splash-wide": "images/Blackcross01-Cov-E-Incen1-Hardman-d697d.jpg"
+title: 'Warren Ellis'' Blackcross (Project Superpowers) '
+splash-wide: /images/Blackcross01-Cov-E-Incen1-Hardman-d697d.jpg
 ---
 There are a few consistent themes through my blog posts. I love the writing of Warren Ellis, I love things from the Public Domain, and I'm a consistent fan of creative remixes. I've just finished reading a graphic novel that managed to tick all of those boxes. [Blackcross by Warren Ellis](http://amzn.to/1T7iJoG) tells the tale of a kind of cosmic exorcist (the American Spirit) on the trail of the ghosts of several golden age comic book figures, most notably The Black Terror, who have posessed the inhabitants of a small town. 
 
