@@ -27,6 +27,7 @@ Players would also be able to trade with one another, and battle one another as 
 
 The players devices would likely feature some Tamagotchi or POX style functionality, with multiple ways to interact with the creatures while offline, and would easily work outside the context of a party game, as a more general game/toy. 
 
+![](http://www.tomopop.com/ul/14200-toys-of-yesterday-tamagotchi/158030_PlusOran-550x.jpg)
  
 I have a working prototype, that I will continue to develop as I have time. I'm considering putting together a kickstarter to fund the creation of a complete package. 
 
