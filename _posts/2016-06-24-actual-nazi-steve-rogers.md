@@ -32,7 +32,7 @@ See, Captain America is a modern American folk hero. He exists in the kind of cu
 
 ![][4]
 
-Imagine someone made Robin Hood steal from the poor to make a political point. Now imagine that someone had the legal authority to claim that was the One True Robin Hood.
+_Imagine someone made Robin Hood steal from the poor to make a political point. Now imagine that someone had the legal authority to claim that was the One True Robin Hood._
 
 Well, Marvel's copyright on the Captain America character turns them in to the modern equivalent of the Council of Nicea, and they've just decided that Steve Rogers is officially a Nazi. If this had been a non-canon mini-series (like the Delicious [Superman Red Son][5]), no one would bat an eye. If this had been a non-canonical installment, one of many competing depictions of Steve Rogers, I'd applaud it. But that's not the case. As is, everything Captain America has ever represented is tied up in the idea that he is also an agent of Hydra.
 
@@ -53,6 +53,7 @@ The original character was called The Shield. He wore a Red, White, and Blue jum
 I can't make this stuff up. Just look:
 
 ![][6]
+
 _The Shield January 1940._
 
 ![][7]
