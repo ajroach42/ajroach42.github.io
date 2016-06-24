@@ -62,6 +62,14 @@ _Captain America March 1941._
 
 Honestly, though, that's just the top of the Public Domain Patriotic Super Hero Iceberg. We also have:
 
+* [Captain Freedom][14]
+* [The Spirit of '76][15]
+* [The Super American][16]
+* [The Fighting Yank][17]
+* [The American Crusader][18]
+* [The American Eagle][19]
+* [And many, many more.][20]
+
 Even Captain America has an appearance that has fallen in to the Public Domain. This time, he was a gun wielding District Attorney/Vigilante named Grant Gardner, working to bring down crime at home, in a Republic film serial.
 
 ![][8]
@@ -89,3 +97,10 @@ We can create things, together, while righting the wrongs of corporate missteps.
 [8]: https://cdn-images-1.medium.com/max/800/1*EhtQhwyWEvsIy1OwoIolSQ.jpeg
 [9]: http://qz.com/580123/its-public-domain-day-and-once-again-americans-get-almost-nothing/
 [10]: https://medium.com/@ajroach42/the-outer-edge-of-fan-fiction-a4ac34359a8d#.jfu7hx4su
+[14]: https://en.wikipedia.org/wiki/Captain_Freedom
+[15]: https://en.wikipedia.org/wiki/Spirit_of_%2776_%28Harvey_Comics%29
+[16]: http://pdsh.wikia.com/wiki/Super-American
+[17]: http://pdsh.wikia.com/wiki/Fighting_Yank
+[18]: http://pdsh.wikia.com/wiki/American_Crusader
+[19]: http://pdsh.wikia.com/wiki/American_Eagle_%28Charlton%29
+[20]: http://pdsh.wikia.com/wiki/Category:Patriotic_Characters
