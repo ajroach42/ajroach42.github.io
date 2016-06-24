@@ -26,7 +26,7 @@ Let's sum up:
 
 There's a fun little twist in all of this, though. Captain America is a rip off of an earlier character that has since fallen in to the Public Domain. 
 
-The original character was called The Shield. He wore a Red White and Blue jump suit, carried an unbreakable shield, and even fought a Nazi with a Red Skull. I can't make this stuff up, just look: 
+The original character was called The Shield. He wore a Red White and Blue jump suit, carried an unbreakable shield. I can't make this stuff up, just look: 
 
 
 
@@ -39,4 +39,4 @@ Even Captain America has an apperance that has fallen in to the Public Domain. T
 
 So, while we can't do anything about Actual Nazi Steve Rogers, there's a lot we can do about the fact that many (most?) of America's modern folk heros are controlled by ageless corporate behemoths. 
 
-I'd love to see a comic where The Shield has to fight Grant Gardner, after he veres too far in to nationalism. 
+I'd love to see a comic where The Shield has to fight Grant Gardner, after he veres too far in to nationalism.
