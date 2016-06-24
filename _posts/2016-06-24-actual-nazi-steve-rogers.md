@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Actual Nazi Steve Rogers: How to Save the American Superhero'
 ---
 With this morning's news about BREXIT, and the ever forward march of racist nationalism, I decided it was time to talk about Captain America. Steve Rogers, the man most people know as Captain America, is a HYDRA Agent/Nazi. This is now part of the official marvel canon. As you can imagine, this has made a lot of people angry, and has widely been regarded as a bad move.
