@@ -48,5 +48,5 @@ I write about emerging tech, forgotten tech, our cultural commons, and the role 
 [8]: https://cdn-images-1.medium.com/max/800/0*E9uhdtIgb_4mcGNC.jpg
 [9]: http://ajroach42.github.io/A-Brave-New-Podcast/
 [10]: http://craphound.com/littlebrother/download/
-[11]: http://ajroach42.tinyletter.com/
+[11]: http://tinyletter.com/ajroach42
 [12]: http://craphound.com/homeland/download/
