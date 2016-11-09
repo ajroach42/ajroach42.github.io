@@ -1,11 +1,9 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Counter-Culture Book Club '
 splash-wide: images/050-056c026d-1c66-4d42-9fae-a8e96df290c5-1020x1209.jpg
-splash-tall: ''
-tags: ''
 ---
 America just elected Donald Trump as president, and that has the potential to be very bad for a lot of people. Trump is unpredictable. He's actively misogynistic, racist, and generally bigoted. He's dangerous. And now he can [know everything about you](http://boingboing.net/2016/11/09/a-madman-has-been-given-the-ke.html). 
 
@@ -28,4 +26,4 @@ I will host live chats and discussion forums, give demonstrations of practical c
 
 Today is a scary day, but all is not lost. 
 
-[Join me](http://ajroach42.tinyletter.com) in finding the way forward. 
+[Join me](http://ajroach42.tinyletter.com) in finding the way forward.
