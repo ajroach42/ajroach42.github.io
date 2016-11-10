@@ -17,7 +17,8 @@ _Bottom line: I’ve never been more convinced of the need for more good science
 
 ![mockup-96adf286.jpg]({{site.baseurl}}/images/mockup-96adf286.jpg)
 
-> Robby the Robot pillow available from me, at [Space Age Ideas](http://spaceageideas.com/product/robby-the-robot-forbidden-planet-pillow/)
+- Robby the Robot pillow available from me, at [Space Age Ideas](http://spaceageideas.com/product/robby-the-robot-forbidden-planet-pillow/)
+
 
 I've seen these sentiments echoed in many places. There is this idea that Fiction, and specifically Science Fiction, can challenge us to be better people. 
 
