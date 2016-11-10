@@ -16,7 +16,8 @@ _I don’t want to argue that reading science fiction makes us smarter or morall
 _Bottom line: I’ve never been more convinced of the need for more good science fiction and fantasy, and I’ve never been more fired up to find it and publish it, hopefully with the help of everyone in this room. Thank you._
 
 ![mockup-96adf286.jpg]({{site.baseurl}}/images/mockup-96adf286.jpg)
-_Robby the Robot pillow available from me, at [Space Age Ideas](http://spaceageideas.com/product/robby-the-robot-forbidden-planet-pillow/)_
+
+	Robby the Robot pillow available from me, at [Space Age Ideas](http://spaceageideas.com/product/robby-the-robot-forbidden-planet-pillow/)
 
 
 I've seen these sentiments echoed in many places. There is this idea that Fiction, and specifically Science Fiction, can challenge us to be better people. 
