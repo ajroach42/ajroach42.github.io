@@ -28,15 +28,9 @@ Today is a scary day, but all is not lost.
 
 [Join me][11] in finding the way forward.
 
-[Donald Trump][13][Cory Doctorow][14][Protest][15]
 
-* BlockedUnblockFollowFollowing
 
-![Go to the profile of Andrew Roach][5]
 
-### [Andrew Roach][16]
-
-I write about emerging tech, forgotten tech, our cultural commons, and the role that each will play in shaping the future.
 
 [1]: https://medium.com/
 [2]: https://medium.com/m/signin?redirect=https%3A%2F%2Fmedium.com%2F%40ajroach42%2Fa-book-club-for-a-new-america-aa1a76b847db
