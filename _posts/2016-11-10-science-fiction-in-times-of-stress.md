@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Science Fiction in Times of Stress
 splash-wide: images/mockup-96adf286.jpg
 ---
@@ -29,4 +29,4 @@ Sci-Fi in general, and Star Trek specifically, played a huge role in helping the
 
 Fiction teaches empathy. It prepairs us to handle new ideas, and new situations. It empowers us to reach new frontiers of thought, and to be radically accepting of our fellow humans. 
 
-I love the idea of Fiction as a tool against hate. Join us in exploring this idea in my recently formed (and completly free) subversive [book club](http://ajroach42.github.io/counter-culture-book-club/). 
+I love the idea of Fiction as a tool against hate. Join us in exploring this idea in my recently formed (and completly free) subversive [book club](http://ajroach42.github.io/counter-culture-book-club/).
