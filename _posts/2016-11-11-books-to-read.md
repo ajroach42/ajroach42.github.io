@@ -7,9 +7,9 @@ splash-wide: images/Book_sale_loot_(4552277923).jpg
 ---
 If you're looking at the news of the last week with tired eyes and a heavy heart, you need books. Books fix things, and make them worse. This is a quick list of some books and short stories that might make you feel differently. 
 
-<a href="https://flickr.com/photos/78011127@N00/4552277923">
-<img src="({{site.baseurl}}/images/Book_sale_loot_(4552277923).jpg)">
-</a>
+
+![Book_sale_loot_(4552277923).jpg]({{site.baseurl}}/images/Book_sale_loot_(4552277923).jpg)
+<a href="https://flickr.com/photos/78011127@N00/4552277923" style="font-size:8px;">via</a>
 
 #Books#
 
