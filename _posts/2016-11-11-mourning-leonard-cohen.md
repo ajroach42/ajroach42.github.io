@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Mourning Leonard Cohen '
 splash-wide: images/1411561144285.cached.jpg
 ---
@@ -100,4 +100,3 @@ As time cannot decay
 I'm junk but I'm still holding up this little wild bouquet
 Democracy is coming to the USA
 To the USA
-
