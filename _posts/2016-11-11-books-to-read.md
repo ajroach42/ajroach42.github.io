@@ -1,11 +1,9 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Stuff to Read
 splash-wide: images/Book_sale_loot_(4552277923).jpg
-splash-tall: ''
-tags: ''
 ---
 If you're looking at the news of the last week with tired eyes and a heavy heart, you need books. Books fix things, and make them worse. This is a quick list of some books and short stories that might make you feel differently. 
 
@@ -33,4 +31,4 @@ If you're looking at the news of the last week with tired eyes and a heavy heart
 
 It's not much, but many of these things have inspired me. I find myself revisiting them, in the hopes of recapturing that spark. 
 
-If you read one of these, and enjoy it, I'd love to hear your thoughts. I think you can [reach me here](http://twitter.com/ajroach42). 
+If you read one of these, and enjoy it, I'd love to hear your thoughts. I think you can [reach me here](http://twitter.com/ajroach42).
