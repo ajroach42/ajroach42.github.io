@@ -20,7 +20,7 @@ If you're looking at the news of the last week with tired eyes and a heavy heart
 * [Feed][13] — When I was 16, this book made me cry.
 * [Brave New World][14] — Free ebook. You know what this is about.
 * [Cat's Cradle][15] — Vonnegut discussing the end of the world, and a religion that actually doesn't suck.
-* * *
+
 
 ### Short Stories
 
@@ -28,7 +28,7 @@ If you're looking at the news of the last week with tired eyes and a heavy heart
 * [The Egg][17] — Andy Weir, before The Martian.
 * [LIBRARIANS IN THE BRANCH LIBRARY OF BABEL][18] — An Exploration of ideas postulated by Borges, but funnier.
 * [How To See The Future][19] — Transcript of a speech by Warren Ellis. The title is accurate.
-* * *
+
 
 It's not much, but many of these things have inspired me. I find myself revisiting them, in the hopes of recapturing that spark.
 
@@ -67,5 +67,3 @@ I write about emerging tech, forgotten tech, our cultural commons, and the role 
 [29]: https://medium.com/tag/donald-trump?source=post
 [30]: https://medium.com/tag/science-fiction?source=post
 [31]: https://medium.com/@ajroach42 "Go to the profile of Andrew Roach"
-
-  
