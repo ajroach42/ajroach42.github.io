@@ -11,8 +11,7 @@ If you're looking at the news of the last week with tired eyes and a heavy heart
 ![Book_sale_loot_(4552277923).jpg]({{site.baseurl}}/images/Book_sale_loot_(4552277923).jpg)
 <a href="https://flickr.com/photos/78011127@N00/4552277923" style="font-size:8px;">via</a>
 
-#Books#
-
+## Books
 - [Mr. Penubra's 24 hour Bookstore](https://www.robinsloan.com/books/penumbra/)
 - [Little Brother](https://medium.com/@ajroach42/a-book-club-for-a-new-america-aa1a76b847db#.k32cmzl1t)
 - [Pirate Cinema](http://craphound.com/category/pc/)
@@ -22,8 +21,7 @@ If you're looking at the news of the last week with tired eyes and a heavy heart
 - [Cat's Cradle](https://en.wikipedia.org/wiki/Cat%27s_Cradle) 
 
 
-#Short Stories# 
-
+## Short Stories
 - [Mr. Penumbra's 24 Hour Bookstore](https://www.robinsloan.com/books/penumbra/short-story/)
 - [The Egg](http://www.galactanet.com/oneoff/theegg_mod.html) 
 - [LIBRARIANS IN THE BRANCH LIBRARY OF BABEL](http://www.strangehorizons.com/fiction/librarians-in-the-branch-library-of-babel/)
