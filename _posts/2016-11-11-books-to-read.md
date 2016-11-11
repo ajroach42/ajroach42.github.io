@@ -2,7 +2,7 @@
 layout: post
 category: post
 published: false
-title: Books to Read
+title: Stuff to Read
 splash-wide: images/Book_sale_loot_(4552277923).jpg
 splash-tall: ''
 tags: ''
