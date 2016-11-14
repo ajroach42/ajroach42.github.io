@@ -15,9 +15,11 @@ _**Bad news**: It'll be a day or two before I feel comfortable enough with the s
 ****
 
 There are a lot of things to cover when you're talking about Doctorow in general, and Little Brother specifically. Today, I want to focus on the Introduction and the Copyright Thing. You did read the introduction and the Copyright Thing, right? If not, they come with my strong recommendation. 
-##The Introduction 
+
+## The Introduction 
 
 Here is a pull quote: 
+
 >When I was 17, the world seemed like it was just going to get more free. The Berlin Wall was about to come down. Computers -- which had been geeky and weird a few years before -- were everywhere, and the modem I'd used to connect to local bulletin board systems was now connecting me to the entire world through the Internet and commercial online services like GEnie. My lifelong fascination with activist causes went into overdrive as I saw how the main difficulty in activism -- organizing -- was getting easier by leaps and bounds (I still remember the first time I switched from mailing out a newsletter with hand-written addresses to using a database with mail-merge). In the Soviet Union, communications tools were being used to bring information -- and revolution -- to the farthest-flung corners of the largest authoritarian state the Earth had ever seen.
 
 >But 17 years later, things are very different. The computers I love are being co-opted, used to spy on us, control us, snitch on us. The National Security Agency has illegally wiretapped the entire USA and gotten away with it. Car rental companies and mass transit and traffic authorities are watching where we go, sending us automated tickets, finking us out to busybodies, cops and bad guys who gain illicit access to their databases. The Transport Security Administration maintains a "no-fly" list of people who'd never been convicted of any crime, but who are nevertheless considered too dangerous to fly. The list's contents are secret. The rule that makes it enforceable is secret. The criteria for being added to the list are secret. It has four-year-olds on it. And US senators. And decorated veterans -- actual war heroes.
@@ -42,7 +44,7 @@ What do you think? Are computers dangerous? Are they a force for good, evil, bot
 
 ****
 
-##The Copyright Thing 
+## The Copyright Thing 
 
 The thing that drew me to Doctorow's writing to begin with was probably his website [boingboing](http://boingboing.net), a news website with a snarky, subversive slant. 
 
