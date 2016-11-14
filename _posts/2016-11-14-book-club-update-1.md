@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Book Club Update #1'
 ---
 [We're building a book club for a better America.](https://medium.com/@ajroach42/a-book-club-for-a-new-america-aa1a76b847db) This is the first official update from that book club. You're welcome to join in! We're reading Little Brother by Cory Docotorow, which is a free download from his website, [craphound.com](http://craphound.com). 
@@ -73,4 +73,4 @@ As soon as it's ready, I'll send out an [announcement email](http://tinyletter.c
  
 I'll be back in a few days. Hopefully, by then I'll have a working discussion forum and a tutorial on basic encryption technologies, the limits of anonymity, and Chapters 1 - 3 in the book. 
 
-Thank you for [joining the discussion](http://tinyletter.com/ajroach42), and I look forward to hearing your thoughts.     
+Thank you for [joining the discussion](http://tinyletter.com/ajroach42), and I look forward to hearing your thoughts.
