@@ -11,9 +11,9 @@ Computers in general, and the internet specifically, used to be really interesti
 
 [Of Many Trades](http://ofmanytrades.com) is a community server. It is a place for people to communicate without fear of being tracked, and a place where folks can build all manner of weird and wild websites. ([Of Many Trades](http://ofmanytrades.com) was inspired by [Tilde.Club](http://tilde.club)) 
 
-A while ago, I read an excellent artcile on Human Scale/Anti-Capitalist technology by [Jesse Kriss on Medium](https://medium.com/@jkriss). In it, he made some particularly salient points about the ways that technology fails us when it is made "at scale" and for profit. 
+A while ago, I read an excellent article on Human Scale/Anti-Capitalist technology by [Jesse Kriss on Medium](https://medium.com/@jkriss). In it, he made some particularly salient points about the ways that technology fails us when it is made "at scale" and for profit. 
 
-The whole piece is worth a read; it comes with my strong reccomendation. Today, I want to focus on a few specific points. 
+The whole piece is worth a read; it comes with my strong recommendation. Today, I want to focus on a few specific points. 
 
 >Software and services that are supposed to make life better are becoming unreliable and untrustworthy. It is increasingly clear that our interests, as software-using humans, are diverging from the interests of software companies.
 
@@ -32,7 +32,7 @@ But this is more than just an intelectual exercise. Kriss, like so many others, 
 
 Damn, is he ever right. 
 
-Computers used to sit at the forefront of the counterculture. They were weird and wild and wonderful. Early networks, and the early web, were places where small groups (Communties!) could get together and do radical things. We can, and should, get back to that. 
+Computers used to sit at the forefront of the counterculture. They were weird and wild and wonderful. Early networks, and the early web, were places where small groups (Communities!) could get together and do radical things. We can, and should, get back to that. 
 
 One way we can get back to that is by building things again. In the early days of the computer, everyone who used a computer could build things. My mom is probably the least technically adept person I know, but even she could churn out a DOS batch file, with a pretty menu, that did the things she wanted. 
 
