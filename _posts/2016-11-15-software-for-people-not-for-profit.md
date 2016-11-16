@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Software for People (not for profit) '
 splash-wide: images/computer.jpg
 ---
