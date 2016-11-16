@@ -3,7 +3,14 @@ layout: post
 category: post
 published: false
 title: 'Software for People (not for profit) '
+splash-wide: images/computer.jpg
 ---
+Computers in general, and the internet specifically, used to be really interesting. When the industry was younger, there was an element of DIY, of community, and of comradery. It was a wild space, and many people considered it be potentially revolutionary. Then capitalism stepped in, and everyone realized that the best way to make money was to datamine their users. I want to return to this Wild West of computing, and to that end, I have built [OfManyTrades.com](http://ofmanytrades.com).
+
+![computer.jpg]({{site.baseurl}}/images/computer.jpg)
+
+[Of Many Trades](http://ofmanytrades.com) is a community server. It is a place for people to communicate without fear of being tracked, and a place where folks can build all manner of weird and wild websites. ([Of Many Trades](http://ofmanytrades.com) was inspired by [Tilde.Club](http://tilde.club)) 
+
 A while ago, I read an excellent artcile on Human Scale/Anti-Capitalist technology by [Jesse Kriss on Medium](https://medium.com/@jkriss). In it, he made some particularly salient points about the ways that technology fails us when it is made "at scale" and for profit. 
 
 The whole piece is worth a read; it comes with my strong reccomendation. Today, I want to focus on a few specific points. 
@@ -31,4 +38,10 @@ One way we can get back to that is by building things again. In the early days o
 
 Computers today are more powerful than ever, and the tools to make things are harder to use, and more hidden from the users than ever before. 
 
-In a lot of ways, when it comes to computers, DIY is dead. 
+In a lot of ways, when it comes to computers, DIY is dying, but we can save it. 
+
+We can build software for people, for one another. We can build things that are intentionally designed not to track their users, and even to actively protect their privacy. 
+
+Simply put, we can make software development an accesible, and Revolutionary act. 
+
+If DIY/Punk computing sounds like your cup of tea, come join us: [OfManyTrades](http://ofmanytrades.com)
