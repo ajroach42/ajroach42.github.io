@@ -7,7 +7,7 @@ splash-tall: images/Cys5S2PWEAInL0F.jpg
 ---
 This morning, I spent 20 minutes hacking to gether a basic social media service for [Of Many Trades](http://ofmanytrades.com). It's not much, but it's functional. It lives here: [TradeSocial](http://ofmanytrades.com/~ajroach42/social). There's a simple reason that I was able to get it done so quickly: I cheated. 
 
-[Cys5S2PWEAInL0F.jpg]({{site.baseurl}}/images/Cys5S2PWEAInL0F.jpg)
+![]({{site.baseurl}}//images/Cys5S2PWEAInL0F.jpg)
 
 See, most social media applications are designed to serve hundreds of thousands of users. At the moment, I'm worried about 15 - 20 (we may grow as high as a few hundred, one day. If you'd like an account for Of Many Trades, just let me know!) By recognizing that [Scale is a Trap](https://medium.com/@jkriss/anti-capitalist-human-scale-software-and-why-it-matters-5936a372b9d#.thjk3e2b1) I was able to build something fully functional for a small number of users in a short amount of time. By working at the [Human Scale](https://medium.com/@jkriss/human-scale-technology-75da763eb03#.6o19cekz8), I was able to make Tech DIY again. 
 
