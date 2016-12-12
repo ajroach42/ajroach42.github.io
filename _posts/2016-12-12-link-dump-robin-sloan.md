@@ -2,10 +2,10 @@
 layout: post
 category: post
 published: true
-title: Link Dump (Robin Sloan)
+title: 'A collection of articles by Robin Sloan [link dump]'
 splash-tall: images/book-superJumbo.jpg
 ---
-A few years ago, I discovered an author. His name is Robin Sloan, and he writes things that resonate with me, including the Wonderful Mr. Penumbra's 24-Hour bookstore (which is likely my favorite novel of the last ten years.) Sloan is also a fairly prolific essayist, and some of his essays touch on ideas that are important and realted to the [work that I do](http://ofmanytrades.com). This is a quick collection of links to some of his essays, projects, and short stories--along with a brief description of each--(posted half for personal reference.) 
+A few years ago, I discovered an author. His name is [Robin Sloan](https://www.robinsloan.com), and he writes things that resonate with me, including the Wonderful Mr. Penumbra's 24-Hour bookstore (which is likely my favorite novel of the last ten years.) Sloan is also a fairly prolific essayist, and some of his essays touch on ideas that are important and realted to the [work that I do](http://ofmanytrades.com). This is a quick collection of links to some of his essays, projects, and short stories--along with a brief description of each--(posted half for personal reference.) 
 
 ![book-superJumbo.jpg]({{site.baseurl}}/images/book-superJumbo.jpg)
 
