@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Push Notifications with IFTTT
 ---
 Apparently [IFTTT](https://ifttt.com/discover) can monitor RSS/ATOM streams ([like mine](http://ajroach42.github.io/feed.xml)) and perform an action for new items. That means that I can have [TradeSocial](http://ajroach42.github.io/tech-meets-diy-punk/) output an RSS feed for the system as a whole, for the feeds of individual users, and for @replies. Then I can tell IFTTT to look at those feeds and [send and email|send a push notification|Post a Tweet|etc.] any time one of them changes. 
@@ -10,4 +10,4 @@ That adds iOS/Android notification, email notifications, twitter notifications, 
 
 I love open standards, and simple solutions. 
 
-(This post is a test post for this feature.) 
+(This post is a test post for this feature.)
