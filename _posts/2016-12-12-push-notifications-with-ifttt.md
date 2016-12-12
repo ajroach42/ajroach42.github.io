@@ -10,4 +10,4 @@ That adds iOS/Android notification, email notifications, twitter notifications, 
 
 I love open standards, and simple solutions. 
 
-(This post is a test post for this feature.)
+(This post is a test post for this feature. I'm pleased to report that it does exactly what it says on the tin.)
