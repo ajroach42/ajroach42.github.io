@@ -7,7 +7,7 @@ splash-wide: images/hackers_wizards.png
 ---
 In case you haven't noticed, I'm kind of a fan of 1970s and [1980s computer culture](https://medium.com/@ajroach42/a-modern-bbs-reviving-the-local-distributed-weird-precursor-to-facebook-4b3db93f742d#.68alg4rr5). (In fact, that fascination heavily informs [my current project, Of Many Trades.](http://ofmanytrades.com)) One often overlooked aspect of early computer culture is the way it was covered in contemporary press. Presented here are two TV Documentaries, both filmed before the rise of the internet, that cover the home computer revolution at two pivotal points. They are entertaining, and educational, reminders of a time when the Home Computer Revolution still felt Revolutionary. 
 
-![]({{site.baseurl}}/images/hackers_wizards.png)![hackers_wizards.png]
+![]({{site.baseurl}}/images/hackers_wizards.png)
 
 
 ## Hackers - Wizards of the Electronic Age
@@ -32,5 +32,4 @@ Watching Terminal Madness, I was struck by how far we've come, but also by how m
 
 ## Living in the Future 
 
-Taken together, these documentaries serve to remind us of the revolutionary roots of the home computer. [We live in the future, and it's magical, and we ignore that](http://www.warrenellis.com/?p=14314). Examining our recent history through these primary sources may help awaken some sense of wonder and mystery, and help us remember that we're still writing tomorrow. 
-
+Taken together, these documentaries serve to remind us of the revolutionary roots of the home computer. [We live in the future, and it's magical, and we ignore that](http://www.warrenellis.com/?p=14314). Examining our recent history through these primary sources may help awaken some sense of wonder and mystery, and help us remember that we're still writing tomorrow.
