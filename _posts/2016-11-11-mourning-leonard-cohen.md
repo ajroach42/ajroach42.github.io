@@ -3,7 +3,7 @@ layout: post
 category: post
 published: true
 title: 'Mourning Leonard Cohen '
-splash-wide: images/1411561144285.cached.jpg
+splash-wide: /images/1411561144285.cached.jpg
 ---
 Leonard Cohen was an american songwriter, responsible for some of the most beautiful and moving tracks of the last 50 years. He passed away earlier this week at the age of 82. He will be missed. Cohen started his musical career in 1966 or 1967 when he wrote Suzanne, for Judy Collins. From there, he wrote dozens of other heartachingly beautiful songs, including: 
 
