@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Mooncop by Tom Gauld '
 splash-wide: /images/mooncop3.jpg
 ---
@@ -25,4 +25,4 @@ Do you remember when you were a kid, and all you wanted to do was help people an
 
 [Go buy it](http://www.tomgauld.com/index.php?/comics/mooncop/), read it. Visualize a time when we can live on the moon. Visualize a time when the idea of living on the moon seems mundane. 
 
-Read *Mooncop*, and feel things. 
+Read *Mooncop*, and feel things.
