@@ -3,7 +3,7 @@ layout: post
 category: post
 published: true
 title: Science Fiction in Times of Stress
-splash-wide: images/mockup-96adf286.jpg
+splash-wide: /images/mockup-96adf286.jpg
 ---
 Writing on [his personal blog](http://nielsenhayden.com/makinglight/archives/016531.html), Tor Book's Associate Publisher said the following, in response to the news that Trump was elected president: _Last night, I found myself very grateful that I work in science fiction._
 
