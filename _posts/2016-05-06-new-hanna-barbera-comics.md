@@ -1,11 +1,9 @@
 ---
 layout: post
 category: post
-"splash-tall": ""
-"splash-wide": "images/Future-Quest-4.jpg"
-tags: ""
+splash-wide: /images/Future-Quest-4.jpg
 published: true
-title: "New Hanna Barbera Comics? "
+title: 'New Hanna Barbera Comics? '
 ---
 While picking up a copy of the [Dirk Gently's Holistic Detective Agency comic](http://amzn.to/23uPSNK) I noticed this absolutely fantastic poster for an upcoming DC comic featuring characters from Hanna Barbera. I'm excited to see what they do with this. [Pictured Here: The Herculoids, The Impossibles, Frankenstien Jr, Birdman, Space Ghost (and company), The Galaxy Trio, Johny Quest, and the Mighty Mightor] 
 
