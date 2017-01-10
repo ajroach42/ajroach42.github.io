@@ -2,8 +2,6 @@
 layout: post
 category: post
 splash-wide: /images/100-Best-Silent-Films-There-it-is.jpg
-tags:
-  - 'null'
 published: true
 title: 'Silent Cinema: There it is! (1928)'
 ---
