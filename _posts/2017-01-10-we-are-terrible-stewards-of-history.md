@@ -48,3 +48,4 @@ There's a lot we can do, some suggestions:
     - So yeah, totally. Put it on youtube (or wherever), but don't make that the end of your preservation efforts. 
 - Talk to any creators you know, to help them establish a way (such as [CC licences](https://creativecommons.org/)) for their works to be preserved when they are no longer reaping financial benefit from them. 
 - Don't accept the myth that [copying is theft](https://www.youtube.com/watch?v=IeTybKL1pM4) 
+- Don't use DRM or copy protection on your work, because that will make it difficult (and illegal) to archive (See [this article on piracy and archives for more information](https://www.techdirt.com/articles/20120126/09565417551/why-piracy-is-indispensable-survival-our-culture.shtml)) 
