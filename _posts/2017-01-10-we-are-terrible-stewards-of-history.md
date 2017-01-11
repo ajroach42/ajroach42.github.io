@@ -6,7 +6,7 @@ title: 'We are terrible stewards of history '
 ---
 Do you know how many episodes of Doctor Who have been lost, and will never be seen again? [97](https://en.wikipedia.org/wiki/Doctor_Who_missing_episodes), as of last count. What about shows that didn't go on to inspire global cult followings? Shows like Space Patrol, which broadcast over 900 episodes of which, less than 150 survive. The problem gets even worse if you [look at early film](https://en.wikipedia.org/wiki/List_of_lost_films) either missing or [incomplete](https://en.wikipedia.org/wiki/List_of_incomplete_or_partially_lost_films). 
 
->  Martin Scorsese's Film Foundation claims that "half of all American films made before 1950 and over 90% of films made before 1929 are lost forever." Deutsche Kinemathek estimates that 80–90% of silent films are gone; the film archive's own list contains over 3500 lost films. A study by the Library of Congress states that 75% of all silent films are now lost.
+> Martin Scorsese's Film Foundation claims that "half of all American films made before 1950 and over 90% of films made before 1929 are lost forever." Deutsche Kinemathek estimates that 80–90% of silent films are gone; the film archive's own list contains over 3500 lost films. A study by the Library of Congress states that 75% of all silent films are now lost.
 [-- List of Lost Films on Wikipedia](https://en.wikipedia.org/wiki/List_of_lost_films)
 
 Beyond TV and radio, other commercial media suffers largely the same fate: radio programs, art, songs, books, and software have been lost to time, to decay, or to ineptitude, to say nothing of the [art we've lost to outright malice](https://medium.com/@peterbcampbell/why-hitler-stole-art-2136f1f54e77#.l87sevt6k). 
