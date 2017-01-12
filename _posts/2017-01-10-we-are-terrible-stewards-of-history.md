@@ -25,7 +25,9 @@ But it's not all bad news.
 
 ## Who's fighting back?
 
-The [internet archive](http://archive.org) does a reasonable job of fighting against this decay, but they're a single organization with limited resources, and only capable of preserving what the law allows (which is to say, a whole lot less than is ideal, but already more than their resources can manage.)  
+The [internet archive](http://archive.org) does a reasonable job of fighting against this decay, but they're a single organization with limited resources, and only capable of preserving what the law allows (which is to say, a whole lot less than is ideal, but already more than their resources can manage.) 
+
+[The Archive Team](http://www.archiveteam.org/index.php?title=Main_Page) works to preserve websites that are in danger of dying. Specifically, they work to preserve user generated content. 
 
 ** There are also commercial enterprises that endeavor to preserve our cultural heritage: ** 
 
@@ -66,4 +68,4 @@ There's a lot we can do, some suggestions:
 
 There's a lot of ground to cover, but we stand a real chance of preserving, archiving, and currating a substantial portion of the media (both professional an DIY) that remains in circulation. Help us to preserve, currate, and contextualize our history. 
 
-I'm really passionate about this. That's why I started [DIYmedia.CC](http://diymedia.cc).  
+I'm really passionate about this. That's why I started [DIYmedia.CC](http://diymedia.cc).
