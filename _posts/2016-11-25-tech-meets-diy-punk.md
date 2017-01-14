@@ -3,7 +3,7 @@ layout: post
 category: post
 published: true
 title: Tech meets DIY/Punk
-splash-wide: images/recording%20(3).gif
+splash-wide: /images/recording%20(3).gif
 ---
 This morning, I spent 20 minutes hacking to gether a basic social media service for [Of Many Trades](http://ofmanytrades.com). It's not much, but it's functional. It lives here: [TradeSocial](http://ofmanytrades.com/~ajroach42/social). There's a simple reason that I was able to get it done so quickly: I cheated. 
 
