@@ -34,7 +34,7 @@ Add to that amateur media, the DIY works that have existed for as long as media 
 
 The digital revolution enabled people to make their own media in ways never before possible, but we haven't developed the technical or legal infrastructure required for long term archival and preservation. [Laws like the DMCA criminalize breaking digital locks](http://www.theatlantic.com/technology/archive/2013/03/the-copyright-rule-we-need-to-repeal-if-we-want-to-preserve-our-cultural-heritage/274049/), even if the thing you would do after breaking the digital lock is completely legal. This means you can't even archive your own DVDs without violating this law. Without active legal reform, much of our culture will remain inaccessible for years to come. Heck, we barely even have the vocabulary to discuss the issues that preserving creative works create. 
 
-** Put simply, we're pretty shitty stewards of culture. **
+**Put simply, we're pretty shitty stewards of culture.**
 
 But it's not all bad news. 
 
