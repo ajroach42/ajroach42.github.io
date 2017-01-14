@@ -22,7 +22,7 @@ Beyond TV and film, other commercial media suffers largely the same fate: [radio
 
 [Copyright plays a pretty large role](https://www.clir.org/pubs/abstract/reports/pub148) in the destruction of our cultural history. There are hundreds (thousands) of works of fiction, across most mediums ([Books](http://www.bookfinder.com/books/bookfinder_report/BookFinder_Report_2013.mhtml), [Movies](http://www.imdb.com/list/ls072483297/), [Music](http://www.cracked.com/blog/5-famous-albums-you-wont-believe-you-cant-buy-anymore/) -- And really, that's just the tip of a very large iceburg) , that are not available commercially. While these works can't be considered "lost" as copies of them still exist, somewhere, they are not available for purchase. They exist, but that doesn't mean you'll ever find them. 
 
-This problem is especially insidious in situations in which the rightful copyright holder cannot be discerned. Few are willing to undertake the financial burden of an act of preservation and re-distribution when the threat of potential legal action still looms in the air. Meanwhile, there is no one to proffit from the distribution of the work, and so it languishes in obscurity. 
+This problem is especially insidious in situations in which the rightful copyright holder cannot be discerned. Few are willing to undertake the financial burden of an act of preservation and re-distribution when the threat of potential legal action still looms in the air. Meanwhile, there is no one to profit from the distribution of the work, and so it languishes in obscurity. 
 
 ![images-w1400.jpg]({{site.baseurl}}/images/images-w1400.jpg)
 
