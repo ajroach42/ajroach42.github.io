@@ -26,7 +26,7 @@ This problem is especially insidious in situations in which the rightful copyrig
 
 ![images-w1400.jpg]({{site.baseurl}}/images/images-w1400.jpg)
 
-No new works have entere the public domain in the US in my lifetime. Hell, [some works have left the public domain](https://www.plagiarismtoday.com/2016/10/19/copyright-and-metropolis/), and re-entered copyright.  Largely, this is because we have passed multiple laws extending copyright since 1976. Many works, including [To Kill a Mockingbird](https://web.law.duke.edu/cspd/publicdomainday/2017/pre-1976), would be in the public domain today under 1976 laws. 
+No new works have enter the public domain in the US in my lifetime. Hell, [some works have left the public domain](https://www.plagiarismtoday.com/2016/10/19/copyright-and-metropolis/), and re-entered copyright.  Largely, this is because we have passed multiple laws extending copyright since 1976. Many works, including [To Kill a Mockingbird](https://web.law.duke.edu/cspd/publicdomainday/2017/pre-1976), would be in the public domain today under 1976 laws. 
 
 Under modern law, there are still thousands of silent films from the 1920s that are copyrighted, and will remain so for many years. 
 
