@@ -24,11 +24,15 @@ Beyond TV and film, other commercial media suffers largely the same fate: [radio
 
 This problem is especially insidious in situations in which the rightful copyright holder cannot be discerned. Few are willing to undertake the financial burden of an act of preservation and re-distribution when the threat of potential legal action still looms in the air. Meanwhile, there is no one to proffit from the distribution of the work, and so it languishes in obscurity. 
 
+![images-w1400.jpg]({{site.baseurl}}/images/images-w1400.jpg)
+
 No new works have entere the public domain in the US in my lifetime. Hell, [some works have left the public domain](https://www.plagiarismtoday.com/2016/10/19/copyright-and-metropolis/), and re-entered copyright.  Largely, this is because we have passed multiple laws extending copyright since 1976. Many works, including [To Kill a Mockingbird](https://web.law.duke.edu/cspd/publicdomainday/2017/pre-1976), would be in the public domain today under 1976 laws. 
 
 Under modern law, there are still thousands of silent films from the 1920s that are copyrighted, and will remain so for many years. 
 
 **This means that, while many works of the 20th century aren't currently considered lost, by the time we are legally able to preserve them, it will be too late.**
+
+![SSCselection.jpg]({{site.baseurl}}/images/SSCselection.jpg)
 
 Add to that amateur media, the DIY works that have existed for as long as media has existed, and you start to paint a pretty grim picture. Remember that CD or Cassette you used to have, of that local band from your home town? How many of those existed? 100? Less? Will yours even play anymore? (Some of mine won't, and I'll probably never be able to replace them.) 
 
@@ -56,7 +60,7 @@ I try to highlight items from there collection as often as possible. Here are a 
 - [Dust to Digital](http://www.dust-digital.com/), for example, has done some excellent work in preserving the rapidly disapearing history of early recorded sound. I recommend nearly everything they've released. 
 - The critereon collection, and Kino international do good work in restoring classic pieces of cinema (and charging a premium for them.) 
 	- Kino, specifically, has recently released this collection of [Early African American film](https://www.kinolorber.com/film/view/id/2124), which was sorely needed, and demonstrative of how pervasive the problem really is. 
-- [Singularity and Co. Bookstore](http://singularityshop.com/collections/all-of-our-ebook-subscriptions) in NY regularly negotiates the digitization and re-release of still copyrighted, but unavailable science-fiction novels. 
+- [Singularity and Co. Bookstore](http://singularityshop.com/collections/all-of-our-ebook-subscriptions) in NY regularly negotiates the digitization and re-release of still copyrighted, but commercially unavailable science-fiction novels. 
 
 But a lot of this comes in as (much) too little, and (far) too late. 
 
@@ -72,12 +76,11 @@ There's a lot we can do, some suggestions:
 	- Don't assume that someone else is handling this. History has show us that they are not 
 - [Help design the infrastructure required to preserve non-commercial media](http://diymedia.cc) (such as the home-recorded demos from that band you were in in highschool, the zines you bought from that weird shop on the corner, or that backyard blockbuster the kids up the road filmed.)
 	- I commonly hear the refrain "I'll just put it up on youtube" or similar. This is a good instinct, but it falls short in a couple of ways: 
-    	1) Everyone puts everything on youtube, so the chances of someone finding what you have put there are slim 
-        2) Youtube does not provide a method for people to download copies for themselves. 
+    	2) Youtube does not provide a method for people to download copies for themselves. 
         3) A youtube video is of lower quality than the original file, because of how youtube works 
         4) Not everything belongs on youtube 
     - So yeah, totally. Put it on youtube (or wherever), but don't make that the end of your preservation efforts. 
-    - Consider putting it on [Archive.org](http://archive.org) or DIYMedia.cc
+    - Consider putting it on [Archive.org](http://archive.org) or [DIYMedia.cc](http://diymedia.cc)
 - Talk to any creators you know, to help them establish a way (such as [CC licences](https://creativecommons.org/)) for their works to be preserved when they are no longer reaping financial benefit from them. 
 
 **As a Creator**
@@ -98,4 +101,4 @@ There's a lot we can do, some suggestions:
 
 There's a lot of ground to cover, but we stand a real chance of preserving, archiving, and currating a substantial portion of the media (both professional an DIY) that remains in circulation. Help us to preserve, currate, and contextualize our history. 
 
-I'm really passionate about this. That's why I started [DIYmedia.CC](http://diymedia.cc). We're just getting our feet under us, but I think we're going to be able to make something really neat. If you want to help out, reach out to me on Twitter, or sign up for my mailing list. 
+I'm really passionate about this. That's why I started [DIYmedia.CC](http://diymedia.cc). We're just getting our feet under us, but I think we're going to be able to make something really neat. If you want to help out, reach out to me on [Twitter](http://twitter.com/ajroach42), or sign up for my [mailing list](http://tinyletter.com/ajroach42). 
