@@ -3,7 +3,7 @@ layout: post
 category: post
 published: true
 title: 'A collection of articles by Robin Sloan [link dump]'
-splash-tall: images/book-superJumbo.jpg
+splash-tall: /images/book-superJumbo.jpg
 ---
 A few years ago, I discovered an author. His name is [Robin Sloan](https://www.robinsloan.com), and he writes things that resonate with me, including the Wonderful Mr. Penumbra's 24-Hour bookstore (which is likely my favorite novel of the last ten years.) Sloan is also a fairly prolific essayist, and some of his essays touch on ideas that are important and realted to the [work that I do](http://ofmanytrades.com). This is a quick collection of links to some of his essays, projects, and short stories--along with a brief description of each--(posted half for personal reference.) 
 
@@ -35,5 +35,4 @@ How long have we been living in a sci-fi dystopia?
 
 > Where does one novel end and another one begin?
 
-That's the meat of this article. What makes a novel a novel? Also contains a link to one of my favorite short stories (_The Branch Library of Babel_ It's like Borges' Library, but all the books are Moby Dick.) 
-
+That's the meat of this article. What makes a novel a novel? Also contains a link to one of my favorite short stories (_The Branch Library of Babel_ It's like Borges' Library, but all the books are Moby Dick.)
