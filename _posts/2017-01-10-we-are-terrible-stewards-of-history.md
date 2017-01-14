@@ -51,7 +51,7 @@ I try to highlight items from there collection as often as possible. Here are a 
 
 [The Archive Team](http://www.archiveteam.org/index.php?title=Main_Page) works to preserve websites that are in danger of dying. Specifically, they work to preserve user generated content. 
 
-** There are also commercial enterprises that endeavor to preserve our cultural heritage: ** 
+**There are also commercial enterprises that endeavor to preserve our cultural heritage:** 
 
 - [Dust to Digital](http://www.dust-digital.com/), for example, has done some excellent work in preserving the rapidly disapearing history of early recorded sound. I recommend nearly everything they've released. 
 - The critereon collection, and Kino international do good work in restoring classic pieces of cinema (and charging a premium for them.) 
