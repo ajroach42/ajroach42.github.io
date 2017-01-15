@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Andrew Roach
+name: Andrew Writing
 
 # Short bio or description (displayed in the header)
-description: Web Developer living and working in Washington, DC. 
+description: I make websites, and write stuff. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://pbs.twimg.com/profile_images/568431122007470080/CshTBt-y.jpeg
+avatar: http://ajroach42.github.io/images/SNAP_00024.JPG
 
 #
 # Flags below are optional
@@ -18,11 +18,11 @@ avatar: https://pbs.twimg.com/profile_images/568431122007470080/CshTBt-y.jpeg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: me@andrewroach.net
   facebook:
   flickr:
   github: ajroach42
-  instagram: analogrevolution
+  instagram: ajroach42
   linkedin:
   pinterest:
   rss: yes # just type anything here for a working RSS icon
