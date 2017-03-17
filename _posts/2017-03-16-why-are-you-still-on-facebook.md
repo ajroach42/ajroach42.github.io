@@ -8,9 +8,8 @@ title: 'Why Are You Still on Facebook? '
 
 Have you ever stopped to consider why they suck? I can think of a few reasons:
 
-> \- We are the product, the advertisers are the customer
-
-> \- They are impersonal, enabling people to hide behind their keyboards while spewing toxic filth
+- We are the product, the advertisers are the customer
+- They are impersonal, enabling people to hide behind their keyboards while spewing toxic filth
 
 ### Social Networks serve two key purposes:
 
@@ -30,7 +29,7 @@ So, if sharing information and spreading content is easier, better, and more eff
 
 #### 2) As of right now, Social sites are the best way for communities to interact with one another.
 
-I don't know about you, but this is the **only **reason I'm still using facebook.
+I don't know about you, but this is the **only** reason I'm still using facebook.
 
 Back in the mid 90s and early 00s (before the dawn of modern social networks), it was via Message Boards, newsgroups, and Mailing Lists (and these still exist, to some extent) as well as personal blogs. These days, though, a community doesn't exist if it isn't on facebook.
 
@@ -44,13 +43,10 @@ We can fucking leave. That's what we can do.
 
 I build weird stuff, and let it loose on the internet. Recently, I have made my focus a project called Of Many Trades. It's a "Community Server", which is like a Social Network (on the surface sat least) but different in a couple of key respects:
 
-> 1) It's a single computer, that lots of people can use at the same time (rather than a massive network of many computers.) This limits the number of people who are using the system at any one time to less than ~500.
-
-> 2) I control it. The whole thing. A bunch of the software was written by me. The rest of it is open source.
-
-> 3) It's a community center, and a supportive one. Toxicity and vitriol have no place here, and our users help us keep it that way.
-
-> 4) Everything is super DIY, and most of it is just barely functional. (Which is not to say it doesn't work! It does, but only just.)
+1) It's a single computer, that lots of people can use at the same time (rather than a massive network of many computers.) This limits the number of people who are using the system at any one time to less than ~500.
+2) I control it. The whole thing. A bunch of the software was written by me. The rest of it is open source.
+3) It's a community center, and a supportive one. Toxicity and vitriol have no place here, and our users help us keep it that way.
+4) Everything is super DIY, and most of it is just barely functional. (Which is not to say it doesn't work! It does, but only just.)
 
 Of Many Trades was inspired by [Tildeclub][8]. It's still young, and it's still growing. Right now, it has private messaging, public messaging, a [global social stream][9], some games (from the 70s), and a bunch of other stuff.
 
