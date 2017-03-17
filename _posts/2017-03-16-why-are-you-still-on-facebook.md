@@ -44,8 +44,11 @@ We can fucking leave. That's what we can do.
 I build weird stuff, and let it loose on the internet. Recently, I have made my focus a project called Of Many Trades. It's a "Community Server", which is like a Social Network (on the surface sat least) but different in a couple of key respects:
 
 1) It's a single computer, that lots of people can use at the same time (rather than a massive network of many computers.) This limits the number of people who are using the system at any one time to less than ~500.
+
 2) I control it. The whole thing. A bunch of the software was written by me. The rest of it is open source.
+
 3) It's a community center, and a supportive one. Toxicity and vitriol have no place here, and our users help us keep it that way.
+
 4) Everything is super DIY, and most of it is just barely functional. (Which is not to say it doesn't work! It does, but only just.)
 
 Of Many Trades was inspired by [Tildeclub][8]. It's still young, and it's still growing. Right now, it has private messaging, public messaging, a [global social stream][9], some games (from the 70s), and a bunch of other stuff.
