@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Why Are You Still on Facebook? '
 ---
 ## You know what Social Networks are. You know what they do. You know that they suck.
