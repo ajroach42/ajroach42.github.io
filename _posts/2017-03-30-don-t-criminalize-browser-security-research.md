@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Don''t criminalize browser security research! '
 splash-wide: /images/DialUp-1.png
 ---
