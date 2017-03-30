@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Seedship: Help the remnants of humanity found a new colony'
 splash-wide: /images/seedship.png
 ---
@@ -9,4 +9,4 @@ I have spent a large portion of the last two days playing [Seedship](http://phil
 
 ![seedship.png]({{site.baseurl}}/images/seedship.png)
 
-I really love the game, and I think it's well worth playing over and over again. 
+I really love the game, and I think it's well worth playing over and over again.
