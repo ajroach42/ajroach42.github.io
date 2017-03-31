@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Goodreads (I''m a member, are you?) '
 splash-wide: /images/Screenshot 2017-03-31 at 12.13.11 AM.png
 ---
@@ -15,4 +15,4 @@ It's all pretty neat, and a great way for me to remind myself to keep reading. (
 
 If you look at my currently reading shelf, you'll see that there are a lot of books on it. Some of those are physical books, that I continue reading when I'm in physical proximety to them, others are audio books that I listen to in the car, or ebooks that I read when I'm out and about. I'm not nearly as scatterbrained as my Currently Reading shelf makes me seem. 
 
-Anyway, if you're a reader, come hang out on goodreads with me. It's pretty cool. 
+Anyway, if you're a reader, come hang out on goodreads with me. It's pretty cool.
