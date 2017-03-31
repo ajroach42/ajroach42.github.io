@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Your Congresscritters sold you out
 splash-wide: /images/congress.jpg
 ---
