@@ -3,9 +3,7 @@ layout: post
 category: post
 published: false
 title: 'Monty Python''s Spamalot: Live, and way off broadway'
-splash-tall: ''
-splash-wide: ''
-tags: ''
+splash-wide: /images/spamalot.JPG
 ---
 The Chatham Community Theater in New Jersey mounted an excellent production of Monty Python's Spamalot, and they were kind enough to Film it (well! with multiple cameras!) and post it to youtube. It's pretty great, and I was super pleased to find it online. See the embedded play below: 
 
