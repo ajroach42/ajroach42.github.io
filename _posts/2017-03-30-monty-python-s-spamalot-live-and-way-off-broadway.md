@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Monty Python''s Spamalot: Live, and way off broadway'
 splash-wide: /images/spamalot.JPG
 ---
@@ -16,4 +16,4 @@ Spamalot is a pretty great play. I've seen it twice on tour, and enjoyed it imme
 ![spamalot.JPG]({{site.baseurl}}/images/spamalot.JPG)
 
 
-If you watch it, I'd love to know what you think (you can find me pretty much everywhere @ajroach42). 
+If you watch it, I'd love to know what you think (you can find me pretty much everywhere @ajroach42).
