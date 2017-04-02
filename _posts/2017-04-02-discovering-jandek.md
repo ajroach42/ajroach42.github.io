@@ -5,11 +5,13 @@ published: true
 title: Discovering Jandek
 splash-wide: /images/You-Walk-Alone-cover.jpg
 ---
-Following with today's theme (which is apparently, [weird music from the 80s](http://ajroach42.github.io/music-for-parties-minimalist-1980-synthpop-from-silicon-teens/)) I thought I should spend a few minutes talking about everyone's favorite weird/outsider musician, Jandek. For those not in the know, Jandek is the stage name of some weird, fairly private dude from Texas, who has released between one and three albums a year for ... well, since 1980 or so. It would be easy to misrepresent Jandek's music. I've heard it called "Visionary", I've heard it called "Utter Garbage." I would argue that it's neither, but it's probably the weirdest music you'll hear today.  
+Following with today's theme (which is apparently, [weird music from the 80s](http://ajroach42.github.io/music-for-parties-minimalist-1980-synthpop-from-silicon-teens/)) I thought I should spend a few minutes talking about everyone's favorite weird/outsider musician, Jandek. It would be easy to misrepresent Jandek's music. I've heard it called "Visionary", I've heard it called "Utter Garbage." I would argue that it's neither, but it's probably the weirdest music you'll hear today.  
+
+For those not in the know, Jandek is the stage name of some weird, fairly private dude from Texas, who has released between one and three albums a year for ... well, since 1980 or so. Jandek has released somewhere in the ballpark of 80 albums. At least one of those is a multi-disc box set, featuring 9+ hours of poorly played piano.
 
 ![You-Walk-Alone-cover.jpg]({{site.baseurl}}/images/You-Walk-Alone-cover.jpg)
 
-Jandek has released somewhere in the ballpark of 80 albums. At least one of those is a multi-disc box set, featuring 9+ hours of poorly played piano. [He sells these albums direct to consumer through his website](http://corwoodindustries.com/shop/), for $10/each. Buy 20, and they're half off. 
+[He sells these albums direct to consumer through his website](http://corwoodindustries.com/shop/), for $10/each. Buy 20, and they're half off. 
 
 With an 80+ album discography, where the hell do you start? 
 
