@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Music for Parties: Minimalist 1980 synthpop from Silicon Teens'
 splash-wide: /images/806c30eeb0c7ad72540e017b051fc121.jpg
 ---
