@@ -1,8 +1,8 @@
 ---
 layout: post
 category: post
-published: false
-title: Silicon Teens by Pulsars from Pulsars
+published: true
+title: Silicon Teens by The Pulsars from the album Pulsars
 splash-tall: /images/417A763VA3L.jpg
 ---
 Earlier today [I wrote about a 1980 album "Music for Parties" by the fake band Silicon Teens](http://ajroach42.github.io/music-for-parties-minimalist-1980-synthpop-from-silicon-teens/). This reminded me of the 1997 album Pulsars by [The Pulsars](https://en.wikipedia.org/wiki/The_Pulsars) (another band that doesn't really exist), and their song "Silicon Teens". Have we gotten meta enough yet? 
@@ -24,4 +24,4 @@ The track Silicon Teens is a clever little homage, and it captures the minimal s
 
 The album cover is, unfortunately, one of the ugliest things I've ever seen. Don't let that stop you from enjoying a weird little slice of the 90s. 
 
-[Listen to the full album here](https://www.youtube.com/watch?v=gNC8kn5unWw). 
+[Listen to the full album here](https://www.youtube.com/watch?v=gNC8kn5unWw).
