@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Discovering Jandek
 splash-wide: /images/You-Walk-Alone-cover.jpg
 ---
@@ -37,4 +37,4 @@ This is almost as raw as it gets. A man and his out of tune guitar, alone agains
 
 I think it's important to note that I said that this was *almost* as raw as it gets. See, Jandek has also released a couple of spoken word albums. One of them features a half hour compesition called [One Last Chance](https://www.youtube.com/watch?v=nbn1Ei7Jfkc). Listening to that might just drive you out of your skull. 
 
-"I need another Chance / I gotta do it right / You Can Show Me How" 
+"I need another Chance / I gotta do it right / You Can Show Me How"
