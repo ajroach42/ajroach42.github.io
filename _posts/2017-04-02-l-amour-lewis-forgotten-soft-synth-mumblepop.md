@@ -3,6 +3,7 @@ layout: post
 category: post
 published: true
 title: 'L''Amour - Lewis - Forgotten Soft-synth Mumblepop '
+splash-wide: /images/LITA117_Highres_Cover.jpg
 ---
 While I was putting together that [piece on Jandek](http://ajroach42.github.io/discovering-jandek/), I was reminded of a review I read that said that Lewis' 1983 release L'amour sounded like Jandek covering Twin Peaks, and honestly, isn't that something we all want in our lives? 
 
