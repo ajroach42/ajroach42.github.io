@@ -58,7 +58,7 @@ We're going to have to fight. Journalism is our weapon.
 ## On Journalism as a weapon 
 
 
-*I feel like I should preface this next bit. My father and my brother are police officers. I don't hate cops. I do, however, abhor bullies. The point that I'd like to make isn't about police brutality, it's about the power of the truth. *
+*I feel like I should preface this next bit. My father and my brother are police officers. I don't hate cops. I do, however, abhor bullies. The point that I'd like to make isn't about police brutality, it's about the power of the truth.*
   
 A few days ago, I started an audiobook of [The Truth][19] by Terry Pratchett. Pratchett is one of my favorite authors, and The Truth is one of my favorite works of his. It is about the city's first newspaper, and about the power of journalism.  
   
