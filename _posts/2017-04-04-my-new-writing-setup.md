@@ -14,6 +14,8 @@ After trying a few different "distraction free" writing environments, he came to
 
 I used to do something similar with a Tandy 100 and an SSH server, but I've long since retired the Tandy. Reading his post, though, it became clear to me that I was encountering the same problems, and that my solutions up to that point hadn't actually solved it. 
 
+
+
 I put together a new writing setup with a Kindle Fire tablet, a tiny mechanical keyboard, and some good headphones. It's not nearly as pretty as Rob's, and I'm still not sold on my tablet stand (a small, 3D printed Dragon), but I can't argue with the results. It also has the benefit of being incredibly portable. Couple that with Prose.io and Jekyll//github pages, and I have a writing rig that can really kick some ass. 
 
 So far, it's working pretty well. Add in a [shell account from OfManyTrakdes](http://ofmanytrades.com), and I'm even able to do most of my coding on this little setup. I'm writing more, and more often. I feel better. 
