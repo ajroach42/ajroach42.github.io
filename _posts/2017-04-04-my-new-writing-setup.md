@@ -25,7 +25,7 @@ Ultimately, I decided to go another way.
 
 I put together a new writing setup with a Kindle Fire tablet, a tiny mechanical keyboard, and some good headphones. Couple that with [Prose.io](http://prose.io) and Jekyll//github pages, and I have a writing rig that can really kick some ass. It's not nearly as pretty as Rob's, and I'm still not sold on my tablet stand (a small, 3D printed Dragon), but I can't argue with the results. 
 
-So far, it's working pretty well. It also has the benefit of being incredibly portable. Add in a [shell account from OfManyTrakdes](http://ofmanytrades.com), and I'm even able to do most of my coding on this little setup. I'm writing more, and more often. I feel better. 
+So far, it's working pretty well. It also has the benefit of being incredibly portable. Add in a [shell account from OfManyTrades](http://ofmanytrades.com), and I'm even able to do most of my coding on this little setup. I'm writing more, and more often. I feel better. 
 
 There are distractions on the Fire, to be sure. (It's loaded down with books and comics, and has access to my Plex server, and all of my home media) but those are more intentional distractions. The feedback loop of:
 
