@@ -5,7 +5,7 @@ published: true
 title: 'Journalism as a weapon - [Newsletter 2017-04-03]'
 splash-wide: /images/17587495_1898787323696771_633451811520380928_n.jpg
 ---
-I send out a semi-regular newsletter. Durring the warmer months, I tend to manage about an issue per week. You can [sign up for it here](http://tinyletter.com/ajroach42). I just sent out [today's entry](http://tinyletter.com/ajroach42/letters/andrew-writing-journalism-is-a-gun-i-wrote-a-bunch-of-stuff), which contains a couple of particularly bits that I wanted to share a little more widely. 
+I send out a semi-regular newsletter. Durring the warmer months, I tend to manage about an issue per week. You can [sign up for it here](http://tinyletter.com/ajroach42). I just sent out [today's entry](http://tinyletter.com/ajroach42/letters/andrew-writing-journalism-is-a-gun-i-wrote-a-bunch-of-stuff), which contains a couple of bits that I wanted to share a little more widely. 
 
 I get a bit more political in the newsletter than I often do on this blog. 
 
