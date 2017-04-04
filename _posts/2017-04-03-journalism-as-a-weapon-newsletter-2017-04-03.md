@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Journalism as a weapon - [Newsletter 2017-04-03]'
 splash-wide: /images/17587495_1898787323696771_633451811520380928_n.jpg
 ---
@@ -105,7 +105,3 @@ As the days get longer, I'll likely write newsletters a bit more often. I'd appr
 [25]: https://theintercept.com/2017/01/31/the-fbi-has-quietly-investigated-white-supremacist-infiltration-of-law-enforcement/
 [26]: https://thenib.com/cyberpunk-dystopia
 [27]: https://www.buzzfeed.com/maryanngeorgantopoulos/president-trump-lie-list?utm_term=.nh1D1XOMV#.ba7GWz5Xp
-
-
-
-
