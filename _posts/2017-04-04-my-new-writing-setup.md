@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'My New Writing Setup '
 splash-wide: /images/IMG_0790.JPG
 ---
@@ -36,6 +36,4 @@ There are distractions on the Fire, to be sure. (It's loaded down with books and
 - checking tumblr, 
 - checking twitter, etc. 
 
-is tempered by the fact that I don't have apps for most of those platforms, and the mobile sites are slow enough that I don't feel an instant sense of gratification. The browser isn't horrible. If I wanted those things, I could get to them. It's just inconvient enough that I probably won't. 
-
-
+is tempered by the fact that I don't have apps for most of those platforms, and the mobile sites are slow enough that I don't feel an instant sense of gratification. The browser isn't horrible. If I wanted those things, I could get to them. It's just inconvient enough that I probably won't.
