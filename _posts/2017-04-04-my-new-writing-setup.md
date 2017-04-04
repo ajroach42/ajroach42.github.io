@@ -11,7 +11,7 @@ He said that he works this way because:
 
 > I'm one of those people who has trouble writing at length on my main machine, because of all the distractions it offers. Email and messaging and social networking: they all combine to form the "ludic loop" that Mark recently blogged about. 
 
-After trying a few different "distraction free" writing environments, he came to the conclusion that he needed something that stayed out of his way when he was working (and, as a blogger, that meant it needed to be able to access the internet) but also didn't let him easily get distracted (meaning that feature rich websites should be a pain to e.) 
+After trying a few different "distraction free" writing environments, he came to the conclusion that he needed something that stayed out of his way when he was working (and, as a blogger, that meant it needed to be able to access the internet) but also didn't let him easily get distracted (meaning that facebook should be a pain to use.) 
 
 I used to do something similar with a Tandy 100 and an SSH server, but at 35 years old, the Tandy can't really be a Daily Driver for me anymore. As I read Rob's post, it became clear to me that I needed a similar solution. 
 
