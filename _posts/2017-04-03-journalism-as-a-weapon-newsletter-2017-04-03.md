@@ -86,9 +86,7 @@ State violence is growing. [We live in a 90's cyberpunk dystopia][26].
 
 (There's a lot more to this line of thought, if you're interested you can [read the full letter here](http://tinyletter.com/ajroach42/letters/andrew-writing-journalism-is-a-gun-i-wrote-a-bunch-of-stuff).) 
 
-***
 
-As the days get longer, I'll likely write newsletters a bit more often. I'd appreciate it if you [subscribed](http://tinyletter.com/ajroach42). 
 
 
 [14]: http://www.11alive.com/traffic/i-85-collapse/massive-fire-burning-under-i-85-in-atlanta/426986746
