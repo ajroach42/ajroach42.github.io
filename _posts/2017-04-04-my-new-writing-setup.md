@@ -5,7 +5,7 @@ published: true
 title: 'My New Writing Setup '
 splash-wide: /images/IMG_0790.JPG
 ---
-A few days ago, over on Boingboing, Rob Beschizza shared [his new writing setup](http://boingboing.net/2017/03/16/my-new-writing-setup.html). A plank keyboard, an old iMac, and some beautiful vintage speakers, tucked away in a corner of his abode. 
+A few days ago, over on Boingboing, Rob Beschizza shared [his new writing setup](http://boingboing.net/2017/03/16/my-new-writing-setup.html). A planck keyboard, an old iMac, and some beautiful vintage speakers, tucked away in a corner of his abode. 
 
 He said that he works this way because: 
 
