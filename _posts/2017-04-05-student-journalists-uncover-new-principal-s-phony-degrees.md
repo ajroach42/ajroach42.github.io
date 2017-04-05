@@ -16,6 +16,8 @@ A group of Pittsburg High School students, working as student journalists, dug i
 
 Corllins University is, in fact, a notorius diploma mill. Armed with this information, the students published their findings. Shortly thereafter, the new principal resigned. I'm really pleased with this outcome, and I'm proud of the students who uncovered this information. 
 
-Journalism is a weapon against corruption and lies, and that's true on the national and international scale as much as it's true on the local scale. The truth is a powerful thing, but it is up to each of us to bring it in to the light, and to expose lies as lies as often as possible. We need more journalists, and we need to support those journalists financially. 
+Journalism is a weapon against corruption and lies, and that's true on the national and international scale as much as it's true on the local scale. The truth is a powerful thing, but it is up to each of us to bring it in to the light, and to expose lies as lies as often as possible. 
+
+This is our fight. If we aren't going to participate, we at least need to support journalists financially. Without them, we're all screwed. 
 
 [Via KansasCity.com](http://www.kansascity.com/news/local/article142682464.html)
