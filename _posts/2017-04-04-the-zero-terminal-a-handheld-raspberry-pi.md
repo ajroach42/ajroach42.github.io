@@ -44,4 +44,4 @@ I'd love to see something like this done with a [Razer Junglecat](https://www.am
 I think the most interesting bit about all of this, though, is the fact that it's self contained. If you configured this device as a wireless router and web server, you could have a pretty interesting little [Library Box/Pirate Box/BBS](https://medium.com/@ajroach42/a-modern-bbs-reviving-the-local-distributed-weird-precursor-to-facebook-4b3db93f742d). 
 
 
-Via: https://n-o-d-e.net/zeroterminal.html
+[Via: https://n-o-d-e.net/zeroterminal.html](https://n-o-d-e.net/zeroterminal.html)
