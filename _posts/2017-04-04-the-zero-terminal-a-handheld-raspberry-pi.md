@@ -5,7 +5,7 @@ published: true
 title: 'The Zero Terminal - A Handheld Raspberry Pi '
 splash-wide: /images/zero-terminal_03.jpg
 ---
-I've just stumbled across this particularly excellent Handheld Raspberry Pi project from [Node](https://n-o-d-e.net/zeroterminal.html). It is built around the Pi 0 W, with built in Wifi and Bluetooth, and it looks like a perfect weekend project, and exactly the kind of thing I wished I had when I was 15. 
+I've just stumbled across this particularly excellent Handheld Raspberry Pi project from [Node](https://n-o-d-e.net/zeroterminal.html). It is built around the [Raspberry Pi 0 W](https://www.raspberrypi.org/magpi/pi-zero-w/), with built in Wifi and Bluetooth, and it looks like a perfect weekend project, and exactly the kind of thing I wished I had when I was 15. 
 
 ![zero-terminal_03.jpg]({{site.baseurl}}/images/zero-terminal_03.jpg)
 
