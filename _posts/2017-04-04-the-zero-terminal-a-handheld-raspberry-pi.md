@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'The Zero Terminal - A Handheld Raspberry Pi '
 splash-wide: /images/zero-terminal_03.jpg
 ---
