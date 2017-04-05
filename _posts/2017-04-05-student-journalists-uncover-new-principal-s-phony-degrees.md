@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Student Journalists Uncover New Principal's Phony Degrees
 splash-wide: /images/QscNt0q.jpg
 ---
