@@ -12,11 +12,8 @@ I've just stumbled across this particularly excellent Handheld Raspberry Pi proj
 NODE says: 
 
 >This is the third iteration in the Handheld Linux Terminal project I've been working on for a while now. Like the others, the aim is to create a small, all-in-one computer that is both portable, and usable.
-
 >One of the main problems with the last version was that it took way too long to make, and some of the finishing wasn't as good as it could have been.
-
 >However, this version takes a slightly different approach, to create a much more polished finished product. It also has a few more features, like HDMI out, wifi and bluetooth built in, and 50% larger battery capacity.
-
 >I call it the Zero Terminal.
 
 He covers the details in this excellent video: 
