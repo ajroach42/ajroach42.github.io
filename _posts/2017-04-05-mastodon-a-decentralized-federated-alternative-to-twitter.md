@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Mastodon: A Decentralized, Federated alternative to Twitter '
 splash-wide: /images/68747470733a2f2f692e696d6775722e636f6d2f543271355636352e706e67.png
 ---
