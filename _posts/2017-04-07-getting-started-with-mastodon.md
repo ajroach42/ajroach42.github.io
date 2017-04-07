@@ -18,7 +18,7 @@ Mastodon is a different kind of social network. It's an implementation of the [G
 
 Mastodon is a platform for sharing 500 character messages (colloquially known as Toots) in a timeline. In theory, this is much the same as Twitter, and Mastodon has drawn lots of comparisons to twitter (even from me) but there are some big differences between mastodon and twitter that are worth discussing. 
 
-1) Mastodon is federated and decentralized
+### 1) Mastodon is federated and decentralized
  - Okay, so what does that mean? It means that, unlike Facebook or Twitter where there is One place to interact with the service and that place is entirely controlled by a single corporation, with Mastodon there are dozens of different places you can interact with the service (known in this case as instances.)
  - Anyone can launch their own instance, and any instance can communicate with any other instance. 
   - ( Well, mostly. We'll discuss that more below. )
@@ -27,12 +27,12 @@ Mastodon is a platform for sharing 500 character messages (colloquially known as
  - For example: Users from [Mastodon.Social](http://mastodon.social) can easily interact with users from [Toot.Cafe](https://toot.cafe/about/more), and vice-versa. 
  - There's a local timeline, showing all posts on the local instance, and a federated timeline, showing all posts that have been seen by users on this instance (and are set to public.) 
 
-2) Mastodon has very fine grained privacy controls. 
+### 2) Mastodon has very fine grained privacy controls.
  - Individual users can choose on a per-post basis who to share their toots with. 
  - Individual users can choose on a per-user basis to mute or block specific accounts 
  - Instance administrators can choose on a per instance basis to mute instances (allowing users to interact between the instances, but preventing content from one instance from appearing in the federated timeline of the other instance) or block instances (especially useful when troll instances spring up.) 
 
-3) Mastodon does not have global usernames. 
+### 3) Mastodon does not have global usernames.
  - Right now, I'm [@ajroach42@mastodon.social](https://mastodon.social/@ajroach42) 
  - You could be @ajroach42@mastodon.cloud, and that's okay! 
  - This is a feature, not a bug.
@@ -44,31 +44,31 @@ Mastodon is a platform for sharing 500 character messages (colloquially known as
   - If you have ideas on this front, I'd love to hear about them.
  - At the moment, there isn't any form of indentity validation built in to Mastodon. There are a couple of ideas in the works, and we'll see if anything comes of that. It's okay if it doesn't! Identity validation is not a Mastodon specific problem, and it does not need a Mastodon Specific solution (more on that later.) 
 
-4) Mastodon is GNUSocial with a pretty coat of paint. 
+### 4) Mastodon is GNUSocial with a pretty coat of paint.
  - GNU Social has been around forever
  - From Mastodon instances, you can follow GNUSocial users and viceversa
  - Mastodon is WAY easier to use than GNUSocial, and it looks better, so I'll be using it. 
  - Mastodon has a more up-to-date Client-Server API than GNUSocial, but the Server-Server protocal is the same. 
 
-5) Mastodon is [open source](https://github.com/tootsuite/mastodon), under the AGPL 
+### 5) Mastodon is [open source](https://github.com/tootsuite/mastodon), under the AGPL
  - This means you can make your own modifications to Mastodon 
  - This means that your modifications have to be released under the AGPL 
  - This means that anyone can contribute to Mastodon, and help the project grow
  - So if the service is missing a feature you'd like to see, implement it and [make a pull request](https://github.com/tootsuite/mastodon). 
 
-6) Mastodon works on iOS and Android 
+### 6) Mastodon works on iOS and Android
  - There are good [clients available for both platforms](https://github.com/tootsuite/mastodon/blob/master/docs/Using-Mastodon/Apps.md), and I have enjoyed using it as a mobile application. 
 
-7) Most Mastodon instances take a hard line on harassment
+### 7) Most Mastodon instances take a hard line on harassment
  - This is a community project, and no instances currently have round-the-clock support
  - But the community policies of most instances explicitly forbid harassment, and I've seen this taken very seriously. 
  - It's not perfect, but it is in good faith, and it's more than Birdsite ever did
 
-8) You don't have to be afraid of Anime Avatars! 
+### 8) You don't have to be afraid of Anime Avatars!
  - On Birdsite, anime avatars are normally a signifier of nazi affiliations 
  - On Mastodon, anima avatars are normally a signifier of an artist, or an anime fan
 
-9) Things are growing quickly, and there will be growing pains
+### 9) Things are growing quickly, and there will be growing pains
  - This is way weirder and different than the social networks you're used to. 
  - It's more like usenet, or even BBSs than a traditional social network 
  - Adjust your expectations accordingly 
