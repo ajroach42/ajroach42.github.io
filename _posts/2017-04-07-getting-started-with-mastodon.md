@@ -3,6 +3,7 @@ layout: post
 category: post
 published: true
 title: Getting Started with Mastodon
+splash-wide: /images/mastodon.png
 ---
 I started using Mastodon a few days ago, and it has been great so far! I'd like to take a few minutes to talk about what makes Mastodon special, and to provide some counter-arguements to the [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt) that I'm seeing about Mastodon all over my feed on birdsite. 
 
