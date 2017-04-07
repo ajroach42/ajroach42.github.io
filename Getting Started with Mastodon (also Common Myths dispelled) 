@@ -16,12 +16,14 @@ Mastodon is a platform for sharing 500 character messages (colloquially known as
  - This is also kind of dangerous, because it means that individual instances might not be trustworthy, or they might disapear without warning. (This is okay! Don't worry! We'll talk about ways to manage this a little later.) 
  - For example: Users from Mastodon.Social can easily interact with users from Toot.Cafe, and vice-versa. 
  - There's a local timeline, showing all posts on the local instance, and a federated timeline, showing all posts that have been seen by users on this instance (and are set to public.) 
+
 2) Mastodon has very fine grained privacy controls. 
  - Individual users can choose on a per-post basis who to share their toots with. 
  - Individual users can choose on a per-user basis to mute or block specific accounts 
  - Instance administrators can choose on a per instance basis to mute instances (allowing users to interact between the instances, but preventing content from one instance from appearing in the federated timeline of the other instance) or block instances (especially useful when troll instances spring up.) 
+
 3) Mastodon does not have global usernames. 
- - Right now, I'm @ajroach42@mastodon.social 
+ - Right now, I'm [@ajroach42@mastodon.social](https://mastodon.social/@ajroach42) 
  - You could be @ajroach42@mastodon.cloud, and that's okay! 
  - This is a feature, not a bug.
  - You can have multiple accounts on multiple instances
@@ -31,30 +33,36 @@ Mastodon is a platform for sharing 500 character messages (colloquially known as
   - Some folks are working on a way to automatically DM your followers if you move to a new instance 
   - If you have ideas on this front, I'd love to hear about them.
  - At the moment, there isn't any form of indentity validation built in to Mastodon. There are a couple of ideas in the works, and we'll see if anything comes of that. 
+
 4) Mastodon is GNUSocial with a pretty coat of paint. 
  - GNU Social has been around forever
  - From Mastodon instances, you can follow GNUSocial users and viceversa
  - Mastodon is WAY easier to use than GNUSocial, and it looks better, so I'll be using it. 
+
 5) Mastodon is [open source](https://github.com/tootsuite/mastodon), under the AGPL 
  - This means you can make your own modifications to Mastodon 
  - This means that your modifications have to be released under the AGPL 
  - This means that anyone can contribute to Mastodon, and help the project grow
  - So if the service is missing a feature you'd like to see, implement it and [make a pull request](https://github.com/tootsuite/mastodon). 
+
 6) Mastodon works on iOS and Android 
  - There are good [clients available for both platforms](https://github.com/tootsuite/mastodon/blob/master/docs/Using-Mastodon/Apps.md), and I have enjoyed using it as a mobile application. 
+
 7) Most Mastodon instances take a hard line on harassment
  - This is a community project, and no instances currently have round-the-clock support
  - But the community policies of most instances explicitly forbid harassment, and I've seen this taken very seriously. 
  - It's not perfect, but it is in good faith, and it's more than Birdsite ever did
+
 8) You don't have to be afraid of Anime Avatars! 
  - On Birdsite, anime avatars are normally a signifier of nazi affiliations 
  - On Mastodon, anima avatars are normally a signifier of an artist, or an anime fan
+
 9) Things are growing quickly, and there will be growing pains
  - This is way weirder and different than the social networks you're used to. 
  - It's more like usenet, or even BBSs than a traditional social network 
  - Adjust your expectations accordingly 
 
-## Adressing Concerns 
+## Addressing Concerns 
 
 So far, I'm having a lot of fun on Mastodon. I have seen a couple of common complaints, and I'd like to address each of them in turn: 
 
@@ -85,7 +93,7 @@ This could be a problem. It hasn't been yet. If it becomes a problem, talk to yo
 
 ### But Mastadon is doomed to die! 
 
-Nah, GNUSocial has been around for 10+ years. It's not going anywhere. 
+Nah, GNUSocial has been around for 10+ years. It's not going anywhere. That means that Mastodon will keep working, too. Use might wax and wane, but because it's decentralized and federated, it can't really die.  
 
 ### But it's too complicated, it'll never replace twitter! 
 
