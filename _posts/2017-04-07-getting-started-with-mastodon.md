@@ -1,10 +1,13 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Getting Started with Mastodon
 ---
 I started using Mastodon a few days ago, and it has been great so far! I'd like to take a few minutes to talk about what makes Mastodon special, and to provide some counter-arguements to the [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt) that I'm seeing about Mastodon all over my feed on birdsite. 
+
+![mastodon.png]({{site.baseurl}}/images/mastodon.png)
+
 
 Let's start from the top: 
 
@@ -20,7 +23,7 @@ Mastodon is a platform for sharing 500 character messages (colloquially known as
   - ( Well, mostly. We'll discuss that more below. )
  - This is really cool! Because it means that no single company can own or control Mastodon. 
  - This is also kind of dangerous, because it means that individual instances might not be trustworthy, or they might disapear without warning. (This is okay! Don't worry! We'll talk about ways to manage this a little later.) 
- - For example: Users from Mastodon.Social can easily interact with users from Toot.Cafe, and vice-versa. 
+ - For example: Users from [Mastodon.Social](http://mastodon.social) can easily interact with users from [Toot.Cafe](https://toot.cafe/about/more), and vice-versa. 
  - There's a local timeline, showing all posts on the local instance, and a federated timeline, showing all posts that have been seen by users on this instance (and are set to public.) 
 
 2) Mastodon has very fine grained privacy controls. 
@@ -38,12 +41,13 @@ Mastodon is a platform for sharing 500 character messages (colloquially known as
   - So if your instance dies, you can continue following all the people you followed before
   - Some folks are working on a way to automatically DM your followers if you move to a new instance 
   - If you have ideas on this front, I'd love to hear about them.
- - At the moment, there isn't any form of indentity validation built in to Mastodon. There are a couple of ideas in the works, and we'll see if anything comes of that. 
+ - At the moment, there isn't any form of indentity validation built in to Mastodon. There are a couple of ideas in the works, and we'll see if anything comes of that. It's okay if it doesn't! Identity validation is not a Mastodon specific problem, and it does not need a Mastodon Specific solution (more on that later.) 
 
 4) Mastodon is GNUSocial with a pretty coat of paint. 
  - GNU Social has been around forever
  - From Mastodon instances, you can follow GNUSocial users and viceversa
  - Mastodon is WAY easier to use than GNUSocial, and it looks better, so I'll be using it. 
+ - Mastodon has a more up-to-date Client-Server API than GNUSocial, but the Server-Server protocal is the same. 
 
 5) Mastodon is [open source](https://github.com/tootsuite/mastodon), under the AGPL 
  - This means you can make your own modifications to Mastodon 
@@ -85,13 +89,15 @@ To be clear, many instances will die over the next few months. There has been a 
 
 Publish your prefered Mastodon handle and instance in multiple places, so that it's easy to find. You can also use tools like [The Mastodon Bridge](https://mastodon-bridge.herokuapp.com/) to verify that you're interacting with the people you think you are. More tools will pop up, and best practices will emerge. 
 
-For now, consider putting together a profile on a service like [Carrd](https://carrd.co/). From there, link to all your public profiles. From all your public profiles, link back to your Carrd. That way, there's no confusion. I'm working on setting something like this up for myself right now. 
+For now, consider putting together a profile on a service like [Carrd](https://carrd.co/). From there, link to all your public profiles. From all your public profiles, link back to your Carrd. That way, there's no confusion. [I'm working on setting something like this up for myself right now](http://ajroach42.social). 
+
+I'm also hearing a lot of talk about using Keybase as a way to cryptographically verify that an instance belongs to a specific user. That's cool too! 
 
 ### I heard that instance admins can read your DMs
 
-Yep, that's true. It's also true for Twitter, for Facebook, and for Email (unless you're using encryption.) Heck, Police don't even need a warrant to access any electronic communications older than 6 months, and social services don't have to notify you that your data has been accessed. 
+Yep, that's true. **It's also true for Twitter, for Facebook, and for Email** (unless you're using encryption.) Heck, [Police don't even need a warrant to access any electronic communications older than 6 months](https://www.propublica.org/special/no-warrant-no-problem-how-the-government-can-still-get-your-digital-data), thanks to a dumb law from 1986, and social services don't have to notify you that your data has been accessed. 
 
-Don't use a social network for publishing senstive information. This is not a Mastodon specific problem. 
+Don't use a social network for publishing senstive information. This is not a Mastodon specific problem. If you have something that needs to be shared actually in private, use [strong encryption](https://www.eff.org/secure-messaging-scorecard) in the form of PGP, OTR, or a secure messaging app like Signal or Cryptocat. 
 
 ### What about bad actors on other instances? Or bad instances? 
 
@@ -99,7 +105,9 @@ This could be a problem. It hasn't been yet. If it becomes a problem, talk to yo
 
 ### But Mastadon is doomed to die! 
 
-Nah, GNUSocial has been around for 10+ years. It's not going anywhere. That means that Mastodon will keep working, too. Use might wax and wane, but because it's decentralized and federated, it can't really die.  
+Nah, GNUSocial has been around for 10+ years. It's not going anywhere. That means that Mastodon will keep working, too. Use might wax and wane, but because it's decentralized and federated, it can't really die.
+
+Heck, if anything, it'll out live twitter. 
 
 ### But it's too complicated, it'll never replace twitter! 
 
@@ -110,5 +118,4 @@ Nope, it won't replace twitter. It will provide an alternative to twitter for th
 
 So yeah, come join us on Mastodon. Take a look at [the instance list here](https://github.com/tootsuite/mastodon/blob/master/docs/Using-Mastodon/List-of-Mastodon-instances.md), and pick your instance with care. 
 
-Once you've joined, come find me. [@ajroach42@mastodon.social](https://mastodon.social/@ajroach42). 
-
+Once you've joined, come find me. [@ajroach42@mastodon.social](https://mastodon.social/@ajroach42).
