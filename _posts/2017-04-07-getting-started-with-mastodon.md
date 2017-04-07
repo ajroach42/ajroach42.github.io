@@ -66,7 +66,7 @@ Mastodon is a platform for sharing 500 character messages (colloquially known as
 
 ### 8) You don't have to be afraid of Anime Avatars!
  - On Birdsite, anime avatars are normally a signifier of nazi affiliations 
- - On Mastodon, anima avatars are normally a signifier of an artist, or an anime fan
+ - On Mastodon, anime avatars are normally a signifier of an artist, or an anime fan
 
 ### 9) Things are growing quickly, and there will be growing pains
  - This is way weirder and different than the social networks you're used to. 
