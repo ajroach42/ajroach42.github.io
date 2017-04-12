@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: ' Bourgeois King from Canyons of my Mind by Andrew Combs'
 splash-wide: /images/canyons.jpg
 ---
@@ -43,5 +43,3 @@ Build a wall to keep us free
 Build a wall to keep us free 
 Build a wall to block the enemy 
 Build a wall to keep us free
-
-
