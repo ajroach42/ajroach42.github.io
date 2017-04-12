@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'My Own Kind of Freedom - The Free, Full Length Firefly novel by Steven Brust'
 splash-tall: /images/firefly.jpg
 ---
@@ -25,4 +25,4 @@ So now we know, roughly, how the thing came in to existance. Let's talk about wh
 
 Brust really captures the spirit of these characters, especially Jayne, and the end result is an absolute delight. 
 
-You can [download My Own Kind of Freedom here](http://dreamcafe.com/wp-content/uploads/2012/10/My-Own-Kind-of-Freedom-Steven-Brust.pdf). 
+You can [download My Own Kind of Freedom here](http://dreamcafe.com/wp-content/uploads/2012/10/My-Own-Kind-of-Freedom-Steven-Brust.pdf).
