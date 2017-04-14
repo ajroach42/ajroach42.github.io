@@ -4,8 +4,6 @@ category: post
 published: false
 title: 'The Galactic Patrol - A DIY 3D printed Starship Dogfight Tabletop game '
 splash-tall: /images/Galactic%20Patrol.jpg
-splash-wide: ''
-tags: ''
 ---
 
 For the last few weeks, I have been working on-and-off on a new DIY tabletop game I'm calling The Galactic Patrol. I'm using [models](http://www.thingiverse.com/thing:126347) designed by [Arian Croft](http://www.thingiverse.com/dutchmogul/about), and licenced under a CC-BY-SA licence. Eventually, I'll probably start using models of my own ([Reach Out if you want to help with that!](https://mastodon.social/ajroach42)), but I'll be keeping the CC-BY-SA licsense because I like it.  
@@ -16,9 +14,9 @@ Arian's models include a full, playable ruleset which is pretty fun, but it resu
 
 My ruleset simplifies the prep work, removes the tiles, and makes the game a little more pick-up-and-play. I'll go in to some more details about the rules bellow, if you're interested in trying them out. Keep in mind that this is a work in progress, and things may change. 
 
-If you'd like to play The Galactic Patrol and you don't have a 3D printer, I will carry a starter kit in my online store. The kit features all the peices required for game play, a complete rulebook, and a comicbook set in the Galactic Patrol universe. (It's not available yet, but I should have it posted soon. Sign up for my mailinglist for more info!)
+If you'd like to play The Galactic Patrol and you don't have a 3D printer, I will carry a starter kit in [my online store](http://spaceageideas.com). The kit features all the peices required for game play, a complete rulebook, and a comicbook set in the Galactic Patrol universe. (It's not available yet, but I should have it posted soon. [Sign up for my newsletter for more info](http://tinyletter.com/ajroach42)!)
 
-I'm finished up the official rulebook this weekend, and making it all pretty. I'll post some pictures when I get them back from the printer next week. In the meantime, here is a quick summary. 
+I'm finishing up the official rulebook this weekend, and then sending it off for layout. I'll post some pictures when I get them back from the printer next week. In the meantime, here is a quick summary of the rules. 
 
 ## The Rules: 
 
