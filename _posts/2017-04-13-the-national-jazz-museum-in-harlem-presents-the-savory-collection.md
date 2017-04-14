@@ -5,7 +5,7 @@ published: true
 title: 'The National Jazz Museum In Harlem Presents: The Savory Collection'
 splash-wide: /images/23SAVORYCOLLECTION-master768.jpg
 ---
-Okay jazz fans! Last night I talked about [Count Basie and Billie Holiday Live in 1937](http://ajroach42.github.io/count-basie-and-billie-holiday-swing-brother-swing-live-1937/) Tonight I want to talk about a newly discovered collection of Jazz from the 30s. Specifically, I'm talking about The Savory Collection. 
+Okay jazz fans! Last night I talked about [Count Basie and Billie Holiday Live in 1937](http://ajroach42.github.io/count-basie-and-billie-holiday-swing-brother-swing-live-1937/), Tonight I want to talk about a newly discovered collection of Jazz from the 30s. Specifically, I'm talking about The Savory Collection. 
 
 ![23SAVORYCOLLECTION-master768.jpg]({{site.baseurl}}/images/23SAVORYCOLLECTION-master768.jpg)
 
