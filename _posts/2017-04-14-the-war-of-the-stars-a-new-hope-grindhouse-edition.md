@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'The War of the Stars: A New Hope Grindhouse Edition '
 splash-wide: /images/SWgrindhouseThrowSM.jpg
 ---
@@ -24,4 +24,4 @@ Frankly, it's wonderful, and you should watch it as soon as your able.
 
 After this film, TMBTM wasn't done with his new, weirder War of the Stars universe. He released a sequel: [The War of the Stars II: The Future In Motion](https://vimeo.com/151808492). This sequel is even better than The War of the Stars, and makes even more dramatic changes to // Deviations from the source material (condensing 2 films in to one, giving Bobba Fett a larger role.) It's not a Grindhouse cut. The visuals are clean and clear, and the editing is very well executed. 
 
-Even if you're not a Star Wars super fan, it's worth giving these films a chance as they present a very different vision of the Star Wars universe. 
+Even if you're not a Star Wars super fan, it's worth giving these films a chance as they present a very different vision of the Star Wars universe.
