@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'The National Jazz Museum In Harlem Presents: The Savory Collection'
 splash-wide: /images/23SAVORYCOLLECTION-master768.jpg
 ---
@@ -33,4 +33,4 @@ They feature recordings from artists who rarely (if ever) appeared in the studio
 - Both the releases are [iTunes exclusives](https://itunes.apple.com/us/album/national-jazz-museum-in-harlem-presents-savory-collection/id1180751341), with no Physical Media. 
 
 
-Learn more [from The Jazz Museum in Harlem](http://jazzmuseuminharlem.org/the-museum/collections/the-savory-collection/). 
+Learn more [from The Jazz Museum in Harlem](http://jazzmuseuminharlem.org/the-museum/collections/the-savory-collection/).
