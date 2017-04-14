@@ -2,7 +2,7 @@
 layout: post
 category: post
 published: false
-title: ''
+title: 'The Galactic Patrol - A DIY 3D printed Starship Dogfight Tabletop game '
 ---
 For the last few weeks, I have been working on-and-off on a new DIY tabletop game I'm calling The Galactic Patrol. I'm using [models](http://www.thingiverse.com/thing:126347) designed by [Arian Croft](http://www.thingiverse.com/dutchmogul/about), and licenced under a CC-BY-SA licence. Eventually, I'll probably start using models of my own ([Reach Out if you want to help with that!](https://mastodon.social/ajroach42)), but I'll be keeping the CC-BY-SA licsense because I like it.  
 
