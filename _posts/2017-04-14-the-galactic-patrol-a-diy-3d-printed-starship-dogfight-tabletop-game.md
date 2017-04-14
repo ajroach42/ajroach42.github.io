@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'The Galactic Patrol - A DIY 3D printed Starship Dogfight Tabletop game '
 splash-tall: /images/Galactic%20Patrol.jpg
 ---
