@@ -24,7 +24,7 @@ I'm finishing up the official rulebook this weekend, and then sending it off for
 
 Setup is pretty simple! 
 
-First, define the edges of your playing space, and make sure they are clearly marked. I prefer to play across a table sized surface, but the game works well at sizes from 8.5 x 11 up. The larger your play surface, the easier it is to envolve more people in the game. 
+First, define the edges of your playing space, and make sure they are clearly marked. I prefer to play across a table sized surface, but the game works well at sizes from 8.5 x 11 up. The larger your play surface, the easier it is to involve more people in the game. 
 
 Second, distribute the ships, and the dice. Each player should get the same number of ships (3 for a quick match, 6 for a standard match, there is no upper bound and larger matches can involve as many ships as you'd like.) Eache player should also get two six or eight sided die. 
 
