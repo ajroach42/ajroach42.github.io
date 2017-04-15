@@ -6,7 +6,7 @@ title: 'The Galactic Patrol - A DIY 3D printed Starship Dogfight Tabletop game '
 splash-tall: /images/Galactic%20Patrol.jpg
 ---
 
-For the last few weeks, I have been working on-and-off on a new DIY tabletop game I'm calling The Galactic Patrol. I'm using [models](http://www.thingiverse.com/thing:126347) designed by [Arian Croft](http://www.thingiverse.com/dutchmogul/about), and licensed under a [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode) licence. Eventually, I'll probably start using models of my own ([Reach Out if you want to help with that!](https://mastodon.social/ajroach42)), but I'll be keeping the CC-BY-SA license because I like it.  
+For the last few weeks, I have been working on-and-off on a new DIY tabletop game I'm calling The Galactic Patrol. I'm using [models](http://www.thingiverse.com/thing:126347) designed by [Arian Croft](http://www.thingiverse.com/dutchmogul/about), and licensed under a [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode) licence. Eventually, I'll probably start using models of my own ([Reach Out if you want to help with that!](https://mastodon.social/@ajroach42)), but I'll be keeping the CC-BY-SA license because I like it.  
 
 ![Galactic Patrol.jpg]({{site.baseurl}}/images/Galactic Patrol.jpg)
 
@@ -106,4 +106,4 @@ Play continues in this fashion util one of the following conditions has been met
 - The flag is captured, and returned to base (in the event of a CTF match.)
 
 
-__As a dumb sidebar, I'd like to point out that the rules of [games cannot be copyrighted in the US.](https://boardgamegeek.com/thread/493249/mythbusting-game-design-and-copyright-trademarks-a) and that the CC-BY-SA license I refer to above applies only to the design and presentation. (The 3D models, the illustrations, the text of the rule book (but not the rules themselves.), etc.) It is an odd situation in US law, and likely responsible for plenty of headaches.__ 
+__As a dumb sidebar, I'd like to point out that the rules of [games cannot be copyrighted in the US.](https://boardgamegeek.com/thread/493249/mythbusting-game-design-and-copyright-trademarks-a) and that the CC-BY-SA license I refer to above applies only to the design and presentation. (The 3D models, the illustrations, the text of the rule book (but not the rules themselves.), etc.) It is an odd situation in US law, and likely responsible for plenty of headaches.__
