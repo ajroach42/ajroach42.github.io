@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Jazz Noir - Speaking of Happiness - Gloria Lynn
 splash-tall: /images/large.jpg
 ---
