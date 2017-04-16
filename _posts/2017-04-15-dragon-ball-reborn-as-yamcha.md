@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Dragon Ball: Reborn As Yamcha'
 splash-tall: /images/yamcha.png
 ---
@@ -14,4 +14,4 @@ The second volume is due out soon, and I'm sure we'll get a translation of that 
 ![yamcha.png]({{site.baseurl}}/images/yamcha.png)
 
 
-I'll post about it here when we do. 
+I'll post about it here when we do.
