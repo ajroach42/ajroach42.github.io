@@ -14,8 +14,8 @@ The comic covers the daily life, and the politics, of a far future world which i
 ![poster_01_bw.png]({{site.baseurl}}/images/poster_01_bw.png)
 
 
-I first heard about this comic through the newsletter of [Warren Ellis](http://orbitaloperations.com/), who is far and away my favorite comics author. If it has his seal of approval, you know it's going to be good. In this case, that was a bit of an understatement. In the first three chapters, Ganzeer has laid the groundwork for something truly groundbreaking. 
+I first heard about this comic through the newsletter of [Warren Ellis](http://orbitaloperations.com/), who is far and away my favorite comics author. If it has his seal of approval, you know it's going to be good. In this case, that was a bit of an understatement. In the first three chapters, Ganzeer has laid the framework for something truly groundbreaking. 
 
 I'm not normally one to try and push kickstarter projects, but I very much want to see this one be successful. 
 
-So, you know, go do the thing.
+So, you know, [go do the thing](https://www.kickstarter.com/projects/ganzeer/the-solar-grid-a-graphic-novel?ref=project_link).
