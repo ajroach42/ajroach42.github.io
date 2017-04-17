@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'The Solar Grid: A Comic Book by Ganzeer'
 splash-wide: /images/The Solar Grid 01.png
 ---
@@ -15,4 +15,4 @@ I first heard about this comic through the newsletter of [Warren Ellis](http://o
 
 I'm not normally one to try and push kickstarter projects, but I very much want to see this one be successful. 
 
-So, you know, go do the thing. 
+So, you know, go do the thing.
