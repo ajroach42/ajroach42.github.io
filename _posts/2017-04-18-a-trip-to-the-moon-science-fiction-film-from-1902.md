@@ -5,7 +5,7 @@ published: true
 title: A Trip to the Moon (Science Fiction film from 1902)
 splash-wide: /images/Screenshot_2017-04-18-22-24-20.png
 ---
-![Screenshot_2017-04-18-22-24-20.png]({{site.baseurl}}/images/Screenshot_2017-04-18-22-24-20.png)
+![Screenshot_2017-04-18-22-24-35.png]({{site.baseurl}}/images/Screenshot_2017-04-18-22-24-35.png)
 I have been on something of a vintage science fiction kick recently. What better way to celibrate that than with a restored, color print of Georges Melies 1902 opus, A Trip to the Moon. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zmDhyaKNF-s" frameborder="0" allowfullscreen></iframe>
@@ -15,6 +15,8 @@ Yes, it is from 1902, making it 105 years old. Yes, the fragments of color you s
 ![]({{site.baseurl}}/images/Screenshot_2017-04-18-22-24-20.png)
 
 A Trip to the Moon is often considered to be the first Science Fiction Film. Further, Georges Melies is acknowledged as having invented narative film, and the concept of special effects. 
+
+![]({{site.baseurl}}/images/Screenshot_2017-04-18-22-24-35.png)
 
 Nearly every one of his movies was groundbreaking for some reason or other and, while many survive, dozens of important works were lost to the ravages of time. 
 
