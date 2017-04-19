@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'The First Horror Film: The Devil''s Castle '
 ---
 Are you a fan of horror films? Thank Georges Melies. [I've written about Melies before](http://ajroach42.github.io/a-trip-to-the-moon-science-fiction-film-from-1902/), but this is a little different. It's a horror film, a comedy, one of the longest narrative films released up to that point, and 3 minutes long. 
