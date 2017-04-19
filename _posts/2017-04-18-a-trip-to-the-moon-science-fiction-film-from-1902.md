@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: A Trip to the Moon (Science Fiction film from 1902)
 splash-wide: /images/Screenshot_2017-04-18-22-24-20.png
 ---
@@ -20,4 +20,4 @@ Nearly every one of his movies was groundbreaking for some reason or other and, 
 
 A Trip to the Moon, itself, is a fun, silly affair. It appears to be an adaptation of the Opera of the same name (itself an adaptation of the Verne novel **From the Earth to the Moon.**
 
-Some wizard looking folks launch themselves to the moon in a canon, and then kill moon-men with an umbrella. It won't win any awards for a stunning screenplay, but it doesn't have to. It came first, and every science fiction film and TV show that has followed lives in it's shadow. 
+Some wizard looking folks launch themselves to the moon in a canon, and then kill moon-men with an umbrella. It won't win any awards for a stunning screenplay, but it doesn't have to. It came first, and every science fiction film and TV show that has followed lives in it's shadow.
