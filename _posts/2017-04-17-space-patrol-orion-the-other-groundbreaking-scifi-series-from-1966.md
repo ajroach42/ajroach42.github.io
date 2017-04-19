@@ -5,9 +5,10 @@ published: true
 title: 'Space Patrol Orion: The other groundbreaking scifi series from 1966'
 splash-wide: /images/Screenshot_2017-04-18-21-15-03.png
 ---
-You know that show that premiered in Septermeber of 1966? That one that was set in space, and had women in command positions, and on the bridge of a starship? No, not Star Trek. The one from Germany. Raumpartrouille Orion AKA Space Patrol Orion. What do you mean you've never heard of it?
+You know that show that premiered in Septermeber of 1966? That one that was set in space, and had women in command positions, and on the bridge of a starship? No, not Star Trek. The one from Germany. **Raumpartrouille Orion** AKA **Space Patrol Orion**.
 
 So, let's get this out of the way up front. Space Patrol Orion ran for Seven episodes. It's in black and white. The special effects, such as they are, are pretty basic. 
+
 ![Screenshot_2017-04-18-21-15-03.png]({{site.baseurl}}/images/Screenshot_2017-04-18-21-15-03.png)
 
 
