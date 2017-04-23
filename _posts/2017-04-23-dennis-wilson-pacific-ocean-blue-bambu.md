@@ -3,8 +3,11 @@ layout: post
 category: post
 published: false
 title: Dennis Wilson - Pacific Ocean Blue // Bambu
+splash-wide: /images/Dennis_Wilson_1971.jpg
 ---
 If you know any of the Wilson brothers, it's probably Brian Wilson. Brian was the brain behind the Beach Boys' most well remembered albums. Dennis, though, released an excelent solo album in 1977, and he was working on a follow up when he passed away in 1983. 
+
+![]({{site.baseurl}}/images/Dennis_Wilson_1971.jpg)
 
 Dennis was the only member of the Beach Boys to actually surf. He was an enigmatic figure, a musician, an actor, a one-time friend of Charles Manson, and the second most important and influential member of the Beach Boys after Brian. 
 
