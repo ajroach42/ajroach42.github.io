@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Dennis Wilson - Pacific Ocean Blue // Bambu
 splash-wide: /images/Dennis_Wilson_1971.jpg
 ---
