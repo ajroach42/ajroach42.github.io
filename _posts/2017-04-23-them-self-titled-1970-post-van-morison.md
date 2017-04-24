@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Them - Self Titled (1970, post Van Morison) '
 splash-wide: /images/R-4123846-1466177772-1840.jpeg.jpg
 ---
@@ -13,4 +13,4 @@ Sometime after recording the sessions that became [Astro Sounds from beyond the 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R_ZCnhDXn_8" frameborder="0" allowfullscreen></iframe>
 
-The album flopped. Them would break up for good a few years later. Doesn't matter, though. This 1970 Self Titled release showcases Jerry Cole at his prime, and it's worth listening to for that. 
+The album flopped. Them would break up for good a few years later. Doesn't matter, though. This 1970 Self Titled release showcases Jerry Cole at his prime, and it's worth listening to for that.
