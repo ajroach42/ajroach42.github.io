@@ -5,7 +5,7 @@ published: true
 title: 'Them - Self Titled (1970, post Van Morison) '
 splash-wide: /images/R-4123846-1466177772-1840.jpeg.jpg
 ---
-In 1964 Them released _Gloria_ and changed the face of garage rock forever. In 1966, Van Morrison (the lead singer and principal songwriter of Them) left the band to persue a solo career. In 1970 Them released what is probably their best album, even though no one was paying attention. 
+In 1964 Them released _Gloria_ and changed the face of garage rock forever. In 1966 Van Morrison (the lead singer and principal songwriter of Them) left the band to persue a solo career. In 1970 Jerry Cole joined Them, and together they released what is probably their best album, even though no one was paying attention. 
 
 ![]({{site.baseurl}}/images/R-4123846-1466177772-1840.jpeg.jpg)
 
