@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Astro Sounds from beyond the year 2000 '
 splash-wide: /images/MH-8048-400.jpg
 ---
@@ -15,4 +15,4 @@ Then, because he hadn't milked this material enough, Paul Arnold took the outtak
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vozNPNJ4zqI" frameborder="0" allowfullscreen></iframe>
 
-It's amazing that something so neat and weird could come out of such a convoluted proccess. I admit, I don't think I'd have given the 101 Strings version a second glance if I had seen it flipping the stacks. So much of what was put out under that name is Boring Garbage, but apparently some of it deserves revisiting. 
+It's amazing that something so neat and weird could come out of such a convoluted proccess. I admit, I don't think I'd have given the 101 Strings version a second glance if I had seen it flipping the stacks. So much of what was put out under that name is Boring Garbage, but apparently some of it deserves revisiting.
