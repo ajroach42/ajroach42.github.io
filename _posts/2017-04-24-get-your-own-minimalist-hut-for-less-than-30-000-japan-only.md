@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Get your own minimalist hut for less than $30,000 (Japan Only) '
 splash-wide: images/hut2017_mainimg03.jpg
 ---
