@@ -16,7 +16,7 @@ Then, because he hadn't milked this material enough, Paul Arnold took the outtak
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vozNPNJ4zqI" frameborder="0" allowfullscreen></iframe>
 
 
-It's amazing that something so neat and weird could come out of such a convoluted proccess. I admit, I don't think I'd have given the 101 Strings version a second glance if I had seen it flipping the stacks. So much of what was put out under that name is Boring Garbage, but apparently some of it deserves revisiting.
+It's amazing that something so neat and weird could come out of such a convoluted proccess. I admit, I don't think I'd have given the 101 Strings version a second glance if I had seen it flipping the stacks. So much of what was put out under that name is Boring Garbage, but apparently some of it deserves revisiting. Track B4, at 20:32 is especially fantastic. 
 
 
 It's important to note that Jerry Cole is a legend. He was a member of the Wrecking Crew, a group of Studio Musicians that played on pretty much every California pop album of any significance, including: Pet Sounds, Mr. Tambourine Man, and just about everything Phil Spector produced. I shouldn't be surprised that he was involved with this record, or that the end result is so damn cool. 
