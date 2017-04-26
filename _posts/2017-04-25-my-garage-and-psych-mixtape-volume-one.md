@@ -13,6 +13,6 @@ I discovered [Mixcloud](https://www.mixcloud.com/ajroach42/). This is a neat ser
 
 I made a ~45 minute Psych and Garage playlist, perfect for side one of a C90 cassette. I'll be making more mixes over the coming weeks, and I have a lot of music to explore. 
 
-This tape starts with Jerry Cole's The Id, then goes to The Animated Egg, [Astro Sounds from Beyond the year 2000](http://ajroach42.github.io/astro-sounds-from-beyond-the-year-2000/), and [Them](http://ajroach42.github.io/them-self-titled-1970-post-van-morison/), before stepping away from Jerry Cole and exploring some other wild psychedelic tunes. The whole thing features narration by an old speach synthisis program I had kicking around. Maybe I'll be up for using my own voice on the next one. 
+This tape starts with Jerry Cole's The Id, then goes to The Animated Egg, [Astro Sounds from Beyond the year 2000](http://ajroach42.github.io/astro-sounds-from-beyond-the-year-2000/), and [Them](http://ajroach42.github.io/them-self-titled-1970-post-van-morison/), before stepping away from Jerry Cole and exploring some other wild psychedelic tunes. The whole thing features narration by an old speech synthisis program I had kicking around. Maybe I'll be up for using my own voice on the next one. 
 
 Give it a shot, and [let me know what you think](https://mastodon.social/@ajroach42)!
