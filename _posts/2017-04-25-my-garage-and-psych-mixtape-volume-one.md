@@ -3,7 +3,6 @@ layout: post
 category: post
 published: true
 title: 'My Garage and Psych Mixtape - Volume One '
-splash-wide: /images/mixtape.png
 ---
 <iframe width="100%" height="400" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fajroach42%2F60s-psych-and-garage-vol-1%2F" frameborder="0"></iframe>
 
