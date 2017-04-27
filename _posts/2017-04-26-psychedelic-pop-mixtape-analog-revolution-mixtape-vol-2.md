@@ -4,6 +4,8 @@ category: post
 published: true
 title: 'Psychedelic Pop Mixtape - (Analog Revolution Mixtape Vol. 2) '
 ---
+<iframe width="100%" height="400" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fajroach42%2Fpsychedelic-pop-mixtape-analog-revolution-mixtape-vol-2%2F" frameborder="0"></iframe>
+
 Welcome to the second Analog Revolution mixtape. Today we are exploring beatles esque, baroque, and psychedelic pop songs from the 60s, the mellow side of the psych movement.  I decided to forego the creepy synth voiceover of [volume one](http://ajroach42.github.io/my-garage-and-psych-mixtape-volume-one/) for some explanatory notes. I think everyone will agree this is a better move.
 
 
