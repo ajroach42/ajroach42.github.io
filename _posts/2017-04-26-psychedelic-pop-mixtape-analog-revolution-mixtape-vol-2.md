@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Psychedelic Pop Mixtape - (Analog Revolution Mixtape Vol. 2) '
 ---
 Welcome to the second Analog Revolution mixtape. Today we are exploring beatles esque, baroque, and psychedelic pop songs from the 60s, the mellow side of the psych movement.  I decided to forego the creepy synth voiceover of [volume one](http://ajroach42.github.io/my-garage-and-psych-mixtape-volume-one/) for some explanatory notes. I think everyone will agree this is a better move.
@@ -38,4 +38,4 @@ Finally: A Day in the Life. A Day in the Life is the Beatles at their prime. Itâ
 ![baroque-boot-camp.jpg]({{site.baseurl}}/images/baroque-boot-camp.jpg)
 
 
-I hope you enjoyed this mix. Join us next time, when we almost certainly will be talking about, and listening, to early electronic music and minimal synth pop. 
+I hope you enjoyed this mix. Join us next time, when we almost certainly will be talking about, and listening, to early electronic music and minimal synth pop.
