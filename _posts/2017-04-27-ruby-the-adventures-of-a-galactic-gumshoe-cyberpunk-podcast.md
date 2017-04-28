@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Ruby: The Adventures of a Galactic Gumshoe - Cyberpunk Podcast '
 splash-tall: /images/pu.jpg
 ---
