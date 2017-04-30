@@ -14,7 +14,7 @@ Let's start from the top:
 
 ## What the Eff is Mastodon? 
 
-Mastodon is a different kind of social network. It's an implementation of the [GNUSocial protocol](https://www.gnu.org/software/social/), if that means anything to you. If it doesn't, that's okay. I'll explain in more detail. 
+Mastodon is a different kind of social network. It's an implementation of the [OStatus Protocol used by GNU/Social](https://www.gnu.org/software/social/), if that means anything to you. If it doesn't, that's okay. I'll explain in more detail. 
 
 Mastodon is a platform for sharing 500 character messages (colloquially known as Toots) in a timeline. In theory, this is much the same as Twitter, and Mastodon has drawn lots of comparisons to twitter (even from me) but there are some big differences between mastodon and twitter that are worth discussing. 
 
@@ -102,7 +102,7 @@ Don't use a social network for publishing senstive information. This is not a Ma
 
 ### What about bad actors on other instances? Or bad instances? 
 
-This could be a problem. It hasn't been yet. If it becomes a problem, talk to your instance Admin about blocking the bad instance. This is not a Mastodon specific problem, but Mastodon has better tools for combatting this problem than other platforms. 
+This could be a problem. It hasn't been yet. If it becomes a problem, talk to your instance Admin about blocking the bad instance. This is not a Mastodon specific problem, but Mastodon has better tools for fighting this problem than other platforms. 
 
 ### But Mastadon is doomed to die! 
 
