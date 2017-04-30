@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Listen to Neuromancer, the Technoir, Cyberpunk Masterpiece '
 splash-wide: /images/19dgyot084zt9jpg.webp
 ---
@@ -18,4 +18,4 @@ I don't have much to say about the book itself. It's a wild ride. Think Philip K
 
 It's got sentient computers, psudo-sentient computers, cyberspace, ageless corporate overlords, and a healthy dose of distrust for capitalism. 
 
-It's about 8 hours long, and the perfect complement to a long commute. 
+It's about 8 hours long, and the perfect complement to a long commute.
