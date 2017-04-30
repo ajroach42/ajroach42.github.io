@@ -3,11 +3,11 @@ layout: post
 category: post
 published: true
 title: 'Listen to Neuromancer, the Technoir, Cyberpunk Masterpiece '
-splash-wide: /images/19dgyot084zt9jpg.webp
+splash-wide: /images/Neuromancer.jpg
 ---
 William Gibson wrote Neuromancer in a mad dash. It is his first novel. It defined the Cyberpunk genre. It's brutal, bloody, and more than a little dark. I've just finished listening to the audiobook, and I absolutely loved it. You can do the same. 
 
-![19dgyot084zt9jpg.webp]({{site.baseurl}}/images/19dgyot084zt9jpg.webp)
+![Neuromancer.jpg]({{site.baseurl}}/images/Neuromancer.jpg)
 
 
 The audio book has been posted to youtube. I don't know how long it will last there, so you may want to use something like [AllTubeDownload](https://alltubedownload.net/) to save a local copy of the mp3, so that you're not cut off in the middle. 
