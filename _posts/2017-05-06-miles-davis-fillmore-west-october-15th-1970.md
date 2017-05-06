@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Miles Davis - Fillmore West October 15th 1970
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/noQbHkPBNvk?t=27m29s" frameborder="0" allowfullscreen></iframe>
@@ -12,6 +12,4 @@ The video above should start around the 30 minute mark, right at the beginning o
 
 The whole performance is astounding. The voiceover I mentioned is only a minor flaw in the recording. There are recordings on youtube of the other nights of this run as well, but the quality of those recordings is much poorer, and the performances aren't (in my opinion, at least) as good as this one. 
 
-All of these performances, and dozens upon dozens more have been published to youtube by [the Milestones channel](https://www.youtube.com/channel/UCrWdmFiEms9vUgrgUVhF0Fg). They have published live performances and studio outtakes from all over Miles' carreer, and I'm super excited to continue to pick through them. 
-
-
+All of these performances, and dozens upon dozens more have been published to youtube by [the Milestones channel](https://www.youtube.com/channel/UCrWdmFiEms9vUgrgUVhF0Fg). They have published live performances and studio outtakes from all over Miles' carreer, and I'm super excited to continue to pick through them.
