@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Pico Fox: Star Fox for Pico-8'
 splash-wide: images/screenshot.jpeg
 ---
