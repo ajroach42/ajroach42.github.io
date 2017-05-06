@@ -9,6 +9,8 @@ Apparently today is Andrew Talks about Pico-8 day. (See [Tempest](http://ajroach
 
 ![screenshot.jpeg]({{site.baseurl}}/images/screenshot.jpeg)
 
+This is certainly one of the best games available for [Pico-8](https://www.lexaloffle.com/pico-8.php). 
+
 
 The developer behind the project released the [3D library as a seperate piece of code.](https://www.lexaloffle.com/bbs/?tid=28077)
 
