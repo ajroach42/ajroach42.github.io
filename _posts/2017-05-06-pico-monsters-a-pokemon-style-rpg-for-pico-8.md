@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Pico Monsters: A Pokemon-style RPG for Pico-8'
 splash-wide: /images/PICO-8_31.gif
 ---
@@ -10,5 +10,4 @@ splash-wide: /images/PICO-8_31.gif
 ![PICO-8_31.gif]({{site.baseurl}}/images/PICO-8_31.gif)
 
 
-I'd love to see the game expanded upon, or to see someone else do more in a similar space. 
-
+I'd love to see the game expanded upon, or to see someone else do more in a similar space.
