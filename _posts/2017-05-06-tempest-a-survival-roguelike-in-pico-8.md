@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Tempest: a survival roguelike in Pico-8 '
 splash-wide: /images/washedup2.gif
 ---
@@ -48,5 +48,3 @@ Farms and farming
 >Fishing minigame
 Wild animals and fences to keep safe
 Disallow some stuff at night to incentivise you to work during the day
-
-
