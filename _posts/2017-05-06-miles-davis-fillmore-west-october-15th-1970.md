@@ -4,7 +4,7 @@ category: post
 published: true
 title: Miles Davis - Fillmore West October 15th 1970
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/noQbHkPBNvk?t=27m29s" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/noQbHkPBNvk?start=1649" frameborder="0" allowfullscreen></iframe>
 
 In October of 1970 Miles Davis played a run of shows at the Fillmore West in California. This is just after the release of Bitches Brew, and while he was recording [Jack Johnson](https://vimeo.com/59238431). There is a lot to say about the album Jack Johnson, and I've been [talking about it pretty extensively on Mastodon](https://cybre.space/@ajr/810520). This live performance, though, deserves some special attention. 
 
