@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: The Politics of Art in the Middle East
 splash-wide: /images/unnamed.jpg
 ---
@@ -15,5 +15,4 @@ Creative provocations shaped the 2011 revolutions that electrified the Middle Ea
 
 >ICWA Fellow Jonathan Guyer has assembled prominent artists, critics and writers to consider emerging trends in the visual and literary cultures of the contemporary Middle East and their relationship to politics. Comics, paintings, and fiction will set the stage for a new way of thinking about a region that is too often reduced to security considerations.
 
-Ganzeer, who I have mentioned in the past, will be speaking as part of the second panel: GRAPHIC PROVOCATIONS from 11:15-12:15pm. It's a free event, and will probably be eye opening, at the very least. 
-
+Ganzeer, who I have mentioned in the past, will be speaking as part of the second panel: GRAPHIC PROVOCATIONS from 11:15-12:15pm. It's a free event, and will probably be eye opening, at the very least.
