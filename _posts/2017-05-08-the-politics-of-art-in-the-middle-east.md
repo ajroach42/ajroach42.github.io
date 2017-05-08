@@ -5,7 +5,7 @@ published: true
 title: The Politics of Art in the Middle East
 splash-wide: /images/unnamed.jpg
 ---
-DC folks, if you're free on Friday June 2nd, I highly recommend you plan to attend [this event on the Politics of Art in the Middle East](https://www.eventbrite.com/e/the-politics-of-art-in-the-middle-east-tickets-34035942420). 
+DC folks, if you're free on Friday June 2nd, I highly recommend you plan to attend [this event on the Politics of Art in the Middle East](https://www.eventbrite.com/e/the-politics-of-art-in-the-middle-east-tickets-34035942420) from the Institute of Current World Affairs. 
 
 ![unnamed.jpg]({{site.baseurl}}/images/unnamed.jpg)
 
