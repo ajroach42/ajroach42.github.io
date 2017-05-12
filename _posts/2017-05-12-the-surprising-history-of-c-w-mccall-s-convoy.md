@@ -5,7 +5,7 @@ published: true
 title: 'The Surprising History of C.W. McCall''s Convoy '
 splash-wide: /images/97c3c8842a0e861edc8659ca0ee33b4c.500x500x1.jpg
 ---
-I'm always unsure if Convoy is a song that everyone knows by heart, or if my childhood happened in some kind of atemporal 19A0s, as opposed to the 1990s that everyone else my age grew up in. Apparently, this songs history features hamburger buns, a working class rebellion, middle-eastern politics, and everyone's favorite christmas music. 
+I'm always unsure if Convoy is a song that everyone knows by heart, or if my childhood happened in some kind of atemporal 19A0s, as opposed to the 1990s that everyone else my age grew up in. When I was 8, this piece of trucker-country was My Jam. Apparently, this song's history features hamburger buns, a working class rebellion, middle-eastern politics, and everyone's favorite christmas music. 
 
 So, I feel like I need to unpack some of this. First, here is CW McCall's 70s mainstay Convoy: 
 
