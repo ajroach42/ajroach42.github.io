@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'The Surprising History of C.W. McCall''s Convoy '
 splash-wide: /images/97c3c8842a0e861edc8659ca0ee33b4c.500x500x1.jpg
 ---
@@ -18,6 +18,4 @@ But, as I learned on [the most recent episode of Sound Opinions](http://www.soun
 ![97c3c8842a0e861edc8659ca0ee33b4c.500x500x1.jpg]({{site.baseurl}}/images/97c3c8842a0e861edc8659ca0ee33b4c.500x500x1.jpg)
 
 
-Seriously, go listen to at least the last section of [the most recent episode of sound opinions](http://www.soundopinions.org/show/598/#cwmccall). It's worth your time, I promise. 
-
-
+Seriously, go listen to at least the last section of [the most recent episode of sound opinions](http://www.soundopinions.org/show/598/#cwmccall). It's worth your time, I promise.
