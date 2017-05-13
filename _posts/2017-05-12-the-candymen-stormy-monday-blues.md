@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'The Candymen - Stormy Monday Blues '
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jvNv7lwA0Ng" frameborder="0" allowfullscreen></iframe>
