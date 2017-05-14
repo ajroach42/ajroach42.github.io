@@ -13,7 +13,7 @@ The EP was ultimately released in 1953, and features Vaughan right at the start 
 
 ![sarah-vaughan-hot-jazz-ab.jpg]({{site.baseurl}}/images/sarah-vaughan-hot-jazz-ab.jpg)
 
-It was released on the budget label "Remmington" which is fairly notorious for low quality pressings of poorly recorded classical music, with high levels of surface noise. Thankfully, this record dodged that bullet. It certainly sounds like it was recorded in 1944, and there is some muddiness to the sound that would not be present if it had been recorded closer to it's release, but it doesn't detract from the liveliness of these performances, or the historical significance of the recording. 
+It was released on the budget label "Remington" which is fairly notorious for low quality pressings of poorly recorded classical music, with high levels of surface noise. Thankfully, this record dodged that bullet. It certainly sounds like it was recorded in 1944, and there is some muddiness to the sound that would not be present if it had been recorded closer to it's release, but it doesn't detract from the liveliness of these performances, or the historical significance of the recording. 
 
 On the whole, this is one of the most exciting records I've picked up in a Long time, and I'm beyond excited to spin it a few dozen times in the next week or two. 
 
