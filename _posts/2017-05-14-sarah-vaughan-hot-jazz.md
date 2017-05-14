@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Sarah Vaughan - Hot Jazz '
 splash-wide: /images/sarah-vaughan-hot-jazz-ab.jpg
 ---
