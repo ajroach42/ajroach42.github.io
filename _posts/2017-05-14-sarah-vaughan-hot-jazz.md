@@ -27,7 +27,9 @@ Featuring:
 - Bill De Arango - Guitar
 - Curly Russell - Bass
 - Max Roach - Drums
+
 ...........................................................................
+
 Track List: 
 
 1. Mean to Me
@@ -39,5 +41,6 @@ Track List:
 7. Singing Off.
 
 .........................................................................
+
 Recorded - 1944/45
 Released - 1953
