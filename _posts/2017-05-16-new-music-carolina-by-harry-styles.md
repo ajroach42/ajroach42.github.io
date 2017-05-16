@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'New Music - Carolina by Harry Styles '
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BarDOBWuVg4" frameborder="0" allowfullscreen></iframe>
@@ -10,4 +10,4 @@ Somehow, Harry Styles (formerly of the saccarine pop act One Direction) has rele
 
 You can, unfortunately, also hear the studio. Or, rather, you can hear the excesses in production value that are afforded by being formerly of One Direction. The songs on this record are pretty great. The instrumentation is interesting. The delivery is excellent. The production is as overblown as you would expect on a blockbuster pop album. 
 
-If you can get past the slick production, though, there is a solid rock album hiding underneath it. It's surprising, it's refreshing, it's interesting. Go give it a shot. 
+If you can get past the slick production, though, there is a solid rock album hiding underneath it. It's surprising, it's refreshing, it's interesting. Go give it a shot.
