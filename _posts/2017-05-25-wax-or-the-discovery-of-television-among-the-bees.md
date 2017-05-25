@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Wax - Or the Discovery of Television Among the Bees '
 splash-tall: >-
   /images/Wax-or-the-Discovery-of-Television-Among-the-Bees-images-8108ce0c-1fc5-4b12-8390-cff5de057d0.jpg
