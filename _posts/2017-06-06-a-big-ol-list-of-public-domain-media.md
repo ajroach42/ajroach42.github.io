@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: A Big ol' List of Public Domain Media
 splash-wide: /images/poster_charade.jpg
 ---
@@ -32,4 +32,4 @@ Okay, let's do this.
  - [Charade - With Cary Grant & Audrey Hepburn](https://www.youtube.com/watch?v=V7s0H9Qz168)
  
  
-Of course, this is just the tip of a fairly large iceburg, but that should be enough to get anyone through a day or two. 
+Of course, this is just the tip of a fairly large iceburg, but that should be enough to get anyone through a day or two.
