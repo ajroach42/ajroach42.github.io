@@ -3,8 +3,12 @@ layout: post
 category: post
 published: false
 title: A Big ol' List of Public Domain Media
+splash-wide: /images/poster_charade.jpg
 ---
 My friend has been having a rough time, and she's going to be stuck at home for a few days, so I'm putting together a big ol' list of media in the public domain for her to kill time with. Sickness not required to enjoy. 
+
+![poster_charade.jpg]({{site.baseurl}}/images/poster_charade.jpg)
+
 
 Okay, let's do this. 
 
