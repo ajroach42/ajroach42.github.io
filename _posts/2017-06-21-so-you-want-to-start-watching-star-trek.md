@@ -21,11 +21,11 @@ If you're still itching for more, go watch [Star Trek Continues](https://www.you
 
 2) Watch The Wrath of Khan. If you loved that, then watch the Search for Spock, and the Voyage Home. If you didn't love it, Skip the Search for Spock (or go hunt down the [Resurrection fan edit](https://ifdb.fanedit.org/star-trek-resurrection/).) Either way, be sure to watch The Voyage Home. 
 
-** The Voyage Home is the second best piece of Star Trek ever made. **
+**The Voyage Home is the second best piece of Star Trek ever made.**
 
 If you loved all of those, continue on to The Final Frontier and The Undiscovered Country. These are not, IMO, essential viewing. They're pretty good though, and this is the time to watch them. 
 
-** Do not watch Generations, under any circumstances. ** 
+**Do not watch Generations, under any circumstances.** 
 
 2a) If you loved 2001: A Space Oddesey, but wished it was slower, cheesier, and stared William Shatner, go watch Star Trek: The Motion Picture. Otherwise, skip it and pretend it never happened. 
 
