@@ -65,7 +65,9 @@ If you loved all of those, continue on to *The Final Frontier* and *The Undiscov
 **8)** Watch Star Trek Enterprise. Consider it as an in-universe historical drama about the early days of Star Fleet, rather than as a canonical prequel. This will enhance your enjoyment of the show. Skip the series finale. Seriously, don't even watch it. It's insulting. Pretend it never happened. Don't even think about it. 
 
 
-**9)** If you absolutely must, this is the time to watch Nemesis. Find the [Through the Glass Darkly fan-edit](https://ifdb.fanedit.org/star-trek-through-a-glass-darkly/), if you can, and don't bother with the original. **Do not, under any circumstances, watch Generations. It's a Garbage Film for Garbage People.**
+**9)** If you absolutely must, this is the time to watch Nemesis. Find the [Through the Glass Darkly fan-edit](https://ifdb.fanedit.org/star-trek-through-a-glass-darkly/), if you can, and don't bother with the original. 
+
+**Do not, under any circumstances, watch Generations. It's a Garbage Film for Garbage People.**
 
 
 **10)** Watch Star Trek: Beyond. If you don't LOVE it, skip the other two new movies. If you do Love it, watch the other two new movies. Keep in mind that Beyond was better than both of them, and also better than Insurrection. The other two are somewhere between Generations and Nemisis, IMO. They don't do anything particularly special, and they stretch suspension of disbelief to it's breaking, but they aren't as bad as Generations (**Which is a garbage film for garbage people.**) 
