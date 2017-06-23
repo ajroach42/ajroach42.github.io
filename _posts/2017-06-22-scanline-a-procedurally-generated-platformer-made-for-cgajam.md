@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Scanline - A procedurally generated platformer made for cgajam.
 splash-wide: /images/scanline.png
 ---
