@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: The Uncle Who Works for Nintendo - A Horror Game To Which We Can All Relate
 splash-wide: /images/screenshot.jpeg
 ---
@@ -21,4 +21,3 @@ This is a game that will stick with you for a few days, at the least.
 
 
 ![screenshot.jpeg]({{site.baseurl}}/images/screenshot.jpeg)
-
