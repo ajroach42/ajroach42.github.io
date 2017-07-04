@@ -17,3 +17,5 @@ The first five tracks feature vocals, the rest are instrumental. Most of the voc
 I open things up with a cover of Seven Nation Army, and I also include a rendition of This Must be the Place by Talking Heads. Each of these is by Scott Bradlee's Postmodern Jukebox. I also include a modern cover of Speaking of Happiness from the album Resistance Radio. The rest of the tracks are from the 50s, and they paint a picture of an era that never really was. (I've written about Crime Noir Jazz in the past, [Here](http://ajroach42.github.io/jazz-noir-speaking-of-happiness-gloria-lynn/) and [Here](http://ajroach42.github.io/noir-jazz-bohren-der-club-of-gore-sunset-mission/), at the least.) 
 
 Enjoy! Tell me what you think! Etc. etc. etc. 
+
+![heist.jpg]({{site.baseurl}}/images/heist.jpg)
