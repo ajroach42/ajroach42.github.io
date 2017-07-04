@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Mixtape for a Heist - Analog Revolution Mixtape #3'
 ---
 <iframe width="100%" height="400" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fajroach42%2Fsmokey-jazz-crime-noir-analog-revolution-mixtape-3%2F" frameborder="0"></iframe>
