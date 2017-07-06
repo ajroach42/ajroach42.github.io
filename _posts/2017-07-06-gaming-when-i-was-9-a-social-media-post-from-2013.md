@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Gaming when I was 9 (a social media post from 2013)
 splash-wide: /images/map.jpg
 ---
@@ -74,5 +74,4 @@ I moved on to the other games in the collection. None of them struck me quite as
 
 At the age of fourteen or fifteen I ventured out in to the world of MUDs for the first time. MUDs were the MMO equivalent of Interactive Fiction. I found the sense of community that others so often speak of. At the end of the day, though, I was still more comfortable exploring on my own.
 
-When I was a 9 year old gamer, I didn't have community or fraternity, and I didn't have tabletop games. When I was a 9 year old gamer, I had interactive fiction. And what a lucky 9 year old that made me. 
-
+When I was a 9 year old gamer, I didn't have community or fraternity, and I didn't have tabletop games. When I was a 9 year old gamer, I had interactive fiction. And what a lucky 9 year old that made me.
