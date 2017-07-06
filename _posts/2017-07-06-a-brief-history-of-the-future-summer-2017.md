@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'A Brief History of the Future: Summer 2017'
 splash-tall: /images/5922ee12a6193c1d.jpeg
 ---
