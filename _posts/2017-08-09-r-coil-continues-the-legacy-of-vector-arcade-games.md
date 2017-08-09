@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: R-COIL continues the legacy of Vector Arcade Games
 splash-wide: /images/r-coil.gif
 ---
@@ -18,4 +18,4 @@ I've played the itch.io version, and I gotta say, it's a lot of fun, especially 
 
 R-Coil is really pretty. It pays clear homage to classics like Asteroids and Star Castle, while clearly bringing something new to the table. 
 
-Go check it out! 
+Go check it out!
