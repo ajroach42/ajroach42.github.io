@@ -8,9 +8,11 @@ title: >-
 splash-wide: >-
   /images/78_st.-james-infirmary_hot-lips-page-and-his-orchestra-primrose_gbia0007958b_itemimage.jpg
 ---
-My New mixtape is now available from Mixcloud (it's 45 minutes long, so you can fit it on to the A-side of a c-90.) This one features a lot of tracks from the Internet Archive's 78 RPM collection. It's pretty blues heavy, with a dash of Rock, a touch of Jazz, and some analog synth circa 1941. I will almost certainly follow this one up qith a sequel soon. (Full track list, and sources after the jump.) 
+My [New mixtape is now available from Mixcloud](https://www.mixcloud.com/ajroach42/blues-jazz-and-synths-1930-1963-analog-revolution-mixtape-vol-4/) (it's 45 minutes long, so you can fit it on to the A-side of a c-90.) This one features a lot of tracks from the [Internet Archive's 78 RPM collection](http://great78.archive.org/about/). It's pretty blues heavy, with a dash of Rock, a touch of Jazz, and some analog synth circa 1941. I will almost certainly follow this one up with a sequel soon. (Full track list, and sources after the jump.) 
 
 ![78_st.-james-infirmary_hot-lips-page-and-his-orchestra-primrose_gbia0007958b_itemimage.jpg]({{site.baseurl}}/images/78_st.-james-infirmary_hot-lips-page-and-his-orchestra-primrose_gbia0007958b_itemimage.jpg)
+
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fajroach42%2Fblues-jazz-and-synths-1930-1963-analog-revolution-mixtape-vol-4%2F&hide_cover=1&light=1" frameborder="0"></iframe>
 
 1. [David Miranda (The Imperial) and The Plagues - Gloria](https://archive.org/details/78_gloria_david-miranda-the-imperial-the-plagues-bill-larry-ken-john-george_gbia0008160a) - This is a Killer spanish language cover of Them's Gloria
 1. [Hot Lips Page and his Orchestra - St. James Infirmary](https://archive.org/details/78_st.-james-infirmary_hot-lips-page-and-his-orchestra-primrose_gbia0007958b) - Super Jazzy rendition, with horns and stuff 
