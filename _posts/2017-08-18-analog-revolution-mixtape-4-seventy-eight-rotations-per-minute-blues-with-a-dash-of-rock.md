@@ -23,7 +23,7 @@ My New mixtape is now available from Mixcloud (it's 45 minutes long, so you can 
 1. [Lead Belly - New Black Snake Moan](https://archive.org/details/78_new-black-snake-moan_lead-belly-huddie-ledbetter_gbia0001540b) - Straight blues, from the master. 
 1. [Lead Belly - De Kalb Blues](https://archive.org/details/78_de-kalb-blues_lead-belly_gbia0001543b) - Same as above, only more so. (A re-recording of a song Lead Belly recorded for Alan Lomax while he was in Prison in the 30s) 
 1. [Leon Jessel Collins H. Driggs - Parade of The Wooden Soldiers](https://archive.org/details/78_parade-of-the-wooden-soldiers_leon-jessel-collins-h.-driggs_gbia0001186a) - Early Analog Synth (Novachord) in full force here. Probably the first polyphonic synth 
-1. [Memphis Slim and the House Rockers - Slim's Blues](https://archive.org/details/78_slims-blues_memphis-slim-and-the-house-rockers-chatman_gbia0001263a) 
+1. [Memphis Slim and the House Rockers - Slim's Blues](https://archive.org/details/78_slims-blues_memphis-slim-and-the-house-rockers-chatman_gbia0001263a) - Slow, melencholy, sharp blues. Interesting arangement. 
 1. [Lead Belly - The Boll Weevil](https://archive.org/details/78_the-boll-weevil_lead-belly_gbia0001543a) - My personal favorite Lead Belly track
 1. [Josh White - St. James Infirmary](https://archive.org/details/78_st.-james-infirmary_josh-white_gbia0001626a) - Here's Josh White's take on Saint James Infirmary, slower, more cathartic. 
 1. [Bulee Gaillard and his Southern Fried Orchestra - Taxpayers' Blues](https://archive.org/details/78_taxpayers-blues_bulee-gaillard-and-his-southern-fried-orchestra-carroll-gaillard-n_gbia0001389b) - A bouncing R and B track about the pains of paying taxes
