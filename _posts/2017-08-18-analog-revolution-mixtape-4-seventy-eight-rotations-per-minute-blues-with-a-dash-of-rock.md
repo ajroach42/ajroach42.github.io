@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: >-
   Analog Revolution Mixtape #4 - Seventy-Eight Rotations Per Minute (Blues, with
   a dash of rock)
@@ -26,5 +26,4 @@ My New mixtape is now available from Mixcloud (it's 45 minutes long, so you can 
 1. [Memphis Slim and the House Rockers - Slim's Blues](https://archive.org/details/78_slims-blues_memphis-slim-and-the-house-rockers-chatman_gbia0001263a) 
 1. [Lead Belly - The Boll Weevil](https://archive.org/details/78_the-boll-weevil_lead-belly_gbia0001543a) - My personal favorite Lead Belly track
 1. [Josh White - St. James Infirmary](https://archive.org/details/78_st.-james-infirmary_josh-white_gbia0001626a) - Here's Josh White's take on Saint James Infirmary, slower, more cathartic. 
-1. [Bulee Gaillard and his Southern Fried Orchestra - Taxpayers' Blues](https://archive.org/details/78_taxpayers-blues_bulee-gaillard-and-his-southern-fried-orchestra-carroll-gaillard-n_gbia0001389b) - A bouncing R and B track about the pains of paying taxes 
-
+1. [Bulee Gaillard and his Southern Fried Orchestra - Taxpayers' Blues](https://archive.org/details/78_taxpayers-blues_bulee-gaillard-and-his-southern-fried-orchestra-carroll-gaillard-n_gbia0001389b) - A bouncing R and B track about the pains of paying taxes
