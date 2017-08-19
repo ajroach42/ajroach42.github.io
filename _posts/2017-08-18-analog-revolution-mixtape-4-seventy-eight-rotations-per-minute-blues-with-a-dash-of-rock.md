@@ -19,12 +19,12 @@ My New mixtape is now available from Mixcloud (it's 45 minutes long, so you can 
 1. [Lee Kane - 1/2 Past 17 (1/4 to Twenty-One)](https://archive.org/details/78_12-past-17-14-to-twenty-one_mcfarland-c.r.-lewis-lee-kane-frank-hunter_gbia0000020b) - Jumpy rockabilly tune. Silly, but with some good licks. 
 1. [Manzie Harris and his Band - "Blues In The Morning"](https://archive.org/details/78_blues-in-the-morning_manzie-harris-and-his-band_gbia0001258b) - Blues; Killer horn solo; Recorded circa 1950. 
 1. [Lead Belly with Woody Guthrie - Stewball](https://archive.org/details/78_stewball_lead-belly-woody-guthrie-cisco-houston_gbia0001538b) - That's Fuckin' right. Woody Guthrie and Lead Belly, together. Every new thing I learn about Woody Guthrie makes me love him a little more, and I'm so glad he did this colab. (It's Folk/Country blues, very primitive, lots of shouting. Best song you'll ever hear about a horse. 
-1. Josh White and his Guitar - House Of The Rising Sun (03:09)
-1. Lead Belly;Huddie Ledbetter - New Black Snake Moan (03:21)
-1. LEad Belly - De Kalb Blues (03:13)
-1. Memphis Slim and the House Rockers;Chatman - Slim's Blues (03:08)
-1. Lead Belly - The Boll Weevil (03:12)
-1. Bulee Gaillard and his Southern Fried Orchestra;Carroll;Gaillard;Norman Granz - Taxpayers' Blues (02:37)
-1. Josh White - St. James Infirmary (02:56)
-1. Leon Jessel;Collins H. Driggs - Parade of The Wooden Soldiers (02:50)
+1. [Josh White and his Guitar - House Of The Rising Sun](https://archive.org/details/78_house-of-the-rising-sun_josh-white-and-his-guitar_gbia0001628b) - Made famous 20 years later by The Animals, here's blues singer (civil rights leader, alleged communist, and general badass) Josh White covering this classic ballad in 1942
+1. [Lead Belly - New Black Snake Moan](https://archive.org/details/78_new-black-snake-moan_lead-belly-huddie-ledbetter_gbia0001540b) - Straight blues, from the master. 
+1. [Lead Belly - De Kalb Blues](https://archive.org/details/78_de-kalb-blues_lead-belly_gbia0001543b) - Same as above, only more so. (A re-recording of a song Lead Belly recorded for Alan Lomax while he was in Prison in the 30s) 
+1. [Leon Jessel Collins H. Driggs - Parade of The Wooden Soldiers](https://archive.org/details/78_parade-of-the-wooden-soldiers_leon-jessel-collins-h.-driggs_gbia0001186a) - Early Analog Synth (Novachord) in full force here. Probably the first polyphonic synth 
+1. [Memphis Slim and the House Rockers - Slim's Blues](https://archive.org/details/78_slims-blues_memphis-slim-and-the-house-rockers-chatman_gbia0001263a) 
+1. [Lead Belly - The Boll Weevil](https://archive.org/details/78_the-boll-weevil_lead-belly_gbia0001543a) - My personal favorite Lead Belly track
+1. [Josh White - St. James Infirmary](https://archive.org/details/78_st.-james-infirmary_josh-white_gbia0001626a) - Here's Josh White's take on Saint James Infirmary, slower, more cathartic. 
+1. [Bulee Gaillard and his Southern Fried Orchestra - Taxpayers' Blues](https://archive.org/details/78_taxpayers-blues_bulee-gaillard-and-his-southern-fried-orchestra-carroll-gaillard-n_gbia0001389b) - A bouncing R and B track about the pains of paying taxes 
 
