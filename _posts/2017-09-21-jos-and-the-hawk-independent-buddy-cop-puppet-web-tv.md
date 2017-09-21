@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'José and The Hawk - Independent, Buddy Cop, Puppet, Web TV'
 splash-wide: /images/maxresdefault.jpg
 ---
