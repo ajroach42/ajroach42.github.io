@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Man Or Astroman? Live -  Space Surf of the highest order
 splash-wide: /images/A-324420-1496230574-4714.jpeg.jpg
 ---
@@ -24,4 +24,4 @@ There are others of similar recording quality in the archive, along with a handf
 
 All around, I'm super happy with this find. 
 
-(stay tuned tomorrow, I've got a few more recent discoveries to share.) 
+(stay tuned tomorrow, I've got a few more recent discoveries to share.)
