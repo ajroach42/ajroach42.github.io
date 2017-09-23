@@ -13,7 +13,7 @@ I'll keep this brief, but here are the highlights: Man or Astroman? is a band th
 
 I've been a fan of Man Or AstroMan for years, probably since the release of _Defcon 5 4 3 2 1_ in 2013. I was a little young to catch them on the first wave, if you'll pardon the pun, when they burst on to the punk scene of the 90s with their clearly surf inspired sci-fi riffs, but I've been a fan for as long as I've known they exist. (Thanks Pandora!)
 
-I make no secret that I love the internet archive. It's collection of public domain, creative commons, and other resources is second to none. I don't often give the live music archive it's due, though. Today, I set out to rectify that. I spent a few hours digging through the virutal crates and I found a veritable cornucopia of killer performances. 
+I make no secret that I love the internet archive. It's collection of public domain, creative commons, and other resources is second to none. I don't often give the live music archive it's due, though. Today, I set out to rectify that. I spent a few hours digging through the virtual crates and I found a veritable cornucopia of killer performances. 
 
 The standout for me was probably [this collection of live tracks from Man or Astroman?](https://archive.org/details/ManOrAstroman)
 
