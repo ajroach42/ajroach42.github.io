@@ -24,13 +24,13 @@ Gopher was this service that existed before the web did. It was real simple. Jus
 
 _tl;dr Gopher is a service that lives on the internet, but has existed longer than the web It allows people to share files on the internet, with basic links and menus, but without interpreting and executing code on your machine each time a page loaded._
 
-I run a gopher server at gopher://ofmanytrades.com that can also be accessed from the web at http://ofmanytrades.com:70
+I run a gopher server at [gopher://ofmanytrades.com](gopher://ofmanytrades.com) that can also be accessed from the web at [http://ofmanytrades.com:70](http://ofmanytrades.com:70)
 
 If you click on that, you'll see how it's just menus and text. 
 
 In the Magazines/Dungeon Magazine or Magazines/Pulps folder there are direct links to PDFs. I didn't build that page, I just put the files in a folder, and let the server build the menus. 
 
-Or click on Music, and then on 78s. From there, you can see literally 5000+ songs from Archive.org's 78RPM collection. Click on one and listen to it. [Here's a good one, if you're overwhelmed by the 5000+ options - Muddy Waters, I don't know why.] (http://ofmanytrades.com:70/Music/78s/I%20Don%27t%20Know%20Why%20-%20Muddy%20Waters%20and%20his%20Guitar.mp3) 
+Or click on Music, and then on 78s. From there, you can see literally 5000+ songs from Archive.org's 78RPM collection. Click on one and listen to it. [Here's a good one, if you're overwhelmed by the 5000+ options - Muddy Waters, I don't know why.](http://ofmanytrades.com:70/Music/78s/I%20Don%27t%20Know%20Why%20-%20Muddy%20Waters%20and%20his%20Guitar.mp3) 
 
 Neat right? 
 
