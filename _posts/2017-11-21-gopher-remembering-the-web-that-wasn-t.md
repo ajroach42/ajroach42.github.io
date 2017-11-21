@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Gopher: Remembering the web that wasn''t'
 ---
 This is an article about Gopher, a service that existed on the internet before the web. It's also an article about how the web is broken, and some speculation on how Gopher might fix that. [If you want a more general overview of Gopher, try this article from Tedium](https://tedium.co/2017/06/22/modern-day-gopher-history/). If you want a more general overview of how the web is broken, try every thinkpiece titled "The web is broken" on Medium. 
@@ -60,4 +60,4 @@ If somebody actually pulls it off, then there's still the problem of convincing 
 
 So, what do you think? Is Gopher the answer to the problems of the modern web? Do you have a better idea? 
 
-I'm on Mastodon [@ajroach42@retro.social](https://retro.social/@ajroach42), and I'd love to hear your thoughts. 
+I'm on Mastodon [@ajroach42@retro.social](https://retro.social/@ajroach42), and I'd love to hear your thoughts.
