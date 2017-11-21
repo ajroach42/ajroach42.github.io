@@ -44,23 +44,19 @@ It is Ugly. Ugly isn't bad. It is utilitarian. It's more useful. It's less harmf
 
 Now, hearing this, you might be asking yourself: How can I expereince Gopher? The short answer is to install a Gopher browser. The long answer is less thrilling. 
 
-See, modern Gopher clients exist, but not many of them, and they are all incomplete or works in progress. The best one I've found so far, if you don't need it to support images and you're on a Unix-like system, is Lynx. If you're on Windows try GopherBrowser, and on Android there's Overbite. Everywhere else, use the floodgap proxy, and expect it to be slow. 
+See, modern Gopher clients exist, but not many of them, and they are all incomplete or works in progress. The best one I've found so far, if you don't need it to support images and you're on a Unix-like system, is Lynx. If you're on Windows try [GopherBrowser](http://www.jaruzel.com/apps/gopher-browser-for-windows/), and on [Android there's Overbite](http://gopher.floodgap.com/overbite/d?android). Everywhere else, use the [floodgap proxy](http://gopher.floodgap.com/gopher/), and expect it to be slow. 
 
-The good gopher clients are... well, they are relics mostly. Like, written almost 30 years ago and barely changed since then. It'd be like if web browsers had never gotten any better than IE 5. 
-
-Actually, no, it's worse than that. IE 5 wasn't released until 1999. The state of gopher clients is that they essentially haven't changed since Windows 3.1. 
+The good gopher clients are... well, they are relics mostly. Like, written almost 30 years ago and barely changed since then. It'd be like if web browsers had never gotten any better than IE 5. Actually, no, it's worse than that. IE 5 wasn't released until 1999. The state of gopher clients is that they essentially haven't changed since Windows 3.1. No progress since ~1994. 
 
 I've been talking to some folks on the internet (mostly, via [mastodon](http://retro.social)) about the problems with the web, and the potential of Gopher as an antidote. Specifically, if we redesigned the Gopher client, and fast-forwarded it through ~30 years of technological progress. 
 
-We're gaining some traction! There's rumblings of writing a new, better, modern Gopher browser that has all the trappings of a modern web browser, but doesn't do arbitrary code execution, and only downloads what you tell it to, and exactly what you tell it to. 
+We're gaining some traction! There's rumblings of writing a new, better, modern Gopher browser that has all the trappings of a modern web browser, but doesn't do arbitrary code execution, and only downloads what you tell it to, and exactly what you tell it to, no more. 
 
-So you'd have menus that open up Markdown or HTML pages, and those pages could link to other menus, or to files directly. But HTML and Markdown aren't actually programming languages, they can't do dynamic stuff, so it's safe(er) to do! 
+So you'd have menus that open up Markdown or HTML pages, and those pages could link to other menus, or to files directly. You'd have optional image support. The pages themselves could even have some basic styling! But HTML and Markdown aren't actually programming languages, they can't do dynamic stuff, so it's safe(er) to do! 
 
 And, if we do it well, and we foster the right kind of community of publsihers, there's no reason why the modern gopherspace can't be shared and enjoyed on everything from the latest and greatest smartphones to the 8-bit computers hanging out in your grandparent's attic. The protocol is dead simple, and as long as we make sure to offer Plaintext (or markdown) alongside the fancy files, it'll still work for everyone. 
 
-If somebody actually pulls it off, then there's still the problem of convincing the world to start publishing on Gopher again (but [SDF does](http://sdf.org/?tutorials/gopher), and [Tilde.Town](http://tilde.town/) does, and Wikipedia does, and Metafilter does, and any website with an RSS feed (read: most of them) can be converted in to a gopersite pretty simply, with or without the support of the original owner of the content.) 
-
-It'll likely never be more than a niche thing, but being around for (and involved in) the genesis of this resurgence, if it ever amounts to anything, is kind of neat. 
+If somebody actually pulls it off, then there's still the problem of convincing the world to start publishing on Gopher again (but [SDF does](http://sdf.org/?tutorials/gopher), and [Tilde.Town](http://tilde.town/) does, and Wikipedia does, and Metafilter does, and any website with an RSS feed (read: most of them) can be converted in to a gopersite pretty simply, with or without the support of the original owner of the content.) It'll likely never be more than a niche thing, but being around for (and involved in) the genesis of this resurgence, if it ever amounts to anything, is kind of neat. 
 
 So, what do you think? Is Gopher the answer to the problems of the modern web? Do you have a better idea? 
 
