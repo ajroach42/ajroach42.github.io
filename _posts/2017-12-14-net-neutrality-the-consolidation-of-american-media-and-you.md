@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Net Neutrality, The Consolidation of American Media, and you. '
 splash-wide: /images/1_i5Ekawy3LGYLsT2Hr1NIvQ.jpeg
 ---
