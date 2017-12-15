@@ -157,3 +157,7 @@ Participate.
 Create. 
 
 Take back control.
+
+-----------
+
+I'm on Mastodon [@ajroach42@retro.social](https://retro.social/@ajroach42), and I'd love to hear your thoughts.
