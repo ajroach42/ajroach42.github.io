@@ -56,6 +56,8 @@ This is not easy, but it is essential.
 
 If you want to watch a movie, or a TV show, and you don't like the people that made it, consider methods of obtaining that show for free. (And I'm not talking Netflix. Netflix is part of the problem. Netflix is responsible for DRM in web browsers) Libraries have DVD collections, and [DVD ripping is pretty easy.](https://lifehacker.com/how-to-rip-a-dvd-to-your-computer-5809765)
 
+Help your friends stop spending money with major media companies by whatever means available. 
+
 ## A sidebar about Piracy
 
 I'm not going to outright advocate for media piracy, but I do want to talk about it for a moment. Media Piracy is the number one thing that most media companies hate about the internet. 
