@@ -82,6 +82,8 @@ For the time being we can still rely on, email, mastodon, and chat apps. But als
 
 Sixth, Publish! 
 
+[Control your own media, because controlling your own media will help us starve the companies that are screwing us.](http://ajroach42.github.io/diy-media/)  
+
 Zines will save the day. (No really!) even if we lose the ability to spread things quickly over the internet, we can still ensure that they make it all over the country by printing and mailing or hand-delivering zines. I know this sounds silly, but it's actually pretty powerful. 
 
 Make a simple booklet in word, or whatever. Print it out on a cheap laser printer. Distribute it as far and as wide as you can. 
@@ -112,9 +114,15 @@ Using TOR will get you around any outright censorship or blocking, and might hel
 
 That's the playbook. 
 
-Use whatever platform that is available to you to demonstrate to people that Rupert Murdoch owning a large chunk of Disney is real bad. Demonstrate how the Net Noot repeal hurts folks. 
+### Educate
+
+Become your own news source, or amplify a non-corporate one. Blog (somewhere that isn't Medium or Facebook.) Film the police and the politicians. Publish a zine. (Reach out to me if you want some help.) 
+
+Use whatever platform that is available to you to demonstrate to people that Rupert Murdoch owning a large chunk of Disney is real bad. Demonstrate how the Net Noot repeal hurts folks. Talk about the 
 
 Use those platforms to get them angry. Use those platforms to demonstrate how those platforms are harmful. (When I say "Those Platforms" I mean facebook, Medium, instagram, and other centralized services.)
+
+### Agitate 
 
 Then it's time to agitate. 
 
@@ -125,6 +133,8 @@ We are fighting back against the consolidation of power in media in general, and
 We fight back by leaving centralized services. By refusing to pay Disney/Fox/Comcast for media. By providing community alternatives to traditional media, and centralized services like Tumblr, Twitter, Facebook, and Medium. By self publishing. By using [mastodon](http://analogrevolution.com/mastodon/).
 
 We agitate by supporting [co-op and Community Run ISPs](https://motherboard.vice.com/en_us/article/j5djd7/motherboard-and-vice-are-building-a-community-internet-network-to-protect-net-neutrality). We agitate by borrowing movies from the library. We agitate by sharing media with one another. We agitate by switching back to OTA TV. We agitate by using TOR. We agitate by reading and writing fanfic. We agitate by taking money and power out of the pockets of ISPs and content providers, and putting that money and power in to the hands of our communities.  
+
+### Organize 
 
 And then we organize. 
 
