@@ -36,19 +36,25 @@ Coupled with the Disney/Fox acquisition, this also means that the illusion of ch
 
 ## So what are we going to do about it?
 
-First, the american court system can [and very well might!](https://boingboing.net/2017/11/26/rule-of-law-not-shills.html) stop this Net Noot change, at least for a little while.  
+### First, 
+
+the american court system can [and very well might!](https://boingboing.net/2017/11/26/rule-of-law-not-shills.html) stop this Net Noot change, at least for a little while.  
 
 So, you know, pay attention for that. 
 
-Second, Congress can actually fix Net noot. They won't, unless we make a lot of noise, but they can. So make a lot of noise. [Call your congresscritters](https://5calls.org/). Express your distaste. 
+### Second, Congress can actually fix Net noot. 
 
-Third, Pay Attention To Where Your Media Comes From. 
+They won't, unless we make a lot of noise, but they can. So make a lot of noise. [Call your congresscritters](https://5calls.org/). Express your distaste. 
+
+### Third, Pay Attention To Where Your Media Comes From. 
 
 Know who made it. Know who's in it. Know who is profiting from your attention. Know who is injecting their opinions in to your brain via this media.
 
 This is not easy, but it is essential.
 
-Fourth, If you want to watch a movie, or a TV show, and you don't like the people that made it, consider methods of obtaining that show for free. (And I'm not talking Netflix. Netflix is part of the problem. Netflix is responsible for DRM in web browsers) Libraries have DVD collections, and [DVD ripping is pretty easy.](https://lifehacker.com/how-to-rip-a-dvd-to-your-computer-5809765)
+### Fourth, Free Media! 
+
+If you want to watch a movie, or a TV show, and you don't like the people that made it, consider methods of obtaining that show for free. (And I'm not talking Netflix. Netflix is part of the problem. Netflix is responsible for DRM in web browsers) Libraries have DVD collections, and [DVD ripping is pretty easy.](https://lifehacker.com/how-to-rip-a-dvd-to-your-computer-5809765)
 
 ## A sidebar about Piracy
 
@@ -74,13 +80,13 @@ I'm sure you can see where that's headed.
 
 ## Sidebar about Piracy over, back to What Are We Gonna Do About It?
 
-Fifth, Organize! 
+### Fifth, Organize! 
 
 Organize online and off! Organize outside of facebook, outside of any centralized platform, whenever possible. Facebook is part of the problem. 
 
 For the time being we can still rely on, email, mastodon, and chat apps. But also try to organize in person, or over the phone whenever you can. 
 
-Sixth, Publish! 
+### Sixth, Publish! 
 
 [Control your own media, because controlling your own media will help us starve the companies that are screwing us.](http://ajroach42.github.io/diy-media/)  
 
@@ -92,7 +98,7 @@ This can be a book of poems, short stories you wrote, political opinions, fanfic
 
 It's media, it's non-corporate, it's a piece of the internet that exists IRL.
 
-Seventh, DIY Internet! 
+### Seventh, DIY Internet! 
 
 There are lots of folks out there trying to organize co-op ISPs or to get municipal internet access. This is real good! 
 
@@ -100,7 +106,7 @@ Help 'em. Volunteer, or give money, or just spread the word. This is a path towa
 
 [Bring back the BBS and modernize it](https://medium.com/@ajroach42/a-modern-bbs-reviving-the-local-distributed-weird-precursor-to-facebook-4b3db93f742d) 
 
-Eighth, Encryption and Anonymization! 
+### Eighth, Encryption and Anonymization! 
 
 This one is real simple. [Use Tor](https://ssd.eff.org/en/module/how-use-tor-windows) and [https everywhere](https://www.eff.org/https-everywhere). 
 
@@ -150,7 +156,7 @@ We cannot depend on the internet to organize, in the face of the repeal of net n
 
 We must explicitly find alternate methods of organizing in the event that the internet becomes (more) compromised. Part of this is organizing offline. Part of this is using TOR and using strong encryption.
 
-## Local! 
+## Get Local! 
 
 The courts and congress will fight this out on the national level. 
 
@@ -162,11 +168,33 @@ Talk to your local politicians. Build community media sharing rings. Share podca
 
 Run for office, if that floats your boat. 
 
+
+## Other Problems 
+
+Unfortunately, Net Noot or No, the web has other problems. It's spying on you. It's infected with DRM. It's more centralized and less interesting than it used to be, than it could be, than it should be. 
+
+So, Net Noot or not, you need a toolkit for a weirder web: 
+
+- [Gopher](http://ajroach42.github.io/gopher-remembering-the-web-that-wasn-t/) 
+- [Mastodon](http://analogrevolution.com/mastodon/)
+- [Neocities](https://neocities.org/)
+- [Local, offline networks](https://piratebox.cc/) 
+- [Decentralize and Host your own shit](https://freedombone.net/)
+
+And some tips to help keep the web weird: 
+
+- Publish stuff! 
+- Use RSS to keep up with sites that update infrequently! 
+- Subscribe to email newsletters because they are neat and email is unlikely to go away.
+- Pay people that make things that you like when you can afford to pay them so that they can keep making things.
+- Listen to podcasts and consume more [DIY media](http://ajroach42.github.io/diy-media/). 
+
 Participate. 
 
 Create. 
 
 Take back control.
+
 
 -----------
 
