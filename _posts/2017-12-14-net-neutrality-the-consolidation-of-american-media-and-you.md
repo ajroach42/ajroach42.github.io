@@ -3,8 +3,12 @@ layout: post
 category: post
 published: false
 title: 'Net Neutrality, The Consolidation of American Media, and you. '
+splash-wide: /images/1_i5Ekawy3LGYLsT2Hr1NIvQ.jpeg
 ---
 Here is the situation. Disney now owns the majority of Fox's assets, making them the single largest owner and supplier and controller of english language pop-culture anywhere in the world. Rupert Murdoch is now the largest shareholder at Disney. Rupert Murdoch is, hands down, the reason Trump was elected. The Trump administration has removed Net Neutrality protections. This is their latest victim, after banking consumer protections, and allowing airlines to lie about fairs. 
+
+![1_i5Ekawy3LGYLsT2Hr1NIvQ.jpeg]({{site.baseurl}}/images/1_i5Ekawy3LGYLsT2Hr1NIvQ.jpeg)
+
 
 ## What does the Net Neutrality repeal mean for you?
 
