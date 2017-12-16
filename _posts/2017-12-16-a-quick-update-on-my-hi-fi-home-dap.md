@@ -8,9 +8,9 @@ I spent a few hours today putting together a proof of concept Digital Audio Play
 
 ## First, the bad news:
 
-My reciever does have HDMI inputs, and it does do digital to analog audio conversion, but those things are separate. That is to say, the HDMI inputs are Pass-through only, and do not get decoded. This means that my dream of using the HDMI output of the raspberry pi to connect to my home stereo will not be a reality without a newer reciever. 
+My receiver does have HDMI inputs, and it does do digital to analog audio conversion, but those things are separate. That is to say, the HDMI inputs are Pass-through only, and do not get decoded. This means that my dream of using the HDMI output of the raspberry pi to connect to my home stereo will not be a reality without a newer receiver. 
 
-Apparently, this is pretty common for entry level and mid range A/V recievers. It sounds completely daft to me, but I've stayed away from video technology, so I don't know the technical reasons behind this. As a result of this bizarre design decision, I wasn't able to use this as a solution for my needs but, *if your reciever supports audio playback over HDMI, Rasplex and a Raspberry Pi 3 could make an excellent Digital Audio Player.*
+Apparently, this is pretty common for entry level and mid range A/V receivers. It sounds completely daft to me, but I've stayed away from video technology, so I don't know the technical reasons behind this. As a result of this bizarre design decision, I wasn't able to use this as a solution for my needs but, *if your receiver supports audio playback over HDMI, Rasplex and a Raspberry Pi 3 could make an excellent Digital Audio Player.*
 
 ## Now, the good news: 
 
@@ -22,6 +22,6 @@ Of course, it doesn't matter how quick the UI is if we're going to run it headle
 
 ## Next Steps
 
-For now, my plan is to get an an Analog A/V cable for the Pi and configure RasPlex to use that for audio output. I'm generally not a fan of the Pi's onboard DAC, and I've found the output to be pretty noisy, but I've only ever used it with a TRS -> RCA cable, instead of the TRRS -> RCA cable that the Pi is supposed to use. It is my hope that using a well insulated cable, with the video signal actually isolated on it's own ring of the connector will reduce some of the noisieness. 
+For now, my plan is to get an an Analog A/V cable for the Pi and configure RasPlex to use that for audio output. I'm generally not a fan of the Pi's onboard DAC, and I've found the output to be pretty noisy, but I've only ever used it with a TRS -> RCA cable, instead of the TRRS -> RCA cable that the Pi is supposed to use. It is my hope that using a well insulated cable, with the video signal actually isolated on it's own ring of the connector will reduce some of the noisiness. 
 
 Then, I'll live with the thing for a few weeks, and make a decision as it if this software works well enough, and is pleasant enough to use, to merit further improvements.
