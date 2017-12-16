@@ -10,12 +10,12 @@ layout: default
 
       <div class="entry">
 
-       {% if post.content contains "<img" %}
+       {% if post.content contains "<img src" %}
           {% assign images = post.content | split:"<img src" %}
            {% for image in images %}
               {% if image contains '=' %}
               {% assign imageMarkup = image | split:">" | first %}
-          <img {{ imageMarkup }}>
+          <img src{{ imageMarkup }}>
           {% break %}
          {% endif %}
           {% endfor %}
