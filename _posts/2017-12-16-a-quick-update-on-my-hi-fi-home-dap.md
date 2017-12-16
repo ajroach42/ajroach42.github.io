@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: A Quick Update on my Hi-Fi Home DAP
 ---
 I spent a few hours today putting together a proof of concept Digital Audio Player based on [RasPlex](http://www.rasplex.com) as discussed in [yesterday's post](http://ajroach42.com/a-hi-fi-digital-audio-player-for-your-home-stereo/). I had some Successes and some Failures that I'd like to discuss here. 
@@ -24,5 +24,4 @@ Of course, it doesn't matter how quick the UI is if we're going to run it headle
 
 For now, my plan is to get an an Analog A/V cable for the Pi and configure RasPlex to use that for audio output. I'm generally not a fan of the Pi's onboard DAC, and I've found the output to be pretty noisy, but I've only ever used it with a TRS -> RCA cable, instead of the TRRS -> RCA cable that the Pi is supposed to use. It is my hope that using a well insulated cable, with the video signal actually isolated on it's own ring of the connector will reduce some of the noisieness. 
 
-Then, I'll live with the thing for a few weeks, and make a decision as it if this software works well enough, and is pleasant enough to use, to merit further improvements. 
-
+Then, I'll live with the thing for a few weeks, and make a decision as it if this software works well enough, and is pleasant enough to use, to merit further improvements.
