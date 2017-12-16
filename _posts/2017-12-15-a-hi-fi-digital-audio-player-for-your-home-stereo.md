@@ -62,5 +62,3 @@ When we were running Analog Revolution, Ryan over-under-engineered some wooden c
 The upshot of all this is that I'm going to have to get creative on the design for the case! I'm pretty excited, because I'm *good* at this kind of thing, and I don't get to flex those muscles nearly often enough. For this round, I'm probably going to go digging at the local thrift stores for something I can repurpose. 
 
 I'll follow up with another post when I have more to report. 
-
-(Also, obligitory link to [my Mastodon profile](https://retro.social/@ajroach42). Come tell me what you think.)
