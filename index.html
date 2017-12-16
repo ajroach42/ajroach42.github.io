@@ -9,18 +9,6 @@ layout: default
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
-
-       {% if post.content contains "<img src" %}
-          {% assign images = post.content | split:"<img src" %}
-           {% for image in images %}
-              {% if image contains '=' %}
-              {% assign imageMarkup = image | split:">" | first %}
-          <img src{{ imageMarkup }}>
-          {% break %}
-         {% endif %}
-          {% endfor %}
-         {% endif %} 
-
       
       {{ post.excerpt }}
       
