@@ -39,17 +39,18 @@
 <article class="post">
   <h1>{{ page.title }}</h1>
 
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+  
   <div class="entry">
     {{ content }}
     <hr />
   <p>If you enjoyed this post, please consider <a href="http://tinyletter.com/ajroach42">signing up for my newsletter.</a> or <a href="https://retro.social/@ajroach42">following me on Mastodon.</a></p>
    <hr />
-    <p>Check out the other stuff I do:<a href="http://retro.social"> Retro Social (Mastodon Instance) </a> <a href="http://analogrevolution.com">Analog Revolution</a>, <a href="http://spaceageideas.com">Space Age Ideas</a>, <a href="http://ofmanytrades.com">Of Many Trades.</a> If you want to help me keep making stuff, check out the rewards available from <a href="https://patreon.com/ajroach42">my Patreon. </a></p>
+    <p>Check out the other stuff I do:<a href="http://retro.social"> Retro Social</a> (Mastodon Instance), <a href="http://analogrevolution.com">Analog Revolution</a>, <a href="http://spaceageideas.com">Space Age Ideas</a>, <a href="http://ofmanytrades.com">Of Many Trades.</a> If you want to help me keep making stuff, check out the rewards available from <a href="https://patreon.com/ajroach42">my Patreon. </a></p>
     
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
 
     <hr />
 Share on: <a class='socialLink' title='Share on Reddit' id='redditshare' href='http://www.reddit.com/submit' onclick="document.getElementById('redditshare').href = 'http://www.reddit.com/submit?url=' + encodeURIComponent(window.location);"> [Reddit] </a> 
