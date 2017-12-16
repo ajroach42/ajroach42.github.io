@@ -12,6 +12,11 @@ layout: default
    <hr />
     <p>Check out the other stuff I do: <a href="http://analogrevolution.com">Analog Revolution</a>, <a href="http://spaceageideas.com">Space Age Ideas</a>, <a href="http://ofmanytrades.com">Of Many Trades.</a> If you want to help me keep making stuff, check out the rewards available from <a href="https://patreon.com/ajroach42">my Patreon. </a></p>
     
+
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
     <hr />
 Share on: <a class='socialLink' title='Share on Reddit' id='redditshare' href='http://www.reddit.com/submit' onclick="document.getElementById('redditshare').href = 'http://www.reddit.com/submit?url=' + encodeURIComponent(window.location);"> [Reddit] </a> 
 <a class='socialLink' title='Share on Facebook' id='facebookShare' href='https://www.facebook.com/sharer/sharer.php' onclick="document.getElementById('facebookShare').href = 'https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(window.location);" > [FaceBook] </a> 
@@ -19,10 +24,5 @@ Share on: <a class='socialLink' title='Share on Reddit' id='redditshare' href='h
 <a class='socialLink' title='Share on Twitter' id='twitterShare' href='http://twitter.com/share' onclick="document.getElementById('twitterShare').href = 'http://twitter.com/share?text=' +document.title +  '&url=' + encodeURIComponent(window.location);" > [Twitter] </a> 
 
   </div>
-
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
-
-  {% include disqus.html %}
+    
 </article>
