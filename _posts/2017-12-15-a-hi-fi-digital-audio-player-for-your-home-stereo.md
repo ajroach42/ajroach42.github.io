@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'A Hi-Fi Digital Audio Player for Your Home Stereo '
 ---
 I am building a home stereo digital media player. Specifically, a small, sleek box with two wires coming out of it that I can sit next to my turntable, and plug in to my amp. It will have wifi, and will work as a dlna/UPnP receiver, so that I can cast music to it from my media server using my phone, a laptop, a desktop, or a tablet.
@@ -63,5 +63,4 @@ The upshot of all this is that I'm going to have to get creative on the design f
 
 I'll follow up with another post when I have more to report. 
 
-(Also, obligitory link to [my Mastodon profile](https://retro.social/@ajroach42). Come tell me what you think.) 
-
+(Also, obligitory link to [my Mastodon profile](https://retro.social/@ajroach42). Come tell me what you think.)
