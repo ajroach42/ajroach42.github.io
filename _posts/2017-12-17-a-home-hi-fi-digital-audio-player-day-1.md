@@ -38,6 +38,8 @@ As I am using RasPlex without a monitor, I can't use the traditional style remot
 
 ![screenshot (7).jpeg]({{site.baseurl}}/images/screenshot (7).jpeg)
 
+I get to that interface from a web browser, or from a dedicated mobile app. Changes are reflected almost imediately. (Seriously, it's smoother than the BT playback in my car.) 
+
 Playback is pretty responsive, and so far has been pleasant and easy to understand more often than it has been frustrating or buggy. (Which is not to say that it's never frustrating or buggy. Those moments still happen, but they don't happen often.) 
 
 By and large, this setup works well! Occasionally, I still find myself noticing small ways that RasPlex excepts that you'll have a monitor connected (the initial configuration is a great example of this, but far from the only one) but in the several hours I've used it today, I have never been made to feel like this setup was hacky or impractical.
@@ -56,4 +58,8 @@ I'm pretty happy with the whole thing.
 
 Visually, it's suprisingly invisble. That is to say, my Raspberry Pi fell down behind my stereo console while I was hooking up all the cables, and I left it there. I expected to have a small box to have to stare at, but as I never actually need to interact with the box, there's no need for it to be visible. 
 
+**If we consider automotive bluetooth as our standard to clear, this setup beats every wireless car stereo I've ever used in terms of Sound Quality, Ease of Use, and Responsiveness.** 
+
 The Interface and the Sound Quality are both good enough that I'm not actively searching for alternatives. I could be happy with this setup indefinitely.
+
+I'm calling that a win! 
