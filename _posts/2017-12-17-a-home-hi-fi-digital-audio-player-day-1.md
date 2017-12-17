@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: A Home Hi-Fi Digital Audio Player - Day 1
 ---
 Over the last few days I've talked about setting up a digital home audio player (see [my initial post](http://ajroach42.com/a-hi-fi-digital-audio-player-for-your-home-stereo/), and [an update with some setbacks](http://ajroach42.com/a-quick-update-on-my-hi-fi-home-dap/).) Early this morning, I finally got the first iteration of this project set up and connected to my home stereo. After using it for a few hours, I have some first impressions to share. 
@@ -56,4 +56,4 @@ I'm pretty happy with the whole thing.
 
 Visually, it's suprisingly invisble. That is to say, my Raspberry Pi fell down behind my stereo console while I was hooking up all the cables, and I left it there. I expected to have a small box to have to stare at, but as I never actually need to interact with the box, there's no need for it to be visible. 
 
-The Interface and the Sound Quality are both good enough that I'm not actively searching for alternatives. I could be happy with this setup indefinitely. 
+The Interface and the Sound Quality are both good enough that I'm not actively searching for alternatives. I could be happy with this setup indefinitely.
