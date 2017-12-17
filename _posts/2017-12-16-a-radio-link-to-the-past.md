@@ -26,7 +26,7 @@ The one I recieved is a little different from the picture. (Mine has gold trim i
 - Plays the songs in the order they were coppied on to the SD Card, with no way to modify this behavior 
 - A little smaller than I'd like 
 
-## Remaing Questions: 
+## Remaining Questions: 
 
 - Does it support playlists? If it does, I can include three or four playlist files at the beginning of the SD Card with all of the files shuffles there. 
 - Will it work reliably for many months? We'll find out, I'm sure. 
