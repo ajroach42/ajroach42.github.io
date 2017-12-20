@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Life and Work in 2018
 ---
 I'm moving! We're still working out the exact details on when and where, but it's pretty certain that it's going to happen sometime in 2018! This is exciting! But it's also pretty scary. Over the last few days I've talked through a lot of our plans for the future [over on Mastodon](https://retro.social/@ajroach42) and here I'd like to summarize the key points and takeaways from that discussion. 
