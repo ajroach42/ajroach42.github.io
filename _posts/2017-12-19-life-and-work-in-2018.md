@@ -73,7 +73,7 @@ I am currently considering:
 - Custom/bespoke computers and electronics (including retrofitting vintage radios with BT/Wifi) 
 - Basic web development (quick and dirty, templates + SSG + plug and chug) 
 - Patreon 
- - get on a regular release schedule for Podcasts, serialized fiction, computer games, magazines, etc. and offer these things as patreon rewards 
+-- get on a regular release schedule for Podcasts, serialized fiction, computer games, magazines, etc. and offer these things as patreon rewards 
 - Some kind of project ops consulting, or something, IDEK. 
 
 But, of course, none of these things is particularly reliable, and several of them (specifically "part-time remote work") are far to vague to actually be useful. Also, most of those things are centered around the near/mid future, the next 5-7 years durring which we are paying off our new home and generally reducing our expenses and saving as much money as possible. Our ideas of revenue generation/requirements will change dramatically in the interviening time, so this is a topic I expect to revist often. 
