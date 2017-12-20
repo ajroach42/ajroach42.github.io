@@ -15,32 +15,32 @@ I'm moving! We're still working out the exact details on when and where, but it'
 
 ### Expense reduction: 
 
-- Tiny House
+#### Tiny House
  - lower mortgage (less than half of our current rent), and we'll pay it off quickly, 
  - less to heat/cool, 
  - less room to put things means we're less likely to buy things we don't need 
 
-- solar power. 
+#### solar power. 
  - We are currently exploring options for generating our own power and living off grid. This will save us money. 
 
-- Hydroponics. 
+#### Hydroponics. 
  - We are currently exploring options for growing our own food, so that we spend less money on food. 
 
-- Remote work 
+#### Remote work 
  - If at all possible, I'm trying not to commute. This will save us money on gas and car expenses 
 
-- Cooking 
+#### Cooking 
  - If we are living where we are currently considering, there will not be many restaurants (other than a fast food joint or two) within reasonable driving distance. 
  - This means that we will neccisarilly be cooking our own food more often. 
  - Combine this with recepies selected for cost effectiveness, the food we grow, and some basic meal-prep, and we're left with a serious reduction in our biggest variable expense. 
 
-- Meal sharing
+#### Meal sharing
  - Probably not right off the bat, but eventually, I'd love to get set up with a local community of like minded people, through which we can do some meal sharing.
  - Basically, we take turns making Big meals for the community, packaging them up and delivering them arround.
  - Most of the time and expense in making an item is in the first serving, the cost per serving goes down with each serving you add (up to a point.) Economies of scale and all that.
  - Plus, you don't always have time to cook, but getting on a rotation within your community can mitigate that. 
 
-- Of course, I am *very* interested in new ideas or strategies for expense reduction. 
+ Of course, I am *very* interested in new ideas or strategies for expense reduction. 
  - How can we decrease our economic footprint? 
  - What has worked for you? 
  - What hasn't? 
