@@ -78,4 +78,10 @@ I am currently considering:
 
 But, of course, none of these things is particularly reliable, and several of them (specifically "part-time remote work") are far to vague to actually be useful. Also, most of those things are centered around the near/mid future, the next 5-7 years durring which we are paying off our new home and generally reducing our expenses and saving as much money as possible. Our ideas of revenue generation/requirements will change dramatically in the interviening time, so this is a topic I expect to revist often. 
 
-There's still a lot of work to do in terms of solidifying my ideas on revenue generation, and turning them in to actionable items, so I expect I'll keep talking about this as time goes on. If it get's boring, let me know. I can move it somewhere else.
+There's still a lot of work to do in terms of solidifying my ideas on revenue generation, and turning them in to actionable items, so I expect I'll keep talking about this as time goes on. 
+
+Specifically, look out for more conversation around Revenue Generation, Low-Power/Solarpunk Tech, and details on off-grid living as they develop. I may eventually spin that content off in to it's own blog. Let's see how it goes. 
+
+Aynway, thanks for reading. [Join in the coversation on Mastodon](https://retro.social/@ajroach42), and let me know what you think, what's worked for you, and in exactly what ways I'm oversimplifying things. 
+
+Until next time, 
