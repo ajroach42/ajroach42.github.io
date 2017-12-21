@@ -1,8 +1,10 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Steps Towards a Web without The Internet
+splash-tall: ''
+splash-wide: ''
 ---
 [The web is broken.](https://www.neustadt.fr/essays/against-a-user-hostile-web/) We've talked about this before ([net noot](http://ajroach42.com/net-neutrality-the-consolidation-of-american-media-and-you/), [gopher](http://ajroach42.com/gopher-remembering-the-web-that-wasn-t/)). Today, I'm not here to talk about the ways the web is broken, today, I am here to talk about some potential solutions. Specifically I want to talk about how we can leverage some brand new technologies to build a network that operates independently from the Internet and supplements it, mitigating the ways the web is bad for users.  
 
@@ -102,11 +104,11 @@ The next step is to get DAT, which is based on node.js, installed on a clean Ras
 
 That page will be served over HTTP and DAT and all the pages the BBS peers would also be made available over HTTP and DAT, at least until mobile devices have good DAT browsers. 
 
-
-
 ## Further Reading 
 
 - [Dat Documentation](https://docs.datproject.org/) 
 - [Using Beaker](https://beakerbrowser.com/docs/using-beaker/)
 - [Against an increasingly user hostile web](https://www.neustadt.fr/essays/against-a-user-hostile-web/)
-- [Rescuing the Web from the Internet](https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html): A more ambitious plan to leverage some of the same technologies to build a more long-term network.  
+- [Rescuing the Web from the Internet](https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html): A more ambitious plan to leverage some of the same technologies to build a more long-term network.
+
+
