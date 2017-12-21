@@ -31,7 +31,7 @@ The biggest news on this project is probably [Beaker Browser and DAT](https://be
 ### DAT 
 
 - Technically, DAT is a protocol for distributed, peer-to-peer file sharing with version history. 
-- Basically, DAT is a new kind of torrent. One that can be modified by the person that created it, in a secure, cryptographically signed fashion. 
+- Basically, DAT is a new kind of torrent, but with some secret sauce.
 - They merged the idea of a torrent with ideas from [Secure Scuttlebutt](http://scuttlebot.io/), and the end result is a torrent that can be modified by it's creator. 
 - Importantly, they do all of this without requiring "proof-of-work" 
 
