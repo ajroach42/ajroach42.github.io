@@ -94,7 +94,9 @@ It's not a perfect solution, especially because there are no good DAT clients fo
 
 ## Next steps 
 
-The next step is to get DAT, which is based on node.js, installed on a clean Raspberry Pi. From there, I just need to build a simple web-app thing that will run on the BBS box, serving as it's homepage. That app should:
+The next step is to get DAT, which is based on node.js, installed on a clean Raspberry Pi, and verify that it will perform acceptably. Then we need to build a new version of our mBBS project, with node available. I'm working on this now, and I'll hopefully have a repository and some instruction up within a month or so. 
+
+From there, I just need to build a simple web-app thing that will run on the BBS box, serving as it's homepage. That app should:
 
 - accept DAT URLs + metadata via a form
 - Publish links to those DAT URLs (and meta) to the BBS homepage 
@@ -108,3 +110,8 @@ That page will be served over HTTP and DAT and all the pages the BBS peers would
 - [Using Beaker](https://beakerbrowser.com/docs/using-beaker/)
 - [Against an increasingly user hostile web](https://www.neustadt.fr/essays/against-a-user-hostile-web/)
 - [Rescuing the Web from the Internet](https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html): A more ambitious plan to leverage some of the same technologies to build a more long-term network.
+
+
+--------
+
+Do you want to help out? [Join the conversation on Mastodon](https://retro.social/@ajroach42). I'd love to have some helping hands. 
