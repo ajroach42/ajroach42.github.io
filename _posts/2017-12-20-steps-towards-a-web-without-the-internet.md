@@ -16,7 +16,7 @@ Basically, it was a BBS.
 
 In February of 2016, I gathered some thoughts on that project into [an article about building a Modern BBS](http://ajroach42.com/a-modern-bbs/). It is consistently my most popular article, and honestly one of my favorite topics. I talk about ways to fix and expand on the mBBS concept pretty much every day. 
 
-There were some problems with the project. First, it was *very* local. I mean, it only really worked if the users were in the same building as one of the nodes. Keeping the data in sync between the nodes was supposed to be handeled via sFTP and rsync, but in practice it was an ugly mess that didn't work and would have been easy to abuse. 
+There were some problems with the project. First, it was *very* local. I mean, it only really worked if the users were in the same building as one of the nodes. Second, keeping the data in sync between the nodes was supposed to be handeled via sFTP and rsync, but in practice it was an ugly mess that didn't work and would have been easy to abuse. 
 
 But this isn't about the past. 
 
