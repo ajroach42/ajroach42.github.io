@@ -37,7 +37,7 @@ The biggest news on this project is probably [Beaker Browser and DAT](https://be
 
 ### Beaker 
 
-- Beaker is a web browser that lets you view webpages from DAT files. 
+- Beaker is a web browser that lets you interact with DATs like they are webpages. 
 - Beaker also lets as a way to create/host DATs. 
 - Once you have created a DAT, anyone who visits it can re-host it. 
 - If you make changes, and they are online, their version will update automatically. 
