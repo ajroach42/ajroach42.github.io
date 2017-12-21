@@ -41,7 +41,7 @@ The biggest news on this project is probably [Beaker Browser and DAT](https://be
 - Beaker also lets as a way to create/host DATs. 
 - Once you have created a DAT, anyone who visits it can re-host it. 
 - If you make changes, and they are online, their version will update automatically. 
-- This does not require an internet connection, and can be done entirely peer-to-peer over an intranet. 
+- This does not require an internet connection, and can be done entirely peer-to-peer over an intranet (that is, a local network, without the internet.)  
 
 I want to take advantage of that. The principal problem that prevented our servers from becoming a network was syncing between nodes. Content published on one node did not easilly sync to other nodes, and bi-directional sync was almost impossible. 
 
