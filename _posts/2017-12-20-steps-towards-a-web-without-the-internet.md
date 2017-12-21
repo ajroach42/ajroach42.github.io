@@ -87,11 +87,10 @@ Based on all of that, this means that the nodes don't have to be connected to on
 
 However! If the nodes can be connected (over the internet, over a temporary long range connection, over a phone line, over RF, via flash drives, whatever) the DAT protocol will also handle those syncs, thus preserving data integrity and reducing the potential for man-in-the-middle attacks.
 
-Further, while http traffic will be unencrypted as a result of there not being a certificate authority available, DAT traffic is encrypted by default. 
+Further, while http traffic will be unencrypted as a result of there not being a certificate authority available, DAT traffic is encrypted by default. DAT can even be used to serve updates for the server software, and to verify their authenticity. This simplifies the update proccess, and helps ensure servers are not compromised. 
 
-It's not a perfect solution, especially because there are no good DAT clients android and ios, but that situation is temporary at worst, and allowing for HTTP fallback is not particularly problematic as a short term solution, IMO. 
+It's not a perfect solution, especially because there are no good DAT clients for android and ios, but that situation is temporary, and allowing for HTTP fallback is not particularly problematic as a short term solution, IMO. 
 
-Also, DAT can be used to serve updates for the server software, and to verify their authenticity. This simplifies the update proccess, and helps ensure servers are not compromised. 
 
 ## Next steps 
 
