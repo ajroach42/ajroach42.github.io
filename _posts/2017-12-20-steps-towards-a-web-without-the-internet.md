@@ -78,7 +78,7 @@ If I understand everything correctly, this can work. If it does, it will work li
 - If those users have Beaker or another DAT browser installed they can interact via DAT instead. 
 - When they interact via DAT, they can choose to sync pages from this BBS to their computer. 
 - They can publish files
-- Published files can be available over DAT only while they are connected to the network, **or** they can submit the DAT address to the BBS so that the BBS will peer that content and continue to make it available once they have disconnected.
+- Published files can be available over DAT only while they are connected to the network, **or** they can submit the DAT address to the BBS so that the BBS will copy that content and continue to make it available once they have disconnected.
 - Then, if they connect to another BBS, it will bidirectionally update any pages that are available in both places. 
 
 It looks like there will be a way to upload content over HTTP, too. That'll be less needed as more DAT browsers are released, but it serves as a nice stop gap for now.
@@ -100,9 +100,9 @@ From there, I just need to build a simple web-app thing that will run on the BBS
 
 - accept DAT URLs + metadata via a form
 - Publish links to those DAT URLs (and meta) to the BBS homepage 
-- Peer each of those DATs from the BBS box (provided it has enough room) 
+- Copy each of those DATs and share them from the BBS box (provided it has enough room) 
 
-That page will be served over HTTP and DAT and all the pages the BBS peers would also be made available over HTTP and DAT, at least until mobile devices have good DAT browsers. 
+That page will be served over HTTP and DAT and all the pages the BBS shares would also be made available over HTTP and DAT, at least until mobile devices have good DAT browsers. 
 
 ## Further Reading 
 
