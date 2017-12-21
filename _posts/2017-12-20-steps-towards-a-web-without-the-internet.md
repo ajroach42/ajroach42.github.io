@@ -8,9 +8,9 @@ title: Steps Towards a Web without The Internet
 
 A little over three years ago, I wrote an article for the [Analog Revolution Magazine](http://analogrevolution.com) about the Alternet, a wacky project we were running up at the record store. 
 
-We didn't have an internet connection at the store, so we set up a little box that wasn't connected to the internet, and we served some web pages, some public domain movies, a message board, and a chatroom, all over local wifi. 
+We didn't have an internet connection at the store, so we set up a little box that wasn't connected to the internet, and we served some web pages, some public domain movies, a message board, and a chatroom, all over local wifi. That little box became the first node of our Alternet. 
 
-If you were in the store or at the attached venue you could connect and share files, watch movies, and leave messges on the server. 
+If you were in the store or at the attached venue you could connect and share files, watch movies, and leave messges on that node. With a little luck, they would eventually make it the other nodes we ran (though this tended not to work well in practice.) 
 
 Basically, it was a BBS. 
 
