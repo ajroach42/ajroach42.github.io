@@ -6,7 +6,7 @@ title: Steps Towards a Web without The Internet
 ---
 [The web is broken.](https://www.neustadt.fr/essays/against-a-user-hostile-web/) We've talked about this before ([net noot](http://ajroach42.com/net-neutrality-the-consolidation-of-american-media-and-you/), [gopher](http://ajroach42.com/gopher-remembering-the-web-that-wasn-t/)). Today, I am here to talk about some potential solutions. Specifically I want to talk about how we can leverage some brand new technologies to build a network that operates independently from the Internet and supplements it, mitigating the ways the web is bad for users.  
 
-A little over three years ago, I wrote an article for the [Analog Revolution Magazine](http://analogrevolution.com) abouty the Alternet, a wacky project we were running up at the record store. 
+A little over three years ago, I wrote an article for the [Analog Revolution Magazine](http://analogrevolution.com) about the Alternet, a wacky project we were running up at the record store. 
 
 We didn't have an internet connection at the store, so we set up a little box that wasn't connected to the internet, and we served some web pages, some public domain movies, a message board, and a chatroom, all over local wifi. 
 
