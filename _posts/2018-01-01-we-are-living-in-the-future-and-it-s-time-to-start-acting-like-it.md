@@ -10,6 +10,8 @@ It's January First, 2018. Another year is behind us, and it left us with a lot o
 
 ### Corporate Media
 
+Writing about this recently
+
 ### The modern Web is dangerous and unsafe 
 
 ### The modern Internet is dangerous and unsafe 
