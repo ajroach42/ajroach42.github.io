@@ -169,9 +169,3 @@ And then we organize.
 
 When you spell it out like that, it either sounds really simple or completely impossible depending on your level of cynisism. Thankfully, it's neither. It is attainable, but it will take hard work. 
 
-
-## Balancing The Work against My Life 
-
-### Buying a new home// Living my values 
-
-### Work vs. Life vs. Improving the world
