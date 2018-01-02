@@ -19,4 +19,17 @@ It's January First, 2018. Another year is behind us, and it left us with a lot o
 
 ## A Roadmap 
 
+### DIY Media 
+
+### The Internet without The Web 
+
+### The Web without The Internet 
+
+### Reclaiming American Politics
+
+
 ## Balancing The Work against My Life 
+
+### Buying a new home// Living my values 
+
+### Work vs. Life vs. Improving the world
