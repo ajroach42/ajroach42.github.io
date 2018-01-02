@@ -167,7 +167,7 @@ And then we organize.
 
 >We must explicitly organize in decentralized spaces. That does not mean that we cannot USE Facebook, or Twitter, or Medium as tools of organizing and outreach. We must depend on these services to handle our organization.
 
-When you spell it out like that, it either sounds really simple or completely impossible depending on your level of cynisism. Thankfully, it's neither. 
+When you spell it out like that, it either sounds really simple or completely impossible depending on your level of cynisism. Thankfully, it's neither. It is attainable, but it will take hard work. 
 
 
 ## Balancing The Work against My Life 
