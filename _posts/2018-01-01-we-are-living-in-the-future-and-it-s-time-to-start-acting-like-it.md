@@ -46,6 +46,8 @@ So, the modern web is dangerous. But part of what makes the modern web dangerous
 
 It sounds like a nut-job conspiracy theory, until you start paying attention. 
 
+Beyond that, the modern web is also less open than ever. Facebook, specifically, is slowly eating the Open Web and replacing it with a walled garden where Facebook decides who sees what and when. Search engines are becoming less useful as a result. The web is pretty consistently in a bad state. 
+
 
 ### The modern Internet is dangerous and unsafe 
 
@@ -57,17 +59,115 @@ Basically, the internet is in danger. There's a lot of opportunity for us to do 
 
 Full stop. 
 
-The NSA is spying on us. Corporations are spying on us. The governments and corporations that 
+The NSA is spying on us. Corporations are spying on us. The governments and corporations that are spying on us have agendas to make us less safe and less free. 
+
+We're super divided. Half of us do not trust evidence or fact as much as we trust emotions and feelings. The Midterm elections are going to be unimaginably important, and the half of the country that might actually want to do something is being pacified in to apathy by the elements discussed above. 
 
 ## A Roadmap 
 
-### DIY Media 
+So! Those are real bad problems! 
 
-### The Internet without The Web 
+Thankfully, there's stuff we can do to make them all better! 
 
-### The Web without The Internet 
+### Saving the Media  
+
+We gotta make our own media, and we gotta support the folks that do. That's the bare minimum. 
+
+In [my DIY media piece](http://ajroach42.com/diy-media/) a few weeks ago, I said: 
+
+> If we’re ever going to actually effect social change, we’re going to need to provide home grown, community alternatives to the media produced by the entrenched power structures represented by these mega-corporations. We need to hit them at their bottom line, which means creating (and consuming) compelling community TV, Film, Games, Prose, Music, and other art.
+
+To that end, I'm working on some podcasts. I'm making DIY and public domain media reviews a regular feature on this blog, and I'm financially supporting creators whenever I can. 
+
+As the year progresses, I'm going to start putting together DIY media guides. Some guides I have planned:
+
+- Podcast production and distribution 
+- Web hosting and website building for beginners 
+- Replacing Netlfix and Youtube as a consumer 
+- Providing alternatives to Youtube as a creator 
+- Public Domain and CC fuel for remixes 
+- Zine production and distribution 
+
+I currently consider making media, consuming independent media, and helping other to do the same, to be the most important things most of us can currently do. I have some ideas on this front, that I'll be talking about [on Mastodon](https://retro.social/@ajroach42), and eventually in another blog post on this blog. If this is something that interests you, you may even want to [Sign Up for my Newsletter](http://tinyletter.com/ajroach42) so that you can follow along. 
+
+### Saving the Web 
+
+I love the web! I have said a lot of bad things about the web, and I will continue to do so, but I need you to understand that I critize the web because I love it. So here's how we can save it. 
+
+#### Facebook 
+
+Facebook is one of the biggest problems with the web. They track us, they wall content off from the Open Web and hide it in their walled garden, or in their app. They silo content, and only show it to your audiences in exchange for bribes. They serve as a distribution platform for corporate and governmental propaganda. 
+
+**We gotta stop using Facebook** it's really that simple. I understand that you might use it for work, or to keep up with old friends, or distant relatives. I sympathize! I do the same thing. 
+
+But, at this point, that's all I do. Facebook's apps have been uninstalled from my phone and tablet. I visit the website no more than once a week. I am working towards removing the platform from my life entirely, and encouraging as many people as I can to do the same. 
+
+That means moving to [Open social networks like Mastodon](http://analogrevolution.com/mastodon/). It means publishing things through a Blog, instead of through posts or notes on facebook, and embracing the open internet again as content creators and consumers.
+
+For me, in addition to doubling down on my personal blog, I'll also be publishing some content through Neocities, and continuing to develop the community on my [tilde site, Of Many Trades](http://ofmanytrades.com). 
+
+When looking for new content, I'm checking: 
+
+- Creator run websites on the open web (with RSS feeds, so I can subscribe!) 
+- My RSS subscriptions 
+- The Gopherholes I follow 
+- [Neocities](https://neocities.org/)
+- Archive.org 
+- etc. 
+
+If I can't find the content I'm after on the open web, without anyone attempting to spy on me, I'll do without it (or, if I can't do without it, consider other options.) 
+
+Importantly, I will not be using Facebook or Tumblr for content discovery. I'll find new stuff through Open and Independent networks that embrace user freedom. I'll share my content through the same channels. 
+
+#### The Internet Without the Web 
+[I've wrtten about this one recently](http://ajroach42.com/gopher-remembering-the-web-that-wasn-t/). Put simply, Gopher was an alternative service to the modern Web that predates it by a few years. It still works, it's still out there, and it's more relevant than ever in the face of an increasingly user hostile web. 
+
+
+#### The Web without The Internet 
+
+I've [written about this one recently, too](http://ajroach42.com/steps-towards-a-web-without-the-internet/). One of my biggest projects for the next year is going to be making that concept a reality. The idea behind the web is a good one, and if it can be save, it should be. 
+
+DAT + Intranets appear to be one solid potential alternative that I will be exploring in an atempt to build http://ajroach42.com/a-modern-bbs/[a modern succesor to the BBS](http://ajroach42.com/a-modern-bbs/). 
+
 
 ### Reclaiming American Politics
+
+American politics is a mess! If we're going to save it, we have to: 
+
+- Create and control our own media 
+- Get as many people as we can off of Facebook and Twitter 
+- Educate, Agitate, Organize.
+ 
+In my [piece on Net Neutrality](http://ajroach42.com/net-neutrality-the-consolidation-of-american-media-and-you/) I said: 
+
+> Educate
+Become your own news source, or amplify a non-corporate one. Blog (somewhere that isn’t Medium or Facebook.) Film the police and the politicians. Publish a zine. (Reach out to me if you want some help.)
+
+>Use whatever platform that is available to you to demonstrate to people that Rupert Murdoch owning a large chunk of Disney is real bad. Demonstrate how the Net Noot repeal hurts folks. Talk about the
+
+>Use those platforms to get them angry. Use those platforms to demonstrate how those platforms are harmful. (When I say “Those Platforms” I mean facebook, Medium, instagram, and other centralized services.)
+
+>Agitate
+Then it’s time to agitate.
+
+>Help the people you have educated fight back.
+
+>We are fighting back against the consolidation of power in media in general, and specifically the repeal of net neutrality (which was possible, mostly, by abuse of that power.)
+
+>We fight back by leaving centralized services. By refusing to pay Disney/Fox/Comcast for media. By providing community alternatives to traditional media, and centralized services like Tumblr, Twitter, Facebook, and Medium. By self publishing. By using mastodon.
+
+>Organize
+And then we organize.
+
+>We coordinate our efforts. We acknowledge that the things that we are doing are intentionally radical. We start taking collective actions. That means boycotts. That means walkouts. That means days of silence.
+
+>Once there are enough of us, our agitations, our small actions, cascade. Our small individual actions, in aggregate, become as powerful (more powerful?) than the machinations of mega-corps.
+
+>Importantly, we cannot depend on Facebook or Twitter to organize.
+
+>We must explicitly organize in decentralized spaces. That does not mean that we cannot USE Facebook, or Twitter, or Medium as tools of organizing and outreach. We must depend on these services to handle our organization.
+
+When you spell it out like that, it either sounds really simple or completely impossible depending on your level of cynisism. Thankfully, it's neither. 
 
 
 ## Balancing The Work against My Life 
