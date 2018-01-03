@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'We Are Living In The Future and It''s Time To Start Acting Like It! '
 ---
 It's January First, 2018. Another year is behind us, and it left us with a lot of problems to solve, and a lot of work to do. This is my summation of the chief problems facing us in the new year, and a road-map for the work I can do, we can do, to solve these problems, or at least mitigate them going forward. 
@@ -200,4 +200,4 @@ While all this is going on, while I am building new teams, creating media, blogg
 
 What are the battles you're fighting in 2018? Do our battles overlap? Can we work together? How should we best organize? 
 
-Reach out to me on [Mastodon](https://retro.social/@ajroach42) or [Email me](mailto:me@andrewroach.net), and let's chat. 
+Reach out to me on [Mastodon](https://retro.social/@ajroach42) or [Email me](mailto:me@andrewroach.net), and let's chat.
