@@ -24,7 +24,7 @@ Lots of stuff is bad. Here's a quick rundown of the battles I'm picking, and how
 
 And that's true! But it's also a little obtuse. When I say that 5 companies control 90% of American media, what I mean is 90% of what is broadcast on Television, screened in Movie Theaters, played on the Radio, or sold in stores comes from one of these five companies. 
 
-The goals and views of these organizations shade everything they release, color our national discourse, and infect public opinion. Sometimes this is done in a benign or ever progressive fashion. 
+The goals and views of these organizations shade everything they release, color our national discourse, and infect public opinion. Sometimes this is done in a benign or ever progressive fashion. Usually, it is not. 
 
 Think about how many things you've seen in which the protagonist is a hardboiled cop on the edge that takes the law in to his own hands. The first season of The Expanse does this, but in space! Almost Human does this, but with Robots! It's Lethal Weapon, it's Die Hard, it's ubiquitous American media. 
 
