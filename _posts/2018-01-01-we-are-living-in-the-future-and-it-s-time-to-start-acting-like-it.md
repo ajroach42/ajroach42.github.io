@@ -64,7 +64,7 @@ The NSA is spying on us. Corporations are spying on us. The governments and corp
 
 We're super divided. Half of us do not trust evidence or fact as much as we trust emotions and feelings. The Midterm elections are going to be unimaginably important, and the half of the country that might actually want to do something is being pacified in to apathy by the elements discussed above. 
 
-It's really bad, and we 
+It's really bad, and we gotta fight against it. 
 
 ## A Roadmap
 
