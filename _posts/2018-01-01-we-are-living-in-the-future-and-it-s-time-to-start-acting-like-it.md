@@ -6,6 +6,8 @@ title: 'We Are Living In The Future and It''s Time To Start Acting Like It! '
 ---
 It's January First, 2018. Another year is behind us, and it left us with a lot of problems to solve, and a lot of work to do. This is my summation of the chief problems facing us in the new year, and a road-map for the work I can do, we can do, to solve these problems, or at least mitigate them going forward. 
 
+![Jetlev_Jetpack.jpg]({{site.baseurl}}/images/Jetlev_Jetpack.jpg)
+
 Basically, it's 2018. It's the future. It's time for us to start acting like it. 
 
 ## Defining the problems we're facing
