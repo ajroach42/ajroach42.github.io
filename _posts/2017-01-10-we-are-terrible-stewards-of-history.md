@@ -74,13 +74,13 @@ There's a lot we can do, some suggestions:
 - Support organizations that work to preserve our culture (such as the ones mentioned above) or to advocate for better laws (such as the EFF.) 
 - Preserve the things you purchase
 	- Don't assume that someone else is handling this. History has show us that they are not 
-- [Help design the infrastructure required to preserve non-commercial media](http://diymedia.cc) (such as the home-recorded demos from that band you were in in highschool, the zines you bought from that weird shop on the corner, or that backyard blockbuster the kids up the road filmed.)
+- Help design the infrastructure required to preserve non-commercial media (such as the home-recorded demos from that band you were in in highschool, the zines you bought from that weird shop on the corner, or that backyard blockbuster the kids up the road filmed.)
 	- I commonly hear the refrain "I'll just put it up on youtube" or similar. This is a good instinct, but it falls short in a couple of ways: 
     	2) Youtube does not provide a method for people to download copies for themselves. 
         3) A youtube video is of lower quality than the original file, because of how youtube works 
         4) Not everything belongs on youtube 
     - So yeah, totally. Put it on youtube (or wherever), but don't make that the end of your preservation efforts. 
-    - Consider putting it on [Archive.org](http://archive.org) or [DIYMedia.cc](http://diymedia.cc)
+    - Consider putting it on [Archive.org](http://archive.org) or 
 - Talk to any creators you know, to help them establish a way (such as [CC licences](https://creativecommons.org/)) for their works to be preserved when they are no longer reaping financial benefit from them. 
 
 **As a Creator**
@@ -101,4 +101,4 @@ There's a lot we can do, some suggestions:
 
 There's a lot of ground to cover, but we stand a real chance of preserving, archiving, and currating a substantial portion of the media (both professional an DIY) that remains in circulation. Help us to preserve, currate, and contextualize our history. 
 
-I'm really passionate about this. That's why I started [DIYmedia.CC](http://diymedia.cc). We're just getting our feet under us, but I think we're going to be able to make something really neat. If you want to help out, reach out to me on [Twitter](http://twitter.com/ajroach42), or sign up for my [mailing list](http://tinyletter.com/ajroach42). 
+I'm really passionate about this! Eventually, I'll build a web platform to help solve this problem. We're not ready yet, but I think we're going to be able to make something really neat. If you want to help out, reach out to me on [Twitter](http://twitter.com/ajroach42), or sign up for my [mailing list](http://tinyletter.com/ajroach42).
