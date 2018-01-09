@@ -46,6 +46,7 @@ First, let's define which hardware I want to use:
 - Some dumb terminals (vt100, etc.)
 - Phones! (Any of the various brightly colored vintage phones of the 50s, 60s, and 70s.)
 - TVs and Monitors (specifically, a Philco Predicta, Panasonic/National Flying Saucer, Keracolor Sphere, JVC Video Sphere, and other interesting Space Age TVs)
+- Literally any other neat computer I come across (like the Amiga Video Toaster) can and likely will be worked in to this blueprint over time. 
 
 I'll supplement the above with a small collection of raspberry pi's or other cheap machines running older OSs or emulating older machines, as well as acting as file servers, application servers, and gateways for the vintage machines.
 
@@ -61,7 +62,7 @@ These machines are from various eras, and out of the box they are all but entire
 
 A large portion of the magic that enables us to use vintage computers (and other hardware) in a modern context is going to come down to the supplemental hardware. A lot of this ends up being custom, and vendors pop up and disappear all the time, so I'm not going to discuss individual products as much as classes of product. 
 
-**Video Adapters**
+**Video Adapters** The Apple II 
 
 **SD Card floppy drives** 
 
@@ -70,6 +71,14 @@ A large portion of the magic that enables us to use vintage computers (and other
 **Serial-to-Bluetooth adapters** 
 
 **Serial-to-Wifi modems** 
+
+**Analog to Digital Telephone Adapter** Because we want those groovy vintage handsets to be able to be used with VoiP calls. There are a bunch of different setups you can go for, but the most robust would almost certainly be running [Asterisk](https://en.wikipedia.org/wiki/Asterisk_(PBX)) along with a simple IP PBX. 
+
+Another option would be to use an Obihai OBi110 or similar, which supports [SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol) and [XMPP calls](https://en.wikipedia.org/wiki/XMPP) (and google voice, if that's your thing.) They aren't terribly expensive, and they interface with multiple free VoiP services, including some which can provide a bridge to POTS. 
+
+For me, the primary use case for this setup would mostly be internal calls and one-on-ones, but the propspect of setting up a dedicated landline is pretty appealing. I might give this a shot soon, and report back with more detailed instructions. 
+
+**TV Transmitter** This one might not be legal where you live, so be careful. You can mostly DIY it with instructions from [AntiqueRadio.org](https://antiqueradio.org/HomeTVTransmitter.htm)
 
 
 
