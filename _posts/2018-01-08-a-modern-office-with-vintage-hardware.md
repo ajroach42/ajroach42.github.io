@@ -62,17 +62,29 @@ These machines are from various eras, and out of the box they are all but entire
 
 A large portion of the magic that enables us to use vintage computers (and other hardware) in a modern context is going to come down to the supplemental hardware. A lot of this ends up being custom, and vendors pop up and disappear all the time, so I'm not going to discuss individual products as much as classes of product. 
 
-**Video Adapters** The Apple II 
+**Video Adapters** The Apple II, Atari ST, and a bunch of other vintage computers that I have yet to research well enough to intigrate in to this plan (but I'll get there, promise) need an external monitor. Most of them have a low quality composite out, which will connect them to a TV, and a high quality output for connecting to a monitor. 
 
-**SD Card floppy drives** 
+The high quality outputs, as a rule, do not use a standard VGA connector, but rather rely on video cables and video modes that no longer exist. As a result, if you want to use a vintage computer in the highest resolution and best quality available, you're stuck getting a vintage (power hungry!) monitor, or reaching for an adapter. 
 
-**SCSI to CF or SD adapters** 
+
+**SD Card floppy drives** The Apple II, Mac Classic, Atari ST, the C64 and many other computers interacted with the world mostly via incompatible, fragile floppy disks. On most of these computers, the Floppy Disk drive can be replaced, or an external floppy disk drive can be attached. 
+
+Various modern products exist that allow Floppy Disk *files* stored on SD cards to be loaded in to these computers as if they were actual disks. This is a great way to get programs and data in and out of vintage computers, and to keep them self contained (ie, not dependent on a modern computer.) 
+
+**SCSI to CF or SD adapters**  SCSI was a hard drive standard used by late 80s and early 90s Macs like the Mac Classic II and the Mac Classic SE/30. It is possible to replace these (small/aging) hard drives with more modern solid state storage. 
+
+This would be an Internal modification. The SD card is not removable, and is formatted by the computer directly. That means it looks and acts Exactly like a real hard drive. This is good for many reasons, but it does limit the viability of using this method to transfer files. 
+
+**Compact Flash Cards** Compact Flash cards are neat! They are still widely available. Some computers (the psion series 5) used them directly for storage. They are pin compatible with the IDE standard used on most late 80s - late 90s PCs, requiring a simple pass-through adapter. 
+
+They can also work with many laptops and portables (like the HP 200LX) via a Compact Flash to PCMCIA adapter. These are cheap ($10ish?) 
+
 
 **Serial-to-Bluetooth adapters** 
 
 **Serial-to-Wifi modems** 
 
-**Analog to Digital Telephone Adapter** Because we want those groovy vintage handsets to be able to be used with VoiP calls. There are a bunch of different setups you can go for, but the most robust would almost certainly be running [Asterisk](https://en.wikipedia.org/wiki/Asterisk_(PBX)) along with a simple IP PBX. 
+**Analog to Digital Telephone Adapter** Because we want those groovy vintage handsets to be able to be used with VoiP calls. There are a bunch of different setups you can go for, but the most robust would almost certainly be running [Asterisk](https://en.wikipedia.org/wiki/Asterisk_(PBX)) along with a channel bank like the CISCO PAP2T. 
 
 Another option would be to use an Obihai OBi110 or similar, which supports [SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol) and [XMPP calls](https://en.wikipedia.org/wiki/XMPP) (and google voice, if that's your thing.) They aren't terribly expensive, and they interface with multiple free VoiP services, including some which can provide a bridge to POTS. 
 
