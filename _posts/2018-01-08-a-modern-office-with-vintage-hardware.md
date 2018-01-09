@@ -138,7 +138,7 @@ Importantly, a wifi connection would enable multiple machines to share a single 
 
 The Apple IIc (and later the IIc Plus) is a fast machine, compared to many of it's contemporaries. It has a lot of RAM compared to it's contemporaries, and it can be put in to service as an excellent addition to your digital arsenal. 
 
-Specifially, I could see the IIc serving as the interface to a Point of Sale system or the front-end for a custom database driven application. It's variety of hardware I/O, and the low level access to the hardware available from the machine combine to also make it an attractive choice for home automation tasks, or other projects that require directly interfacing with external hardware (much like a modern microcontroller, but arguably more capable and certainly easier to interact with). 
+Specifially, I could see the IIc serving as the interface to a Point of Sale system or the front-end for a custom database driven application. Its variety of hardware I/O, and the low level access to the hardware available from the machine combine to also make it an attractive choice for home automation tasks, or other projects that require directly interfacing with external hardware (much like a modern microcontroller, but arguably more capable and certainly easier to interact with). 
 
 And I know the BBS line sound like a throwaway comment. It's not. I don't think we'll get to it in this post, but BBS connections can be a lot of fun, and super useful, if handled correctly. 
 
@@ -184,25 +184,66 @@ It is a full fledged computer. You can do spreadsheets or write your own program
 ## Mac Classic II or Mac SE/30
 
 ### What?
-![Macintosh_Classic_2.jpg]({{site.baseurl}}/images/Macintosh_Classic_2.jpg)
+![Se30.jpg]({{site.baseurl}}/images/Se30.jpg)
 
-When you think about the Classic Mac, you probably think about something that looks like the Classic II or the SE/30. It has 
+When you think about the Classic Mac, you probably think about something that looks like the Classic II or the SE/30. They are similar enough in all the important respects that I really don't differentiate between them. 
+
+They have 9" monochrome screens, ~2MB of RAM, and an internal hard drive. The SE/30 can support up to 128MB of RAM while the Classic II tops out at 10MB. They both consume about 70 Watts in use.  
 
 ### Why? 
 
+Cause they are heckin' cute! But also for more reasons! They were released circa 1989, and supported up through the early 00s, which means that there is a TON of software written for these things out on the market, including office suites, web browsers, gopher browsers, desktop publishing platforms and all manner of other things. 
+
+They have built in HDDs, which use SCSI. That means we can swap in SD cards in place of the HDDs. They are small, and light. They are easy to crack open and work on, and they are reasonably modern (compared to the other computers we've discussed so far.) 
+
+They have RS-422 serial ports instead of the more common RS-232, but these are directly compatible and adapters aren't hard to find. 
+
+What really makes the classic macs magic, for me, is the software. Mac OS System 7 is honestly great, and they can run [Hypercard](https://blog.archive.org/2017/08/11/hypercard-on-the-archive-celebrating-30-years-of-hypercard/). Hypercard deserves (and will eventually get) a post of it's own, but it's essentially the fastest and easiest way for non-technical users to create applications. 
+
+Think Powerpoint + some of the least bad features of the internet + a really simple and easy to understand method of responding to user inputs and you'll land somewhere in the neighborhood. Hypercard is worth the price of admission. I want to keep a compact macintosh in my home specifically for exploring hypercard.  
+
+
+
 ### How? 
+
+**Hypercard** First and foremost, Hypercard is the best. As a rapid application prototyping tool, or even as a final destination for your application. It's a pain to get hypercard stacks running on modern computers, but if you're building internal applications I can't think of a better platform to do it on. 
+
+**Serial Terminal** Just like everything else, Compact Macs make excellent candidates for serial terminals. In this case, though, the Mac can actually multitask. That means that you can check your email in a terminal connection while also working on your hypercard app. 
+
+
+**Standalone computer** There are email clients, office programs, web browsers, FTP apps, and all manner of other goodies that will run happily on system 7.5 with 2MB of RAM. Most modern computer tasks can be done on this computer. Toss in an adapter and a wireless modem and you have a really interesting little box. 
 
 
 ## HP 200 LX
 
 ### What?
 
+![Hp200lx,_open.jpg]({{site.baseurl}}/images/Hp200lx,_open.jpg)
+
+My favorite computer on this list, the HP 200LX is a weird little relic. It was originally released in 1994, and is the third in a line of **palmtop** computer released by HP in the early 90s. It's an IBM PC Compatible DOS computer, built around a 186 proccessor with a greyscale CGA compatible screen and a whopping 2MB of RAM, it will run for weeks on 2 AA batteries. (No really, I've done it.) 
+
 ### Why? 
+
+Again, because it's heckin' awesome. It's got a sunlight readable screen, the largest software library of any computer we've discussed so far, built in support for PCMCIA storage devices (and therefore CF cards.) It runs DOS, which is my favorite OS of the 1980s, if only because it's the one I've had the most direct experience with. 
+
+Also, it has a great callendar app, a good set of programs to sync with (more) modern computers, and a tiny RS-232 compatible serial port. 
 
 ### How? 
 
+**ebook reader** it's a sunlight readable, handheld clamshell device that'll run forever on a pair of rechargable AAs. Couple it with Vertical Reader (or VertReader or VR) by Giles Kohl and you've got yourself the best little ebook reader. I used mine to read A Princess of Mars at the beach in 2007. 
+
+**Standalone** It's a palmtop computer! With a CF card slot that you can use to transfer files to from another computer. There are hundreds of applications written specifically for this machine, and it is compatible with (tens of) thousands of DOS applications. Add an RS-232 Wifi modem and It'll run SSH (slowly, but it'll do it) and a web browser (ARACHNE) and a gopher browser and all kinds of other neat stuff. 
+
+It'll play Zork, it'll manage your email. It'll run Windows 3.1 or GEM or ... Look, I'll do an article about DOS in general and the HP LX line specifically in a few weeks. As a standalone computer, it's surprisingly powerful and fun. 
+
+**Serial Terminal** Yep! This one can be a wireless serial terminal too. You gotta do some fancy stuff to get a wireless adapter to plug directly in without an additional cable, but it'll work. The keyboard is a little tight, and the addition of the numberpad was a Big Mistake IMO, but it's still a functional little machine to use while you're kickin' it on the couch. 
+
+**Dev Environment** It runs DOS. You know what else runs DOS? Everything, thanks to DOSBox. It also has compilers available for dozens of languages, and my favorite text editor (edit.exe).
+
 
 ## Psion Series 5 
+
+
 
 ### What?
 
