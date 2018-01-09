@@ -40,7 +40,6 @@ First, let's define which hardware I want to use:
 - Tandy 102 or Olivetti m10 
 - Mac Classic II or Mac SE/30 
 - HP 200 LX 
-- Psion Series 5
 - Atari ST BOOK or Atari STacy or Atari ST 
 - eMac (1.42 GHz PowerPC G4 circa 2005) or g3 clamshell iBook or g4/g5/early intel iMac 
 - Some dumb terminals (vt100, etc.)
@@ -104,7 +103,57 @@ For me, the primary use case for this setup would mostly be internal calls and o
 
 **TV Transmitter** This one might not be legal where you live, so be careful. You can mostly DIY it with instructions from [AntiqueRadio.org](https://antiqueradio.org/HomeTVTransmitter.htm)
 
+## Serial Terminals 
 
+### What?
+This is a quick rundown of the software that we would run on a modern machine that older machines would interface with while acting as a serial terminal. This could also be done with a traditional serial terminal like the one pictured here. The point of this section is mostly to demonstrate how much of your day-to-day activities can be acomplished from a unix commandline. 
+
+
+### Why? 
+
+It may seem silly to simply use an old computer to connect to another computer and run applications on that other computer, but I think that many of the computers on this list have enough going for them on their own (long battery life, sunlight readable screens, interesting formfactors, surprising speed) to merit using them in just that fashion. Plus, the needs of a large number of vintage computers can be met by a single terminal server, and wireless adapters exist. 
+
+If you're unfamiliar, the Unix/Linux command line is a surprisingly robust platform, that is very tollerant of being accessed in a variety of unusual ways. It takes some configuring and there is a learning curve, but once you're comfortable, you can get an astounding amount of work done. 
+
+### How? 
+
+Lets revist my original list of tasks, and break each one of them out over a serial terminal. Keep in mind that every machine on this list will have access to these applications over a wireless connection, so later when we are rating the various merits of the individual machines, we will lump their ability to do all of these tasks via Serial connection in to a single score. 
+
+Writing:
+
+Email: 
+
+Live Chat: 
+
+Research: 
+
+Graphic Design: 
+
+Publishing: 
+
+Development: 
+
+Data entry: 
+
+Calendar: 
+
+Music:
+
+Mastodon:
+
+books:
+
+movies: 
+
+podcasts: 
+
+SSH/RDP/VNC:
+
+todo list:
+
+games (playing):
+
+Games (writing): 
 
 ## Apple IIc 
 
@@ -149,6 +198,65 @@ And I know the BBS line sound like a throwaway comment. It's not. I don't think 
 ![screenshot (4).jpeg]({{site.baseurl}}/images/screenshot (4).jpeg)
 
 To me, that makes the Apple II an attractive choice as a development platform, with a set of strengths and quirks that keep it interesting and fulfilling. 
+
+
+
+### Scorecard
+
+**Writing:**  4/5
+Good keyboard. Can write directly on the machine and transfer files via flash media or wirelessly. 
+
+**Email:** 2/5
+BBS based email only 
+
+**Live Chat:** 2/5
+BBS based chat only 
+
+**Research:** 2/5 
+Can access BBSs directly. May be able to run a Gopher browser. 
+
+**Graphic Design:** 1/5 
+Several vintage graphics packages are available, but a lack of support for modern file formats, and the low resolution of the screen render this machine an unlikely choice for design work. 
+
+**Publishing:** 0/5
+I'm not aware of any viable page layout software for print publishing, nor of drivers for modern printers. 
+
+**Development:** 3/5
+No IDEs, but a good built in language and few bugs or physical constraints. 
+
+**Data entry:** 4/5
+Good built in programming language, wireless networking, and a high resolution screen mean that this is a perfect target for data entry. 
+
+**Calendar:** 0/5
+No real time clock = no calendar. 
+
+**Music:** 0/5
+Only chiptunes. 
+
+**Mastodon:** 1/5
+No native Mastodon app available (but it would be possible to build one)
+
+**Books:** 0/5
+While it might be possible to rig up an ebook reader, why would you? 
+
+**Movies:** 0/5
+No video playback.
+
+**Podcasts:** 0/5
+No audio support.
+
+**todo list:** 3/5
+It would be possible to cobble together a decent to-do list manager in BASIC, that syncs back to our central file server, but it would probably be better to do this through your application server. 
+
+**Games (playing):** 5/5
+Huge library of great games.
+
+Games (writing): 3/5
+Is a great platform for playing games, but it does not provide many tools for creating them. That being said, Applesoft BASIC is a decent, reasonably fast platform, and does not feel limiting. 
+
+Serial Terminal: 5/5
+Wireless, no adapters, fast, high resolution. Hard to beat. 
+
 
 ## Tandy 102 // Olivetti m10 
 
@@ -240,43 +348,73 @@ It'll play Zork, it'll manage your email. It'll run Windows 3.1 or GEM or ... Lo
 
 **Dev Environment** It runs DOS. You know what else runs DOS? Everything, thanks to DOSBox. It also has compilers available for dozens of languages, and my favorite text editor (edit.exe).
 
-
-## Psion Series 5 
-
-
-
-### What?
-
-### Why? 
-
-### How? 
-
+**PDA** I know that PDAs are passe in the era of the smartphone but hear me out. They are wonderful. Managing your callendar, your to-do list, and your contacts from a device that is also a full fledged computer and isn't pretending to be a phone is pretty wonderful. Using the same device to manage email, social media, and chat can also be pretty great. About the only things it won't do are take calls and media (which, incedentally, are things my phone is great at.)
 
 ## Atari 
 
-### What?
+### What? The Atari STacy and ST BOOK are laptops from the late 80s and early 90s. Both of them had greyscale screens. They are both members of the Atari ST family, which was Atari's entry in to the 16 bit home computer market.
+
+The ST family ran Atari TOS under the hood, meaning a GUI and file manager (called GEM) that looks a lot like a classic mac. It could read and write from DOS compatible floppy disks. They have a large library of software, though not as large as the Mac or DOS library, and a surprisingly strong collection of real time music making applications. 
 
 ### Why? 
 
+The ST BOOK is the computer from this line that I'd be most interested in incorporating in to our office. The ST BOOK was pretty lightweight, could run on AAs, and had surprisingly good battery life (it draws about 20 watts of power when in use.) It has a sunlight readable, non-backlit screen, no internal floppy drive (I consider that a plus!), and an intersting physical profile. Additionally, it had a pretty great set of interfaces: 
+
+- MIDI x 2
+- Serial Port x 1
+- Paralell port x 1
+- FDD/ACSI x 1 (can be converted to SCSI with a simple adapter)
+
+All of that was rounded out with an internal HDD, mounted with a standard 2.5" IDE cable. That means that we can buy off the shelf IDE->CF or IDE->SD adapters to replace the moving hard drive with a solid state disk, resulting in a laptop with even better battery life, larger storage, and no internal moving parts. 
+
+Various European vendors also sell add ons that can add USB mass storage, CF cards, or SD cards through the FDD/ACSI port found on most ST computers. Since TOS used an MSDOS compatible disk format, that means that you can swap these external storage disks with any modern computer, as well as any vintage DOS or Windows computer (with the appropriate adapters.)
+
 ### How? 
 
+We've covered most of these Hows before. There is very little the ST line can do that is unique to the ST line beyond a couple of pieces of exclusive software. The ST line in general would excel in all the same places that a DOS machine or a compact Macintosh would excel (minus multi-tasking and hypercard, of course.) The ST Book would come with the advantage of a small, light formfactor and true wireless operation. Where this platform stands out, is in music production with lots of synth and tracker software and 2 MIDI ports, even on the ST BOOK, the ST line is right at home in a studio. 
+
+If you're not making music, the ST can still hold it's own as a standalone machine, and as a serial terminal to a more modern machine. It can access BBSs and Gopher servers and handle email and basic web browsing. Plus, it has a nice keyboard and it looks neat. 
 
 ## G4 eMac, G3 iBook, G5 iMac 
 
 ### What?
+Apple Macs from the early 00s. The newest machines on this list. I'm grouping them together because for practical purposes they are very similar. I will take a moment to describe their few differences: 
+
+**G4 eMac** this was an iMac made for the educational market, and built around a CRT. It's big and bulbous and looks for all the world like a product of Braun circa 1965. It has a 16" screen running at 1280 x 960, and can support up to 1GB of ram. It has built in wifi, speakers, a DVD/CD combo drive, and can support up to Mac OS 10.5 
+
+It's a heavy monster, and were it not for the fact that it's design fits my desired aesthetic so well, I wouldn't be considering it. It's also a surprisingly powerful and capable machine. 
+
+**iBook G3** slightly older than the eMac, this is a laptop originally launched in 1999. Known for it's candyshell design, the iBook G3 feels less like a modern machine in use than either the emac or the G5 iMac. The system is equipped with an 800x600 display, and shipped with 64MB of RAM (expandable up to 512MB.) It originally ran Mac OS 9, but can be upgraded up to 10.3. It features USB 1.1 ports, firewire, and wifi. 
+
+Compared to the eMac or the G5, the iBook begins to look and feel like a toy. It isn't, and it has a few tricks up it's sleeve that we'll discuss in a moment. 
+
+**iMac G5** It almost feels like cheating to put the G5 on this list. Almost. But the things that make the g3 and the g4 attractive to me for this purpose apply just as much to the g5, while also giving us the benefit of a much more powerful computer. 
+
+When you think white plastic iMac, you think of the g5. With a 20", 1680 × 1050 display, a 2.1 GHz powerPC proccessor, up to 2GB of RAM, and up to 500GB HDD, the G5 iMac is very nearly a modern computer. If it had an intel chip inside (like the model that replaced it), it likely would have continued to recieve updates trough 2011 or later. As is, though, it got left in the dust by the shifting tides of corporate favor. 
+
+For us, that's great news. It's a beautiful machine, with more juice than 10 of pretty much anything else on this list. It runs a decidedly modern operating system, and has access to a large software library. 
+ 
 
 ### Why? 
 
-### How? 
+The Why for this one is almost too easy. All PowerPC macs can run classic Mac software. That means that every computer in this group has access to Hypercard. Plus, intrepid hackers are still out there building modern software for OS X 10.5 and some even build for Mac OS 9.x. Plus each of them has a decidedly unique and nearly iconic look. 
 
-
-## Dumb Terminals 
-
-### What?
-
-### Why? 
 
 ### How? 
+Every computer in this group can be used in most of the same ways you would use a brand new computer (although you may ocassionally get frustrated using the iBook in this fashion) while also providing access to a wealth of vintage software and the best non-technical application development platform ever made. 
+
+Beyond that, Mac OS 9 (available on the iBook) uses a Cooperative Multitasking model. That means that it's effectively single tasking, relying on the foreground application to pass control to other applications. For a lot of things, this is pretty shitty, but it means that the running application gets unprecendent access to system resources. That means that tasks which seem to creak under OS X on the iBook or eMac will feel Much more responsive under OS 9. 
+
+The eMac G4 or the iMac G5 would make a great media player, audio editor, graphics editor, or even video editor. They have modern web browsers, and support modern encryption protocols. I learned graphic design, audio engineering, and video editing on an eMac. 
+
+The iBook would make a solid audio workstation under OS 9. It would make a usable, if slow, immitation of a modern computer under OS X. Under either OS, we could treat the iBook like one of our older machines. Using it as a serial terminal, focusing on it's strengths (hypercard, audio editing) and offloading more proccessor intensive tasks to a newer machine. 
+
+Uisng the iBook with OS X we could run locally many of the same applications that we would access remotely from a serial terminal. That is to say that OS X gives us direct access to a Unix command line, which would enable us to access BBSs, email, web browsers, and a whole mess of other command line applications, without having to rely on a mainframe. 
+
+Plus, you know, there's Hypercard. 
+
+
+
 
 
 ## Phones
@@ -311,4 +449,4 @@ It'll play Zork, it'll manage your email. It'll run Windows 3.1 or GEM or ... Lo
 
 ## Risc OS on Pi 
 
-## 
+## Psion Series 5 
