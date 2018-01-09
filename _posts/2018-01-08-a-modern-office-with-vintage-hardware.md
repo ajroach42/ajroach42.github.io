@@ -77,12 +77,24 @@ This would be an Internal modification. The SD card is not removable, and is for
 
 **Compact Flash Cards** Compact Flash cards are neat! They are still widely available. Some computers (the psion series 5) used them directly for storage. They are pin compatible with the IDE standard used on most late 80s - late 90s PCs, requiring a simple pass-through adapter. 
 
-They can also work with many laptops and portables (like the HP 200LX) via a Compact Flash to PCMCIA adapter. These are cheap ($10ish?) 
+They can also work with many laptops and portables (like the HP 200LX) via a Compact Flash to PCMCIA adapter. These are cheap ($10ish?). 
+
+Regardless of how you connect your vintage computer to your PCMCIA card, you'll find that they are pretty easy to read on modern computers. Readers and adapters have been around for ages, and are cheap and abundant. 
 
 
-**Serial-to-Bluetooth adapters** 
+**Serial-to-Bluetooth adapters** Did you know that bluetooth was designed to replace serial cables? Yep!  And the serial cable protocal is still baked into BT. There are a bunch of Serial -> BT adapters on the market. Many of them are built around the [RN-42](https://www.sparkfun.com/products/12574). 
 
-**Serial-to-Wifi modems** 
+Stick one of these on an 80s microcomputer (or a 90s palmtop) and you can interface wirelessly with another computer as if you were directly connected to it. This is perfect for terminals like the venerable vt100, but can also be used with any computer with a Terminal or Telnet program. 
+
+**Serial-to-Wifi modems** Mostly, these are built around the [ESP8266](https://www.sparkfun.com/products/13678) which is widely available and dirt cheap. You can use a serial wifi modem to connect a vintage microcomputer directly to the internet, with no intermediary. You can also use it to provide remote access to computers on your network via telnet. 
+
+[This product](http://biosrhythm.com/?page_id=1453) used to be the gold standard, but is no longer available. Others built around the same hardware will perform more or less identically. [Here's a blogpost about it](http://www.bytecellar.com/2017/05/30/the-wonderful-wifi232-bbsing-has-literally-never-been-easier/). 
+
+And a video review:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fsS0E4G310Y" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+The Wifi-232, or another ESP8266 based RS-232>wifi modem can make your vintage microcomputer a first class citizen on the internet. As far as your computer is concerned, it's just a modem. Furthermore, it can be coupled with some new custom code on several of these microcomputers to enable some *really* cool functionality. (More on this later.)  
 
 **Analog to Digital Telephone Adapter** Because we want those groovy vintage handsets to be able to be used with VoiP calls. There are a bunch of different setups you can go for, but the most robust would almost certainly be running [Asterisk](https://en.wikipedia.org/wiki/Asterisk_(PBX)) along with a channel bank like the CISCO PAP2T. 
 
@@ -96,6 +108,13 @@ For me, the primary use case for this setup would mostly be internal calls and o
 
 ## Apple IIc 
 
+![By Bilby (Own work) [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons]({{site.baseurl}}/images/1024px-Apple_IIc_with_monitor.jpg)
+##### By Bilby (Own work) [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons
+
+### What? 
+
+The Apple IIc was Apple's compact version of the Apple IIe. It's a small, self contained computer, with a fair amount of power and a great industrial design. 
+
 ### Why? 
 
 It was seeing an Apple IIc in person for the first time recently that started me down this path again. The IIc is not a particularly important or impressive computer in terms of performance. It's essentially just an Apple IIe in a smaller case, and with some intigrated periphrials. For me, what makes it stand out are two key features: 
@@ -104,24 +123,42 @@ It was seeing an Apple IIc in person for the first time recently that started me
 
 2) It was produced right in the moment when Apple decided to embrace svelte industrial design for the first time (a trend they would return to again and again.) It is a small and unassuming package, and clearly a product of the 1980s (19a0s?), but it has an *almost* timeless look to it, as well. 
 
-Beyond that, it has a few more things going for it. Namely, it has a standard serial port built in (more on this later), it has composite video out (for connecting to those TVs!) and modern hardware readilly available to give it access to [Solid State Storage](https://www.bigmessowires.com/shop/product/floppy-emu-model-b/) and [modern monitors](http://www.a2heaven.com/webshop/index.php?rt=product/product&product_id=135). It loads to applesoft BASIC which is widely documented and easy to use, and has multiple (good/interesting) graphics modes. 
+Beyond that, it has a few more things going for it. Namely, it has a standard serial port built in, it has composite video out (for connecting to those TVs!) and modern hardware readilly available to give it access to [Solid State Storage](https://www.bigmessowires.com/shop/product/floppy-emu-model-b/) and [modern monitors](http://www.a2heaven.com/webshop/index.php?rt=product/product&product_id=135). It loads to Applesoft BASIC which is widely documented and easy to use, and has multiple (good/interesting) graphics modes. It's FAST (for the time) and has a lot of RAM (for the time) and a huge software library (for any time.) 
 
 
 ### How? 
 
 The Apple IIc could be used in the following fashions: 
 
-- As a terminal connected to a modern linux machine either via a null modem cable or a serial-to-bluetooth or serial-to-wifi adapter. We'll discuss these hardware options, and the software that would run on the server, in more detail later. Importantly, a wifi connection would enable multiple machines to share a single modern computer as an application server. Dozens, if not hundred, of concurrent users could get by on a single Raspberry Pi. (https://github.com/dschmenk/apple2pi)
+**Serial Terminal** Use the Apple IIc as a terminal connected to a modern linux machine either via a null modem cable or a serial-to-bluetooth or serial-to-wifi adapter. The Apple IIc can display 80 collumns of text, which makes it an ideal candidate for serving as a [Thin Client](https://en.wikipedia.org/wiki/Thin_client) in this fashion. 
 
-- The same null modem/wireless serial setup can be combined with vintage programs from the Apple II library or newly written/custom software for the Apple II to enable it to serve as a Word Proccessor, Gopher/Web browser/server, BBS browser/server, or other custom applications.
+We'll discuss the software that would run on the server in more detail later 
 
-- Specifially, I could see the IIc serving as the interface to a Point of Sale system or the front-end for a custom database driven application. It's variety of hardware I/O, and the low level access to the hardware available from the machine combine to also make it an attractive choice for home automation tasks, or other projects that require directly interfacing with external hardware (much like a modern microcontroller, but arguably more capable and certainly easier to interact with) .  
+Importantly, a wifi connection would enable multiple machines to share a single modern computer as an application server. Dozens, if not hundred, of concurrent users could get by on a single Raspberry Pi. 
 
-- A game console (with a HUGE library of games https://archive.org/details/apple_ii_library_4am)
+**As a Stand alone computer** The same null modem/wireless serial setup can be combined with vintage programs from the Apple II library or newly written/custom software for the Apple II to enable it to serve as a Word Proccessor, Gopher/Web browser/server, BBS browser/server, or other custom applications, while still interfacing with a modern networked world, complete with version control. 
 
-- 
+The Apple IIc (and later the IIc Plus) is a fast machine, compared to many of it's contemporaries. It has a lot of RAM compared to it's contemporaries, and it can be put in to service as an excellent addition to your digital arsenal. 
+
+Specifially, I could see the IIc serving as the interface to a Point of Sale system or the front-end for a custom database driven application. It's variety of hardware I/O, and the low level access to the hardware available from the machine combine to also make it an attractive choice for home automation tasks, or other projects that require directly interfacing with external hardware (much like a modern microcontroller, but arguably more capable and certainly easier to interact with) .  
+
+**A game console** There is a [HUGE library of games available for the Apple II](https://archive.org/details/apple_ii_library_4am), and the IIc is compatible with very nearly all of them. It might not be the most professional choice in the world, but the Apple IIc is hard to beat as a retro game console. 
+
+**Development Environment** The Apple II line runs Applesoft BASIC which is a derivative of Microsoft BASIC which became QuickBASIC and GW-BASIC and BASICA and... well, basically programs that will run in BASIC on the Apple II can either run or be ported to run on many computers without a lot of fuss. Additionally there are Apple II emulators for dozens of computers, and even one that will [run in modern web browsers](https://www.scullinsteel.com/apple2/#hhgttg). 
+
+![screenshot (4).jpeg]({{site.baseurl}}/images/screenshot (4).jpeg)
+
+To me, that makes the Apple II an attractive choice as a development platform. 
 
 ## Tandy 102 // Olivetti m10 
+
+### What?
+
+### Why? 
+
+### How? 
+
+
 
 ## Mac Classic II or Mac SE/30
 
