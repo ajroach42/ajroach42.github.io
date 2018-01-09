@@ -4,7 +4,7 @@ category: post
 published: false
 title: A Modern Office with Vintage hardware
 ---
-I've been toying iwth the idea of a building a modern office around 8 and 16 bit microcomputers from the 1980s and early 90s. This is an idea that I dig up every few months and play with for a few hours before discarding it because it's impractical and expensive. This is a description of my current version of this idea, and how it would work in practice. 
+I've been toying with the idea of a building a modern office around 8 and 16 bit microcomputers from the 1980s and early 90s. This is an idea that I dig up every few months and play with for a few hours before discarding it because it's impractical and expensive. This is a description of my current version of this idea, and how it would work in practice. 
 
 **DISCLAIMER** *Please understand, I recognize that implementing this would be both impractical and expensive, and that the same goals can more readilly be accomplished by myriad other methods. I know this, and yet I still can't abandon this hypothetical future. Don't consider this a blueprint, or if you do consider this a blueprint, don't hold me responsible if it is less fun and more tedious in practice than it sounds in theory. I'm probably going to do most of these things over the coming months, and I'll document as much as I can, eventually on it's own project page.*
 
@@ -128,8 +128,6 @@ Beyond that, it has a few more things going for it. Namely, it has a standard se
 
 ### How? 
 
-The Apple IIc could be used in the following fashions: 
-
 **Serial Terminal** Use the Apple IIc as a terminal connected to a modern linux machine either via a null modem cable or a serial-to-bluetooth or serial-to-wifi adapter. The Apple IIc can display 80 collumns of text, which makes it an ideal candidate for serving as a [Thin Client](https://en.wikipedia.org/wiki/Thin_client) in this fashion. 
 
 We'll discuss the software that would run on the server in more detail later 
@@ -140,7 +138,9 @@ Importantly, a wifi connection would enable multiple machines to share a single 
 
 The Apple IIc (and later the IIc Plus) is a fast machine, compared to many of it's contemporaries. It has a lot of RAM compared to it's contemporaries, and it can be put in to service as an excellent addition to your digital arsenal. 
 
-Specifially, I could see the IIc serving as the interface to a Point of Sale system or the front-end for a custom database driven application. It's variety of hardware I/O, and the low level access to the hardware available from the machine combine to also make it an attractive choice for home automation tasks, or other projects that require directly interfacing with external hardware (much like a modern microcontroller, but arguably more capable and certainly easier to interact with) .  
+Specifially, I could see the IIc serving as the interface to a Point of Sale system or the front-end for a custom database driven application. It's variety of hardware I/O, and the low level access to the hardware available from the machine combine to also make it an attractive choice for home automation tasks, or other projects that require directly interfacing with external hardware (much like a modern microcontroller, but arguably more capable and certainly easier to interact with). 
+
+And I know the BBS line sound like a throwaway comment. It's not. I don't think we'll get to it in this post, but BBS connections can be a lot of fun, and super useful, if handled correctly. 
 
 **A game console** There is a [HUGE library of games available for the Apple II](https://archive.org/details/apple_ii_library_4am), and the IIc is compatible with very nearly all of them. It might not be the most professional choice in the world, but the Apple IIc is hard to beat as a retro game console. 
 
@@ -148,9 +148,52 @@ Specifially, I could see the IIc serving as the interface to a Point of Sale sys
 
 ![screenshot (4).jpeg]({{site.baseurl}}/images/screenshot (4).jpeg)
 
-To me, that makes the Apple II an attractive choice as a development platform. 
+To me, that makes the Apple II an attractive choice as a development platform, with a set of strengths and quirks that keep it interesting and fulfilling. 
 
 ## Tandy 102 // Olivetti m10 
+
+### What?
+
+![15635.jpg]({{site.baseurl}}/images/15635.jpg)
+
+The first truely portable computer! Released under a dozen different names, with stylistic changes between each model, this cutie will run for weeks (months?) on a set of AA batteries. It's got a built in serial port, a good keyboard, and a screen that's just big enough to get stuff done. 
+
+### Why? 
+
+I used a Tandy 102 for several hours a day for about two years. It's a Great computer, and I'd still be using mine if it hadn't developed some display issues. It is small enough and light enough and sturdy enough to toss in a bag and take with you on the road. The memory is large enough to hold a few dozen pages at a time. It's easy to interact with modern computers (provided you have the right cables) and it'll last for around a month of daily use on a set of rechargable AAs. 
+
+It's very nearly the perfect laptop. Plus the Olivetti version is one of the cutest computers I've seen in my whole life. 
+
+It's also popular in the HAM radio community for doing SDR and packetBBSs, I've heard. 
+
+
+### How? 
+
+The TRS-80 Model 100/Tandy 102/Olivetti m10 is useful to a modern office in exactly two ways: 
+
+- As a wireless serial terminal (over BT or wifi, doesn't matter.) The Tandy's screen displays just barely enough text to do useful things. 
+
+- As a distraction free portable word proccessor (although even this is easier and more fun if you're just using it as a serial terminal to a linix box running your favorite text editor.) 
+
+Having used this one pretty extensively, I feel comfortable saying that you should *not* try to use these computers as stand alone machines. They don't have the horsepower. They don't have the RAM. They were never designed to live on their own. 
+
+But, as a wireless terminal connecting back to a raspberry pi (or an android phone! or a remote server) it can really feel magical. The screen has decent contrast. You can mostly read it in the sun. I've used mine for email, chat, and some basic web/gopher browsing. I've written blog posts on it, and published websites. I've played Zork. Heck, I've solved serious production issues on client servers from the park, with the Tandy connected to my phone's hotspot over wifi, and my phone providing a VPN connection through which I could telnet to my server, and SSH from my server to the client environment. 
+
+It is a full fledged computer. You can do spreadsheets or write your own programs directly on the device. Some people really get a kick out of that. I never did, but I'm grateful for the ways that they continue to extend it. 
+
+## Mac Classic II or Mac SE/30
+
+### What?
+![Macintosh_Classic_2.jpg]({{site.baseurl}}/images/Macintosh_Classic_2.jpg)
+
+When you think about the Classic Mac, you probably think about something that looks like the Classic II or the SE/30. It has 
+
+### Why? 
+
+### How? 
+
+
+## HP 200 LX
 
 ### What?
 
@@ -159,24 +202,65 @@ To me, that makes the Apple II an attractive choice as a development platform.
 ### How? 
 
 
-
-## Mac Classic II or Mac SE/30
-
-## HP 200 LX
-
 ## Psion Series 5 
+
+### What?
+
+### Why? 
+
+### How? 
+
 
 ## Atari 
 
-## Emac 
+### What?
+
+### Why? 
+
+### How? 
+
+
+## G4 eMac, G3 iBook, G5 iMac 
+
+### What?
+
+### Why? 
+
+### How? 
+
 
 ## Dumb Terminals 
 
+### What?
+
+### Why? 
+
+### How? 
+
+
 ## Phones
+
+### What?
+
+### Why? 
+
+### How? 
 
 ## TVs and Monitors 
 
+### What?
+
+### Why? 
+
+### How? 
+
 ## Newer Machines 
+
+### What?
+
+### Why? 
+
+### How? 
 
 # Other potential machines
 
