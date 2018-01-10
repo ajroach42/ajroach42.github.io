@@ -538,15 +538,29 @@ Wireless, no adapters, fast. Hard to beat.
 
 Apple Macs from the early 00s. The newest machines on this list. I'm grouping them together because for practical purposes they are very similar. I will take a moment to describe their few differences: 
 
-**G4 eMac** this was an iMac made for the educational market, and built around a CRT. It's big and bulbous and looks for all the world like a product of Braun circa 1965. It has a 16" screen running at 1280 x 960, and can support up to 1GB of ram. It has built in wifi, speakers, a DVD/CD combo drive, and can support up to Mac OS 10.5 
+**G4 eMac** 
+
+![Apple_eMac_PowerPC_G4_1.25_GHz_2005.jpg]({{site.baseurl}}/images/Apple_eMac_PowerPC_G4_1.25_GHz_2005.jpg)
+
+this was an iMac made for the educational market, and built around a CRT. It's big and bulbous and looks for all the world like a product of Braun circa 1965. It has a 16" screen running at 1280 x 960, and can support up to 1GB of ram. It has built in wifi, speakers, a DVD/CD combo drive, and can support up to Mac OS 10.5 
 
 It's a heavy monster, and were it not for the fact that it's design fits my desired aesthetic so well, I wouldn't be considering it. It's also a surprisingly powerful and capable machine. 
 
-**iBook G3** slightly older than the eMac, this is a laptop originally launched in 1999. Known for it's candyshell design, the iBook G3 feels less like a modern machine in use than either the emac or the G5 iMac. The system is equipped with an 800x600 display, and shipped with 64MB of RAM (expandable up to 512MB.) It originally ran Mac OS 9, but can be upgraded up to 10.3. It features USB 1.1 ports, firewire, and wifi. 
+**iBook G3** 
+
+![1200px-IBookG3_Palourde2.png]({{site.baseurl}}/images/1200px-IBookG3_Palourde2.png)
+
+
+slightly older than the eMac, this is a laptop originally launched in 1999. Known for it's candyshell design, the iBook G3 feels less like a modern machine in use than either the emac or the G5 iMac. The system is equipped with an 800x600 display, and shipped with 64MB of RAM (expandable up to 512MB.) It originally ran Mac OS 9, but can be upgraded up to 10.3. It features USB 1.1 ports, firewire, and wifi. 
 
 Compared to the eMac or the G5, the iBook begins to look and feel like a toy. It isn't, and it has a few tricks up it's sleeve that we'll discuss in a moment. 
 
-**iMac G5** It almost feels like cheating to put the G5 on this list. Almost. But the things that make the g3 and the g4 attractive to me for this purpose apply just as much to the g5, while also giving us the benefit of a much more powerful computer. 
+**iMac G5** 
+
+![IMac_G5_Rev._A_front.jpg]({{site.baseurl}}/images/IMac_G5_Rev._A_front.jpg)
+
+
+It almost feels like cheating to put the G5 on this list. Almost. But the things that make the g3 and the g4 attractive to me for this purpose apply just as much to the g5, while also giving us the benefit of a much more powerful computer. 
 
 When you think white plastic iMac, you think of the g5. With a 20", 1680 × 1050 display, a 2.1 GHz powerPC processor, up to 2GB of RAM, and up to 500GB HDD, the G5 iMac is very nearly a modern computer. If it had an intel chip inside (like the model that replaced it), it likely would have continued to receive updates trough 2011 or later. As is, though, it got left in the dust by the shifting tides of corporate favor. 
 
@@ -656,6 +670,9 @@ Because they look awesome! Because they are a pain to recycle so we might as wel
 
 **Videophone**
 Hook a computer up to one of these, and mount a little camera and mic around it somewhere and it becomes a video phone, that will 100% STUN your clients when they see it. I had a simple setup (not even particularly elegant, literally just a raspberry pi with a mouse and keyboard and webcam) set up for a few months, and everyone that saw me videoconferencing on it stopped and stared. 
+
+![dscn4509.jpg]({{site.baseurl}}/images/dscn4509.jpg)
+
 
 Now imagine I had been [using one of these](https://stellartv.files.wordpress.com/2014/09/dscn4509.jpg), instead of a mid-80s luggable. Seriously, it's the best. 
 
@@ -795,11 +812,11 @@ Suddenly the thought occurs to him that this place has got to make money somewhe
 
 He looks for Dianne, and asks her. 
 
-"Oh! Well, yeah. The big draw is "consulting" which in this case means teaching people things that help them solve problems, but beyond that we do all kinds of things. I mean we build robots for people and make websites for other people and write computer games and there's a crew in the back doing a TV show right now and we publish books and record..." she continues on like this for a few minutes "oh, and there's a tip jar by the door." 
+"Oh! Well, yeah. The big draw is "consulting" which in this case means teaching people things that help them solve problems, but beyond that we do all kinds of other stuff too. I mean we build robots for people and make websites for other people and write computer games and there's a crew in the back doing a TV show right now and we publish books and record..." she continues on like this for a few minutes "oh, and there's a tip jar by the door." 
 
 "Do all of you work here?" 
 
-She looks around for a moment "Work might be a strong word. A lot of us get paid to be here, either by Space Age Ideas directly--Like me--or through the work that we do while we're here. Everyone kicks in when they can to keep the doors open, and the place friendly. But this is just one office. Space Age Ideas is all over the world. Would you like to meet some of our other members?" 
+She looks around for a moment "Work might be a strong word. A lot of us get paid to be here, either by Space Age Ideas directly--Like me--or through the things that we do while we're here. We have a membership plan, so that everyone kicks in when they can to keep the doors open, and the place friendly. But this is just one office. Space Age Ideas is all over the world. Would you like to meet some of our other members?" 
 
 Drew nods, and Dianne leads him to a large antique television sitting on a pedestal towards the back of the building. She pulls out her little pocket computer again, enters some archane incantation, and then a picture springs to life in front of him. 
 
