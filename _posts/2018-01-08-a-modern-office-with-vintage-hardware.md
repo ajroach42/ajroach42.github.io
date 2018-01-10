@@ -454,6 +454,9 @@ Wireless, simple pass through adapter, handheld.
 
 ### What?
 
+![stbook2.jpg]({{site.baseurl}}/images/stbook2.jpg)
+
+
 The Atari STacy and ST BOOK are laptops from the late 80s and early 90s. Both of them had greyscale screens. They are both members of the Atari ST family, which was Atari's entry in to the 16 bit home computer market.
 
 The ST family ran Atari TOS under the hood, meaning a GUI and file manager (called GEM) that looks a lot like a classic mac. It could read and write from DOS compatible floppy disks. They have a large library of software, though not as large as the Mac or DOS library, and a surprisingly strong collection of real time music making applications. 
