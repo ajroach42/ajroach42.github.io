@@ -728,6 +728,13 @@ It has a lot in it's favor though: Great keyboard. Optional backlight. Native CF
 
 And they're pretty cheap, averaging less than $100 on ebay the last time I checked. It'll be hard not to buy one soon. 
 
+### TRS-80 Model 1 
+
+Radio Shack's first computer circa 1977. Built around a Z80. Visually, it is a little more utilitarian than the other items on the list, but it can be expanded *well* beyond it's initial capacity [with the MISE](http://www.bartlettlabs.com/MISE/index.html), and turned in to a workhorse that rivals the 16-bit computers on this list in terms of functionality. 
+
+Aside from the Model 100/Tandy-102 I'm not very familiar with the TRS-80 line, so it wasn't among my initial selections, but it looks like a viable contender. 
+
+
 ------
 
 ## A fiction, to tie it all together
