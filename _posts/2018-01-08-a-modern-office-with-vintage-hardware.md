@@ -375,7 +375,7 @@ Wireless, needs an adapter, fast.
 
 ![Hp200lx,_open.jpg]({{site.baseurl}}/images/Hp200lx,_open.jpg)
 
-My favorite computer on this list, the HP 200LX is a weird little relic. It was originally released in 1994, and is the third in a line of **palmtop** computer released by HP in the early 90s. It's an IBM PC Compatible DOS computer, built around a 186 processor with a greyscale CGA compatible screen and a whopping 2MB of RAM, it will run for weeks on 2 AA batteries. (No really, I've done it.) 
+My favorite computer on this list, the HP 200LX is a weird little relic. It was originally released in 1994, and is the third in a line of **palmtop** computers released by HP in the early 90s. It's an IBM PC Compatible DOS computer, built around a 186 processor with a greyscale CGA compatible screen and a whopping 2MB of RAM, it will run for weeks on 2 AA batteries. (No really, I've done it.) 
 
 ### Why?
 
@@ -660,7 +660,7 @@ Now imagine I had been [using one of these](https://stellartv.files.wordpress.co
 Most vintage computers need a monitor and have a composite video output. Most TVs can be a monitor and have (or can be rigged to take) a composite video input. Combine these two facts for fun and profit. 
 
 **Video Player** 
-While most older computer can't actually play videos, they CAN (as we have well established) serve as serial terminals. Set up a media player attached directly to one of these TVs or using the broadcast method described at the top of the page, and toss together some bash scripts to display the available files and control playback (incorporate UPnP to enable folks on your local network to be able to control playback from their phones as well.) 
+While most older computers can't actually play videos, they CAN (as we have well established) serve as serial terminals. Set up a media player attached directly to one of these TVs or using the broadcast method described at the top of the page, and toss together some bash scripts to display the available files and control playback (incorporate UPnP to enable folks on your local network to be able to control playback from their phones as well.s 
 
 If you go the broadcast route, you get to have the benefit of a clean wireless setup, and multiple TVs (including handhelds!) displaying the movie, tv show, game, or other content of your choice. Again, it can lead to some really impressive moments (especially if you're controlling all the playback from an Apple IIc or an Tandy 100.) 
 
@@ -820,4 +820,4 @@ When he wakes up the next morning, he's uncertain that the place he has just vis
 
 As he steps out the door, he notices a lump in his jacket pocket. He fishes it out, and finds Dianne's computer and Cherryl's magazine. On the back of the magazine, in the jumble of all the words too tightly spaced, his eyes fall on the phrase "it wasn't a dream." 
 
-He smiles to himself, stows the computer in his pocket, and resolves to make something that feels like magic. 
+He smiles to himself, stows the computer in his pocket, and resolves to make something that feels like magic.
