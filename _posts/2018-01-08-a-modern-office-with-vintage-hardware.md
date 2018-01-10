@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: A Modern Office with Vintage hardware
 ---
 I've been toying with the idea of a building a modern office around 8 and 16 bit microcomputers from the 1980s and early 90s. This is an idea that I dig up every few months and play with for a few hours before discarding it because it's impractical and expensive. This is a description of my current version of this idea, and how it would work in practice. 
