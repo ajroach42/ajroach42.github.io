@@ -720,7 +720,7 @@ Wanting to appear less like a man slowly aging out of his own demographic, drew 
 
 'A flyer on the ceiling of a coffee shop that says "look for the weird." How could I pass that up?' he thinks. Hesitantly he gathers his things together and steps out the door. Instinctively, he turns to the right back towards the little city's town-square and park. He watches the doors and counts. There are three. There was not a fourth. 
 
-Drew is disappointed, and now he feels foolish. He turns to go back towards the coffee shop before realizing that the little side street that plays host to Hot Beans Coffee Roasters does not in fact end at their door. That's just the furthest he'd ever been down this street. He walks past the coffee shop, past an empty store front, past a hair salon, past a church for a religion he was sure he'd never heard of, and then he noticed another door recessed in the wall, opening on to a staircase. 
+Drew is disappointed, and now he feels foolish. He turns to go back towards the coffee shop before realizing that the little side street that plays host to Hot Beans Coffee Roasters does not in fact end at their door. That's just the furthest he'd ever been down this street. He walks past the coffee shop, past an empty store front, past a hair salon, past a church for a religion he was sure he'd never heard of, and then he notices another door recessed in the wall, opening on to a staircase. 
 
 The door is black, or maybe purple, with stars across the bottom. The top portion features a big, highly reflective pane of glass. The lettering on the glass reads "Space Age Ideas: Wizards of the Electronic Age. We help, We consult, We build things, Come inside!" 
 
