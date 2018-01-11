@@ -8,9 +8,125 @@ I've been toying with the idea of a building a modern office around 8 and 16 bit
 
 **DISCLAIMER** *Please understand, I recognize that implementing this would be both impractical and expensive, and that the same goals can more readily be accomplished by myriad other methods. I know this, and yet I still can't abandon this hypothetical future. Don't consider this a blueprint, or if you do consider this a blueprint, don't hold me responsible if it is less fun and more tedious in practice than it sounds in theory. I'm probably going to do most of these things over the coming months, and I'll document as much as I can, eventually on it's own project page.*
 
-If we're going to use a bunch of dinosaur computers to power a modern home and office, it's important for us to define the kind of work that will be done in that home/office, and for us to get specific about the dinosaurs. I am envisioning my own workplace, as I would prefer it to be, so I am focusing on the kinds of work that I do. At the end, I'll do a short piece of design fiction describing this office, and the work they do from the perspective of a prospective client. Maybe one day I can make this a reality. 
+If we're going to use a bunch of dinosaur computers to power a modern home and office, it's important for us to define the kind of work that will be done in that home/office, and for us to get specific about the dinosaurs. I am envisioning my own workplace, as I would prefer it to be, so I am focusing on the kinds of work that I do. To start, I'll do a short piece of design fiction describing this office, and the work they do from the perspective of a prospective client. Maybe one day I can make this a reality. 
 
-# Work
+**This article is split in to two sections. First, a short fiction demonstrating these ideas, then a discussion of specfics on how to make it possible** 
+
+# A Fiction
+
+*Every character in this thing is a reflection of myself. If I'm too harsh on Drew, it's because I see myself in his position now.* 
+
+Drew, a young business owner, is having coffee at his local haunt in the trendy historic district of the trendy suburb of the trendy but not too expensive city. There is a lot of exposed brick around him, and kids dicking around on tablets and smartphones. He looks and feels a little ancient as he adjusts his too expensive headphones and peers over the top of his painfully bland brushed aluminum laptop. 
+
+Wanting to appear less like a man slowly aging out of his own demographic, drew takes a long slow sip of his too expensive coffee, closes his eyes, and leans back. On the ceiling, there is a flyer. The ceiling is very far away, and the flyer is a jumble of too many words. Drew's eyes have gotten worse since the last time he went to the eye doctor, and to him the flyer is almost impossible to read. At the bottom, in larger letters, it says "Basically, if you need help, we're four doors down. Look for the weird." 
+
+'A flyer on the ceiling of a coffee shop that says "look for the weird." How could I pass that up?' he thinks. Hesitantly he gathers his things together and steps out the door. Instinctively, he turns to the right back towards the little city's town-square and park. He watches the doors and counts. There are three. There was not a fourth. 
+
+Drew is disappointed, and now he feels foolish. He turns to go back towards the coffee shop before realizing that the little side street that plays host to Hot Beans Coffee Roasters does not in fact end at their door. That's just the furthest he'd ever been down this street. He walks past the coffee shop, past an empty store front, past a hair salon, past a church for a religion he was sure he'd never heard of, and then he notices another door recessed in the wall, opening on to a staircase. 
+
+The door is black, or maybe purple, with stars across the bottom. The top portion features a big, highly reflective pane of glass. The lettering on the glass reads "Space Age Ideas: Wizards of the Electronic Age. We help, We consult, We build things, Come inside!" 
+
+He waffles for a moment, tugging at the strap of his shoulder bag. As he stands there, the door clicks open. A voice from upstairs says "we have video games!" 
+
+With that, he has no excuse. He steps through the door, which closes itself behind him, and climbs the stairs. He's in an industrial space. It has the same trendy exposed brick, worn wood, and bare metal look, but it feels mostly earnest as the 200 year old stairs creek slightly under his weight.  
+
+He emerges from the staircase in to an office. He thinks it's an office, at least. There are a few people lounging around on couches and slightly pretentious mid-century modern chairs, and 6 or 7 people on various desks scattered throughout the long narrow room. On several of the desks he spots various beautiful old televisions; Some of them are displaying text, a few appear to have games he doesn't recognize or TV shows he hasn't seen. 
+
+He pauses to take it all in, waiting for someone to acknowledge his entrance. Clearly some these people were working, he thought, but on what he could not begin to fathom. Their machines seemed to clearly be barely functional antiques, and yet every last one of them had an aire of the future to it. As he tries to reconcile all of this in his mind, he notices the robot. 
+
+It isn't a large robot. It looks like a toy that might have been sold in the 1980s, but it moves with more grace than he expects. It rolls easily across the uneven wooden floor and stopped in front of him. It's head is another TV screen, bulbous like a spaceman's helmet, and there is a person's image displayed inside. 
+
+"Hi, I'm Jerry!" the main inside the space helmet TV set says, "This is Space Age Ideas. What can we help you with today?" 
+
+Drew stammered for a few seconds. "I uhh... I... I saw a flyer in the coffee shop and I couldn't really read it but I was feeling kind of down and the flyer said to come by if I needed help and then a voice said 'we have video games' and uh... what is this place?" he spat out all at once, the words tripping over one another. 
+
+"Neat!" Jerry responds from his robot. "This is space age ideas! We're wizards of the electronic age, and we're here to help. What's your name?" 
+
+"Drew"
+
+"Drew, Give me a second, I'll have someone show you around." The screen flickered, and Jerry's face is replaced with an electronic smile. 
+
+"Can I Help You?" the robot says in a shockingly synthetic voice. 
+
+"N..No. I'm just waiting" Drew says, unsure of the correct etiquette for interacting with a robot. 
+
+The bot turns around and wheels itself away, heading towards one of the doors at the back of the room that opens as it approaches. Drew catches a glimpse of dozens more robots waiting inside.  
+
+A young woman sitting in one of the almost pretentious chairs, clearly rocking out with a pair of headphones that were remarkably similar to the ones Drew had so recently stowed in his bag, closes a small device about the size of a paperback book, places it on an end table, removes her headphones and walks towards him. 
+
+"Are you Drew?" she says. 
+
+"Yes, I am" he responds, more than a little embarrassed to be here. 
+
+"Neat! I'm Dianne. Jerry asked me to show you around. Do you want to play some video games, watch a movie, or learn about the stuff we do?" 
+
+"I... uhh... What?" 
+
+"Great! We'll start with learning about the stuff we do. I'm sure you've heard the schpeal about helping and wizards. It's cute, but it's pretty meaningless. Here, follow me." 
+
+They walk around the office, and she introduces Drew to people, and telling him about the projects they are working on. There is Jerry doing robotics on what appears to be an old black and white mac, John who builds websites on electronic typewriters, Cheryll who apparently publishes magazines and flyers with too many words, all jumbled together and cramped with the aide of what appears to be a pocket calculator, and several other people who's jobs appear to consist mostly of typing things in to the strangest computers Drew has ever seen. 
+
+Drew is impressed by how quick everything seems to be, by how few wires he sees connecting things together, and by the sheer variety and beauty of the objects in the room. Mostly, though, he's impressed by how much Fun everyone seems to be having. 
+
+"So, what do you do?" the young woman asks.
+
+"Oh, I run a shop across town." Drew responded. 
+
+"That's nice! But what do you do? Like, for fun? What do you make? What lights you on fire?" 
+
+"I... uh... I have no idea." 
+
+"Oh. That's not cool" Dianne said with a frown. "Do you like music?" she says, gesturing at her headphones. 
+
+Drew stammers some more, and then pulls his nearly identical pair out of his bag. 
+
+"You wanna hear the stuff I've been working on?" she says a little sheepishly. 
+
+"Sure!" 
+
+She plugs his headphones in to a table in the center of the room, picks up a small plastic box about the size of a paperback book, and opens it. He can see a small monochrome screen, and rows of tiny buttons. He starts to ask what this odd device could possibly be, but before he can find the words some strange and wonderful electronic music begins to trickle in to his headphones. 
+
+Drew listens for a few minutes. He's impressed, and he says so. Dianne shows him over to her desk, where she has an array of old keyboards running in to a weird, clearly old, and therefore almost impossibly thin laptop running something that looks vaguely like an old macOS. She opens a tracker, plugs in his headphones, and they noodle for a few minutes.
+
+The minutes slip in to hours, as Drew makes new friends and plays video games and makes music. Jerry comes over, in person, at one point and gives Drew a rundown of the features of his various robots, intimating that, indeed, they are built on chassis from toys made in the 1980s. Eventually, Cherryl thrusts a newly finished print zine in his hands and he flips through page after page of dense collages of words, confused and delighted. 
+
+Suddenly the thought occurs to him that this place has got to make money somewhere, and everyone is too happy and relaxed for this to be the way that they do it. 
+
+He looks for Dianne, and asks her. 
+
+"Oh! Well, yeah. The big draw is "consulting" which in this case means teaching people things that help them solve problems, but beyond that we do all kinds of other stuff too. I mean we build robots for people and make websites for other people and write computer games and there's a crew in the back doing a TV show right now and we publish books and record..." she continues on like this for a few minutes "oh, and there's a tip jar by the door." 
+
+"Do all of you work here?" 
+
+She looks around for a moment "Work might be a strong word. A lot of us get paid to be here, either by Space Age Ideas directly--Like me--or through the things that we do while we're here. We have a membership plan, so that everyone kicks in when they can to keep the doors open, and the place friendly. But this is just one office. Space Age Ideas is all over the world. Would you like to meet some of our other members?" 
+
+Drew nods, and Dianne leads him to a large antique television sitting on a pedestal towards the back of the building. She pulls out her little pocket computer again, enters some archane incantation, and then a picture springs to life in front of him. 
+
+He sees another office, shaped differently and filled with different people and different machines, but still clearly of a kind with the anachronistic timelessness of this place. 
+
+"Where is that?" Drew says to Dianne. 
+
+"Oh, We're in north Maryland" someone replies from within the screen. 
+
+"Wait! Is he... Are we... Is this a video phone? Did you just walk me up to an antique video phone?" 
+
+The man from north Maryland replies "Yeah, pretty much! It's neat right? I'm Steve. You new?" 
+
+Drew and Steve and Dianne and various other people from both offices filter by the ancient TV and chat with one another. One of Jerry's robots rolls by in the Fredrick office, carrying a tray of magazines. A few people there pick one up and flip through it, one of them comes over to congratulate Cherryl on finishing her latest issue. 
+
+For a moment, Drew struggles to understand what he's seen, and he can't shake the feeling that this is just magic. Slowly he remembers that things like The Internet, and network attached printers must exist even in this psudeo-timeless Eutopia. Even with that realization, as he looks around, he still feels like this is magic. 
+
+As the day draws to a close, and the evening rises, Dianne gets Drew set up with a membership and offers him a handheld computer like hers to use until he has decided on his own workflow. Eventually, he leaves and makes his way back home. 
+
+When he wakes up the next morning, he's uncertain that the place he has just visited could possibly exist. Tempted to shake it all off as a bad dream and an impending sense of ennui, he tries to push Space Age Ideas out of his mind as he gets ready to go. 
+
+As he steps out the door, he notices a lump in his jacket pocket. He fishes it out, and finds Dianne's computer and Cherryl's magazine. On the back of the magazine, in the jumble of all the words too tightly spaced, his eyes fall on the phrase "it wasn't a dream." 
+
+He smiles to himself, stows the computer in his pocket, and resolves to make something that feels like magic.
+
+-----------------
+# Putting it in practice 
+
 
 So, my average day consists of the following activities: 
 
@@ -738,114 +854,3 @@ Aside from the Model 100/Tandy-102 I'm not very familiar with the TRS-80 line, s
 
 ------
 
-## A fiction, to tie it all together
-
-*Every character in this thing is a reflection of myself. If I'm too harsh on Drew, it's because I see myself in his position now.* 
-
-Drew, a young business owner, is having coffee at his local haunt in the trendy historic district of the trendy suburb of the trendy but not too expensive city. There is a lot of exposed brick around him, and kids dicking around on tablets and smartphones. He looks and feels a little ancient as he adjusts his too expensive headphones and peers over the top of his painfully bland brushed aluminum laptop. 
-
-Wanting to appear less like a man slowly aging out of his own demographic, drew takes a long slow sip of his too expensive coffee, closes his eyes, and leans back. On the ceiling, there is a flyer. The ceiling is very far away, and the flyer is a jumble of too many words. Drew's eyes have gotten worse since the last time he went to the eye doctor, and to him the flyer is almost impossible to read. At the bottom, in larger letters, it says "Basically, if you need help, we're four doors down. Look for the weird." 
-
-'A flyer on the ceiling of a coffee shop that says "look for the weird." How could I pass that up?' he thinks. Hesitantly he gathers his things together and steps out the door. Instinctively, he turns to the right back towards the little city's town-square and park. He watches the doors and counts. There are three. There was not a fourth. 
-
-Drew is disappointed, and now he feels foolish. He turns to go back towards the coffee shop before realizing that the little side street that plays host to Hot Beans Coffee Roasters does not in fact end at their door. That's just the furthest he'd ever been down this street. He walks past the coffee shop, past an empty store front, past a hair salon, past a church for a religion he was sure he'd never heard of, and then he notices another door recessed in the wall, opening on to a staircase. 
-
-The door is black, or maybe purple, with stars across the bottom. The top portion features a big, highly reflective pane of glass. The lettering on the glass reads "Space Age Ideas: Wizards of the Electronic Age. We help, We consult, We build things, Come inside!" 
-
-He waffles for a moment, tugging at the strap of his shoulder bag. As he stands there, the door clicks open. A voice from upstairs says "we have video games!" 
-
-With that, he has no excuse. He steps through the door, which closes itself behind him, and climbs the stairs. He's in an industrial space. It has the same trendy exposed brick, worn wood, and bare metal look, but it feels mostly earnest as the 200 year old stairs creek slightly under his weight.  
-
-He emerges from the staircase in to an office. He thinks it's an office, at least. There are a few people lounging around on couches and slightly pretentious mid-century modern chairs, and 6 or 7 people on various desks scattered throughout the long narrow room. On several of the desks he spots various beautiful old televisions; Some of them are displaying text, a few appear to have games he doesn't recognize or TV shows he hasn't seen. 
-
-He pauses to take it all in, waiting for someone to acknowledge his entrance. Clearly some these people were working, he thought, but on what he could not begin to fathom. Their machines seemed to clearly be barely functional antiques, and yet every last one of them had an aire of the future to it. As he tries to reconcile all of this in his mind, he notices the robot. 
-
-It isn't a large robot. It looks like a toy that might have been sold in the 1980s, but it moves with more grace than he expects. It rolls easily across the uneven wooden floor and stopped in front of him. It's head is another TV screen, bulbous like a spaceman's helmet, and there is a person's image displayed inside. 
-
-"Hi, I'm Jerry!" the main inside the space helmet TV set says, "This is Space Age Ideas. What can we help you with today?" 
-
-Drew stammered for a few seconds. "I uhh... I... I saw a flyer in the coffee shop and I couldn't really read it but I was feeling kind of down and the flyer said to come by if I needed help and then a voice said 'we have video games' and uh... what is this place?" he spat out all at once, the words tripping over one another. 
-
-"Neat!" Jerry responds from his robot. "This is space age ideas! We're wizards of the electronic age, and we're here to help. What's your name?" 
-
-"Drew"
-
-"Drew, Give me a second, I'll have someone show you around." The screen flickered, and Jerry's face is replaced with an electronic smile. 
-
-"Can I Help You?" the robot says in a shockingly synthetic voice. 
-
-"N..No. I'm just waiting" Drew says, unsure of the correct etiquette for interacting with a robot. 
-
-The bot turns around and wheels itself away, heading towards one of the doors at the back of the room that opens as it approaches. Drew catches a glimpse of dozens more robots waiting inside.  
-
-A young woman sitting in one of the almost pretentious chairs, clearly rocking out with a pair of headphones that were remarkably similar to the ones Drew had so recently stowed in his bag, closes a small device about the size of a paperback book, places it on an end table, removes her headphones and walks towards him. 
-
-"Are you Drew?" she says. 
-
-"Yes, I am" he responds, more than a little embarrassed to be here. 
-
-"Neat! I'm Dianne. Jerry asked me to show you around. Do you want to play some video games, watch a movie, or learn about the stuff we do?" 
-
-"I... uhh... What?" 
-
-"Great! We'll start with learning about the stuff we do. I'm sure you've heard the schpeal about helping and wizards. It's cute, but it's pretty meaningless. Here, follow me." 
-
-They walk around the office, and she introduces Drew to people, and telling him about the projects they are working on. There is Jerry doing robotics on what appears to be an old black and white mac, John who builds websites on electronic typewriters, Cheryll who apparently publishes magazines and flyers with too many words, all jumbled together and cramped with the aide of what appears to be a pocket calculator, and several other people who's jobs appear to consist mostly of typing things in to the strangest computers Drew has ever seen. 
-
-Drew is impressed by how quick everything seems to be, by how few wires he sees connecting things together, and by the sheer variety and beauty of the objects in the room. Mostly, though, he's impressed by how much Fun everyone seems to be having. 
-
-"So, what do you do?" the young woman asks.
-
-"Oh, I run a shop across town." Drew responded. 
-
-"That's nice! But what do you do? Like, for fun? What do you make? What lights you on fire?" 
-
-"I... uh... I have no idea." 
-
-"Oh. That's not cool" Dianne said with a frown. "Do you like music?" she says, gesturing at her headphones. 
-
-Drew stammers some more, and then pulls his nearly identical pair out of his bag. 
-
-"You wanna hear the stuff I've been working on?" she says a little sheepishly. 
-
-"Sure!" 
-
-She plugs his headphones in to a table in the center of the room, picks up a small plastic box about the size of a paperback book, and opens it. He can see a small monochrome screen, and rows of tiny buttons. He starts to ask what this odd device could possibly be, but before he can find the words some strange and wonderful electronic music begins to trickle in to his headphones. 
-
-Drew listens for a few minutes. He's impressed, and he says so. Dianne shows him over to her desk, where she has an array of old keyboards running in to a weird, clearly old, and therefore almost impossibly thin laptop running something that looks vaguely like an old macOS. She opens a tracker, plugs in his headphones, and they noodle for a few minutes.
-
-The minutes slip in to hours, as Drew makes new friends and plays video games and makes music. Jerry comes over, in person, at one point and gives Drew a rundown of the features of his various robots, intimating that, indeed, they are built on chassis from toys made in the 1980s. Eventually, Cherryl thrusts a newly finished print zine in his hands and he flips through page after page of dense collages of words, confused and delighted. 
-
-Suddenly the thought occurs to him that this place has got to make money somewhere, and everyone is too happy and relaxed for this to be the way that they do it. 
-
-He looks for Dianne, and asks her. 
-
-"Oh! Well, yeah. The big draw is "consulting" which in this case means teaching people things that help them solve problems, but beyond that we do all kinds of other stuff too. I mean we build robots for people and make websites for other people and write computer games and there's a crew in the back doing a TV show right now and we publish books and record..." she continues on like this for a few minutes "oh, and there's a tip jar by the door." 
-
-"Do all of you work here?" 
-
-She looks around for a moment "Work might be a strong word. A lot of us get paid to be here, either by Space Age Ideas directly--Like me--or through the things that we do while we're here. We have a membership plan, so that everyone kicks in when they can to keep the doors open, and the place friendly. But this is just one office. Space Age Ideas is all over the world. Would you like to meet some of our other members?" 
-
-Drew nods, and Dianne leads him to a large antique television sitting on a pedestal towards the back of the building. She pulls out her little pocket computer again, enters some archane incantation, and then a picture springs to life in front of him. 
-
-He sees another office, shaped differently and filled with different people and different machines, but still clearly of a kind with the anachronistic timelessness of this place. 
-
-"Where is that?" Drew says to Dianne. 
-
-"Oh, We're in north Maryland" someone replies from within the screen. 
-
-"Wait! Is he... Are we... Is this a video phone? Did you just walk me up to an antique video phone?" 
-
-The man from north Maryland replies "Yeah, pretty much! It's neat right? I'm Steve. You new?" 
-
-Drew and Steve and Dianne and various other people from both offices filter by the ancient TV and chat with one another. One of Jerry's robots rolls by in the Fredrick office, carrying a tray of magazines. A few people there pick one up and flip through it, one of them comes over to congratulate Cherryl on finishing her latest issue. 
-
-For a moment, Drew struggles to understand what he's seen, and he can't shake the feeling that this is just magic. Slowly he remembers that things like The Internet, and network attached printers must exist even in this psudeo-timeless Eutopia. Even with that realization, as he looks around, he still feels like this is magic. 
-
-As the day draws to a close, and the evening rises, Dianne gets Drew set up with a membership and offers him a handheld computer like hers to use until he has decided on his own workflow. Eventually, he leaves and makes his way back home. 
-
-When he wakes up the next morning, he's uncertain that the place he has just visited could possibly exist. Tempted to shake it all off as a bad dream and an impending sense of ennui, he tries to push Space Age Ideas out of his mind as he gets ready to go. 
-
-As he steps out the door, he notices a lump in his jacket pocket. He fishes it out, and finds Dianne's computer and Cherryl's magazine. On the back of the magazine, in the jumble of all the words too tightly spaced, his eyes fall on the phrase "it wasn't a dream." 
-
-He smiles to himself, stows the computer in his pocket, and resolves to make something that feels like magic.
