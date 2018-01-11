@@ -10,7 +10,7 @@ I've been toying with the idea of a building a modern office around 8 and 16 bit
 
 If we're going to use a bunch of dinosaur computers to power a modern home and office, it's important for us to define the kind of work that will be done in that home/office, and for us to get specific about the dinosaurs. I am envisioning my own workplace, as I would prefer it to be, so I am focusing on the kinds of work that I do. To start, I'll do a short piece of design fiction describing this office, and the work they do from the perspective of a prospective client. Maybe one day I can make this a reality. 
 
-This article is split in to two sections. First, a short fiction demonstrating these ideas, then a discussion of specfics on how to make it possible
+This article is split in to two sections. First, a short fiction demonstrating these ideas, then a discussion of specfics on how to make it possible. Feel free to skip one or the other. 
 
 # A Fiction
 
