@@ -10,11 +10,9 @@ I've been toying with the idea of a building a modern office around 8 and 16 bit
 
 If we're going to use a bunch of dinosaur computers to power a modern home and office, it's important for us to define the kind of work that will be done in that home/office, and for us to get specific about the dinosaurs. I am envisioning my own workplace, as I would prefer it to be, so I am focusing on the kinds of work that I do. To start, I'll do a short piece of design fiction describing this office, and the work they do from the perspective of a prospective client. Maybe one day I can make this a reality. 
 
-**This article is split in to two sections. First, a short fiction demonstrating these ideas, then a discussion of specfics on how to make it possible** 
+This article is split in to two sections. First, a short fiction demonstrating these ideas, then a discussion of specfics on how to make it possible
 
 # A Fiction
-
-*Every character in this thing is a reflection of myself. If I'm too harsh on Drew, it's because I see myself in his position now.* 
 
 Drew, a young business owner, is having coffee at his local haunt in the trendy historic district of the trendy suburb of the trendy but not too expensive city. There is a lot of exposed brick around him, and kids dicking around on tablets and smartphones. He looks and feels a little ancient as he adjusts his too expensive headphones and peers over the top of his painfully bland brushed aluminum laptop. 
 
@@ -146,7 +144,7 @@ The above covers a surprisingly large portion of the work I do both professional
 
 Outside of the work I do, I also listen to a lot of music, both via my computer and from other sources, I spend most of my day with Mastodon up on some device or other, I read books, I watch movies, I listen to podcasts, I administer servers, I manage a todo list, I play games, I write games, I have been known to make music, edit podcasts, and even make the occasional video. 
 
-# Which Computers?
+## Which Computers?
 
 I'm fairly confident that every activity I've outlined above can be done to a greater or lesser extent by making use of various piece of vintage hardware. 
 
@@ -173,7 +171,7 @@ Every machine on that list has been selected for a few reasons:
 
 These machines are from various eras, and out of the box they are all but entirely incompatible with each other and the modern world. Well, that last bit isn't entirely true. Nearly all of these computers can be made to understand one another via plaintext and serial-port networking in much the same way as they were able to interact with one another during the BBS era. This will be important. 
 
-# What else?
+## What else?
 
 A large portion of the magic that enables us to use vintage computers (and other hardware) in a modern context is going to come down to the supplemental hardware. A lot of this ends up being custom, and vendors pop up and disappear all the time, so I'm not going to discuss individual products as much as classes of product. 
 
@@ -217,7 +215,7 @@ For me, the primary use case for this setup would mostly be internal calls and o
 
 **TV Transmitter** This one might not be legal where you live, so be careful. You can mostly DIY it with instructions from [AntiqueRadio.org](https://antiqueradio.org/HomeTVTransmitter.htm)
 
-# Serial Terminals
+## Serial Terminals
 
 ### What?
 
