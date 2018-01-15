@@ -56,7 +56,7 @@ Even with these limitations, a community can build quickly around a well placed 
 
 #### Surmounting the Obstacles
 
-Over the next several months, I'll be working to overcome some of the obstacles I mentioned above. (If you'd like to [follow my progress, sign up for my newsletter.][20], I'm sure this topic will feature heavily in rotation.) My plan at the moment is to build several of these BBS nodes, powered by the newly released [Raspberry Pi 3][21], and to deploy them in several strategic locations throughout my community. (If you're a business owner in metro-atlanta, and you're interested in running a modern BBS (mBBS), [let me know][22]!)
+Over the next several months, I'll be working to overcome some of the obstacles I mentioned above. (If you'd like to [follow my progress, sign up for my newsletter.][20], I'm sure this topic will feature heavily in rotation.) My plan at the moment is to build several of these BBS nodes, powered by the newly released [Raspberry Pi 3][21], and to deploy them in several strategic locations throughout my community.
 
 ![][23]
 
@@ -74,7 +74,7 @@ Who's with me?
 
 We don't deserve any better, either. We've given these large, private corporations access to every aspect of our lives. We won't deserve better until we demand better, and create it for ourselves. We have the opportunity to take back our digital liberty, to connect with our local community, to fight the race towards homogenized culture, and to do something fun.
 
-[Wanna help?][22]
+
 
 Of course, this might all be little more than a pipe dream but, the technology is there, the [need is there][30], and wouldn't it be something if we could pull it off?
 
@@ -95,7 +95,6 @@ Of course, this might all be little more than a pipe dream but, the technology i
 [19]: http://analogrevolution.com
 [20]: http://tinyletter.com/ajroach42
 [21]: https://www.raspberrypi.org/blog/raspberry-pi-3-on-sale/
-[22]: https://ajroach42.typeform.com/to/tNxpkS
 [23]: https://cdn-images-1.medium.com/max/1600/1*Iuikav1W5ma-4oM_d81j3A.jpeg
 [24]: http://www.gotenna.com/
 [25]: https://www.sparkfun.com/products/9099
