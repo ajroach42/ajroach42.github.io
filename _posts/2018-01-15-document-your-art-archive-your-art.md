@@ -26,7 +26,7 @@ But it's more than music. I've seen indie films at local festivals that, if you 
 
 Or think about all the *Amazing* artists you knew on Tumblr who have completely disappeared, and taken their archives with them. How many of those artists still even have copies of all of that work? And, unlike in years past when, in order for something to stop existing it had to actually be destroyed, today things can just stop existing with the click of a button. There aren't any physical artifacts tied to their existence.
 
-# Archive your art 
+# Archive the art 
 
 This is not me railing against digital creation and distribution. Let me make that clear. I love digital creation and distribution. But we need to remember that the digital can be ephemeral, and make efforts to preserve our work. ([We've talked about this before.](http://ajroach42.com/we-are-terrible-stewards-of-history/)) 
 
