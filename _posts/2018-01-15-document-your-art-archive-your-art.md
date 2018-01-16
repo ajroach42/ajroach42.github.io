@@ -20,7 +20,7 @@ or more likely
 
 I can't tell you the number of times I'd see an interview with a band I respect the hell out of talking about how they took the majority of their inspiration from this other group. And then I'd go dig for information on this other group and find rave reviews and nothing else. We owe it to ourselves, and to the future, to keep a physical record of the things that we do and to help one another in recording and archiving and documenting as much of each of our respective movements as possible.
 
-I'm talking about music because I was clos to music, and I watched these things play out in real time through lots of little decisions that seemed like the best idea at the time but that ultimately resulted in even our relatively recent scene being full of Empty Space where music should be. 
+I'm talking about music because I was close to music, and I watched these things play out in real time through lots of little decisions that seemed like the best idea at the time but that ultimately resulted in even our relatively recent scene being full of Empty Space where music should be. 
 
 But it's more than music. I've seen indie films at local festivals that, if you weren't in the room at one of those screenings, you'd never know existed. They're ghosts. I have only my memories of them, and you don't even have that. 
 
@@ -28,7 +28,7 @@ Or think about all the *Amazing* artists you knew on Tumblr who have completely 
 
 # Archive your art 
 
-This is not me railing against digital creation and distribution. Let me make that clear. I love digital creation and distribution. But we need to remember that the digital can be ephemeral, and make efforts to preserve our work.
+This is not me railing against digital creation and distribution. Let me make that clear. I love digital creation and distribution. But we need to remember that the digital can be ephemeral, and make efforts to preserve our work. ([We've talked about this before.](http://ajroach42.com/we-are-terrible-stewards-of-history/)) 
 
 In addition to all of these empty spaces caused by media which was no longer commercially available, there were also empty spaces caused by media which was never created. Many bands never recorded even a single song.Bands that everyone loved! Bands that packed houses! Bands that were called "the next thing"  by the bands that actually went on to be the next thing! 
 
