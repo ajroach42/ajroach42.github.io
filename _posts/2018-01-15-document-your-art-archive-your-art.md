@@ -4,11 +4,11 @@ category: post
 published: false
 title: 'Document your art. Archive your art. '
 ---
-It's not just entertainment, it's a movement. 
-
-For a few months in 2015, I spent a lot of time trolling through scans of old punk zines and the noise-arch archive and various other sources talking about underground/independent music from the mid 70s up through the mid 90s. You know what I found? Lots of really great music, and also many empty space.
+[DIY Media is important](http://ajroach42.com/diy-media/). It's not just entertainment, it's a movement. 
 
 # Empty Space
+
+For a few months in 2015, I spent a lot of time trolling through scans of old punk zines and the noise-arch archive and various other sources talking about underground/independent music from the mid 70s up through the mid 90s. You know what I found? Lots of really great music, and also many empty space.
 
 When I say empty spaces, I mean I would read a review about a band, or an interview in a zine that would pique my interest. I'd start looking for more information about that band, or the members of that band, and build a little spiderweb of references that took me from scene to scene and show to show over a period of two or three years, almost invariably to end with 
 
@@ -55,6 +55,35 @@ If you don't write about your favorite local act, will anyone ever know about th
 
 If you don't, who will?
 
-For me, for the next year, this means making a DIY Media Spotlight a regular feature on this blog. It means 
+For me, for the next year, this means making a DIY Media Spotlight a regular feature on this blog. It means that I'm making an concious effort to consume independent media, and to talk about the independent media I consume. It means I'm bringing back the Analog Revolution Zine (and trying to track down a new team to help produce and distribute it all over the country) and renewing our focus on independent media. 
+
+I want you to do the same thing. When you hear a great local band, write a blog post (and [send it to me](https://retro.social/@ajroach42)!) 
+
+
+# Index the Art 
+
+I keep offline archives on DVDs or AVCHD DVDs even though I don't own a thing that can play either. I also have multiple terabytes of storage at home. My personal archive strategy will remain largely the same, but in addition to those things, I'm going to start putting as much as I can in to the internet archive. 
+
+The Internet Archive is the closest thing we have to a long term solution to our archival problems. 
+
+**Unfortunately, just archiving the stuff isn't going to be enough without also indexing it.**
+
+My plan on that front is to put together a very low resource static website that embeds and/or points to all of the things I have on the internet archive. No reason for that to just be My stuff, though. (Both because most of the things I consider "mine" are actually communal efforts, and also because I want to highlight DIY media in general even if I wasn't involved with it.) 
+
+So, when everything is said and done, I should have a viable index of DIY media available for public consumption. 
+
+I'll likely host it through [neocities](http://neocities.org) or ont he same server as [Of Many Trades](http://ofmanytrades.com). 
+
+# Make the Art 
+
+My goal is to make as much cool stuff as possible, and to help other people make as much cool stuff as possible and to fill the world with independent art. As I'm getting my house in order, and releasing my media and my software, I also want to document as much as I can about *how* to do these things. This will turn in to a kind of *DIY MEDIA SCHOOL* that will live along side the index and archive we discussed above. 
+
+Do you also care about these things? Do you want to help me make podcasts or publish zines? 
+
+Do you want to release your own zine? or your own media? [Reach out! I'm friendly.](https://retro.social/@ajroach42) 
+
+
+
+
 
 
