@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Document your art. Archive your art. '
 ---
 [DIY Media is important](http://ajroach42.com/diy-media/). It's not just entertainment, it's a movement. 
@@ -80,10 +80,4 @@ My goal is to make as much cool stuff as possible, and to help other people make
 
 Do you also care about these things? Do you want to help me make podcasts or publish zines? 
 
-Do you want to release your own zine? or your own media? [Reach out! I'm friendly.](https://retro.social/@ajroach42) 
-
-
-
-
-
-
+Do you want to release your own zine? or your own media? [Reach out! I'm friendly.](https://retro.social/@ajroach42)
