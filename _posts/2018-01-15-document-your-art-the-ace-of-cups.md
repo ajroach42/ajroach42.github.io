@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Document Your Art: The Ace of Cups '
 ---
 
@@ -16,4 +16,4 @@ They opened for a who's who of the claifornia rock scene. And then, Nothing. Emp
 
 This is a Very happy ending to what could have been another sad footnote in the history of American music.
 
-Release your art. Document your art. 
+Release your art. Document your art.
