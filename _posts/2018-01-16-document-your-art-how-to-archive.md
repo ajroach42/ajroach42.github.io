@@ -2,7 +2,7 @@
 layout: post
 category: post
 published: true
-title: 'Document your Art: How to Archive'
+title: 'Document Your Art: How to Archive'
 ---
 Yesterday I railed against the ways that our culture is disappearing thanks to lots of little decisions that we make. If you missed that discussion, [you can see it here](http://ajroach42.com/document-your-art-archive-your-art/) and there is [an earlier related discussion here](http://ajroach42.com/we-are-terrible-stewards-of-history/). Now I want to specifically talk about a few methods you can take as a creator and as a content consumer to prevent things from disappearing (assuming, you know, that you view the preservation of the art and media of our culture as a goal.)
 
