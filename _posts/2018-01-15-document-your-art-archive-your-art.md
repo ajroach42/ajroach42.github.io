@@ -81,3 +81,11 @@ My goal is to make as much cool stuff as possible, and to help other people make
 Do you also care about these things? Do you want to help me make podcasts or publish zines? 
 
 Do you want to release your own zine? or your own media? [Reach out! I'm friendly.](https://retro.social/@ajroach42)
+
+# Followups 
+
+I will continue to write more about this topic, but I do want to specifically link to these posts: 
+
+- A great example of the importance of documenting your art, [The Ace of Cups](http://ajroach42.com/document-your-art-the-ace-of-cups/)
+- A [primer on how to archive things without it being a lot of extra effort](http://ajroach42.com/document-your-art-how-to-archive/)
+- [Permanent URLs from Archive.org](http://ajroach42.com/permanent-urls-from-archive-org/) 
