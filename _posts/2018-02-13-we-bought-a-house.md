@@ -10,15 +10,16 @@ title: 'We bought a House! '
 
 I’m moving to Georgia! We’ll be living in a sub 600 sqft home, on a couple of acres. Our expenses will be reduced dramatically, which means that if we can keep something close to our current income levels, we can pay this place off quickly. With that, we’re on track to be debt free with very low (sub $500) monthly expenses in 5-7 years.
 
-We closed on the house yesterday, and we'll move all our things March. From March to June we'll be splitting our time between our new house and our old apartment, so we can finsih up some work obligations and stuff. After that, we'll be well settled in to our new home. 
+We closed on the house yesterday, and we'll move all our things March. From March to June we'll be splitting our time between our new house and our old apartment, so we can finsih up some work obligations and stuff. After June, we'll be well settled in to our new home, and we won't have to travel much for a good while.  
 
 ## Some Details 
 
-Our new house is in the middle of absolute nowhere (or at least, as close to the middle of nowhere as you can get in the north GA mountains) which is going to be a *very* new and different experience for us. It's the kind of address that the Postal Service won't deliver to, off of one of those roads that they make horror movies about, you know? I'm so terribly excited. 
+Our new house is in the middle of absolute nowhere (or at least, as close to the middle of nowhere as you can get in the north GA mountains) which is going to be a *very* new and different experience for us. It's the kind of place where the Postal Service won't deliver, off of one of those roads that they make horror movies about, you know? I'm so terribly excited. 
 
-So, for all my Georgia friends, we're probably going to be an hour or so from you. We're about an hour and a half from everything. If you need more specifics, and you know me well enough to have a way to request them, reach out. I'll fill you in on the details. 
+The closing proccess was an absolute mess, as I've been told it often is. If I was supposed to see you while we were in GA, I appologize! So many things happened so quickly that I was hardly able to keep up with all of them. (But that's a story for another day! The story for today is that I have a house!) The good news is that we'll be in town often over the next few weeks, and we'll be sticking around for good very soon! 
 
-The closing proccess was an absolute mess, as I've been told it often is. If I was supposed to see you while we were in GA, I appologize! So many things happened so quickly that I was hardly able to keep up with all of them. (But that's a story for another day! The story for today is that I have a house!) 
+So, for all my Georgia friends, we're probably going to be an hour or so from you. We're about an hour and a half from everything, really. If you need more specifics, and you know me well enough to have a way to request them, reach out. I'll fill you in on the details. Come hang out with us, or reach out and we can make plans to meet up further south. 
+
 
 ## Work
 
