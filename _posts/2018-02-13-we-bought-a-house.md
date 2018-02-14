@@ -47,3 +47,8 @@ The most likely scenario is that we'll open a booth in an antique mall in the Wo
 
 Regardless of which option we end up with, the upshot is that Analog Revolution is coming back, and you can't imagine how excited I am for that. (This, too, will get it's own post in the near future as more details resolve themselves. You'll get sick of hearing about it, I'm sure.) 
 
+## Blogging
+
+Now that all of this has been taken care of, I'll resume business as usual. That is to say, I'll return my blogging to more tech, music, news, politics, open culture, etc. The only difference is that I'll start mixing in more posts on sustainable and off-grid living, techniques for expense reduction, gardening, and remote work stuff. 
+
+Basically, I'm back on my bullshit, and I'm sure you'll all be pleased to hear it. 
