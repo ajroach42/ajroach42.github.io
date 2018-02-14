@@ -4,7 +4,7 @@ category: post
 published: true
 title: 'We bought a House! '
 ---
-[As previously mentioned, I'm moving](http://ajroach42.com/life-and-work-in-2018/)! If you haven't read that earlier post, that's okay! It's long, and some stuff has changed. This one has all the gorey details and currently accurate information. 
+[As previously mentioned, I'm moving](http://ajroach42.com/life-and-work-in-2018/)! If you haven't read that earlier post, that's okay! It's long, and some stuff has changed. This one has all the gorey details and currently accurate information. I'm moving to Georgia. We'll be in the mountains. I'm pumped. 
 
 ## The Short Version
 
