@@ -8,7 +8,7 @@ title: 'We bought a House! '
 
 ## The Short Version
 
-I’m moving to Georgia! We’ll be living in a sub 600 sqft home, on a couple of acres. Our expenses will be reduced dramatically, which means that if we can keep something close to our current income levels, we can pay this place off quickly. With that, we’re on track to be debt free with very low (sub $1000) monthly expenses in 5-7 years.
+I’m moving to Georgia! We’ll be living in a sub 600 sqft home, on a couple of acres. Our expenses will be reduced dramatically, which means that if we can keep something close to our current income levels, we can pay this place off quickly. With that, we’re on track to be debt free with very low (sub $500) monthly expenses in 5-7 years.
 
 We closed on the house yesterday, and we'll move all our things March. From March to June we'll be splitting our time between our new house and our old apartment, so we can finsih up some work obligations and stuff. After that, we'll be well settled in to our new home. 
 
