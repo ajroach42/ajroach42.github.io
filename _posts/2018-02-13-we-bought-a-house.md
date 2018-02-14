@@ -10,7 +10,17 @@ title: 'We bought a House! '
 
 I’m moving to Georgia! We’ll be living in a sub 600 sqft home, on a couple of acres. Our expenses will be reduced dramatically, which means that if we can keep something close to our current income levels, we can pay this place off quickly. With that, we’re on track to be debt free with very low (sub $500) monthly expenses in 5-7 years.
 
-We closed on the house yesterday, and we'll move all our things in March. From March to June we'll be splitting our time between our new house and our old apartment, so we can finsih up some work obligations and stuff. After June, we'll be well settled in to our new home, and we won't have to travel much for a good while.  
+We closed on the house yesterday, and we'll move in March. 
+
+## Moving 
+
+We live outside DC right now. Our new home is 600 miles away. That move is going to be *rough.* We have some plans to make it a little easier, but moving sucks no matter how you go about it. 
+
+To top things off, March to June we'll each be traveling a bunch, both together and separately. Some of this will be related to the move, some of it will be work related. This is not the ideal situation to be in right after you move in to a house, but we'll survive.
+
+And at some point in the middle of all that, we have a vacation scheduled. The work travel and the moving travel will be stressful, even the travel part of the vacation will be stressful, but we'll have a *home* to come home to in between traveling. I'm really pleased about that. 
+
+After June, we'll be well settled in to our new home, and we won't have to travel much for a good while. I am very much looking forward to that.  
 
 ## Some Details 
 
