@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'We bought a House! '
 ---
 [As previously mentioned, I'm moving](http://ajroach42.com/life-and-work-in-2018/)! If you haven't read that earlier post, that's okay! It's long, and some stuff has changed. This one has all the gorey details and currently accurate information. 
@@ -51,4 +51,4 @@ Regardless of which option we end up with, the upshot is that Analog Revolution 
 
 Now that all of this has been taken care of, I'll resume business as usual. That is to say, I'll return my blogging to more tech, music, news, politics, open culture, etc. The only difference is that I'll start mixing in more posts on sustainable and off-grid living, techniques for expense reduction, gardening, and remote work stuff. 
 
-Basically, I'm back on my bullshit, and I'm sure you'll all be pleased to hear it. 
+Basically, I'm back on my bullshit, and I'm sure you'll all be pleased to hear it.
