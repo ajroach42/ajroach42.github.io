@@ -13,7 +13,7 @@ The idea is pretty straightforward. I have an archive of more than 400 public do
 You can watch the first episode here: 
 
 <blockquote class="wp-embedded-content"><a href="http://analogrevolution.com/podcast/space-age-tv-tom-corbett-space-cadet-assignment-mercury-preview/">Space Age TV &#8211; Tom Corbett, Space Cadet: Assignment Mercury</a></blockquote>
-<iframe src="http://analogrevolution.com/podcast/space-age-tv-tom-corbett-space-cadet-assignment-mercury-preview/embed/" width="500" height="350" title="&#8220;Space Age TV &#8211; Tom Corbett, Space Cadet: Assignment Mercury&#8221; &#8212; Analog Revolution" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe src="https://analogrevolution.com/wp-content/uploads/2018/02/space-age-tv-1.mp4" width="500" height="350" title="&#8220;Space Age TV &#8211; Tom Corbett, Space Cadet: Assignment Mercury&#8221; &#8212; Analog Revolution" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 I'm a big fan of Tom Corbett, Space Cadet. He's featured in the [current issue of A Brief History of the Future](https://spaceageideas.com/product/a-brief-history-of-the-future-winter-2017/), and I also have a collection of [Tom Corbett Radio Episodes](https://www.patreon.com/posts/tom-corbett-15725393), which will be featured in a Space Age Radio podcast soon. 
 
