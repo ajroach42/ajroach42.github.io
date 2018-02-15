@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Announcing Space Age TV! '
 ---
 It's time for Space Age TV! Space Age TV is a work in progress from the team behind Analog Revolution (that is to say, mostly just me right now.) Consider this your tour of early Sci-Fi TV. 
@@ -31,6 +31,4 @@ If you like this, and you want more, let me know!
 
 If you don't like this, and you don't want more, I guess I'd like to know that too! 
 
-If you prefer Audio Podcasts, hold tight! Space Age Radio is coming at you real soon. 
-
-
+If you prefer Audio Podcasts, hold tight! Space Age Radio is coming at you real soon.
