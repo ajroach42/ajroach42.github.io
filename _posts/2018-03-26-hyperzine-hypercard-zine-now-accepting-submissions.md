@@ -23,7 +23,7 @@ Hypercard was essentially the fastest and easiest way for non-technical users to
 
 Think Powerpoint plus some of the least bad features of the internet plus a really simple and easy to understand method of responding to user inputs and you’ll land somewhere in the neighborhood. Hypercard is worth the price of admission. I want to keep a compact macintosh in my home specifically for exploring hypercard.
 
-Hypercard is the best. It works as a rapid application prototyping tool, or even as a final destination for your application. It’s a pain to get hypercard stacks running on modern computers, but if you’re building internal applications I can’t think of a better platform to do it quickly.
+Hypercard is the best. It works as a rapid application prototyping tool, or even as a final destination for your application. It’s a pain to get hypercard stacks running on modern computers, but if you’re already set up for it, and you're building something for internal use, I can’t think of a better platform in terms of speed or ease of use.
 
 ## That sounds like a lot of Hype(rcard) 
 
