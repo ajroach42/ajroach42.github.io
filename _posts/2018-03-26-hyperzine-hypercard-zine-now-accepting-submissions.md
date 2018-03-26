@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Hyperzine - Hypercard Zine now accepting submissions
 ---
 ![DXzLwTPVMAAxpiL.png]({{site.baseurl}}/images/DXzLwTPVMAAxpiL.png) There's a [new zine](https://crime.team/~hypercard/) accepting sumbissions now. It's all about, and built with Hypercard. I've [mentioned my love of hypercard](http://ajroach42.com/a-modern-office-with-vintage-hardware/) in the past, but I've never talked about it at length. So let's talk about the hyperzine, and hypercard in general. 
@@ -37,9 +37,4 @@ Neat! Short of owning an old mac, the best route is emulation. The hypercard zin
 
 And then provides [this additional link to some hypercard resources](https://web.archive.org/web/20170925041647/http://hypercard.org/). 
 
-If you don't want to emulate, your best bet might be [Vipercard](https://www.vipercard.net/). Vipercard is not (yet) hypercard compatible, but it gets the look and feel right, and it's a new project that is undergoing some serious growth. I don't know much about the developer, but I'm watching the project closely, and if I am able to support them financially, I will. 
-
-
-
-
-
+If you don't want to emulate, your best bet might be [Vipercard](https://www.vipercard.net/). Vipercard is not (yet) hypercard compatible, but it gets the look and feel right, and it's a new project that is undergoing some serious growth. I don't know much about the developer, but I'm watching the project closely, and if I am able to support them financially, I will.
