@@ -1,12 +1,11 @@
 ---
 layout: post
 category: post
-"splash-tall": "/images/shada-2013-cd.jpg"
-"splash-wide": ""
-tags: 
-  - "null"
+splash-tall: /images/shada-2013-cd.jpg
+tags:
+  - 'null'
 published: true
-title: "Douglas Adams' Lost Doctor Who Episode (and resulting Fan Fiction) "
+title: 'Douglas Adams'' Lost Doctor Who Episode (and resulting Fan Fiction) '
 ---
 
 
@@ -28,7 +27,7 @@ Well, there's:
 - [The Garath Roberts Novelization](http://amzn.to/23pmFW8) (official) 
 - The Ian Levine Live Action/Animation Hybrid Edition (unofficial) - This edition is available intermitently from [torrent sites](https://thepiratebay.se/torrent/9037596/Doctor_Who_-_Shada_Ian_Levine_Special_Edition_DVD9) (and that's pretty much it, unfortunately.) 
 - [This Fan Edit combining](https://whoflix.wordpress.com/2013/12/06/shada-tom-baker/) all the official footage with some new effects shots and audio from the Big Finish Audio Play (unofficial) 
-- [A fan novelization](https://www.etsy.com/listing/275601112/doctor-who-shada-fan-novelization-hand?ref=shop_home_active_2) (unofficial) 
+- [A fan novelization](http://doctorwho.org.nz/archive/shada/) (unofficial) 
 
 ![shada-2013-cd.jpg]({{site.baseurl}}/images/shada-2013-cd.jpg)
 
