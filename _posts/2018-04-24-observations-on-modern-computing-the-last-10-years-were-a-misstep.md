@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Observations on Modern Computing (The Last 10 Years Were a Misstep) '
 ---
 I make no secret of the fact that I love [old computers](http://ajroach42.com/a-modern-office-with-vintage-hardware/), and that I think modern computers have lost their way in terms of providing utility to users. To that end, I write about, and think about, computers and the way to move computers forward, without losing site of the fact that computers should serve their users. I grew up with hand-me-down computers, from Atari to Apple (II GS!) to Dell, and in the process I got to experience a sizable portion of computer history very quickly, in my teen years. 
@@ -112,7 +112,4 @@ We, as users, as creators, and as people, have an obligation to help fight back 
 
 Part of this is very difficult, because documentation requires a separate skillset than development. If you are good at writing engaging and understandable documentation, consider finding a project to which you can donate or sell your services. If you run a software project (FOSS or otherwise) consider finding a technical writer, and value their opinions and input (and, while you're at it, hire a designer. Their contributions will be invaluable.)
 
-And, of course, keep talking about, thinking about, and building user centric systems. 
-
-
-
+And, of course, keep talking about, thinking about, and building user centric systems.
