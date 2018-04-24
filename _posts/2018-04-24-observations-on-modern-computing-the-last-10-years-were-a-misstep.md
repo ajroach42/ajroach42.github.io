@@ -12,7 +12,7 @@ I write about things that are informed by these opinions often. When I talk abou
 
 I had come, in recent months, to suspect that I might just be an old fuddy-duddy. I'm approaching 30 years old, and I was beggining to feel like I was looking at modern computers and modern software through the lens of someone who was being left behind, shouting at the sky, shaking my fists at the kids on my lawn. I was coming to the conclusion that my love of these computers of my childhood, and of ones that I had never had the chance to interact with, was some kind of rose tinted nostalgia. I had not fully subscribed to this theory, but it seemed more likely that I was romanticizing something that was actually Not Great that it was that nearly every modern software and hardware platform had inexplicably gotten shittier. 
 
-I am now prepaired to say, with conviction, that every modern hardware and software platform has gotten shittier, and that it's not inexplicable. I'm going to try to explain how I came to this conclusion, and give some potential explainations. 
+I am now prepared to say, with conviction, that every modern hardware and software platform has gotten shittier, and that it's not inexplicable. I'm going to try to explain how I came to this conclusion, and give some potential explanations. 
 
 ## About Me 
 
@@ -105,7 +105,7 @@ We, as users, as creators, and as people, have an obligation to help fight back 
 - Make user friendly (not user hostile) devices and software 
 - Write documentation 
 - Refuse to buy tech that *we* can render safe to use, but that the average user can't
-- Support finanically the people and organizations taht produce user friendly hardware and software whenever possible.
+- Support finanically the people and organizations that produce user friendly hardware and software whenever possible.
 - Write to our congresscritters about the DMCA (a law that is wielded by the likes of Lexmark and John Deere and Microsoft to keep their devices user hostile by rendering it illegal to install your own software.) 
 - Normalize the idea that reading documentation is sometimes required, and in the process, help folks bridge the gap in computer literacy.
 - Encourage tinkering and customization by documenting all the ways that it is possible. 
