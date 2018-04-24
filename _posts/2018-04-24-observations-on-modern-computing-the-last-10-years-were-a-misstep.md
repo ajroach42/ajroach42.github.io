@@ -1,16 +1,16 @@
 ---
 layout: post
 category: post
-published: true
+published: false
 title: 'Observations on Modern Computing (The Last 10 Years Were a Misstep) '
 ---
 I make no secret of the fact that I love [old computers](http://ajroach42.com/a-modern-office-with-vintage-hardware/), and that I think modern computers have lost their way in terms of providing utility to users. To that end, I write about, and think about, computers and the way to move computers forward, without losing site of the fact that computers should serve their users. I grew up with hand-me-down computers, from Atari to Apple (II GS!) to Dell, and in the process I got to experience a sizable portion of computer history very quickly, in my teen years. 
 
 This left me with Opinions. 
 
-I write about things that are informed by these opinions often. When I talk about building a World Wide Web analog without the internet, about reviving the BBS or when I lament the fact that Gopher was doomed to obscurity by the modern web, it is in response to my experiences with an array of computers from the dawn of the home computer revolution up through to the modern age. There was a time when computers were magical. 
+I write about things that are informed by these opinions often. When I talk about building a [World Wide Web analog without the internet](http://ajroach42.com/steps-towards-a-web-without-the-internet/), about [reviving the BBS](http://ajroach42.com/a-modern-bbs/) or when [I lament the fact that Gopher was doomed to obscurity by the modern web](http://ajroach42.com/gopher-remembering-the-web-that-wasn-t/), it is in response to my experiences with an array of computers from the dawn of the home computer revolution up through to the modern age. There was a time when computers were magical. 
 
-I had come, in recent months, to suspect that I might just be an old fuddy-duddy. I'm approaching 30 years old, and I had begun to feel like I was looking at modern computers and modern software through the lens of someone who was being left behind, shouting at the sky, shaking my fists at the kids on my lawn. I was coming to the conclusion that my love of these computers of my childhood, and of ones that I had never had the chance to interact with, was some kind of rose tinted nostalgia. I had not fully subscribed to this theory, but it seemed more likely that I was romanticizing something that was actually Not Great that it was that nearly every modern software and hardware platform had inexplicably gotten shittier. 
+I had come, in recent months, to suspect that I might just be an old fuddy-duddy. I'm approaching 30 years old, and I was beggining to feel like I was looking at modern computers and modern software through the lens of someone who was being left behind, shouting at the sky, shaking my fists at the kids on my lawn. I was coming to the conclusion that my love of these computers of my childhood, and of ones that I had never had the chance to interact with, was some kind of rose tinted nostalgia. I had not fully subscribed to this theory, but it seemed more likely that I was romanticizing something that was actually Not Great that it was that nearly every modern software and hardware platform had inexplicably gotten shittier. 
 
 I am now prepaired to say, with conviction, that every modern hardware and software platform has gotten shittier, and that it's not inexplicable. I'm going to try to explain how I came to this conclusion, and give some potential explainations. 
 
