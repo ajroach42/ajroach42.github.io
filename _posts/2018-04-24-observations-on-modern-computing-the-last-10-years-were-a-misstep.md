@@ -41,13 +41,13 @@ Before we go any further, let's talk about The Computer Chronicles. This was a T
 
 <iframe src="https://archive.org/embed/MainFram1984" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-On the one hand, this show serves as an excellent introduction to, or reminder of, the capabilities of computers 35 years ago. It helps us see how far we've come in terms of miniturization, while also demonstrating again that, in many ways, there is nothing new under the sun. Before the advent of the internet, reporters were writing their stories on laptops and sending them in over phone lines, 25 years before the release of the iphone HP released a computer with a touchscreen, three years before microsoft released he first version of windows Apple and Visicorp demontrated GUIs wih features that Windows wouldn't be able to approach for another 9+ years. 
+On the one hand, this show serves as an excellent introduction to, or reminder of, the capabilities of computers 35 years ago. It helps us see how far we've come in terms of miniaturization, while also demonstrating again that, in many ways, there is nothing new under the sun. Before the advent of the internet, reporters were writing their stories on laptops and sending them in over phone lines, 25 years before the release of the iPhone HP released a computer with a touchscreen, three years before Microsoft released the first version of Windows, Apple and Visicorp demontrated GUIs with features that Windows wouldn't be able to approach for another 9+ years. 
 
 And, of course, I'm reminded again of Douglas Engelbart's 1968 "Mother of all Demos", in which he demonstrated the mouse, the GUI, instant messaging, networked gaming, and basically every other important development of the following 50 years. 
 
 <iframe src="https://archive.org/embed/XD300-23_68HighlightsAResearchCntAugHumanIntellect" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-It took 5 years for Xerox to refine and miniturize Engelbart's ideas to the point that they thought they could market them, and another 10 years before Apple refined and further miniturizaed the same ideas, and brought us the Mac. 
+It took 5 years for Xerox to refine and miniaturize Engelbart's ideas to the point that they thought they could market them, and another 10 years before Apple refined and further miniaturized the same ideas, and brought us the Mac. 
 
 Nothing new under the sun. 
 
@@ -61,7 +61,7 @@ It sounds like the kind of symantic buzzword shuffling so common in standard cor
 
 There were others working around the same time on similar ideas, or at least from a similar philosophy. Working to make computers, if not intuitive, at least comprehensible. I think this is a noble goal. 
 
-The computer is often thought of as a tool, but it is more like a tool shed, in which we store a collection of tools, a source of power, and a workspace. The tools of the 60s and 70s were primative, partially because of the limited space and limited power our toolbox could provide for them, but also because our ideas and understanding of how these tools should work were limited by the audience who was using the tools. 
+The computer is often thought of as a tool, but it is more like a tool shed, in which we store a collection of tools, a source of power, and a workspace. The tools of the 60s and 70s were primitive, partially because of the limited space and limited power our toolbox could provide for them, but also because our ideas and understanding of how these tools should work were limited by the audience who was using the tools. 
 
 That is to say, in the 60s and 70s, computers were weak and slow and computer users were also computer programmers. A small, tight knit circle of developers and computer scientists were responsible for the bulk of the progress made in that time, and the idea of designing tools for non-technical users was never considered. 
 
@@ -77,7 +77,7 @@ That, in my opinion, is the distinction.
 
 ## Why didn't it work? 
 
-I think that many of the steps towards demistifying the computer of the 80s and 90s did good work, but ultimately, the computer industry left the whole idea behind, in favor of making some tasks Very Easy while making other tasks Practically Impossible, and turning everything in to a survielance device. It seems like every major advancement over the last 10 years has been, at best, a step in the wrong direction. 
+I think that many of the steps towards demistifying the computer of the 80s and 90s did good work, but ultimately, the computer industry left the whole idea behind, in favor of making some tasks Very Easy while making other tasks Practically Impossible, and turning everything in to a surveillance device. It seems like every major advancement over the last 10 years has been, at best, a step in the wrong direction. 
 
 But this isn't about Programming Tools or about Ease of Use. It's about the idea of User Friendliness, and the competing idea of User Hostility. Modern computers are Intentionally user hostile, in that the modern internet is a survielance machine, but modern computer are also user hostile in that we don't provide documentation on our software, and we no longer make our software end-user modifiable. 
 
