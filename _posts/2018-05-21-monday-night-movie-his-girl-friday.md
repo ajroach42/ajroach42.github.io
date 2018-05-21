@@ -4,7 +4,7 @@ category: post
 published: true
 title: 'Monday Night Movie: His Girl Friday'
 ---
-This weekend, I watched and enjoyed His Girl Friday. I thought it would be fun to share it with you all. You'll find the trailer, the full movie, and some comentary below. 
+This weekend, I watched and enjoyed His Girl Friday. I thought it would be fun to share it with you all. You'll find the trailer, the full movie, and some comentary below. I will warn you that the trailer has a few light spoilers (but they are spoilers from the play, which is 90 years old, and with which it is assumed audiences would already be familiar when watching this film.) 
 <iframe src="https://archive.org/embed/His_Girl_Friday_trailer" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 From Wikipedia: 
