@@ -4,7 +4,8 @@ category: post
 published: true
 title: 'Monday Night Movie: His Girl Friday'
 ---
-This weekend, I watched and enjoyed His Girl Friday. I thought it would be fun to share it with you all. You'll find the trailer, the full movie, and some comentary below. <iframe src="https://archive.org/embed/His_Girl_Friday_trailer" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+This weekend, I watched and enjoyed His Girl Friday. I thought it would be fun to share it with you all. You'll find the trailer, the full movie, and some comentary below. 
+<iframe src="https://archive.org/embed/His_Girl_Friday_trailer" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 From Wikipedia: 
 >His Girl Friday is a 1940 American screwball comedy film directed by Howard Hawks, from an adaptation by Charles Lederer, Ben Hecht and Charles MacArthur of the play The Front Page by Hecht and MacArthur. This was the second time the play had been adapted for the screen, the first occasion being the 1931 film also called The Front Page. The major change in this version, introduced by Hawks, is that the role of Hildy Johnson is a woman.
