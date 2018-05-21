@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Monday Night Movie: His Girl Friday'
 ---
 This weekend, I watched and enjoyed His Girl Friday. I thought it would be fun to share it with you all. You'll find the trailer, the full movie, and some comentary below. <iframe src="https://archive.org/embed/His_Girl_Friday_trailer" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -25,4 +25,4 @@ Here's the full movie:
 
 And [a link to the item's page on Archive.org](https://archive.org/details/HisGirlFriday1940_201505).
 
-[The original film (The Front Page) is also available from Archive.org.](https://archive.org/details/TheFrontPage1931AdolpheMenjouPatOBrienLewismiles) I haven't seen it yet, but I imagine it will suffer in comparison to His Girl Friday. 
+[The original film (The Front Page) is also available from Archive.org.](https://archive.org/details/TheFrontPage1931AdolpheMenjouPatOBrienLewismiles) I haven't seen it yet, but I imagine it will suffer in comparison to His Girl Friday.
