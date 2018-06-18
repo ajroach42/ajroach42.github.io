@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Status Update
 ---
 As I mentioned previously, we bought a house and moved to the North GA mountains. We're home and mostly settled, I am finding a good rhythm with my new job, and with life in the country. Things are good! 
