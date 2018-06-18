@@ -15,4 +15,12 @@ I have a new Planet Computers Gemini, and I plan to give it a trial run as a blo
 Planned blog topics for the coming weeks: 
 
 - Gopher stuff 
-- 
+- An update on my DOS workstation
+- lots of talk about my new Mac Plus and associated accesories
+- A Brief History of the Future 
+- Next steps for Analog Revolution
+- Space LARP Coffee Shop
+
+And, I'm sure, plenty of public domain and CC media blogging, because that is important, and that is what I am thinking about right now.
+
+It should be fun!
