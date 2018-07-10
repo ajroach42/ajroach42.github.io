@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Palm Pilots
 ---
 A few weeks ago, spurred by my continuing facination with technology that we have otherwise left behind, I purchased several small, touch screen, pocket computers manufactured by PalmOne. Calling them 'palm pilots' is a bit of a misnomer, but it's close enough. Specifically, I got a tx, an e2, and a lifedrive. What follows are impressions after several weeks of hands on use.
@@ -53,8 +53,4 @@ All in all, I find myself reaching for my palm more often than I read for my pho
 
 Once I figure out how to get my email on to and off of the device, and I get it reliably working with a wireless keyboard, I could see the palm (and the slower, asymetric workflow it demands) replacing my other mobile devices in many situations.
 
-It's not for everyone, but it has made for a nice change of pace for me. 
-
-
-
-
+It's not for everyone, but it has made for a nice change of pace for me.
