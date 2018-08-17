@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Feature Film Friday - Texas, Brooklyn and Heaven '
 ---
 It's friday! That means it's time for movies! At least that's what it means this week, it is clearly not what it meant last week, and who knows if that's whatit will mean next week! Today's movie is called Texas, Brooklyn, and Heaven. It was released in 1948, and it's a delightful slice of a movie.![]({{site.baseurl}}/images/Texas%2C_Brooklyn_and_Heaven_(1948)_2.jpg)
