@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Feature Film Friday - Nancy Drew Reporter
 ---
 It's friday! That means it's time for movies! At least that's what it means this week, who knows if that's what it will mean next week! Today's movie is called _Nancy Drew, Reporter_. It was released in 1939, and it's a fun, rollicking romp. ![nancyuntitled.jpg]({{site.baseurl}}/images/nancyuntitled.jpg)
