@@ -27,7 +27,7 @@ Most interactive websites that have been around for at least ten years (facebook
 
 ### Brutaldon 
 
-My social media platform of choice, Mastodon, heavilly relies on Javascript. It doesn't work at all (in a browser) without JS. There are some desktop/CLI clients for interacting with Mastodon, but I've found the best way to access the Fediverse to be via [Brutaldon](https://brutaldon.onlin) a brutralist mastodon client that targets Lynx compatibility. It works pretty well for my needs, and can be self hosted. 
+My social media platform of choice, Mastodon, heavilly relies on Javascript. It doesn't work at all (in a browser) without JS. There are some desktop/CLI clients for interacting with Mastodon, but I've found the best way to access the Fediverse to be via [Brutaldon](https://brutaldon.online) a brutralist mastodon client that targets Lynx compatibility. It works pretty well for my needs, and can be self hosted. 
 
 ## Chat (libPurple) 
 
