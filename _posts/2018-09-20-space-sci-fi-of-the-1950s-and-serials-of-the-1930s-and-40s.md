@@ -29,6 +29,7 @@ Items in this list are linked back to archive.org or wikimedia whenever possible
 - [The Green Hornet](https://archive.org/details/quigs)
 - [The Phatom Empire](https://archive.org/details/phantom_empire_chapter_1) - A singing cowboy fights a horde of robots from the center of the earth? 
 - [Dick Tracy](https://archive.org/details/dicktracy_chapter1)
+- [The Spider's Web](https://archive.org/details/TheSpidersWebCliffhanger)
 
 This is an incomplete list, and I'll keep adding to it as time goes on. 
 
