@@ -23,7 +23,7 @@ Items in this list are linked back to archive.org or wikimedia whenever possible
 
 - [Buck Rogers (1939)](https://archive.org/details/Chapter11_201708) - Pay attention to the file order, the player has them out of order. 
 - [Flash Gordon (1936)](https://archive.org/details/FlashGordonS01e07)
-- [Radar Men from the Moon](https://archive.org/details/Radar_Men__from_the_Moon) (Leonard Nemoy makes an appearance in this one.) 
+- [Radar Men from the Moon](https://archive.org/details/Radar_Men__from_the_Moon) (Leonard Nemoy makes an appearance in a sequel to this one.) 
 - [Captain Marvel (Shazam!)](https://archive.org/details/AdventuresOfCaptainMarvelChapters112)
 - [Captain America](https://archive.org/details/CaptainAmerica1944Chapter01of15)
 - [The Green Hornet](https://archive.org/details/quigs)
