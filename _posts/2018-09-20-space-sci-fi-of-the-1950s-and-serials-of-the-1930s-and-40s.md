@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Space Sci-Fi of the 1950s and Serials of the 1930s and 40s '
 ---
 Today, a co-worker and I were discussing Forbidden Planet, which lead me to [Space Patrol](http://ajroach42.com/space-patrol-1950/), and from Space Patrol through popular depictions of outerspace throughout the history of film. This is a list of media, most of which you can watch for free. 
@@ -32,4 +32,4 @@ Items in this list are linked back to archive.org or wikimedia whenever possible
 
 This is an incomplete list, and I'll keep adding to it as time goes on. 
 
-I've mostly linked to single episodes, but multiple episodes are almost always available. And I'll be glad to answer any questions you have, I practically breathe this stuff. (come find me on Mastodon.) 
+I've mostly linked to single episodes, but multiple episodes are almost always available. And I'll be glad to answer any questions you have, I practically breathe this stuff. (come find me on Mastodon.)
