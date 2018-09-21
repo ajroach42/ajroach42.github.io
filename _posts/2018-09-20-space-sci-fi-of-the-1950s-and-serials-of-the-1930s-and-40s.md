@@ -12,7 +12,7 @@ Items in this list are linked back to archive.org or wikimedia whenever possible
 
 # TV 
 
--[Space Patrol](https://archive.org/details/SpacePatrol-threatOfTheThormanoids1952) Space Patrol aired for roughly 1000 episodes. About 100 survive, because [we are shitty stewards of history](http://ajroach42.com/we-are-terrible-stewards-of-history/). 
+- [Space Patrol](https://archive.org/details/SpacePatrol-threatOfTheThormanoids1952) Space Patrol aired for roughly 1000 episodes. About 100 survive, because [we are shitty stewards of history](http://ajroach42.com/we-are-terrible-stewards-of-history/). 
 - [Tom Corbett Space Cadet](https://archive.org/details/tomCorbettSpaceCadet-FightForSurvival1955) A rival series to Space Patrol, and contender for the crown of best loved space program. Also has roughly 100 episodes remaining. 
 - [Rocky Jones Space Ranger](https://archive.org/details/rockyJonesSpaceRangerBeyondTheCurtainOfSpace1954)
 - [Captain Video](https://archive.org/details/captainVideo-MiscEpisodeNo.51952) 
