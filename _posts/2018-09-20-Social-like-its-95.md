@@ -2,10 +2,10 @@
 layout: post
 category: post
 published: true
-title: Social Networking for the 90s. 
+title: Social Networking for the 90s.
 ---
 
-As I mentioned in a recent post, I recently started using a Gateway Handbook 486 as part of my daily workflow. It's a little DOS laptop that you can read more about in my previous post. One of my favorite things about using this machine has been Social Media. This post is about how I'm interacting with Social Media and Blogs from a DOS laptop, and how you can apply the same techniques to your life for fun and profit.
+As I mentioned in a recent post, I have started using a Gateway Handbook 486 as part of my daily workflow. It's a little DOS laptop that you can read more about in [my previous post](http://ajroach42.com/blogging-at-19200-baud/). One of my favorite things about using this machine has been Social Media. This post is about how I'm interacting with Social Media and Blogs from a DOS laptop, and how you can apply the same techniques to your life for fun and profit.
 
 First, let me make something clear on the front end, I am cheating. I am using the Handbook as little more than a display and keyboard for at attached Raspberry Pi. On the one hand, this means that these methods will change and evolve as I improve my DOS networking setup, on the other hand this means that every technique, tool, and idea I'm using here is equally applicable to any Linux, Mac, or Android computer (and even Windows 10 with Cygwin or WSL.) 
 
@@ -27,7 +27,7 @@ Most interactive websites that have been around for at least ten years (facebook
 
 ### Brutaldon 
 
-My social media platform of choice, Mastodon, heavilly relies on Javascript. It doesn't work at all (in a browser) without JS. There are some desktop/CLI clients for interacting with Mastodon, but I've found the best way to access the Fediverse to be via [Brutaldon](https://brutaldon.onlin) a brutralist mastodon client that targets Lynx compatibility. It works pretty well for my needs, and can be self hosted. 
+My social media platform of choice, Mastodon, heavilly relies on Javascript. It doesn't work at all (in a browser) without JS. There are some desktop/CLI clients for interacting with Mastodon, but I've found the best way to access the Fediverse to be via [Brutaldon](https://brutaldon.online) a brutralist mastodon client that targets Lynx compatibility. It works pretty well for my needs, and can be self hosted. 
 
 ## Chat (libPurple) 
 
@@ -47,5 +47,4 @@ Mutt is my mail client of choice, in most situations. I have it configured to ch
 
 ## BBS
 
-For now, I'm BBSing via telnet from my shell connection, but I'll be much happier when I can BBS directly from the Handbook. (Expect to hear more about BBSs in the future.) 
-
+For now, I'm BBSing via telnet from my shell connection, but I'll be much happier when I can BBS directly from the Handbook. (Expect to hear more about BBSs in the future.)
