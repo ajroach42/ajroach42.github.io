@@ -4,7 +4,8 @@ category: post
 published: true
 title: Gaming like it's 1923
 ---
-Over at everyone's favorite independent game site, [itch.io](https://itch.io), [Randy Lubin](https://randylubin.itch.io/) and [Copia](https://itch.io/profile/copia) are celebrating [Public Domain Day](https://law.duke.edu/cspd/publicdomainday/2019/) with a [public domain remix game jam](https://itch.io/jam/gaming-like-its-1923), and that sounds like the best idea I've heard this year.![1923_montage.jpg]({{site.baseurl}}/images/1923_montage.jpg)
+Over at everyone's favorite independent game site, [itch.io](https://itch.io), [Randy Lubin](https://randylubin.itch.io/) and [Copia](https://itch.io/profile/copia) are celebrating [Public Domain Day](https://law.duke.edu/cspd/publicdomainday/2019/) with a [public domain remix game jam](https://itch.io/jam/gaming-like-its-1923), and that sounds like the best idea I've heard this year.
+![1923_montage.jpg]({{site.baseurl}}/images/1923_montage.jpg)
 
 
 From their anouncement post: 
