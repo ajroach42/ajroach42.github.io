@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Public Domain Movies on Peertube
 ---
 I've been uploading movies to [Peertube](https://peertube.mastodon.host/video-channels/cda629a1-b4fa-40fb-be8a-342ba117a1fb/videos). Some of them are Very Good! Like Paper Bullets (embedded bellow)! Some of them are very bad! Like [Manos the Hands of Fate](https://peertube.mastodon.host/videos/watch/2f7f8203-349e-4292-82ec-cd19e77a8817) or [Robot Monster](https://peertube.mastodon.host/videos/watch/98920430-da69-4bf0-9b5a-7cc76bf75d8b).
@@ -14,4 +14,4 @@ All of these movies are in the Public Domain. You can download them yourself, fr
 
 I'll upload a few videos every day, until I run out of space on my instance (and again, after I talk the admin in to giving me more space.) 
 
-[Click through to peertube for the full list of films](https://peertube.mastodon.host/accounts/ajroach42/videos) available. Subscribe or comment if you feel led, and I'd appreciate it if you'd tell your friends. 
+[Click through to peertube for the full list of films](https://peertube.mastodon.host/accounts/ajroach42/videos) available. Subscribe or comment if you feel led, and I'd appreciate it if you'd tell your friends.
