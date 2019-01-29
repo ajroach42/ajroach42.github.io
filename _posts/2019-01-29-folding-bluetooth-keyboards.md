@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Folding Bluetooth Keyboards '
 ---
 I used to carry a mechanical keyboard and a cheap android tablet in my bag. I used these things to write when I had a spare moment, as a way to seperate my "personal" computing from my "business" computing. For a few months, I did the same with an old DOS laptop. A sizable portion of the posts on this blog were keyed in on one of those two machines. 
