@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Tech for the future
 ---
 I'm thinking about EME and net noot and the new EU copyright directive again. And, as I always do when I get off on this topic, I'm thinking about technical solutions in addition to legal ones. Specifically, I'm thinking about technical means of fighting back against DRM, user tracking, and censorship as well as the kind of networked world I want to live in. 
@@ -92,4 +92,4 @@ I have a decently sized film and TV library available on peertube, and I'm going
 
 I don't know what the future will hold. I don't know if there is a way to press reset on our modern, censored, survieled internet, and get us back to something a little more local, personal, and user centric. I hope that there is, and I hope that I can help find it. For another [vision of the low-tech internet of the future, check out this article from low-tech magazine](https://solar.lowtechmagazine.com/2015/10/how-to-build-a-low-tech-internet.html). 
 
-I'd love to hear your thoughts. 
+I'd love to hear your thoughts.
