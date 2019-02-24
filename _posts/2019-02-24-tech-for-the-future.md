@@ -30,10 +30,10 @@ As is, I'm still pretty convinced of dat/beaker as a huge step in the right dire
 
 [Secure Scuttlebutt](https://www.scuttlebutt.nz/) is a decentralized platform for sharing data over the internet and over LANs. It is offline first, and local first which is really cool. It shows a lot of promise. Much of Dat/Beaker was inspired by SSB, but they work differently. I haven't spent enough time exploring SSB yet, and it does have some issues worth being aware of: 
 
-1) it can use a lot of disk space. Like, *a lot of disk space.* (This is also a problem with Dat/Beaker) 
-2) identities are closely coupled to devices. Seperating the identity from the device is *tricky.* (This is also a problem with Dat/Beaker) 
-3) There is a mobile app for SSB! But it doesn't work very well in my experience. I imagine it will improve over time, but I haven't had much luck with it yet. 
-4) There isn't much by way of a facility for editing or deleting posts once they have been made. 
+1) it can use a lot of disk space. Like, *a lot of disk space.* (This is also a problem with Dat/Beaker)  
+2) identities are closely coupled to devices. Seperating the identity from the device is *tricky.* (This is also a problem with Dat/Beaker)  
+3) There is a mobile app for SSB! But it doesn't work very well in my experience. I imagine it will improve over time, but I haven't had much luck with it yet.  
+4) There isn't much by way of a facility for editing or deleting posts once they have been made.  
 
 In spite of the above, SSB shows a lot of promise. I really need to spend some more time exploring it. 
 
