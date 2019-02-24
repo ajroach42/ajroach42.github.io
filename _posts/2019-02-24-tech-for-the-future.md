@@ -16,11 +16,11 @@ These are the technologies that are currently on my mind. Some of them are the t
 
 ## Deltachat/Autocrypt: 
 
-End-to-end encrypted emails with multi-device support, via autocrypt, presented as instant messages via https://delta.chat. Works everywhere email works (which means intranets, traditional internet, dialup/point-to-point connections, mainframes and tildes, etc. etc. etc.) 
+End-to-end encrypted emails with multi-device support, via autocrypt, presented as instant messages via [Delta Chat](https://delta.chat). Works everywhere email works (which means intranets, traditional internet, dialup/point-to-point connections, mainframes and tildes, etc. etc. etc.), works with existing email addresses. Can be used with or without encryption. Is neat. 
 
 ## Dat/Beaker: 
 
-a neat, though unfortunately node.js\electron based system to create peer-to-peer websites using mutable torrents. I've written about [my experiments with Dat and Beaker](http://ajroach42.com/steps-towards-a-web-without-the-internet/) before. 
+A neat, though unfortunately node.js\electron based system to create peer-to-peer websites using mutable torrents. I've written about [my experiments with Dat and Beaker](http://ajroach42.com/steps-towards-a-web-without-the-internet/) before. 
 
 Dat works over an intranet or over the traditional internet. If it was a little less resource hungry, didn't run in electron, worked on low power and mobile devices, and didn't actively encourage liberal use of client side scripting, I'd probably be deploying everything via dat. As is, I'm still pretty convinced of dat/beaker as a huge step in the right direction. 
 
