@@ -94,7 +94,9 @@ I don't know what the answer is, but I do know there's a problem.
 
 ## TLS/HTTPS
 
-HTTPS is HTTP over TLS. [Wikipedia will explain HTTPS better than I will](https://en.wikipedia.org/wiki/HTTPS). This is the foundation of modern web security. It requires us to rely on certificate authorities, and only works as far as those certificate authorities can be trusted. At the moment, it remains to be seen if this will be an effective form of general security, but it is at the very least a point of centralization in the modern internet, giving us a point of failure for security (and therefore a target for bad actors.) 
+HTTPS is HTTP over TLS. [Wikipedia will explain HTTPS better than I will](https://en.wikipedia.org/wiki/HTTPS). This is the foundation of modern web security. It requires us to rely on certificate authorities, and only works as far as those certificate authorities can be trusted. 
+
+Even if we can trust our certificate authorities, they at the very least another point of centralization in the modern internet, giving us a point of failure for our security (and therefore a target for bad actors.) That alone is probably enough reason to start thinking about how to replace our existing certificate authorities. 
 
 # What I'm doing 
 
