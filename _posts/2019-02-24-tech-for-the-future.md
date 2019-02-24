@@ -84,6 +84,12 @@ HTTPS is HTTP over TLS. [Wikipedia will explain HTTPS better than I will](https:
 
 # What I'm doing 
 
-With all of these technologies swirling around in my head, I feel like I'm on the edge of a precipice. Like I can see the outline of a future solution, but the pieces just aren't coming together for me. 
+With all of these technologies swirling around in my head, I feel like I'm on the edge of a cliff. Like I can see the outline of a future solution, but the pieces just aren't coming together for me. 
 
-For now, I'm focussing my efforts on building a package around Beaker and Dat for the Raspberry Pi that will enable internet and intranet sharing of files with automatic, cryptographically secure, updates. 
+For now, I'm focussing my experiments on Beaker and Dat, and I've recently started playing with unison, a couple of flashdrives + two mainframe style offline boxes with basic web and gopher servers, as well as unison as a delivery mechanism for emails (secured with autocrypt.) 
+
+I have a decently sized film and TV library available on peertube, and I'm going to mirror that to Dat/Beaker over the next few days. Maybe, eventually, I'll even figure out if the offline Dat/Beaker project I've tinkered with will actually work, and get instructions published for that. 
+
+I don't know what the future will hold. I don't know if there is a way to press reset on our modern, censored, survieled internet, and get us back to something a little more local, personal, and user centric. I hope that there is, and I hope that I can help find it. For another [vision of the low-tech internet of the future, check out this article from low-tech magazine](https://solar.lowtechmagazine.com/2015/10/how-to-build-a-low-tech-internet.html). 
+
+I'd love to hear your thoughts. 
