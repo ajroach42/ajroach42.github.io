@@ -22,27 +22,43 @@ End-to-end encrypted emails with multi-device support, via autocrypt, presented 
 
 A neat, though unfortunately node.js\electron based system to create peer-to-peer websites using mutable torrents. I've written about [my experiments with Dat and Beaker](http://ajroach42.com/steps-towards-a-web-without-the-internet/) before. 
 
-Dat works over an intranet or over the traditional internet. If it was a little less resource hungry, didn't run in electron, worked on low power and mobile devices, and didn't actively encourage liberal use of client side scripting, I'd probably be deploying everything via dat. As is, I'm still pretty convinced of dat/beaker as a huge step in the right direction. 
+Dat works over an intranet or over the traditional internet. If it was a little less resource hungry, didn't run in electron, worked on low power and mobile devices, and didn't actively encourage liberal use of client side scripting, I'd probably be deploying everything via dat. Importantly, Dat provides no anonymity. This works similar to a torrent, anyone who is connected to the same page will be able to see your network address as you use Dat. 
+
+As is, I'm still pretty convinced of dat/beaker as a huge step in the right direction, even with it's existing problems.  
 
 ## SSB: 
 
-[Secure Scuttlebutt](https://www.scuttlebutt.nz/) is a decentralized platform for sharing data over the internet and over LANs. It shows a lot of promise, and much of Dat/Beaker was inspired by SSB, but they work differently. I haven't spent enough time exploring SSB yet, and I'm concerned about it for the same reasons I'm concerned about Dat/Beaker
+[Secure Scuttlebutt](https://www.scuttlebutt.nz/) is a decentralized platform for sharing data over the internet and over LANs. It is offline first, and local first which is really cool. It shows a lot of promise. Much of Dat/Beaker was inspired by SSB, but they work differently. I haven't spent enough time exploring SSB yet, and it does have some issues worth being aware of: 
+
+1) it can use a lot of disk space. Like, *a lot of disk space.* (This is also a problem with Dat/Beaker) 
+2) identities are closely coupled to devices. Seperating the identity from the device is *tricky.* (This is also a problem with Dat/Beaker) 
+3) There is a mobile app for SSB! But it doesn't work very well in my experience. I imagine it will improve over time, but I haven't had much luck with it yet. 
+4) There isn't much by way of a facility for editing or deleting posts once they have been made. 
+
+In spite of the above, SSB shows a lot of promise. I really need to spend some more time exploring it. 
 
 ## Unison: 
 
-"Unison is a file-synchronization tool for OSX, Unix, and Windows. It allows two replicas of a collection of files and directories to be stored on different hosts (or different disks on the same host), modified separately, and then brought up to date by propagating the changes in each replica to the other." 
+"[Unison](http://www.cis.upenn.edu/~bcpierce/unison/) is a file-synchronization tool for OSX, Unix, and Windows. It allows two replicas of a collection of files and directories to be stored on different hosts (or different disks on the same host), modified separately, and then brought up to date by propagating the changes in each replica to the other." 
+
+So you have some files on your computer, and you sync them to a flash drive. You give that flash drive to a friend and they make some changes and give it back to you. Unison syncs those changes back to your local copy, and syncs any changes you've made back to the flash drive. 
+
+Now replace flash drive with web server or intranet host or home mainframe or folder on your friends computer that you access via adhoc long range wireless networking. That feels like something useful to me, even if I can't yet articulate why. 
+
 
 ## UUCP/NNTP: 
 
-The original and the current protocols that powered usenet 
+The original and the current protocols that powered usenet (see bellow).
 
 ## Usenet: 
 
-a federated system of message boards that started in 1980 and sorta still exists, but needs to be revisited/reinvinted 
+a federated system of message boards that started in 1980, existed outside of the internet for a long time, and still exists, but needs to be revisited/reinvinted.
 
 ## BBS/Fidonet: 
 
-BBSs were/are message boards that ran on individual computers as early as 1978. Original BBSs supported direct dialup connections, over regular phone lines, existing outside the internet (and before the internet existed!) Modern BBSs are mostly accessed over telnet or SSH. Fidonet (and synchronet and maybe others) was a system through which BBSs called one another (or made direct connections over the internet) to share posts and emails from system to system 
+BBSs were/are message boards that ran on individual computers as early as 1978. Original BBSs supported direct dialup connections, over regular phone lines, existing outside the internet (and before the internet existed!) Modern BBSs are mostly accessed over telnet or SSH. 
+
+Fidonet (and synchronet and maybe others) was a system through which BBSs called one another (or made direct connections over the internet) to share posts and emails from system to system. 
 
 ## Gopher: 
 
