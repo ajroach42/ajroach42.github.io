@@ -10,8 +10,6 @@ I'm thinking about peer-to-peer technologies. I'm thinking about intranets and m
 
 [It's the same things I always think about when this stuff comes up](http://ajroach42.com/a-modern-bbs/). 
 
-It's the same things I spend a few hours tinkering with every month, with no real progress as of late. This is just more ruminating on the ideas of a [User Centric Computer](http://ajroach42.com/observations-on-modern-computing-the-last-10-years-were-a-misstep/) and network, like I've written about in the past. 
-
 # Software that's on my mind
 
 These are the technologies that are currently on my mind. Some of them are the things I always come back to, some are new to me: 
