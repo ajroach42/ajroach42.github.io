@@ -42,8 +42,17 @@ Unfortunately, MP3s need a length of ~22 minutes to fit on a floppy disk, as opp
 
 ## Playback 
 
-The Opus files will play back on Windows 98 and newer, on Pentium MMX and newer processors using Winamp and the OPUS plugin, or on very fast Pentium (and possibly even 486) processors in DOS using MPXMPLAYER and the OPUS plugin. 
+The Opus files will play back on Windows 98 and newer, on Pentium MMX and newer processors using Winamp version 2.5 and the [OPUS plugin](http://forums.shoutcast.com/showthread.php?t=452974), or on very fast Pentium (and possibly even 486) processors in DOS using [Mpxplay](http://mpxplay.sourceforge.net/) and the OPUS plugin. 
 
-I was unable to get the OPUS file to play back in any other programs on either OS, and I was never able to get the OPUS file to play back on anything in my collection slower than a Pentium MMX (although it has been suggested that a high end Pentium, or possibly even a very fast 486 should be able to handle it.) 
+(I did have some trouble with the most recent version of the winamp opus plugin on my Windows 98 install, and was only able to get it working on windows 98SE. Earlier versions would open on Windows 98. If at first you don't suceed, etc. etc.) 
 
-The mp3 file will play back in the same programs (without plugins) on each OS, and has been verified working on a 486 DX 100 with a soundblaster pro 
+I was unable to get the OPUS file to play back in any other programs on either OS, and I was never able to get the OPUS file to play back on anything in my collection slower than a Pentium MMX (although it has been suggested that a high end Pentium, or possibly even a very fast 486 should be able to handle it, I don't currently have rigs available for testing.) 
+
+The mp3 file will play back in the same programs (without plugins) on each OS, and has been verified working on a 486 DX 100 with a Sound Blaster AWE32 (I think?), and on a 70 MHz Pentium laptop with a Sound Blaster Pro. I suspect that it will also play back on slower 486s that would otherwise strugle with mp3 sound reproduction as a result of the incredibly low bit-rate, but I have been unable to verify that so far (as I don't have compatible soundcards in any of my older 486s) 
+
+
+## Results 
+
+I... I guess I have a viable method for putting podcasts on floppy disks? I'm going to stick with mp3 for now, because of the wide variety of playback options, but if I end up actually attempting to distribute floppycasts, I'll probably make OPUS an option in the ordering system. 
+
+I don't currently have any playback examples posted anywhere, or any files available to download (as I wasn't working on my own files) but I'll post some short samples in the near future. 
