@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Floppycasts - 1.44MB Podcasts '
 ---
 I've been working on making podcasts and videos about old movies, and old computers, and bigfoot hunters, and people living on asteroids in outerspace, and the crew of a spaceship, and masked heroes who cut promos on one another pro-writing style. It's fun! It's time consuming! I have lots of half finished stuff sitting around that I've slowly been editing and prepping for release, and that's got me thinking about releasing podcasts on floppy disks. 
@@ -55,4 +55,4 @@ The mp3 file will play back in the same programs (without plugins) on each OS, a
 
 I... I guess I have a viable method for putting podcasts on floppy disks? I'm going to stick with mp3 for now, because of the wide variety of playback options, but if I end up actually attempting to distribute floppycasts, I'll probably make OPUS an option in the ordering system. 
 
-I don't currently have any playback examples posted anywhere, or any files available to download (as I wasn't working on my own files) but I'll post some short samples in the near future. 
+I don't currently have any playback examples posted anywhere, or any files available to download (as I wasn't working on my own files) but I'll post some short samples in the near future.
