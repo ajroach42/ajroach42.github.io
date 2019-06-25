@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Floppycast examples
 ---
 In my [previous post](http://ajroach42.com/floppycasts-1-44mb-podcasts/) I talked about very low bitrate audio. I promised some examples. This post is examples. The examples are the first minute and change of The Hitchhiker's Guide to the Galaxy radio show, because that's what I had on hand. The two clips are the same length, and are presented in the absolute worst quality I was able to produce. 
@@ -23,4 +23,4 @@ Opus has a little less file overhead, resulting in a file that is 77kb, vs 102KB
   <source src="http://ajroach42.com/images/hhgg-sample1.mp3" type="audio/mp3">
   Your browser does not support the audio element.
 </audio>
-[Download](http://ajroach42.com/images/hhgg-sample1.mp3) - 102KB 
+[Download](http://ajroach42.com/images/hhgg-sample1.mp3) - 102KB
