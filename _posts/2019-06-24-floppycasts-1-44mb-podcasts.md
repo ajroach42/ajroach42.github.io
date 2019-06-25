@@ -55,4 +55,5 @@ The mp3 file will play back in the same programs (without plugins) on each OS, a
 
 I... I guess I have a viable method for putting podcasts on floppy disks? I'm going to stick with mp3 for now, because of the wide variety of playback options, but if I end up actually attempting to distribute floppycasts, I'll probably make OPUS an option in the ordering system. 
 
-I don't currently have any playback examples posted anywhere, or any files available to download (as I wasn't working on my own files) but I'll post some short samples in the near future.
+I have posted [examples of each file type](http://ajroach42.com/floppycast-examples/) in another post.  
+
