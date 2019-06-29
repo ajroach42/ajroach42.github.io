@@ -24,3 +24,5 @@ Opus has a little less file overhead, resulting in a file that is 77kb, vs 102KB
   Your browser does not support the audio element.
 </audio>
 [Download](http://ajroach42.com/images/hhgg-sample1.mp3) - 102KB
+
+Our podcast, [Expedition Sasquatch](https://expeditionsasquatch.org/) is available as a #FloppyCast as well.  
