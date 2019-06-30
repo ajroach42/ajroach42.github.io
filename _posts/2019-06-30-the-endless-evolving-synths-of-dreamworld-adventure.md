@@ -10,7 +10,7 @@ The game itself is honestly nothing special. It's a puzzle platformer in the vie
 
 But hoobuddy, what a soundtrack. Take a listen: 
 
-<iframe src="https://archive.org/details/dwa_002?webamp=default" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<div style="display: block; overflow: hidden; width: 300px; height: 400px;"><iframe width="350px" height="500px" style="margin-top: -130px; margin-left:-20px;" scrolling="no" src="https://archive.org/details/dwa_002?webamp=default"></iframe></div>
 
 There's [an hour and change available there as an MP3 or OGG file](https://archive.org/details/dwa_002?webamp=default). 
 
