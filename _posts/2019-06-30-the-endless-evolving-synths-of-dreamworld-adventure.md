@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: The Endless Evolving Synths of Dreamworld Adventure
 ---
 Today, I stumbled across a [youtube video](https://www.youtube.com/watch?v=oWRNyJlpnOs&feature=youtu.be) about a peice of DOS shareware called Dreamworld Adventure that has an essentially endless, evolving, FM Synth soundtrack. It has ensared my brain, and I had to share it here. 
@@ -16,4 +16,4 @@ There's [an hour and change available there as an MP3 or OGG file](https://archi
 
 If you have original hardware, and a way to transfer files to it, Gravis has also posted a raw rip of an hour and change of adlib code to Archive.org, which you can find on [the "show all" page](https://archive.org/download/dwa_002). It's the 322kb dro file. 
 
-Seriously, this is a great find, and I'm really enjoying it today. 
+Seriously, this is a great find, and I'm really enjoying it today.
