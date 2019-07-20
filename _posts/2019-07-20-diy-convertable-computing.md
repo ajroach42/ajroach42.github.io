@@ -2,7 +2,7 @@
 layout: post
 category: post
 published: true
-title: DIY convertable computing
+title: DIY convertible computing
 ---
 This is a post about building your own Desktop/Portable computer. I'm presenting several options for classes of hardware and methods of interaction. This post is specifically about hardware, I might do another one about software. I'm also trying to meet some specific requirments (low weight, long battery life, ability to run emacs above all else, networking not needed), which means I will be making some suggestions and observations here that differ from what I might say in more general circumstances. 
 
@@ -110,10 +110,12 @@ Depending on what software you end up using on it, this actually works pretty we
 
 ## In practice 
 
-The Pi line, through the pi 3 at least, is not powerful enough for a modern desktop. If you want to run a terminal, or you're willing to accept and work around the limitations of the somewhat slow CPU and limited RAM, you can do some neat stuff. The Pi 4, I've been told, can deliver a full desktop experience. I'll find out if that's true soon. 
+The Pi line, through the pi 3 at least, is not powerful enough for a modern desktop and web browser. If you want to run a CLI/TUI environemnt, it'll do just fine. If you're willing to go for lighter desktop apps, it can be very snappy. If you want to watch youtube, expect to wait often. 
 
-In the meantime, I recommend tempering your expectations as to the power of one of these systems. It is very much like using a computer from 2005 (which, lets be real, I do all the time.) 
+The Pi 4, I've been told, can deliver a full desktop experience. I'll find out if that's true soon. 
 
-For my modular pi rig (which features a pi0, backup battery with charging pass through, and a 10" HDMI monitor clamped to a mechanical keyboard) I mostly use it to access other machines on my network over SSH, or to access email (via Mutt) and a text editor, when real computers get to be overwhelming. 
+For my modular pi rig (which features a pi0, backup battery with charging pass through, and a 10" HDMI monitor clamped to a mechanical keyboard) I mostly use it to access other machines on my network over SSH, or to access email (via Mutt) and a text editor, when real computers get to be overwhelming. I've used it with omxplayer to watch videos and cmus for music. I've used it as a mobile server and LAN, I've used it as a serial gateway for my vintage computers. 
 
-I've used a pi3 as a full desktop in the past, and as long as you don't expect much out of the web browser, it'll do the job. (Heck, it'll even play youtube, eventually.)
+It does what it's told, always. Sometimes, it's just a little slow. 
+
+I've used a pi3 as a full desktop in the past, and as long as you don't place too many demands the web browser, it'll do the job. (Heck, it'll even play youtube, eventually.)
