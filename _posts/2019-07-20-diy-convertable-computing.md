@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: DIY convertable computing
 ---
 This is a post about building your own Desktop/Portable computer. I'm presenting several options for classes of hardware and methods of interaction. This post is specifically about hardware, I might do another one about software. I'm also trying to meet some specific requirments (low weight, long battery life, ability to run emacs above all else, networking not needed), which means I will be making some suggestions and observations here that differ from what I might say in more general circumstances. 
@@ -116,4 +116,4 @@ In the meantime, I recommend tempering your expectations as to the power of one 
 
 For my modular pi rig (which features a pi0, backup battery with charging pass through, and a 10" HDMI monitor clamped to a mechanical keyboard) I mostly use it to access other machines on my network over SSH, or to access email (via Mutt) and a text editor, when real computers get to be overwhelming. 
 
-I've used a pi3 as a full desktop in the past, and as long as you don't expect much out of the web browser, it'll do the job. (Heck, it'll even play youtube, eventually.) 
+I've used a pi3 as a full desktop in the past, and as long as you don't expect much out of the web browser, it'll do the job. (Heck, it'll even play youtube, eventually.)
