@@ -250,23 +250,6 @@ There are a few ways to collaborate on a text based project. Each has it's own h
 	- Trading files on physical media is the old school way to collaborate 
 	- It's not the fastest or easiest method, but it's probably the most secure
 
-Other software works too. 
+Other software works too! There's lots of file syncronization software. Heck, even e-mail works pretty well. 
 
-**Hardware**
 
- - Cheap Options:  
-	 - Kindle Fire (or your smartphone) + Bluetooth Keyboard
-	 - Acer Ideabook
-	 - Chromebook
-
-## Illustration
-
--Free
-	- Firealpaca 
-	- Gimp 
-	- Paint.net 
-
--Cheap 
-	- Paint Tool Sai (roughly $60) 
-	- Photoshop ($20/month)
-Prose
