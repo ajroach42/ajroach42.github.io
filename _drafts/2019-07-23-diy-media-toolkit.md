@@ -212,7 +212,6 @@ If you don't have a quality idependent film lab nearby, you have two options for
 
 Let me be clear here, the DIY option is not the best or easiest way, but it is the cheapest in the long run, and it's likely that it will remain a viable option long after commercial film development becomes essentially inaccessable. 
 
-If you have an independent photo lab near you, you will usually get better results there, and support a small business in the process. Do that, if you can. 
 
 
 *Why Bother?* 
@@ -250,6 +249,4 @@ There are a few ways to collaborate on a text based project. Each has it's own h
 	- Trading files on physical media is the old school way to collaborate 
 	- It's not the fastest or easiest method, but it's probably the most secure
 
-Other software works too! There's lots of file syncronization software. Heck, even e-mail works pretty well. 
-
-
+Other software works too! There's lots of file syncronization software. Heck, even e-mail works pretty well.
