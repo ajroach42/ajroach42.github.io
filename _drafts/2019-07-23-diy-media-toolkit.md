@@ -4,6 +4,7 @@ category: post
 published: false
 title: 'DIY Media Toolkit '
 ---
+
 # DIY MEDIA TOOLKIT
 
 It's like this: The gear needed to make high quality, professional media yourself has never been more affordable or accessible. If you want to report the news, make a film, record an album, or create a podcast, the tools required are available for less than you might suspect.
@@ -95,11 +96,11 @@ The trick here is finding a camera with image stablization, optical zoom, and th
 
 Most video editing software is an unfortunately complicated/difficult/expensive, but there is hope! If you have a mac, iMovie is a surpsingly competent video editor. For Windows, Windows Movie Maker doesn't completely suck (but it's not great.)  
 
-- iMovie
-- Windows Movie Maker 
-- Open Shot (open source) 
+- iMovie *
+- Windows Movie Maker *
+- Open Shot 
 - Shotcut 
-- Adobe Premiere ($20/month) 
+- Adobe Premiere ($20/month) *
 
 
 ## Photography 
@@ -235,3 +236,4 @@ There are a few ways to collaborate on a text based project. Each has it's own h
 -Cheap 
 	- Paint Tool Sai (roughly $60) 
 	- Photoshop ($20/month)
+Prose
