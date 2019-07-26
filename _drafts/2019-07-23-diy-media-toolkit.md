@@ -21,6 +21,12 @@ A big part of many media projects is audio production. From Podcasts, to music, 
 
 ### Hardware
 
+**Cheap Lavalier Microphones**
+  - Clip on to your shirt, plug in to the mic in on your phone, PC, or portable recording device.
+  - Small and cheap (often less than $12) 
+  - Sound quality is good enough, and it's a great way to get started. 
+
+
 **USB Mic**
 
 USB Microphones are exactly what it says on the tin. These are mics with integrated audio interfaces, perfect for capturing high quality audio from voices for conversations, or other single audio sources. 
@@ -29,7 +35,7 @@ Pros: Cheaper to get started than an interface or dedicated recording device, mo
 
 Cons: Less versitile than other options, Only works with computers and smartphones, not good for music (unless you're just doing vox/guitar) 
 
-
+- Whatever headset you use for video calls 
 - Shure MV5 Digital Condenser Microphone + USB & Lightning Cable
   - Small, lightweight, and portable 
   - Has Lightning cable support for iOS
@@ -37,10 +43,6 @@ Cons: Less versitile than other options, Only works with computers and smartphon
   - Less portable
   - Much cheaper (as cheap as $40 on a regular basis) 
   - It is a condensor mic means it will pick up quiet sounds, and make them louder. This isn't always a good thing, but sometimes it is. 
-- Cheap Lavalier Microphones 
-  - Clip on to your shirt, plug in to the mic in on your phone, PC, or portable recording device.
-  - Small and cheap (often less than $12) 
-  - Sound quality is good enough, and it's a great way to get started. 
 
 **Portable Audio Recorders**
 
