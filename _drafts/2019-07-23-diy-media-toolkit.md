@@ -79,17 +79,21 @@ Professional quality video production used to require tens of thousands of dolla
 
 The trick here is finding a camera with image stablization, optical zoom, and the biggest sensor (or group of sensors) you can manage. On the low end, expect to spend $200 or so, or around $800 for 4k (cinema resolution)
 
-- Canon VIXIA HF R600
-	- This model is functionally identical to the VIXIA HF R700, but can occasionally be found for cheaper
-    - Solid HD camera, better than anything in the $200 price range has ever been 
+- Canon VIXIA HF R[6|7|8]00
+	- Thess model are functionally identical to the VIXIA HF R700, but one can occasionally be found for cheaper than the other
+    - Solid HD camera, better than anything in the $200 price range has been historically. Not actually professional quality, but good enough for most uses.  
     - It's $200
-    - This is the cheapest way to get a video camera that can produce video with a professional feel 
-- Various Sony 4K HD Video Recording Camcorder (Black)
-	- Captures 4k (That is, twice as big as than "full" HD; currently, 4k is the most common digital cinema resolution) video 
+    - 
+- Various Sony 4K HD Video Recording Camcorders
+	- Captures 4k (That is, twice as big as than "full" HD; currently, 4k is the most common digital cinema resolution)  
     - Larger image sensor 
     - 20x Optical zoom 
     - High Quality Image Stablization 
     - Expensive at nearly $600 - $1000 (but so much cheaper than the $5k plus these were a few years ago!)
+- Canon HF G20 
+    - This camera and the other cameras in the G line are high end/prosumer HD camcorders 
+    - They are expensive, often more than $1000, but can be found for reasonable prices on the used market occasionally. 
+    - This is what I use personally. 
 - Cellphones 
 	- The iPhone produces surprisingly good video, and it'll do in a pinch. Most newer Android phones too! 
     - Apple's iMovie for iOS is less feature rich than the MacOS version, but it does enable quick editing directly from your capture device, and syncs with desktop iMovie reasonably well 
@@ -135,7 +139,9 @@ These cameras are practically identical, and they generally feature:
 - reasonable low-light
 - Worse than the above cameras for general use, but significantly better for distant subjects
 
-The Panasonic Lumix FZ80 is an example of this kind of camera, as is the Sony DSCH300. The market changes often, so options may be different when you're reading this. The words "super zoom", "high zoom", and "astro zoom" get tossed around to describe these cameras. You'll probably end up spending between $150 and $300 on a camera like this. 
+The Panasonic Lumix FZ80 is an example of this kind of camera, as is the Sony DSCH300. 
+
+The market changes often, so options may be different when you're reading this. The words "super zoom", "high zoom", and "astro zoom" get tossed around to describe these cameras. You'll probably end up spending between $150 and $300 on a camera like this. 
 
 These cameras and the above photography cameras will serve as passable video cameras in a pinch. Use what you have. Don't worry about being perfect. Most still cameras are limited to 15 - 30 minutes of video recording because of an EU tarrif that is ridiculous, so plan for that. 
 	
