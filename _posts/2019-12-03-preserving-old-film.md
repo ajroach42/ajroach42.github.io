@@ -4,8 +4,6 @@ category: post
 published: true
 title: Preserving old film
 ---
-# Film Preservation Project
-
 I make no secret of the fact that [preserving old media](http://ajroach42.com/we-are-terrible-stewards-of-history/) is pretty important to me. Most of my efforts thus far have focussed on cataloging and adding metadata to the items that others have preserved, and finding the best available versions of those items. Recently, though, it has come to my attention that there is more I can do. As such, I’m undertaking a Preservation Project. 
 
 Over the next year (or more!) I’ll be working with collectors and archivists around the world to digitize and document lots of films that are either entirely unavailable commercially, or only available at low quality. While I don’t have the budget, the equipment, or the access to private studio vaults that it would take to produce the Definitive versions of these films, I can at least ensure that we get *better* versions than what are currently in circulation. 
