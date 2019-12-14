@@ -12,106 +12,89 @@ It's not presented in any particular order. I started chronologically from when 
 
 ## The Shadow Strikes (1937): 
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/shadow_strikes) 
 
 It's "THE SHADOW" in only the lightest sense of the word. It's really just a kind of light hearted mystery with the barest trappings of The Shadow. 
 
 ## The Shadow Returns (1946): 
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/TheReturnOfTheShadow1945) 
 
 Another movie that alleges to feature The Shadow. Another movie that mostly doesn't.
 
 ## The Shadow Laughs: 
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/TheShadowLaughs)
 
 This one isn't even about the shadow, they just took the name. It's a low budget, early talkie that appears to have been converted from silent to talkie half way through.  I don't see any redeeming qualities to it. 
 
-## Star Odyssey (1979): 
-
-Watch it on Archive.org 
-Watch it on Peertube
-
-Italian star wars? But not really, and just bad. Rarely even bad in an entertaining way. Has some small redeeming qualities, but not enough to recommend.
-
 ## Pimpernel Smith (1941): 
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/PimpernelSmithVideoQualityUpgrade) 
 
 The scarlet pimpernel does WWII? Not really. Just a british Anti-nazi thriller. It's a spy movie, and an okay one. 
 
 ## The File on Thelma Jordon (1950):
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/TheFileonThelmaJordanBarbaraStanwyck1950ripHJXvid2)
 
 A stone cold film noir, with an absolutely top notch femme fatale. Good movie. 
 
 ## His Girl Friday (1940): 
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/his_girl_friday)
+[Watch it on Wikipedia](https://en.wikipedia.org/wiki/File:His_Girl_Friday.webm)
 
-It's the front page, but with a woman in the leading role, so it's a screwball romance comedy? Great interpretation of a Dark story
+It's The Front Page, but with a woman in the leading role, so it's a screwball romcom? Great interpretation of a Dark story.
+
+__Wikipedia has a 720p version.__
 
 ## DOA(1950):
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/D.o.a.VideoQualityUpgrade)
+[Watch it on Wikipedia](https://en.wikipedia.org/wiki/File:DOA,_1949.ogv)
 
 A man who has been poisoned tells the cops about how it happened, and why, before he dies. Decent flick, but not required viewing. 
 
 ## Nancy Drew Reporter (1939):
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/nancydrewreporter_201407)
 
 Fun, low budget, kids flick. There's a car with a rumble seat, there's a musical number in a Chinese restaurant, I remember the movie being surprisingly tasteful for it's age and subject matter, I remember that I liked it, but not much else.
 
 ## Africa Screams (1949): 
 
-Watch it on Archive.org 
-Watch it on Peertube
-
 Abbot and Costello do racism in the jungle. Not recommended. 
 
 ## Aelita: Queen of Mars (1924): 
 
-Watch it on Archive.org 
+[Watch it on Archive.org](https://archive.org/details/AelitaQueenOfMarsoriginalVersion) 
 Watch it on Peertube
 
-Russian science fiction. Good, a little long. Silent. 
+Soviet science fiction. Good, a little long. Silent. 
 
 ## The Brian that Wouldn't Die (1962): 
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/BrainThatWouldntDieUpgrade) 
+[Watch it on Peertube](https://en.wikipedia.org/wiki/File:The_Brain_That_Wouldn%27t_Die.ogv)
 
-bad scifi horror. Fun, funny. 
+Bad scifi horror. If you're in to that kind of thing, it's great. 
 
 ## Blonde Ice (1948):
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/BlondeIce1948) 
 
 Great, atmospheric flick. Noir, with a strong femme fatale. Tense. Bad title. 
 
 ## The Front Page (1931): 
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/TheFrontPage1931AdolpheMenjouPatOBrienLewismiles) 
 
-The same story as His Girl Friday, but without a woman in the lead, so even darker. I liked it, but many others did not. 
+The same story as His Girl Friday, but without a woman in the lead. It's funny, in parts, but the set-up is very dark and some scenes are needlessly cruel.  I liked it, but many others did not. 
 
 ## Crime Inc. (1945): 
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/Crime_Inc_1945) 
 
 A man fights the mob from the newspaper! It's a decent movie. Not great, but good enough. 
 
@@ -412,4 +395,10 @@ It is one of my favorite movies, but unquestionably one of the worst ever finish
 
 __You'll see some folks claiming copyright over the newly restored 1080p version of the film. This is an interesting legal theory that has not been tested in court, and would likely not hold up, as restoration falls under "sweat of the brow" work, which is exempt from copyright protection in the US.__
 
+## Next Steps
 
+I have another twenty or thirty reviews to add that I'll do in a follow up post. 
+
+Eventually, I'll collect all of this in to a database, and present it as it's own website. 
+
+If you found this useful, or you want to help fund my film preservation efforts, consider supporting me with the links bellow. 
