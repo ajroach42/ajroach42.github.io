@@ -22,11 +22,13 @@ It's "THE SHADOW" in only the lightest sense of the word. It's really just a kin
 
 Another movie that alleges to feature The Shadow. Another movie that mostly doesn't.
 
-## The Shadow Laughs: 
+## The Shadow Laughs (1933): 
 
 [Watch it on Archive.org](https://archive.org/details/TheShadowLaughs)
 
 This one isn't even about the shadow, they just took the name. It's a low budget, early talkie that appears to have been converted from silent to talkie half way through.  I don't see any redeeming qualities to it. 
+
+Skip it.  
 
 ## Pimpernel Smith (1941): 
 
