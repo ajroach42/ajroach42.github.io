@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Cataloging the Public Domain - PD movies I watched in 2019 '
 ---
 As part of my [Film Preservation project](http://ajroach42.com/preserving-old-film/), I am cataloginging all the public domain movies I watched this year. This blog post is taken from a [thread over on the fediverse](https://retro.social/@ajroach42/103302760478581781), and expanded a bit with links and the like. What follows is a list of more than 50 movies that are in the american public domain, along with links to those movies on various platforms, a short review/synopsis, and comments on the quality of the available prints. 
@@ -401,4 +401,4 @@ I have another twenty or thirty reviews to add that I'll do in a follow up post.
 
 Eventually, I'll collect all of this in to a database, and present it as it's own website. 
 
-If you found this useful, or you want to help fund my film preservation efforts, consider supporting me with the links bellow. 
+If you found this useful, or you want to help fund my film preservation efforts, consider supporting me with the links bellow.
