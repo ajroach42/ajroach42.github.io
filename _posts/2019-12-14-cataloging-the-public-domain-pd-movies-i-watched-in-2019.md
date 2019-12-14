@@ -124,20 +124,52 @@ Children's high fantasy adventure. It's great, and don't let anyone tell you oth
 - Crash of the Moons:
 Same as above, but it's a better movie. 
 
-- Yongary Monster from the Deep: Korean Godzilla, basically.
+## Yongary Monster from the Deep (1967): 
 
-- Topper Returns: 
-Topper is a kind of silly novel about a man getting frisky with a ghost. This is a movie in which that same man solves a murder. Eventually made in to a decent TV shows. 
+Watch it on Peertube
 
-- The Slowest Gun in the West:
-TV Movie with Jack Benny and Phil Silvers. Lampoons cowboys. Pretty good. Only available in low quality.
+Watch it on Archive.org 
 
-- Plan 9 from Outerspace: Not actually the worst film ever made, but definitely in contention. Unintentionally funny, inept, etc. 
+Watch it on Wikipedia 
 
-- Charade: 
-One of the best movies in the public domain. Screwball romcom with spies. Very enjoyable.
+Korean Godzilla, basically. With everything that implies. 
 
-## Manos: The Hands of Fate:
+## Topper Returns (1941): 
+
+[Watch it on wikimedia commons](https://commons.wikimedia.org/wiki/File:Topper_Returns.webm)
+[Watch it on Archive.org](https://archive.org/details/Topper_Returns_41)
+
+
+Topper is a kind of silly novel about a man getting frisky with a ghost. This is a movie in which that same man solves a murder, with the help of another ghost. Eventually made in to a [decent TV show](https://archive.org/search.php?query=topper&and[]=mediatype%3A%22movies%22&and[]=collection%3A%22classic_tv%22). 
+
+## The Slowest Gun in the West (1960):
+
+[Watch it on Archive.org](https://archive.org/details/slowestguninthewest1960)
+
+
+TV Movie with Jack Benny and Phil Silvers. A send-up of westerns, and of masculinity in general. Pretty good, if a little silly. Only available at TV resolution.  
+
+Only one transfer available that I'm aware of, and that transfer has been re-encoded and reposted in a million places. It's an okay transfer, but I'd love to find a better one. 
+
+## Plan 9 from Outerspace (1959): 
+
+[Watch it on Archive.org](https://archive.org/details/Plan_9_from_Outer_Space_1959)
+[Watch it on Wikipedia](https://en.wikipedia.org/wiki/File:Plan_9_from_Outer_Space_(1959).webm)
+
+Not actually the worst film ever made, but definitely in contention. Unintentionally funny, inept, etc. Bella Lugosi's last film. 
+
+__The film was shot on 16mm film at full frame in the academy ratio, but intended for distribution as hard matte 16:9 film. Many versions of this movie that are in circulation return it to full frame. This is Not the [OAR](https://en.wikipedia.org/wiki/Aspect_ratio_(image)). Many of the sets and effects look much worse at 4:3 than they do at 16:9. For most films, this is a big deal, and I wold never suggest watching at something other than the original aspect ration. For this film... Eh, the full frame version has it's own charms that you miss in the widescreen edition. The choice is yours and yours alone.__ 
+
+## Charade (1963):
+
+[Watch it on Peertube](https://peertube.mastodon.host/videos/watch/88fd2335-d511-48fc-80fc-90a2d7f1d841)[Watch it on Archive.org](https://archive.org/details/Charade19631080p)
+[Watch it on Wikiepdia](https://en.wikipedia.org/wiki/File:Charade_(1963).webm)
+
+One of the best movies in the public domain. Sometimes called the last breath of the golden age of Hollywood. Carry Grant and Audrey Hepburn. Screwball romcom meets suspense thriller with spies and double crosses. Very enjoyable. 
+
+__The soundtrack is still under copyright, so many version of this film in circulation have an edited soundtrack. The film is poorer for that. I believe all versions linked here retain the original soundtrack, and it is my understanding that it is legal to distribute the film with this soundtrack, but not to make modifications to the soundtrack. I am not a lawyer, your milage may varry.__
+
+## Manos: The Hands of Fate (1966):
 
 [Watch it on Peertube](https://peertube.mastodon.host/videos/watch/2f7f8203-349e-4292-82ec-cd19e77a8817)
 [Watch it on Archive.org](https://archive.org/details/ManosTheHandsOfFateFullMovie1080p)
