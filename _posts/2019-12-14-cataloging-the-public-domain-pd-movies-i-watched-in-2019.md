@@ -116,21 +116,36 @@ Zorro! It's silent! It's pretty good.
  
 - The Phantom Empire (1935): Gene Autry sings as bankers try to steal his ranch, and they discover an underground city full of robots!
 
-- The Magic Sword (1962): 
+## The Magic Sword (1962): 
+
+Watch it on 
+
+Watch it on 
+
+Watch it on 
+
 Children's high fantasy adventure. It's great, and don't let anyone tell you otherwise. 
 
-- Menace from Outerspace: Rocky Jones Space Ranger! This is a movie made of episodes of Rocky Jones. It's pretty bad! But I love Rocky Jones, so I don't care. Better as a TV show than a Movie. 
+## Menace from Outerspace: 
 
-- Crash of the Moons:
-Same as above, but it's a better movie. 
+[Watch it on Archive.org](https://archive.org/details/MenacefromOuterSpace)
+
+Rocky Jones Space Ranger! This is a movie made of episodes of Rocky Jones. It's pretty bad! But I love Rocky Jones, so I don't care. It works better on the small screen, and doesn't really deserve the movie treatment, but the run of the show is more commonly available today as 12 movies rather than 39 episodes. 
+
+__Rocky Jones is currently only available in SD. That's something I hope to correct in the near future!__
+
+[More episodes of the TV show on Peertube.](https://peertube.mastodon.host/search?search=Rocky%20Jones%20Space%20Ranger)
+
+## Crash of the Moons:
+
+[Watch it on Archive.org](https://archive.org/details/CrashoftheMoons)
+
+Same as above, but it's a better movie, IMO. 
 
 ## Yongary Monster from the Deep (1967): 
 
-Watch it on Peertube
-
-Watch it on Archive.org 
-
-Watch it on Wikipedia 
+[Watch it on Peertube](https://peertube.mastodon.host/videos/watch/68e364fb-c44f-45f3-9e21-93cabbeb9c39)
+[Watch it on Archive.org](https://archive.org/details/YongaryMonsterFromTheDeep)
 
 Korean Godzilla, basically. With everything that implies. 
 
