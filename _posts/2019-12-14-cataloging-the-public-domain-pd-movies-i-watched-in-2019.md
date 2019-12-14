@@ -152,59 +152,56 @@ A stone classic. One of the all time great Noir films. A man steals $20 to impre
 
 ## Sexton Blake and the Hooded Terror (1938): 
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/sexton_blake_sexton_hooded_terror)
 
-Basically Sherlock Holmes fights the Klan? Except it's not Holmes, and the Klan has a bedazzled snake logo. It's good, but feels like an early talkie. The pacing is off, and there's not enough sound. I would not be surprised to discover that it was originally shot much earlier, or by a director who had mostly done Silent films.  
+Basically Sherlock Holmes fights the Klan? Except it's not Holmes, and the Klan has a bedazzled snake logo. It's good, but feels like an early talkie. The pacing is off, and there's not enough sound. I would not be surprised to discover that it was originally shot much earlier, or by a director who had mostly done Silent films.
+
+It is, as far as B-Movie crime flicks go, actually really good. It's flaws are the flaws of cheap, early film, and are entirely secondary to what is otherwise a pretty good movie. 
 
 ## Shoot to kill (1947): 
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/Shoot_to_Kill) 
+
 
 AKA Police Reporter. A former gangster is framed for murder. His wife and a reporter try to clear him. Clumsy, but not bad.
 
 ## No Time For Sergeants (1955): 
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/No_Time_For_Sergeants)
 
 A TV movie (not the theater movie that came later), only available in pretty low quality, Andy Griffith joins the army, and gives his sergeant an aww shucks hard time. Really funny, but low quality print only. 
 
 ## Lady Gangster (1942): 
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/Lady.Gangster)
 
 Lady robs a bank, goes to Jail. Shenanigans ensue. B- I could live without it. 
 
 ## Danger on Wheels (1940): 
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/DangerOnWheels) 
 
 A man drives a car dangerously. He races. There's a double cross. It's okay, but not essential. 
 
 ## The Stranger (1946): 
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/TheStranger_0) 
+[Watch it on Peertube](https://peertube.mastodon.host/videos/watch/835c9d5d-9960-4229-83d4-45db2c838165)
 
-Orson Welles directs and stars in this movie about a former nazi hiding out in Connecticut. It's an absolute classic. Just a very good movie. 
+Orson Welles directs and stars in this movie about a former nazi hiding out in Connecticut. It's an absolute classic. Dark, moody, genuinely frightening in parts. Just a very good movie. Widely available in high quality.
 
 ## Teenagers From Outerspace (1959):
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/teenagers_from_outerspace)
+[Watch it on Peertube](https://peertube.mastodon.host/videos/watch/d438ecda-e3b6-43e6-a34e-1fb54463dd81)
 
 ... Teenagers! From! Outerspace! There's a Lobster Monster! There's romance! There's socks OVER shoes. It's not good, but it's my favorite.
 
 ## British Intelligence (1940): 
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/BritishIntelligence1940)
 
-mediocre spy film with Borris Karloff. Double cross on double cross. Not bad, just not good. 
+It's a mediocre spy film with Borris Karloff. Double cross on double cross. Not bad, just not good. 
 
 ## Texas, Brooklyn & Heaven (1948): 
 
