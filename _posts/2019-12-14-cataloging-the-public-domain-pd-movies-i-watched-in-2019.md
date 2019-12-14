@@ -219,7 +219,6 @@ A cheap, cheap, cheap horror film. Roger Corman directs. A murderer disguises hi
 ## King Solomon's Mines (1937):
 
 [Watch it on Archive.org](https://archive.org/details/king_solomans_mine)
-Watch it on Peertube
 
 White people go on a safari. One of them is Allan Quartermain. They find an ancient diamond mine, and an African tribe, then get stuck in the ancient mine/volcano. Less racist than I expected it to be for the era it was released. Not perfect in it's depictions of Africa, but so much better than Africa Screams. 
 
