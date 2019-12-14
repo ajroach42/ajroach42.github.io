@@ -76,7 +76,7 @@ Abbot and Costello do racism in the jungle. Not recommended.
 
 Soviet science fiction. Good, a little long. Silent. 
 
-## The Brian that Wouldn't Die (1962): 
+## The Brain that Wouldn't Die (1962): 
 
 [Watch it on Archive.org](https://archive.org/details/BrainThatWouldntDieUpgrade) 
 
