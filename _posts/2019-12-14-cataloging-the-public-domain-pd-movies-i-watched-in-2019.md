@@ -10,110 +10,304 @@ It's not presented in any particular order. I started chronologically from when 
 
 # Public Domain Movies I watched in 2019
 
-- The Shadow Strikes (1937): 
+## The Shadow Strikes (1937): 
+
+Watch it on Archive.org 
+Watch it on Peertube
+
 It's "THE SHADOW" in only the lightest sense of the word. It's really just a kind of light hearted mystery with the barest trappings of The Shadow. 
 
-- The Shadow Returns (1946): Another movie that alleges to feature The Shadow. Another movie that mostly doesn't.
+## The Shadow Returns (1946): 
 
-- The Shadow Laughs: 
+Watch it on Archive.org 
+Watch it on Peertube
+
+Another movie that alleges to feature The Shadow. Another movie that mostly doesn't.
+
+## The Shadow Laughs: 
+
+Watch it on Archive.org 
+Watch it on Peertube
+
 This one isn't even about the shadow, they just took the name. It's a low budget, early talkie that appears to have been converted from silent to talkie half way through.  I don't see any redeeming qualities to it. 
 
-- Star Odyssey (1979): 
+## Star Odyssey (1979): 
+
+Watch it on Archive.org 
+Watch it on Peertube
+
 Italian star wars? But not really, and just bad. Rarely even bad in an entertaining way. Has some small redeeming qualities, but not enough to recommend.
 
-- Pimpernel Smith (!941): 
+## Pimpernel Smith (1941): 
+
+Watch it on Archive.org 
+Watch it on Peertube
+
 The scarlet pimpernel does WWII? Not really. Just a british Anti-nazi thriller. It's a spy movie, and an okay one. 
 
-- The File on Thelma Jordon (1950): A stone cold film noir, with an absolutely top notch femme fatale. Good movie. (but way too dark for the holidays) 
+## The File on Thelma Jordon (1950):
 
-- His Girl Friday (1940): 
+Watch it on Archive.org 
+Watch it on Peertube
+
+A stone cold film noir, with an absolutely top notch femme fatale. Good movie. 
+
+## His Girl Friday (1940): 
+
+Watch it on Archive.org 
+Watch it on Peertube
+
 It's the front page, but with a woman in the leading role, so it's a screwball romance comedy? Great interpretation of a Dark story
 
-- DOA(1950):
-A man who has been poisoned tells the cops about how it happened, and why, before he dies. Decent flick. 
+## DOA(1950):
 
-- Nancy Drew Reporter (1939): 
+Watch it on Archive.org 
+Watch it on Peertube
+
+A man who has been poisoned tells the cops about how it happened, and why, before he dies. Decent flick, but not required viewing. 
+
+## Nancy Drew Reporter (1939):
+
+Watch it on Archive.org 
+Watch it on Peertube
+
 Fun, low budget, kids flick. There's a car with a rumble seat, there's a musical number in a Chinese restaurant, I remember the movie being surprisingly tasteful for it's age and subject matter, I remember that I liked it, but not much else.
 
-- Africa Screams (1949): Abbot and Costello do racism in the jungle. Not recommended. 
+## Africa Screams (1949): 
 
-- Aelita: Queen of Mars (1924): Russian science fiction. Good, a little long. Silent. 
+Watch it on Archive.org 
+Watch it on Peertube
 
-- The Brian that Wouldn't Die (1962): bad scifi horror. Fun, funny. 
+Abbot and Costello do racism in the jungle. Not recommended. 
 
-- Blonde Ice (1948): I don't remember this movie at all. Let me read a synopsis. ... Oh, yeah I remember now! Great, atmospheric flick. Noir, with a strong femme fatale. Tense. Bad title. Not a holiday movie.
+## Aelita: Queen of Mars (1924): 
 
-- The Front Page (1931): The same story as His Girl Friday, but without a woman in the lead, so even darker. I liked it, but many others did not. 
+Watch it on Archive.org 
+Watch it on Peertube
 
-- Crime Inc. (1945): A man fights the mob from the newspaper! It's a decent movie. Not great, but good enough. 
+Russian science fiction. Good, a little long. Silent. 
 
-- Roar of the Press (1941) a pseudo-sequel to The Front Page, except not as well made, and a little less dark. 
+## The Brian that Wouldn't Die (1962): 
 
-- My Favorite Brunette (1947): Bob hope sends up Sam Spade hardboilers. Excellent.
+Watch it on Archive.org 
+Watch it on Peertube
 
-- Impact (1949): Noir, drama. Man survives murder attempt, drama ensues. Mostly a courtroom drama. Pretty okay. 
+bad scifi horror. Fun, funny. 
 
-- Cause for Alarm (1951): A sick man terrorizes his wife, dies. The wife commits several crimes in an attempt to not get blamed for her husband's death. Surprisingly good. 
+## Blonde Ice (1948):
 
-- Quicksand (1950): A stone classic. One of the all time great Noir films. A man steals $20 to impress a lady, and gets mired in metaphorical quicksand.
+Watch it on Archive.org 
+Watch it on Peertube
 
-- Sexton Blake and the Hooded Terror (1938): Basically Sherlock Holmes fights the Klan? Except it's not Holmes, and the Klan has a bedazzled snake logo. It's good, but feels like an early film. 
+Great, atmospheric flick. Noir, with a strong femme fatale. Tense. Bad title. 
 
-- Shoot to kill (1947): AKA Police Reporter. A former gangster is framed for murder. His wife and a reporter try to clear him. Clumsy, but not bad.
+## The Front Page (1931): 
 
-- No Time For Sergeants (1955): A TV movie (not the movie movie that came later), only available in pretty low quality, Andy Griffith joins the army, and gives his sergeant an aww shucks hard time. Really funny, but low quality print only. 
+Watch it on Archive.org 
+Watch it on Peertube
 
-- Lady Gangster (1942): Lady robs a bank, goes to Jail. Shenanigans ensue. B- I could live without it. 
+The same story as His Girl Friday, but without a woman in the lead, so even darker. I liked it, but many others did not. 
 
-- Danger on Wheels (1940): A man drives a car dangerously. He races. There's a double cross. It's okay.
+## Crime Inc. (1945): 
 
-- The Stranger (1946): Orson Welles directs and stars in this movie about a former nazi hiding out in Connecticut. It's an absolute classic. Just a very good movie. 
+Watch it on Archive.org 
+Watch it on Peertube
 
-- Teenagers From Outerspace (1959): ... Teenagers! From! Outerspace! There's a Lobster Monster! There's romance! There's socks OVER shoes. It's not good, but it's my favorite.
+A man fights the mob from the newspaper! It's a decent movie. Not great, but good enough. 
 
-- British Intelligence (1940): mediocre spy film with Borris Karloff. Double cross on double cross. Not bad, just not good. 
+## Roar of the Press (1941):
 
-- Texas, Brooklyn & Heaven (1948): A guy wants to be a novelist. A girl wants to run away. They meet up on a texas highway, move to Brooklyn, meet a gangster, and buy some animatronic elephants, or something. A cute, silly romcom.
+Watch it on Archive.org 
+Watch it on Peertube
 
-- Speak Easily (1932): 
-Buster Keaton in a talkie!  He's trying to fund a play. Everyone wants to sleep with him. It's silly. It's fun. 
+a pseudo-sequel to The Front Page, except not as well made, and a little less dark. 
 
-- A Bucket of Blood (1959):
-A cheap, cheap, cheap horror film. Roger Corman directs. A murderer disguises himself as an artist. It's not bad. 
+## My Favorite Brunette (1947): 
 
-- King Solomon's Mines (1937):
-White people go on a safari. They find an African tribe and get stuck in an ancient mine and or volcano. Honestly not bad.
+Watch it on Archive.org 
+Watch it on Peertube
 
-- Beat the Devil (1953): 
-Bogart stars in a send up of the kind of noir picture he made famous. I think it's a really great film, but it flopped at the time. 
+Bob hope sends up Sam Spade hardboilers. Excellent.
 
-- Cat-Women of the Moon (1953): A secret society of Women on the Moon! With Mind Control! It's a decent movie. 
+## Impact (1949): 
 
-- Attack of the 50 foot Woman (1958) Space Radiation make a giant woman. It's not very good! It is super silly!
+Watch it on Archive.org 
+Watch it on Peertube
 
-- Invasion of the Bee Girls (1973): Sex kills! At least, it does in this movie, where everyone is topless all the time. 
+Noir, drama. Man survives murder attempt, drama ensues. Mostly a courtroom drama. Pretty okay. 
 
-- Dick Tracy (1945): A feature film adaptation of Dick Tracy, really just more of a mild detective adventure. Not bad, just not remarkable. 
+## Cause for Alarm (1951): 
 
-- House on Haunted Hill (1959): Locked room horror in a haunted house. What's real? What isn't? It's kind of silly, but I enjoy it.
+Watch it on Archive.org 
+Watch it on Peertube
 
-- Robin Hood (1922): 
+A sick man terrorizes his wife, writes a letter to the police comissioner claiming that his wife was going to murder him, dies. The wife commits several crimes in an attempt to not get blamed for her husband's death. Surprisingly good. 
+
+## Quicksand (1950):
+
+Watch it on Archive.org 
+Watch it on Peertube
+
+A stone classic. One of the all time great Noir films. A man steals $20 to impress a lady, and gets mired in metaphorical quicksand.
+
+## Sexton Blake and the Hooded Terror (1938): 
+
+Watch it on Archive.org 
+Watch it on Peertube
+
+Basically Sherlock Holmes fights the Klan? Except it's not Holmes, and the Klan has a bedazzled snake logo. It's good, but feels like an early talkie. The pacing is off, and there's not enough sound. I would not be surprised to discover that it was originally shot much earlier, or by a director who had mostly done Silent films.  
+
+## Shoot to kill (1947): 
+
+Watch it on Archive.org 
+Watch it on Peertube
+
+AKA Police Reporter. A former gangster is framed for murder. His wife and a reporter try to clear him. Clumsy, but not bad.
+
+## No Time For Sergeants (1955): 
+
+Watch it on Archive.org 
+Watch it on Peertube
+
+A TV movie (not the theater movie that came later), only available in pretty low quality, Andy Griffith joins the army, and gives his sergeant an aww shucks hard time. Really funny, but low quality print only. 
+
+## Lady Gangster (1942): 
+
+Watch it on Archive.org 
+Watch it on Peertube
+
+Lady robs a bank, goes to Jail. Shenanigans ensue. B- I could live without it. 
+
+## Danger on Wheels (1940): 
+
+Watch it on Archive.org 
+Watch it on Peertube
+
+A man drives a car dangerously. He races. There's a double cross. It's okay, but not essential. 
+
+## The Stranger (1946): 
+
+Watch it on Archive.org 
+Watch it on Peertube
+
+Orson Welles directs and stars in this movie about a former nazi hiding out in Connecticut. It's an absolute classic. Just a very good movie. 
+
+## Teenagers From Outerspace (1959):
+
+Watch it on Archive.org 
+Watch it on Peertube
+
+... Teenagers! From! Outerspace! There's a Lobster Monster! There's romance! There's socks OVER shoes. It's not good, but it's my favorite.
+
+## British Intelligence (1940): 
+
+Watch it on Archive.org 
+Watch it on Peertube
+
+mediocre spy film with Borris Karloff. Double cross on double cross. Not bad, just not good. 
+
+## Texas, Brooklyn & Heaven (1948): 
+
+[Watch it on Archive.org](https://archive.org/details/TexasBrooklynAndHeavenVideoQualityUpgrade)
+[Watch it on Peertube](https://peertube.mastodon.host/videos/watch/3a0d9566-cd38-4788-a26b-0dfc59e4e339)
+
+A guy wants to be a novelist. A girl wants to run away. They meet up on a texas highway, move to Brooklyn, meet a gangster, and buy some animatronic elephants, or something. A cute, silly romcom.
+
+## Speak Easily (1932): 
+
+[Watch it on Archive.org](https://archive.org/details/SpeakEasilyVideoQualityUpgrade)
+[Watch it on Wikipedia](https://en.wikipedia.org/wiki/File:Speak_Easily_(1932).webm)
+
+Buster Keaton in a talkie!  He's trying to fund a play. Everyone wants to sleep with him. He doesn't have any money, even though everyone thinks he does. It's silly. It's fun. 
+
+It lacks the skill of some of the films Keaton directed himself, and it was filmed in a particularly dark point in his life, but you wouldn't know from watching it. 
+
+## A Bucket of Blood (1959):
+
+[Watch it on Archive.org](https://archive.org/details/BucketOfBlood720p1959)
+
+A cheap, cheap, cheap horror film. Roger Corman directs. A murderer disguises himself as an artist. It's not bad, especially if you like schlocky horror. 
+
+## King Solomon's Mines (1937):
+
+[Watch it on Archive.org](https://archive.org/details/king_solomans_mine)
+Watch it on Peertube
+
+White people go on a safari. One of them is Allan Quartermain. They find an ancient diamond mine, and an African tribe, then get stuck in the ancient mine/volcano. Less racist than I expected it to be for the era it was released. Not perfect in it's depictions of Africa, but so much better than Africa Screams. 
+
+Allegedly, the most faithful adaptation of the original novel. 
+
+## Beat the Devil (1953): 
+
+[Watch it on Archive.org](https://archive.org/details/Beat_the_Devil_DVD) 
+[Watch it on Peertube](https://peertube.mastodon.host/videos/watch/73a441ac-aa30-4a35-b214-7cf990211ced)
+
+Bogart stars in a send up of the kind of noir picture he made famous. I think it's a really great film, and modern critics agree with me, but it flopped at the time. One of the few public domain films with an easilly available HD print (a situation which I am trying to make more common!) 
+
+## Cat-Women of the Moon (1953): 
+
+[Watch it on Archive.org](https://archive.org/details/Cat_Women_of_the_Moon) 
+[Watch it on Peertube](https://peertube.mastodon.host/videos/watch/fbaef52c-1ae1-48c7-9816-33a0a23320e9)
+
+A secret society of Women on the Moon! With Mind Control! It's a decent movie. More earnest and less sleezy than the title would suggest. Almost good enough to be considered good. Almost chaste enough to be a family film. 
+
+## Invasion of the Bee Girls (1973): 
+
+[Watch it on Archive.org](https://archive.org/details/InvasionOfTheBeeGirls)
+
+Sex kills! At least, it does in this movie, where everyone is topless most the time. It's a sleezy sex horror flick, that manages to be remarkably boring in spite of each of those things. 
+
+## Dick Tracy (1945): 
+
+[Watch it on Archive.org](https://archive.org/details/DickTracy720p1937)
+
+A feature film adaptation of Dick Tracy, really just more of a mild detective adventure. Not bad, just not remarkable. 
+
+## House on Haunted Hill (1959): 
+
+[Watch it on Archive.org](https://archive.org/details/HouseOnHauntedHill_201605)
+[Watch it on Wikipedia](https://en.wikipedia.org/wiki/File:House_on_haunted_hill.ogv)
+
+Locked room horror in a haunted house. What's real? What isn't? It's kind of silly, but I enjoy it. William Castle, Vincent Price. Durring original screenings of the film, skeletons would fly out in to the audience on wire durring the scene where that makes sense. 
+
+## Robin Hood (1922): 
+
+[Watch it on Archive.org](https://archive.org/details/FairbanksRobinHood1922) 
+[Watch it on Wikipedia](https://en.wikipedia.org/wiki/File:Robin_Hood_(1922).webm)
+
 It's Robin Hood! It's Douglas Fairbanks! It's Silent! It's pretty good! 
 
-- The General (1927): The best silent movie ever made, IMO. It's the story of the great train robbery (an event that happened in my home town during the US Civil War.
+## The General (1927): 
 
-- Detour (1945): One of the best Poverty Row films ever. Recently re-released in HD for the first time. It's beautiful, it's the classic tale of an unreliable narrator in a bad situation that keeps getting worse.
+[Watch it on Archive.org](https://archive.org/details/TheGeneral)
+[Watch it on Peertube](https://peertube.mastodon.host/videos/watch/90c515de-7332-4cbe-acb0-81cfd988cf79)
 
-- The Little Shop of Horrors (1950): Another low budget Corman horror comedy. It's funny, it's horrific. I like it. 
+The best silent comedy ever made, IMO. It's the story of the great train robbery (an event that happened in my home town during the US Civil War) filtered through the eyes of Buster Keaton. It flopped. It wasn't even a little well recieved. It was the most expensive movie ever made. It is, and I cannot stress this enough, Brilliant. 
 
-- The Mark of Zorro (1920): 
+## Detour (1945): 
 
-Zorro! It's silent! It's pretty good.
+[Watch it on Archive.org](https://archive.org/details/Detour_66) 
+[Watch it on Wikipedia](https://en.wikipedia.org/wiki/File:Detour_(1945).webm)
+
+One of the best Poverty Row films ever. Recently re-released in HD for the first time. It's beautiful, it's the classic tale of an unreliable narrator in a bad situation that keeps getting worse.
+
+__The wikipedia version is a recent restoration, in 720p. It's worth watching that one, or even buying the Critereon Collection bluray. The version on archive.org is the one I watched the first time I saw the film, it's lower resolution and damaged in noticable ways.__
+
+## The Little Shop of Horrors (1950): 
+
+[Watch it on Archive.org](https://archive.org/details/TheLittleShopOfHorrorscolor1960) 
+[Watch it on Peertube](https://peertube.mastodon.host/videos/watch/7a857f52-71a1-4687-8c87-228c8718524e)
+[Watch it on Wikipedia](https://en.wikipedia.org/wiki/File:TheLittleShopOfHorrors1960.webmhd.webm)
+
+Another low budget Corman horror comedy. It's funny, it's horrific. I like it. 
+
+__One of the first films to be recolored for re-release in the 80s. The results make it feel different, and not entirely in a bad way.__ 
+
 
 ## Safety Last (1923): 
 
 [Watch it on Wikipedia](https://en.wikipedia.org/wiki/File:Safety_Last_(1923).webm)
-
+[Watch it on Archive.org](https://archive.org/details/SafetyLastHaroldLloyd1923.FullMovieexcellentQuality.)
 
 Harrold Lloyd's most recognizable feature. Silent. Slower than modern audiences expect, but still worth seeing, especially for fans of the films of that era. 
 
