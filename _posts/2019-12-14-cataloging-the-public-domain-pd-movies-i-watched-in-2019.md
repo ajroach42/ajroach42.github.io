@@ -110,21 +110,41 @@ It's Robin Hood! It's Douglas Fairbanks! It's Silent! It's pretty good!
 
 Zorro! It's silent! It's pretty good.
 
-- Safety Last (1923): Harrold Lloyd's most recognizable feature. Silent. Slower than modern audiences expect, but still worth seeing. 
+## Safety Last (1923): 
 
-- International Crime (1938): The Shadow! (again!) But not really! (again!) My favorite of The Shadow feature films (but not as good as the serials.) 
+[Watch it on Wikipedia](https://en.wikipedia.org/wiki/File:Safety_Last_(1923).webm)
+
+
+Harrold Lloyd's most recognizable feature. Silent. Slower than modern audiences expect, but still worth seeing, especially for fans of the films of that era. 
+
+Safety Last entered the public domain in the US on January 1st 2019. It's a baby. 
+
+## International Crime (1938): 
+
+[Watch it on Peertube](https://peertube.mastodon.host/videos/watch/41b5fc59-ef27-4645-b9df-2c2e3b4b89b3)
+[Watch it on Archive.org](https://archive.org/details/international_crime_1938)
+
+
+The Shadow! (again!) But not really! (again!) My favorite of The Shadow feature films (but not as good as the serials.) 
+
+__Again, most releases available of this film that I am aware of are mediocre in quality. I hope to find or make a better one eventually.__ 
  
-- The Phantom Empire (1935): Gene Autry sings as bankers try to steal his ranch, and they discover an underground city full of robots!
+## The Phantom Empire (1935): 
+
+[Watch the full serial on Archive.org](https://archive.org/details/PhantomEmpire1/Phantom+Empire+-+1.mov)
+[Watch the first chapter on wikipedia](https://en.wikipedia.org/wiki/File:The_Phantom_Empire,_Chapter_1.ogv)
+[Watch the edited feature film version on wikipedia](https://en.wikipedia.org/wiki/File:The_Phantom_Empire_1940.ogv)
+
+Gene Autry sings as bankers try to steal his ranch, and they discover an underground city full of robots! It's a cliffhanger serial, be sure to watch the episodes in order. (Or, I guess, watch the 70 minute feature film re-release, but I found that one confusing and nonsensical.) 
+
+__I have a copy of the full serial on 16mm film, and I will be working to release a higher quality transfer than those that are currently available.__
 
 ## The Magic Sword (1962): 
 
-Watch it on 
+[Watch it on Archive.org](https://archive.org/details/TheMagicSword)
+[Watch it on Peertube](https://peertube.mastodon.host/videos/watch/bb5da0f9-4c59-41b1-9764-553123d3209d)
 
-Watch it on 
-
-Watch it on 
-
-Children's high fantasy adventure. It's great, and don't let anyone tell you otherwise. 
+Children's high fantasy adventure. It's great, and don't let anyone tell you otherwise. Really deserves a 1080p or 4K restoration 
 
 ## Menace from Outerspace: 
 
