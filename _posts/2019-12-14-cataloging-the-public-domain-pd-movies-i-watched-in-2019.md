@@ -117,38 +117,39 @@ A man fights the mob from the newspaper! It's a decent movie. Not great, but goo
 
 ## Roar of the Press (1941):
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/roar_of_the_press) 
 
 a pseudo-sequel to The Front Page, except not as well made, and a little less dark. 
 
 ## My Favorite Brunette (1947): 
+ 
+[Watch it on wikipedia](https://en.wikipedia.org/wiki/File:My_Favorite_Brunette_(1947)_.webm)
+[Watch it on Archive.org](https://archive.org/details/MyFavoriteBrunette19478000k/My+Favorite+Brunette+(1947)+-+3700k.mp4)
 
-Watch it on Archive.org 
-Watch it on Peertube
+Bob hope sends up Allan Ladd hardboilers. Excellent.
 
-Bob hope sends up Sam Spade hardboilers. Excellent.
+Until recently, only available damaged, incomplete prints. The versions linked here are much better than what was available previously. 
+
 
 ## Impact (1949): 
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/Impact720p) 
 
 Noir, drama. Man survives murder attempt, drama ensues. Mostly a courtroom drama. Pretty okay. 
 
 ## Cause for Alarm (1951): 
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/cause_for_alarm_1951)
 
 A sick man terrorizes his wife, writes a letter to the police comissioner claiming that his wife was going to murder him, dies. The wife commits several crimes in an attempt to not get blamed for her husband's death. Surprisingly good. 
 
 ## Quicksand (1950):
 
-Watch it on Archive.org 
-Watch it on Peertube
+[Watch it on Archive.org](https://archive.org/details/Quicksand_clear)
 
 A stone classic. One of the all time great Noir films. A man steals $20 to impress a lady, and gets mired in metaphorical quicksand.
+
+The available transfer is okay, but we need a better one. 
 
 ## Sexton Blake and the Hooded Terror (1938): 
 
