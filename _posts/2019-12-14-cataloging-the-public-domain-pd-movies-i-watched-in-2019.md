@@ -43,6 +43,7 @@ A stone cold film noir, with an absolutely top notch femme fatale. Good movie.
 ## His Girl Friday (1940): 
 
 [Watch it on Archive.org](https://archive.org/details/his_girl_friday)
+
 [Watch it on Wikipedia](https://en.wikipedia.org/wiki/File:His_Girl_Friday.webm)
 
 It's The Front Page, but with a woman in the leading role, so it's a screwball romcom? Great interpretation of a Dark story.
@@ -52,6 +53,7 @@ __Wikipedia has a 720p version.__
 ## DOA(1950):
 
 [Watch it on Archive.org](https://archive.org/details/D.o.a.VideoQualityUpgrade)
+
 [Watch it on Wikipedia](https://en.wikipedia.org/wiki/File:DOA,_1949.ogv)
 
 A man who has been poisoned tells the cops about how it happened, and why, before he dies. Decent flick, but not required viewing. 
@@ -69,13 +71,13 @@ Abbot and Costello do racism in the jungle. Not recommended.
 ## Aelita: Queen of Mars (1924): 
 
 [Watch it on Archive.org](https://archive.org/details/AelitaQueenOfMarsoriginalVersion) 
-Watch it on Peertube
 
 Soviet science fiction. Good, a little long. Silent. 
 
 ## The Brian that Wouldn't Die (1962): 
 
 [Watch it on Archive.org](https://archive.org/details/BrainThatWouldntDieUpgrade) 
+
 [Watch it on Peertube](https://en.wikipedia.org/wiki/File:The_Brain_That_Wouldn%27t_Die.ogv)
 
 Bad scifi horror. If you're in to that kind of thing, it's great. 
@@ -107,6 +109,7 @@ a pseudo-sequel to The Front Page, except not as well made, and a little less da
 ## My Favorite Brunette (1947): 
  
 [Watch it on wikipedia](https://en.wikipedia.org/wiki/File:My_Favorite_Brunette_(1947)_.webm)
+
 [Watch it on Archive.org](https://archive.org/details/MyFavoriteBrunette19478000k/My+Favorite+Brunette+(1947)+-+3700k.mp4)
 
 Bob hope sends up Allan Ladd hardboilers. Excellent.
@@ -170,6 +173,7 @@ A man drives a car dangerously. He races. There's a double cross. It's okay, but
 ## The Stranger (1946): 
 
 [Watch it on Archive.org](https://archive.org/details/TheStranger_0) 
+
 [Watch it on Peertube](https://peertube.mastodon.host/videos/watch/835c9d5d-9960-4229-83d4-45db2c838165)
 
 Orson Welles directs and stars in this movie about a former nazi hiding out in Connecticut. It's an absolute classic. Dark, moody, genuinely frightening in parts. Just a very good movie. Widely available in high quality.
@@ -177,6 +181,7 @@ Orson Welles directs and stars in this movie about a former nazi hiding out in C
 ## Teenagers From Outerspace (1959):
 
 [Watch it on Archive.org](https://archive.org/details/teenagers_from_outerspace)
+
 [Watch it on Peertube](https://peertube.mastodon.host/videos/watch/d438ecda-e3b6-43e6-a34e-1fb54463dd81)
 
 ... Teenagers! From! Outerspace! There's a Lobster Monster! There's romance! There's socks OVER shoes. It's not good, but it's my favorite.
@@ -190,6 +195,7 @@ It's a mediocre spy film with Borris Karloff. Double cross on double cross. Not 
 ## Texas, Brooklyn & Heaven (1948): 
 
 [Watch it on Archive.org](https://archive.org/details/TexasBrooklynAndHeavenVideoQualityUpgrade)
+
 [Watch it on Peertube](https://peertube.mastodon.host/videos/watch/3a0d9566-cd38-4788-a26b-0dfc59e4e339)
 
 A guy wants to be a novelist. A girl wants to run away. They meet up on a texas highway, move to Brooklyn, meet a gangster, and buy some animatronic elephants, or something. A cute, silly romcom.
@@ -197,6 +203,7 @@ A guy wants to be a novelist. A girl wants to run away. They meet up on a texas 
 ## Speak Easily (1932): 
 
 [Watch it on Archive.org](https://archive.org/details/SpeakEasilyVideoQualityUpgrade)
+
 [Watch it on Wikipedia](https://en.wikipedia.org/wiki/File:Speak_Easily_(1932).webm)
 
 Buster Keaton in a talkie!  He's trying to fund a play. Everyone wants to sleep with him. He doesn't have any money, even though everyone thinks he does. It's silly. It's fun. 
@@ -221,6 +228,7 @@ Allegedly, the most faithful adaptation of the original novel.
 ## Beat the Devil (1953): 
 
 [Watch it on Archive.org](https://archive.org/details/Beat_the_Devil_DVD) 
+
 [Watch it on Peertube](https://peertube.mastodon.host/videos/watch/73a441ac-aa30-4a35-b214-7cf990211ced)
 
 Bogart stars in a send up of the kind of noir picture he made famous. I think it's a really great film, and modern critics agree with me, but it flopped at the time. One of the few public domain films with an easilly available HD print (a situation which I am trying to make more common!) 
@@ -228,6 +236,7 @@ Bogart stars in a send up of the kind of noir picture he made famous. I think it
 ## Cat-Women of the Moon (1953): 
 
 [Watch it on Archive.org](https://archive.org/details/Cat_Women_of_the_Moon) 
+
 [Watch it on Peertube](https://peertube.mastodon.host/videos/watch/fbaef52c-1ae1-48c7-9816-33a0a23320e9)
 
 A secret society of Women on the Moon! With Mind Control! It's a decent movie. More earnest and less sleezy than the title would suggest. Almost good enough to be considered good. Almost chaste enough to be a family film. 
@@ -247,6 +256,7 @@ A feature film adaptation of Dick Tracy, really just more of a mild detective ad
 ## House on Haunted Hill (1959): 
 
 [Watch it on Archive.org](https://archive.org/details/HouseOnHauntedHill_201605)
+
 [Watch it on Wikipedia](https://en.wikipedia.org/wiki/File:House_on_haunted_hill.ogv)
 
 Locked room horror in a haunted house. What's real? What isn't? It's kind of silly, but I enjoy it. William Castle, Vincent Price. Durring original screenings of the film, skeletons would fly out in to the audience on wire durring the scene where that makes sense. 
@@ -254,6 +264,7 @@ Locked room horror in a haunted house. What's real? What isn't? It's kind of sil
 ## Robin Hood (1922): 
 
 [Watch it on Archive.org](https://archive.org/details/FairbanksRobinHood1922) 
+
 [Watch it on Wikipedia](https://en.wikipedia.org/wiki/File:Robin_Hood_(1922).webm)
 
 It's Robin Hood! It's Douglas Fairbanks! It's Silent! It's pretty good! 
@@ -261,6 +272,7 @@ It's Robin Hood! It's Douglas Fairbanks! It's Silent! It's pretty good!
 ## The General (1927): 
 
 [Watch it on Archive.org](https://archive.org/details/TheGeneral)
+
 [Watch it on Peertube](https://peertube.mastodon.host/videos/watch/90c515de-7332-4cbe-acb0-81cfd988cf79)
 
 The best silent comedy ever made, IMO. It's the story of the great train robbery (an event that happened in my home town during the US Civil War) filtered through the eyes of Buster Keaton. It flopped. It wasn't even a little well recieved. It was the most expensive movie ever made. It is, and I cannot stress this enough, Brilliant. 
@@ -268,6 +280,7 @@ The best silent comedy ever made, IMO. It's the story of the great train robbery
 ## Detour (1945): 
 
 [Watch it on Archive.org](https://archive.org/details/Detour_66) 
+
 [Watch it on Wikipedia](https://en.wikipedia.org/wiki/File:Detour_(1945).webm)
 
 One of the best Poverty Row films ever. Recently re-released in HD for the first time. It's beautiful, it's the classic tale of an unreliable narrator in a bad situation that keeps getting worse.
@@ -277,7 +290,9 @@ __The wikipedia version is a recent restoration, in 720p. It's worth watching th
 ## The Little Shop of Horrors (1950): 
 
 [Watch it on Archive.org](https://archive.org/details/TheLittleShopOfHorrorscolor1960) 
+
 [Watch it on Peertube](https://peertube.mastodon.host/videos/watch/7a857f52-71a1-4687-8c87-228c8718524e)
+
 [Watch it on Wikipedia](https://en.wikipedia.org/wiki/File:TheLittleShopOfHorrors1960.webmhd.webm)
 
 Another low budget Corman horror comedy. It's funny, it's horrific. I like it. 
@@ -288,6 +303,7 @@ __One of the first films to be recolored for re-release in the 80s. The results 
 ## Safety Last (1923): 
 
 [Watch it on Wikipedia](https://en.wikipedia.org/wiki/File:Safety_Last_(1923).webm)
+
 [Watch it on Archive.org](https://archive.org/details/SafetyLastHaroldLloyd1923.FullMovieexcellentQuality.)
 
 Harrold Lloyd's most recognizable feature. Silent. Slower than modern audiences expect, but still worth seeing, especially for fans of the films of that era. 
@@ -297,6 +313,7 @@ Safety Last entered the public domain in the US on January 1st 2019. It's a baby
 ## International Crime (1938): 
 
 [Watch it on Peertube](https://peertube.mastodon.host/videos/watch/41b5fc59-ef27-4645-b9df-2c2e3b4b89b3)
+
 [Watch it on Archive.org](https://archive.org/details/international_crime_1938)
 
 
@@ -307,7 +324,9 @@ __Again, most releases available of this film that I am aware of are mediocre in
 ## The Phantom Empire (1935): 
 
 [Watch the full serial on Archive.org](https://archive.org/details/PhantomEmpire1/Phantom+Empire+-+1.mov)
+
 [Watch the first chapter on wikipedia](https://en.wikipedia.org/wiki/File:The_Phantom_Empire,_Chapter_1.ogv)
+
 [Watch the edited feature film version on wikipedia](https://en.wikipedia.org/wiki/File:The_Phantom_Empire_1940.ogv)
 
 Gene Autry sings as bankers try to steal his ranch, and they discover an underground city full of robots! It's a cliffhanger serial, be sure to watch the episodes in order. (Or, I guess, watch the 70 minute feature film re-release, but I found that one confusing and nonsensical.) 
@@ -317,6 +336,7 @@ __I have a copy of the full serial on 16mm film, and I will be working to releas
 ## The Magic Sword (1962): 
 
 [Watch it on Archive.org](https://archive.org/details/TheMagicSword)
+
 [Watch it on Peertube](https://peertube.mastodon.host/videos/watch/bb5da0f9-4c59-41b1-9764-553123d3209d)
 
 Children's high fantasy adventure. It's great, and don't let anyone tell you otherwise. Really deserves a 1080p or 4K restoration 
@@ -340,6 +360,7 @@ Same as above, but it's a better movie, IMO.
 ## Yongary Monster from the Deep (1967): 
 
 [Watch it on Peertube](https://peertube.mastodon.host/videos/watch/68e364fb-c44f-45f3-9e21-93cabbeb9c39)
+
 [Watch it on Archive.org](https://archive.org/details/YongaryMonsterFromTheDeep)
 
 Korean Godzilla, basically. With everything that implies. 
@@ -347,6 +368,7 @@ Korean Godzilla, basically. With everything that implies.
 ## Topper Returns (1941): 
 
 [Watch it on wikimedia commons](https://commons.wikimedia.org/wiki/File:Topper_Returns.webm)
+
 [Watch it on Archive.org](https://archive.org/details/Topper_Returns_41)
 
 
@@ -364,6 +386,7 @@ Only one transfer available that I'm aware of, and that transfer has been re-enc
 ## Plan 9 from Outerspace (1959): 
 
 [Watch it on Archive.org](https://archive.org/details/Plan_9_from_Outer_Space_1959)
+
 [Watch it on Wikipedia](https://en.wikipedia.org/wiki/File:Plan_9_from_Outer_Space_(1959).webm)
 
 Not actually the worst film ever made, but definitely in contention. Unintentionally funny, inept, etc. Bella Lugosi's last film. 
@@ -372,7 +395,10 @@ __The film was shot on 16mm film at full frame in the academy ratio, but intende
 
 ## Charade (1963):
 
-[Watch it on Peertube](https://peertube.mastodon.host/videos/watch/88fd2335-d511-48fc-80fc-90a2d7f1d841)[Watch it on Archive.org](https://archive.org/details/Charade19631080p)
+[Watch it on Peertube](https://peertube.mastodon.host/videos/watch/88fd2335-d511-48fc-80fc-90a2d7f1d841)
+
+[Watch it on Archive.org](https://archive.org/details/Charade19631080p)
+
 [Watch it on Wikiepdia](https://en.wikipedia.org/wiki/File:Charade_(1963).webm)
 
 One of the best movies in the public domain. Sometimes called the last breath of the golden age of Hollywood. Carry Grant and Audrey Hepburn. Screwball romcom meets suspense thriller with spies and double crosses. Very enjoyable. 
@@ -382,7 +408,9 @@ __The soundtrack is still under copyright, so many version of this film in circu
 ## Manos: The Hands of Fate (1966):
 
 [Watch it on Peertube](https://peertube.mastodon.host/videos/watch/2f7f8203-349e-4292-82ec-cd19e77a8817)
+
 [Watch it on Archive.org](https://archive.org/details/ManosTheHandsOfFateFullMovie1080p)
+
 [Watch it redone with puppets! (on youtube, I'm sorry.)](https://www.youtube.com/watch?v=5sRWgT6FBXk) 
 
 I think [this review from 366 weird movies](https://366weirdmovies.com/223-manos-the-hands-of-fate-1966/) says what needs to be said:
