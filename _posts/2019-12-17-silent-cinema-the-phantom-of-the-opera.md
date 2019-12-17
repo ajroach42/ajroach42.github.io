@@ -32,3 +32,9 @@ We'll talk about what's different later.
 ## Review (of the Eastman Print with color restored) 
 
 Watch it. It's pretty good. The use of Color is absolutely astounding, and leads to the two most shocking moments in the film. Aside from that, the film features some interesting cinematagraphic techniques and does some really neat stuff with light. The makeup work on The Phantom has been widely lauded, and the reveal is no longer a surprise, but the makeup is very good. The pacing is fine, and the acting is mostly good, Lon Chany not withstanding. 
+
+If you like silent films, this is a good one. If you don't already like silent films, this one is good enough to watch anyway, without spoiling the genre for you (unlike, say, [Doctor Jekyl and Mr. Hyde](http://ajroach42.com/silent-cinema-dr-jekyll-and-mr-hyde-1920/)). It isn't a perfect film, but it somehow manages to remain timely 95 years after it's release. 
+
+## Review (of the 16mm print without color) 
+
+It's scratchy but not especially hard to watch. It's clearly the same story, but some elements are noticably different. The runtime is different. There are new scenes, other scenes are presented in a different order. If you watched this movie prior to 1997 or so, this is probably the version you saw. It is not bad! And in some ways, it's actually an improvement over the Eastman print. It's certainly more authentic to 1925, for better or worse, but it suffers from the lack of color and the grain and wear on the film weave a different emotional resonance. 
