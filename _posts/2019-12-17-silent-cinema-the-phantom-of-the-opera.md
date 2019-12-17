@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Silent Cinema - The Phantom of the Opera
 ---
 I couldn't sleep Sunday night, so I watched The Phantom of the Opera and ended up on a deep dive in to the history of the film, and it's place in old Hollywood lore. What follows are links to watch both major versions of the movie, a discussion of the history and preservation status of the print, a brief synopsis, and a small review. Dig in, this is a fun one. 
@@ -86,4 +86,4 @@ No one knows where it came from or why it exists, but I'm glad it does.
 
 [This blog post is an excellent rundown of the various versions of the film](http://nerdlypleasures.blogspot.com/2013/12/versions-and-sources-of-phantom-of-opera.html), including the two other lost versions that we didn't discuss here. 
 
-[The silent era](https://www.silentera.com/PSFL/data/P/PhantomOfTheOpera1925.html) also has some good information. 
+[The silent era](https://www.silentera.com/PSFL/data/P/PhantomOfTheOpera1925.html) also has some good information.
