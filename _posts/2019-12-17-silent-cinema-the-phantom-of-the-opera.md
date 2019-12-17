@@ -38,3 +38,52 @@ If you like silent films, this is a good one. If you don't already like silent f
 ## Review (of the 16mm print without color) 
 
 It's scratchy but not especially hard to watch. It's clearly the same story, but some elements are noticably different. The runtime is different. There are new scenes, other scenes are presented in a different order. If you watched this movie prior to 1997 or so, this is probably the version you saw. It is not bad! And in some ways, it's actually an improvement over the Eastman print. It's certainly more authentic to 1925, for better or worse, but it suffers from the lack of color and the grain and wear on the film weave a different emotional resonance. 
+
+## Versions (part 2!) 
+
+Why are there two versions of this movie with different scenes and different levels of degridation? 
+
+Well, actually, there were three (or, really, there were like 5, but we only care about three of them.) 
+
+### What was made
+
+1) The original 1925 print would have been silent, and would have included tinting, and several scenes in color. (This has been lost) 
+
+2) The original 1929 print would have been a Sound film, and would have included newly recorded versions of many scenes adding sound, it would have also included tinting and scenes in color. (This has been lost) 
+
+3) The existing 1929 print, which is silent (no one knows why this was made, but it survives!) 
+
+### Surviving prints 
+
+1) The 16mm print: This isn't actually one 16mm print. It's a print made from a bunch of different 16mm prints. None of them were complete, and none of them had the original tinting. The reason for this is that these 16mm prints were "play at home" prints, which fell out of popularity as time went on. 
+
+The existing 16mm print is mostly complete, but lacks the original color sequences or tinting. It has scenes that are not present in the eastman print, and shows the scenes it does have in a different order. Often, the takes used are different, or the takes used are the same take seen from a slightly different angle, due to the use of multiple cameras. 
+
+Some scenes, such as the first reveal of the Phantom's face, are more effective in the 16mm print than in the Eastman print. 
+
+2) The Eastman print: This is a 35mm print. It features sequences that were shot for the 1929 sound re-release of the film, removes scenes that were removed for that version of the film, and is in much better condition. It is missing a small segment at the left side of the screen, so is in a different Aspect Ratio than the 16mm print. This is most noticable on some title cards. 
+
+Importantly, The Eastman print still includes all intertitles, and *does not* sync to the surviving sound discs (see bellow) 
+
+3) Technicolor section: A small technicolor section was discovered in the 90s, and has been added to every commercial re-release of the Eatman print. 
+
+4) The original sound discs. The 1929 sound version was a [vitaphone release](https://en.wikipedia.org/wiki/Vitaphone). Sound was distributed on discs to be synced with the print. The sound print of the film is lost, but the discs survive. They *do not* line up with any of the known prints of the film, including the Eastman print. 
+
+### Releases 
+
+There are three bluray releases currently in circulation, and honestly they're all fine. They all include a copy of the Eastman print and the 16mm print. They all include multiple scores. All of the included scores are sufficient. 
+
+Importantly, all of the current bluray releases restore the technicolor sections and tinting to the eastman print. They each do it a little differently, but any of them is fine. 
+
+
+## The Mystery 
+
+What is this Eastman print? Where did it come from? Why is it here? It features footage from the '29 version of the film, but no sound! It appears to be a silent re-issue, but the contemporary press stated that no silent version of the new film was going to be released. Some have argued that it was intended for international markets, but that also seems unlikely. 
+
+No one knows where it came from or why it exists, but I'm glad it does. 
+
+## Further reading 
+
+[This blog post is an excellent rundown of the various versions of the film](http://nerdlypleasures.blogspot.com/2013/12/versions-and-sources-of-phantom-of-opera.html), including the two other lost versions that we didn't discuss here. 
+
+[The silent era](https://www.silentera.com/PSFL/data/P/PhantomOfTheOpera1925.html) also has some good information. 
