@@ -7,6 +7,8 @@ title: Silent Cinema - The Phantom of the Opera
 I couldn't sleep Sunday night, so I watched The Phantom of the Opera and ended up on a deep dive in to the history of the film, and it's place in old Hollywood lore. What follows are links to watch both major versions of the movie, a discussion of the history and preservation status of the print, a brief synopsis, and a small review. Dig in, this is a fun one. 
 
 
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://peertube.mastodon.host/videos/embed/8b1ada89-b0e1-4bd3-9c2d-3695193f65b2" frameborder="0" allowfullscreen></iframe>
+
 ## What's it about? 
 
 __CW: Spoilers for a 95 year old movie that you already know the plot of even if you think you don't. Mentions of abuse against women__ 
