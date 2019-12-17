@@ -26,3 +26,9 @@ There are two main versions available today, one is (most of) the original 1925 
 We'll call the '29 print the Eastman print, because that's what it is. We'll call the other print the 16mm print, because that's what it is.
 
 Watch the Eastman print. Watch it with any commercial soundtrack. [This version is as good as any](https://peertube.mastodon.host/videos/watch/8b1ada89-b0e1-4bd3-9c2d-3695193f65b2). After you've watched it, if you're hooked and want to learn more, then you can reach for [the 16mm print](https://peertube.mastodon.host/videos/watch/32391a28-1ee9-4a90-aabe-4c74107baf30). 
+
+We'll talk about what's different later. 
+
+## Review (of the Eastman Print with color restored) 
+
+Watch it. It's pretty good. The use of Color is absolutely astounding, and leads to the two most shocking moments in the film. Aside from that, the film features some interesting cinematagraphic techniques and does some really neat stuff with light. The makeup work on The Phantom has been widely lauded, and the reveal is no longer a surprise, but the makeup is very good. The pacing is fine, and the acting is mostly good, Lon Chany not withstanding. 
