@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Silent Cinema: Our Hospitality'
 ---
 I couldn't sleep last night (noticing a trend this week?) so I decided to watch Buster Keaton's 1923 silent take on the Hatfields and the McCoys. You can watch it yourself, and read a short review here. 
@@ -22,4 +22,4 @@ The movie is set in the early 1800s. The openning sequence is set in 1810 and la
 
 The movie was one of the several Keaton flicks that was correctly copyrighted and renewed. That's part of the reason I had never seen it before! (I go out of my way to avoid silent films that are under copyright, as the whole concept of a movie that is almost 100 years old still being copyrighted makes me angry.) The film entered the public domain in the US on January 1st of 2019, because the Sonny Bono Copyright Extension Act's extension period finally ended, so we can start having new public domain films again. 
 
-And, of course, there are treasures hiding out there among the formerly copyrighted. This movie was really great, and I'm glad I found it and could share it. 
+And, of course, there are treasures hiding out there among the formerly copyrighted. This movie was really great, and I'm glad I found it and could share it.
