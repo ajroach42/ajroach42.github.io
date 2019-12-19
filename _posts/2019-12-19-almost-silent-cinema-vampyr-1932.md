@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Almost Silent Cinema - Vampyr (1932)
 ---
 Last night I watched Vampyr, a kind of Ambient horror film from 1932. I'm still processing it, and there's a lot to unpack. Read some of my thoughts, and watch it for yourself here. 
@@ -43,4 +43,4 @@ The director stuck a sheet of Gauze in front of the camera! Who does that? Who w
 
 Half the movie is just shadows moving around on the ground! Who does that? That dream sequence! That ... flour bath! It's a movie full of haunting imagery, weird imagery. I am not at all surprised that this movie was a huge flop when it was originally released. The public came to this expecting Dracula and got an art film, but I think it's fair to say that the influence of this movie can be felt in nearly every art film that follows it. 
 
-I can almost imagine a world where cinema evolved from this movie, and it's a world that still leads directly to Only Lovers Left Alive (which, let's be honest, is the greatest vampire flick of all time.) 
+I can almost imagine a world where cinema evolved from this movie, and it's a world that still leads directly to Only Lovers Left Alive (which, let's be honest, is the greatest vampire flick of all time.)
