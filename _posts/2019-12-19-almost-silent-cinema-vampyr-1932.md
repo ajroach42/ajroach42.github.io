@@ -8,7 +8,7 @@ Last night I watched Vampyr, a kind of Ambient horror film from 1932. I'm still 
 
 ## Watch it 
 
-<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://vidcommons.org/videos/embed/d49f95a9-b183-4f16-9341-8637ac3597ff" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://vidcommons.org/videos/embed/d49f95a9-b183-4f16-9341-8637ac3597ff?subtitle=en&warningTitle=0" frameborder="0" allowfullscreen></iframe>
 
 ## Context 
 
