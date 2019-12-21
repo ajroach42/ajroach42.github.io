@@ -79,7 +79,7 @@ _Grant Gardner is Captain America (or something?)_
 
 So, while we can't do anything about Actual Nazi Steve Rogers, there's a lot we can do about the fact that many (most?) of America's modern folk heroes are controlled by ageless corporate behemoths. Since so many of these characters have their basis in, or share striking similarities with, Public Domain heroes, there's nothing stopping us from re-inventing the modern American Folk hero from our own cultural commons.
 
-Wouldn't it be great to have a way to use a folk hero to comment on a specific moment in time, without forever marring the reputation of that hero as a Nazi? Wouldn't you love to see a comic where The Shield has to fight Grant Gardner's Captain America, after he veers from patriotism to bigotry?
+Wouldn't it be great to have a way to use a folk hero to comment on a specific moment in time, without forever marring the reputation of that hero as a Nazi? Wouldn't you love to see a comic where The Shield has to fight Grant Gardner's Captain America, after he veers from patriotism to nationalism?
 
 Our Public Domain is not [nearly as rich as it should be, or as it could be][9], but it does present a deep well of collectively owned content from which we can draw to tell new and different stories.
 
