@@ -6,7 +6,7 @@ title: 'Silent Cinema - The Mark of Zorro (1920) '
 ---
 It's saturday night, and I'm not sleeping! Instead I'm wathing an old silent film again. This time, 1920's The Mark of Zorro. This is a fun one, and I hope you'll enjoy it. 
 
-[Peertube embed]()
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://vidcommons.org/videos/embed/1df96781-4be6-4588-a526-856ee7a0f758" frameborder="0" allowfullscreen></iframe>
 
 ## Info
 
