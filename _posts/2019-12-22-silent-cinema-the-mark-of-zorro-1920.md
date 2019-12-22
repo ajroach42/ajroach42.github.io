@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Silent Cinema - The Mark of Zorro (1920) '
 ---
 It's saturday night, and I'm not sleeping! Instead I'm wathing an old silent film again. This time, 1920's The Mark of Zorro. This is a fun one, and I hope you'll enjoy it. 
