@@ -38,3 +38,7 @@ I wish very much that an HD release of this film were available. I'll be keeping
 Zorro is kind of a weird character for me. He's fighting for Native American rights in California under Spanish Rule. He's a member of the Spanish aristocracy. The whole thing is a pretty typical White Savior story. That being said, here at least the story is fairly tasteful. Remarkably so for a movie from 1920 depicting people of color. 
 
 The movie was remade in 1940, and that version is Better than this one in several important respects, but this is worth watching in spite of the existence of a superior remake, both for the historic importance of the film and also as a work of entertainment.
+
+## The Original Text
+
+The original text was serialized in All Story Weekly starting in August of 1919. I can't seem to find a transcription or a scan of this issue anywhere! The novel was later repakaged as a single text in 1924, under the title The Mark of Zorro. This version is allegedly still under copyright, but that won't matter in two weeks! 
