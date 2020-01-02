@@ -36,7 +36,13 @@ Currently available from Project Gutenburg AU, but soon to be available in many 
 
 </video>
 
-One of my absolute favorite Buster Keaton films. A real gem! 
+Starring Buster Keaton, Directed by Buster Keaton, Entering the Public Domain in the US Today (January 1st, 2020) 
+
+Watch Buster Keaton daydream about being the hero in this 1924 Sherlock Holmes Fan Film. Features some of Keaton's most complex trick photography to date. 
+
+Silent comedy, medium length, lots of fun. 
+
+[(Also available on Peertube)](https://vidcommons.org/videos/watch/f917dde3-c2a1-4e05-a183-9c0e62e32094) with a full review coming soon! 
 
 ## What else? 
 
