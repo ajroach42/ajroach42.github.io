@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Public Domain Day 2020!
 ---
 It's January 1st, and for the second time in recent memory, it's public domain day in the US. That means that dozens of works from 1924 have now entered the public domain. Let's run through a few things that were released in 1924, and talk about what you can do with them now. 
@@ -38,4 +38,6 @@ Currently available from Project Gutenburg AU, but soon to be available in many 
 
 One of my absolute favorite Buster Keaton films. A real gem! 
 
-Lots of other interesting works entered the Public Domain in the US this year, and I'm looking forward to exploring them with you. 
+## What else? 
+
+Lots of other interesting works entered the Public Domain in the US this year, and I'm looking forward to exploring them with you. I'm going to try to make PD Day a monthly exercize all year. 
