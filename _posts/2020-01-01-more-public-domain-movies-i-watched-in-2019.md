@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: More Public Domain Movies I watched in 2019
 ---
 A few weeks ago, I wrote about all the [Public Domain movies I watched](http://ajroach42.com/cataloging-the-public-domain-pd-movies-i-watched-in-2019/) on my home media server in 2019, with links to where you could watch them all yourself. Today I'm finishing that list off with the rest of the Public Domain movies I watched in 2019 (which means, mostly, the stuff I watched on my phone, or on a plane, or in a car, or just didn't download for whatever reason.) This list is a little less coplete, because I had to do it from memory. Let's get to it. 
@@ -140,41 +140,61 @@ Honestly, it's a decent movie. Average, cheap, but well made and enjoyable.
 
 ## The Curse of the Aztec Mummy (1957) - 
 
+[Watch it on peertube](https://peertube.mastodon.host/videos/watch/9fc969be-a9f4-4bb3-806d-cfccdfcbbc61)
+
 It's a mexican horror flick. It is okay. It features a Luchador Super Hero. If you like horror movies, and you can tolerate some cheese, you'll probably dig it.
 
 ## Monster from a Prehistoric Planet AKA Gappa: The Triphibian Monster (1967) - 
+
+[Watch it on peertube](https://peertube.mastodon.host/videos/watch/31f23e67-8397-4b2a-b346-710b471e7e6f)
 
 Another Japanese monster movie. Allegedly it's super similar to a UK flick called Gorgo, but I haven't seen that. This one is pretty good. Better than it's current notoriety might have you believe. 
 
 ## Midnight AKA Call it Murder (1934) - 
 
+[Watch it on peertube](https://peertube.mastodon.host/videos/watch/ed563c5e-4df9-49b1-a418-9911da0e8fd4)
+
 it's an okay little crime flick that features Humphrey Bogart in a small but significant early role. Nothing super special, but not bad.
 
 ## Snowbeast (1977) - 
+
+[Watch it on peertube](https://peertube.mastodon.host/videos/watch/1fbc058d-df6d-4de0-8834-b7db9faba6ef)
 
 Wow, what a bad movie. It's a monster movie. It's about the yeti. It's just not very good at all. 
 
 ## Gangs, Inc. AKA Paper Bullets (1941) - 
 
+[Watch it on peertube](https://peertube.mastodon.host/videos/watch/1a1a5dae-4b36-48a0-bc0c-01f3f8967893) 
+
 Similar to midnight mentioned above, this okay crime film features Allan Ladd in a small but significant role fairly early in his career.
 
 ## The Lost World (1925) - 
+
+[Watch it on peertube](https://peertube.mastodon.host/videos/watch/5ce823f2-c149-4bb2-ac26-deb4d6602a5d)
 
 This is an adaptation of an Arthur Conan Doyle story. It's about dinosaurs at the center of the earth. Good special effects for it's age, but a lot of racist garbage outside of that.
 
 ## Flight Commander (1930) - 
 
-AKA The Dawn Patrol. This stars Douglas Fairbanks. It was remade in '38 staring Errol Flynn. It's a WWI story, and it's not bad. 
+[Watch it on Archive.org](https://archive.org/details/FlightCommander1930AkaTheDawnPatrolDouglasFairbanksJrHowardHawks)
+
+AKA The Dawn Patrol. This stars Douglas Fairbanks. It was remade in '38 staring Errol Flynn. It's a WWI story, and it's supposed to be pretty good! I don't remember it, and will have to re-watch it. 
 
 ## Radar Men from the Moon - 
 
+[Watch it on Archive.org](https://archive.org/details/RadarMenFromTheMoon)
+
 Another film serial. This one features a man with a jetpack. It's honestly not among the best film serials, but I really enjoy the character.
 
-## Men with Steel Faces (aka The Phantom Empire)- 
+## Men with Steel Faces (aka The Phantom Empire AKA Radio Ranch)- 
 
-This is just a worse, shorter edited version of The Phantom Empire.
+[Watch it on Archive.org](https://archive.org/details/RadioRanch) but really just watch The Phantom Empire instead. 
+
+This is just a worse, shorter edited version of The Phantom Empire as discussed in the last post.
 
 ## The Indestructible man - 
+
+[Watch it on Archive.org](https://archive.org/details/IndestructibleMan720p1956)
 
 This is a solid B movie. Lon Chaney Jr. stars as a criminal who is executed, brought back to life, and made practically indestructible. 
 
