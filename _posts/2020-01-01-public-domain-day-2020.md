@@ -10,7 +10,7 @@ I won't give a full list of works that entered the public domain, because that'd
 
 ## [Gershwin's Rhapsody in Blue](https://archive.org/embed/Rhapsody-in-Blue-Remixes)
 
-<iframe src="https://archive.org/details/Rhapsody-in-Blue-Remixes?webamp=default" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/Rhapsody-in-Blue-Remixes" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 Gershwin's estate is a big part of the reason that works stopped entering the US public domain when I was a kid. I thought it would be fitting to kick things off with a couple of covers of Rhapsody in Blue. One is a straight piano cover (via Midi), the other two (also via midi) use various NES/SNES soundfonts. Gershwin's estate would no doubt find this pretty distasteful, but I think it's super neat! Listening to the NES/8-bit version (which is my favorite), I can *almost see* Link walking through Hyrule with a Thompson on his shoulder. 
 
