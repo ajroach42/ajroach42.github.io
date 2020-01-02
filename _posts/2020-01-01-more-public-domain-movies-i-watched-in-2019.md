@@ -4,7 +4,7 @@ category: post
 published: true
 title: More Public Domain Movies I watched in 2019
 ---
-A few weeks ago, I wrote about all the [Public Domain movies I watched](http://ajroach42.com/cataloging-the-public-domain-pd-movies-i-watched-in-2019/) on my home media server in 2019, with links to where you could watch them all yourself. Today I'm finishing that list off with the rest of the Public Domain movies I watched in 2019 (which means, mostly, the stuff I watched on my phone, or on a plane, or in a car, or just didn't download for whatever reason.) This list is a little less coplete, because I had to do it from memory. Let's get to it. 
+A few weeks ago, I wrote about all the [Public Domain movies I watched](http://ajroach42.com/cataloging-the-public-domain-pd-movies-i-watched-in-2019/) on my home media server in 2019, with links to where you could watch them all yourself. Today I'm finishing that list off with the rest of the Public Domain movies I watched in 2019 (which means, mostly, the stuff I watched on my phone, or on a plane, or in a car, or just didn't download for whatever reason.) This list is a little less complete, because I had to do it from memory, but there's some good stuff in here and I think it'll be useful. Let's get to it. 
 
 ## By Whose Hand (1932) - 
 
@@ -198,7 +198,4 @@ This is just a worse, shorter edited version of The Phantom Empire as discussed 
 
 This is a solid B movie. Lon Chaney Jr. stars as a criminal who is executed, brought back to life, and made practically indestructible. 
 
-It's not too bad. 
-
-
-
+It's not too bad.
