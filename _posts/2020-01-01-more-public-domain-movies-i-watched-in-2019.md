@@ -82,29 +82,45 @@ I don't know what to say about this one. It's a Japanese Monster Movie, but it's
 
 ## A Message from Mars (1913) - 
 
+[Watch it on peertube](https://peertube.mastodon.host/videos/watch/120c9987-ad6e-4ac5-b396-6606c9ba28e6)
+
 The first British Scifi Flick! It's kind of a take on A Christmas Carol, in that a cranky dude is shown the error of his ways by a seemingly supernatural visitor. Silent (ofc), a tad slow, but worth watching.
 
 ## Night of the Living Dead (1968) - 
+
+[Watch it on peertube](https://peertube.mastodon.host/videos/watch/da918ffb-56bb-4593-a0c4-5e531447cdd3)
 
 Not much needs to be said here. It's the prototypical zombie flick. Suspenseful and spooky.
 
 ## Dick Tracy meets Gruesome (1947) - 
 
+[Watch it on peertube](https://peertube.mastodon.host/videos/watch/2c070bca-fdac-424d-8a47-31244e282387)
+
 Borris Karloff stars in this one, it's my favorite (and the last) of the Dick Tracey flicks of the 40s.
 
 ## Dick Tracy vs Cueball (1946) - 
 
-Another Tracy flick. This one isn't great, but it's not *that* bad.
+[Watch it on peertube](https://peertube.mastodon.host/videos/watch/849a8e58-47a5-4ef2-8f55-f64840a971dc)
+
+Another Tracy flick. This one isn't great, but it's not *that* bad. Kid stuff, but earnest. 
 
 ## Dick Tracy's Dilemma (1947) - 
+
+[Watch in on peertube](https://peertube.mastodon.host/videos/watch/9e20ac18-dda8-4d4e-91af-674d98610c92)
 
 Another Tracy winner. Not as good as Gruesome, IMO, but much better than cueball. 
 
 ## Dick Tracy (1937) - 
 
+[Watch Chapter 1 on archive.org](https://archive.org/details/dicktracy_chapter1)
+
 a 15-chapter film serial, and the best screen outing of the character, IMO. (In this, he fights a master criminal known as The Spider, no relation to The Spider mentioned previously.)
 
+I'll collect all the chapters in to one page sometime and update this post. 
+
 ## Robot Monster (1953) - 
+
+[Watch it on archive.org](https://archive.org/details/robotmonster_201907)
 
 ... I don't really know what to say about this movie. It's ridiculous. It's self defeating. It's funny when it should not be. I put the poster on t-shirt, and I wear it proudly.
 
@@ -115,6 +131,8 @@ A reasonably well produced science fiction film, with decent action and okay spe
 The acting is mostly excellent, with a handful of heavy hitters from television and early film, and some uneven performances from a handful of newcomers. Ultimately actually pretty good.
 
 ## The Phantom From Space (1953) - 
+
+[Watch it on peertube](https://peertube.mastodon.host/videos/watch/257ffd2c-206d-460f-bc73-02650efdb435)
 
 A generic 50s B-Movie. A lone invader menaces the people of Earth. Can our Heroes stop them in time? Or will they just keep running back and forth between rooms in their big observatory?
 
