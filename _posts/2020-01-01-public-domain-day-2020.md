@@ -40,4 +40,4 @@ One of my absolute favorite Buster Keaton films. A real gem!
 
 ## What else? 
 
-Lots of other interesting works entered the Public Domain in the US this year, and I'm looking forward to exploring them with you. I'm going to try to make PD Day a monthly exercize all year. 
+Lots of other interesting works entered the Public Domain in the US this year, and I'm looking forward to exploring them with you. I'm going to try to make PD Day a monthly exercise all year. 
