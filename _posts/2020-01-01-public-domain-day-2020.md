@@ -8,7 +8,7 @@ It's January 1st, and for the second time in recent memory, it's public domain d
 
 I won't give a full list of works that entered the public domain, because that'd take a long time and be kind of boring. Instead I'm going to highlight a few important works, and share links to those works. If you want more general information, there are I recommend [Duke.edu's Public Domain Day Post](https://web.law.duke.edu/cspd/publicdomainday/2020/)
 
-## Gershwin's Rhapsody in Blue 
+## [Gershwin's Rhapsody in Blue](https://archive.org/embed/Rhapsody-in-Blue-Remixes)
 
 <iframe src="https://archive.org/embed/Rhapsody-in-Blue-Remixes" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
@@ -16,7 +16,7 @@ Gershwin's estate is a big part of the reason that works stopped entering the US
 
 (Note that while the sheet music is in the public domain, audio copyright in the US is a massive clusterfuck, and any given recording of the track is definitely still under copyright.) 
 
-## See See Rider 
+## [See See Rider](https://archive.org/embed/78_see-see-rider-blues_bea-booze-rainey_gbia0049689a) 
 
 <iframe src="https://archive.org/embed/78_see-see-rider-blues_bea-booze-rainey_gbia0049689a" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
@@ -31,7 +31,7 @@ Currently available from Project Gutenburg AU, but soon to be available in many 
 
 ## Sherlock Jr. 
 
-<video src="https://upload.wikimedia.org/wikipedia/commons/9/95/Sherlock_Jr._%281924%29.webm
+<video width="500" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Sherlock_Jr._%281924%29.webm
 "  controls>
 
 </video>
