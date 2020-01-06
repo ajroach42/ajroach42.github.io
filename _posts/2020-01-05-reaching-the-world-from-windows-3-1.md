@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Reaching the World from Windows 3.1
 ---
 I have an HP omnibook 300. It runs Windows 3.1 from ROM. It's about the coolest computer that was ever made: Almost exactly the size of a notebook (8.5x11.2x1.5" or so), instant on, no moving parts, stiff but reasonably satisfying keyboard (rubber domes, but decent ones), a non-backlit, sunlight readable, reflective TFT LCD and it runs for weeks of daily use on 4 rechargable AA batteries. I could talk about the computer for a while, but I'd rather talk about how I have been using it and how I want to use it in the future. (Tools are, after all, only as interesting as what we use them for.) 
@@ -97,7 +97,4 @@ That being said, my goal is to have a mostly asynchronous workflow *that doesn't
 
 ## Next Steps
 
-I'm overhauling my raspberry pi comms box this week. I'll do a writeup of where I land with it and take some pictures for a pst sometime before the end of the month. 
-
-
-
+I'm overhauling my raspberry pi comms box this week. I'll do a writeup of where I land with it and take some pictures for a pst sometime before the end of the month.
