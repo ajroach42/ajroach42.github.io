@@ -6,17 +6,6 @@ title: Old Computers and gizmos for sale
 ---
 I'm selling some old computers and other gizmos to make some extra cash and to make things easier for our upcoming move. This is a list of the things I still have available, along with a short description. I'll keep this up to date as things sell, and will provide additional photos upon request. See something you need? Reach out to me on [twitter](https://twitter.com/ajroach42), the [fediverse](https://retro.social/@ajroach42), or send me an email (me at andrewroach.net). 
 
-## Apple IIc 
-
-I have a great condition Apple IIc with carrying case, original power supply, and new power supply, a monochrome monitor, joystick, and a floppyEmu that can serve as a bootable disk for the IIc. It's tested and working. 
-
-- Apple IIc with carrying case, original power supply, and new power supply - $150 + shipping
-- Apple IIc monitor with stand - $150 + shipping 
-- FloppyEmu with case and SD card - $125 (also tested with Mac Plus) shipped in the US
-- Infocom's Hitchhiker's Guide to the Galaxy for the Apple II, tested and working, original box and most components - $35 shipped in the US 
-
-
-
 ## Tandy 1000 EX 
 
 I think it's working, but I've never tried to boot it up. Missing the expansion section cover, and does not have RAM expansion
@@ -25,7 +14,7 @@ $50 + shipping
 
 ## Tandy 1000 HX
 
-Definitely working, includes color monitor, RAM expansion, ISA to Tandy adapters, Tandy CF card hard drive, XT2IDE adapter. (I would not feel bad about keeping this one.) 
+Definitely working, color monitor, RAM expansion, ISA to Tandy adapters, Tandy CF card hard drive, XT2IDE adapter. 
 
 $300 + Shipping 
 
@@ -33,21 +22,19 @@ $300 + Shipping
 
 I got this right before the pandemic and I haven't turned it on yet. Includes greyscale monitor. The monitor works. I think the Tandy works. I'll check before I ship it and come down on the price if it doesn't. 
 
-$150 + Shipping (or best offer) 
+$150 + Shipping 
 
 ## C64
 
 I have a couple. I'll get rid of at least one of them. Cases are yellowed. Vintage but working power supply (which should be replaced!), and AV cables included
 
-- C64 with original power supply and AV cables - $150 + shipping 
+$150 + shipping 
 
 I also have: 
 
-- New power supply - $50 + shipping 
+- a new power supply - $50 + shipping 
 - a commodore monitor and chroma/luma cable - $100 + shipping 
 - a 5 1/4 disc drive - $50 + shipping 
-
-Various games on cartridge. Ask for details. 
 
 ## Timex Sinclair 2068
 
@@ -89,16 +76,20 @@ $325 + shipping
 
 ### HP Omnibook 600 
 
-Later omnibook, does not use AAs. Dead battery. 
+Later omnibook, does not use AAs. Dead battery. No PSU
 
 $125 + shipping 
 
 
 ### HP Omnibook 800 
 
-Later omnibook, does not use AAs. Dead battery. Left function key came loose from the board when it was shipped to me. Looks like an easy repair with epoxy, but I haven't attempted it yet. 
+Later omnibook, does not use AAs. Dead battery. PSU included. Fn key has seperated from keyboard. Is included. Could probaly be repaired easilly. 
 
 $125 + shipping 
+
+### Accessories 
+
+I have 
 
 ## HP 200 LX 
 
@@ -108,29 +99,21 @@ $150 + shipping
 
 ## HP Omnigo 
 
-I have a couple of omnigo's These are neat. They're DOS machines that run GEOS, and have a touch screen. I'll keep one. I'll keep all of them if I can figure out a way to make them useful, but so far I haven't made them useful. No accessories. 
+I have a couple of omnigo's These are neat. They're DOS machines that run GEOS, and have a touch screen. I'll keep one. I'll keep all of them if I can figure out a way to make them useful, but so far I haven't made them useful. 
 
-$55 shipped in the US  
-
-## Lexicomp Gradebook 
-
-It's a small (slightly larger than pocket sized) IBM PC compatible computer with a full sized keyboard and PCMCIA slot. Runs on AA batteries. Has a full serial and parallel port. If I could figure out how to make it see CF cards in the PCMCIA slot, I'd keep it, but so far, I have been unsuccessful in doing so (I'll blame time, it looks like it should be doable. I could use an SRAM card instead, allegedly it can boot from those! but that doesn't fit my current strategieis.) 
-
-$125 shipped in the US 
+$50, free shipping in the US. 
 
 ## Palm Pilots 
 
-I have a lot of late era palms, including a tapwave Zodiac 2, palm T|X, e2, and lifedrive. (I love these. I'll keep a lifedrive, but I have more than one. I might keep the Zodiac.) 
+I have a lot of late era palms, including a tapwave Zodiac 2, palm TX, e2, and lifedrive. (I love these. I'll keep a lifedrive, but I have more than one. I might keep the Zodiac.) 
 
 Palm E2 - $50 
-Palm T|X - $60 
+Palm TX - $60 
 Palm Life Drive - $70
 
 I have some chargers and sync cables too, but not many. $15/each. 
 
-I can supply some tips on using the machines in the modern era, and software, including a video player. Allegedly there is a driver for SDHC cards and a WPA2 driver for the T|X and lifedrive, but I have yet to attempt to use them. 
-
-All Palm prices include shipping in the US. 
+Palm prices include shipping in the US. 
 
 ## Sony Mavica FD 
 
@@ -154,39 +137,21 @@ One has windows installed, and has a docking station and Floppy drive. It's in g
 
 The other is booting FreeDOS, it is pretty banged up, and I don't have a floppy drive for it. $140
 
-## Two video cameras from the early 80s
-
-These are not camcorders. I think they were ENG cameras from news studios. Require a dedicated power brick to supply video out (included). One is a sony, the other is a panasonic. Tested and working, cases included. Sample footage or details if required. 
+## Two ENG video cameras from the early 80s, 
 
 including power supplies, video output cables, and cases. (details on request) 
 
-$100/each + shipping 
+$100/each 
 
 ## Amiga 2000 
 
 with a CF card adapter (Working!) and a Video Toaster card (unknown condition, haven't had time to track down the video toaster software to test.) 
 
-Boots, plays games, has a keyboard to ps/2 adapter and an optical mouse. $750 + shipping 
-
-## Amiga RockGen Genlock 
-
-Cheap, basic genlock. Works with the Amiga 2000, and should work with other amigas as well. Allows you to superimpose amiga graphics over a live video stream. 
-
-$50 shipped in the US 
-
-## Panasonic AV Mixer- WJ-MX10
-
-This is a hardware video mixer, used to stabalize signals, generate special effects and transitions, and just generally manipulate multiple Composite video signals. 
-
-$175 + shipping
-
 ## BASIC Engine Kits 
 
 i have ... 18 or 19 BASIC Engine kits [https://basicengine.org/](https://basicengine.org/)
 
-I have boards and all the required components. They're unassembled, because I haven't managed to crack surface mount soldering yet. I can do unassembled kits. 
-
-$20 shipped in the US.
+I have boards and all the required components. They're unassembled, because I haven't managed to crack surface mount soldering yet. I can do unassembled kits for $20 shipped in the US.
 
 ## Toys 
 
