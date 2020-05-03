@@ -154,11 +154,13 @@ One has windows installed, and has a docking station and Floppy drive. It's in g
 
 The other is booting FreeDOS, it is pretty banged up, and I don't have a floppy drive for it. $140
 
-## Two ENG video cameras from the early 80s, 
+## Two video cameras from the early 80s
+
+These are not camcorders. I think they were ENG cameras from news studios. Require a dedicated power brick to supply video out (included). One is a sony, the other is a panasonic. Tested and working, cases included. Sample footage or details if required. 
 
 including power supplies, video output cables, and cases. (details on request) 
 
-$100/each 
+$100/each + shipping 
 
 ## Amiga 2000 
 
