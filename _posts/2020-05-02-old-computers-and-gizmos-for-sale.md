@@ -152,3 +152,8 @@ I have boards and all the required components. They're unassembled, because I ha
 I should mention I am also selling a ton of vintage toys, which I post on [https://mountaintowntoys.com](https://mountaintowntoys.com )
 
 If you see something you want but you don't like my prices, let me know. I have some flex on some of them (not as much on others.)
+
+
+# Other Stuff 
+
+I have a lot of other electronic gizmos that I'm getting together in an attempt to sell. I'll do another post later with ore details. 
