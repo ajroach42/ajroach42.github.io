@@ -107,6 +107,61 @@ Palm E2 - $45
 Palm T|X - $55 
 Palm Life Drive - $65
 
+I have some chargers and sync cables too, but not many. $15/each. 
+
+## Sony Mavica FD 
+
+I have the first two mavica FDs, I only need one of them. Each include new batteries, but I only have one charger.
+
+Mavica 5 - $20 
+Mavica 7 - $30 
+Battery Charger - $10
+
+## Gateway Handbook 486
+
+Handbook 486 + Battery Pack + charger - Runs FreeDOS from CF card. Screen is a little low contrast, common for these machines. 
+
+$125 
+
+## Toshiba Liberetto 50ct 
+
+I have two, I only need one. 
+
+One has windows installed, and has a docking station and Floppy drive. It's in good cosmetic condition.  $250 
+
+The other is booting FreeDOS, it is pretty banged up, and I don't have a floppy drive for it. $140
+
+## Two ENG video cameras from the early 80s, 
+
+including power supplies, video output cables, and cases. (details on request) 
+
+$100/each 
+
+## Amiga 2000 
+
+with a CF card adapter (Working!) and a Video Toaster card (unknown condition, haven't had time to track down the video toaster software to test.) 
+
+## BASIC Engine Kits 
+
+i have ... 18 or 19 BASIC Engine kits https://basicengine.org/
+
+I have boards and all the required components. They're unassembled, because I haven't managed to crack surface mount soldering yet. I can do unassembled kits for $20 shipped in the US.
+
+## Toys 
+
+I should mention I am also selling a ton of vintage toys, which I post on https://mountaintowntoys.com 
+
+If you see something you want but you don't like my prices, let me know. I have some flex on some of them (not as much on others.) 
+
+
+
+
+
+
+
+
+
+
 
 
 
