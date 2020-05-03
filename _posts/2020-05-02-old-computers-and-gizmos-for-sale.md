@@ -125,7 +125,7 @@ Battery Charger - $10
 
 ## Gateway Handbook 486
 
-Handbook 486 + Battery Pack + charger - Runs FreeDOS from CF card. Screen is a little low contrast, common for these machines. 
+Handbook 486 + Battery Pack + charger - Runs FreeDOS from CF card. Screen is a little low contrast, common for these machines. Mouse is ... finicky. 
 
 $125 
 
@@ -137,9 +137,9 @@ One has windows installed, and has a docking station and Floppy drive. It's in g
 
 The other is booting FreeDOS, it is pretty banged up, and I don't have a floppy drive for it. $140
 
-## Two ENG video cameras from the early 80s, 
+## Two video cameras from the early 80s, 
 
-including power supplies, video output cables, and cases. (details on request) 
+including power supplies, video output cables, and cases. One is by sony, the other is a panasonic. These are not camcorders, and do not have any onboard storage. (details on request) 
 
 $100/each 
 
@@ -147,11 +147,21 @@ $100/each
 
 with a CF card adapter (Working!) and a Video Toaster card (unknown condition, haven't had time to track down the video toaster software to test.) 
 
+$700 + shipping 
+
+## Rockgen Amiga Genlock 
+
+Basic Genlock. Tested with Amiga 2000. Lets you overlay the amiga's video on other video sources. 
+
+$55 shipped in the US
+
 ## BASIC Engine Kits 
 
 i have ... 18 or 19 BASIC Engine kits [https://basicengine.org/](https://basicengine.org/)
 
-I have boards and all the required components. They're unassembled, because I haven't managed to crack surface mount soldering yet. I can do unassembled kits for $20 shipped in the US.
+I have boards and all the required components. They're unassembled, because I haven't managed to crack surface mount soldering yet. I can do unassembled kits. 
+
+$20 shipped in the US.
 
 ## Toys 
 
