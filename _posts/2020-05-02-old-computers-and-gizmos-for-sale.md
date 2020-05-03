@@ -120,7 +120,6 @@ It’s a small (slightly larger than pocket sized) IBM PC compatible computer wi
 $125 shipped in the US
 
 
-
 ## Palm Pilots 
 
 I have a lot of late era palms, including a tapwave Zodiac 2, palm TX, e2, and lifedrive. (I love these. I'll keep a lifedrive, but I have more than one. I might keep the Zodiac.) 
@@ -163,15 +162,27 @@ $100/each
 
 ## Amiga 2000 
 
-with a CF card adapter (Working!) and a Video Toaster card (unknown condition, haven't had time to track down the video toaster software to test.) 
+with a CF card adapter (Working!) and a Video Toaster card (unknown condition, haven’t had time to track down the video toaster software to test.)
 
-$700 + shipping 
+Boots, plays games, has a keyboard to ps/2 adapter and an optical mouse. 
+
+$750 + shipping
+
 
 ## Rockgen Amiga Genlock 
 
-Basic Genlock. Tested with Amiga 2000. Lets you overlay the amiga's video on other video sources. 
+Cheap, basic genlock. Works with the Amiga 2000, and should work with other amigas as well. Allows you to superimpose amiga graphics over a live video stream.
 
-$55 shipped in the US
+$50 shipped in the US
+
+
+## Panasonic AV Mixer- WJ-MX10
+
+This is a hardware video mixer, used to stabalize signals, generate special effects and transitions, and just generally manipulate multiple Composite video signals.
+
+$175 + shipping
+
+
 
 ## BASIC Engine Kits 
 
