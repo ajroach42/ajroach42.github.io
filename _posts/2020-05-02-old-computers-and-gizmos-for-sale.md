@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Old Computers and gizmos for sale
 ---
 I'm selling some old computers and other gizmos to make some extra cash and to make things easier for our upcoming move. This is a list of the things I still have available, along with a short description. I'll keep this up to date as things sell, and will provide additional photos upon request. See something you need? Reach out to me on [twitter](https://twitter.com/ajroach42), the [fediverse](https://retro.social/@ajroach42), or send me an email (me at andrewroach.net). 
@@ -151,27 +151,4 @@ I have boards and all the required components. They're unassembled, because I ha
 
 I should mention I am also selling a ton of vintage toys, which I post on https://mountaintowntoys.com 
 
-If you see something you want but you don't like my prices, let me know. I have some flex on some of them (not as much on others.) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+If you see something you want but you don't like my prices, let me know. I have some flex on some of them (not as much on others.)
