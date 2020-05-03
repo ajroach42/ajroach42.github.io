@@ -156,7 +156,7 @@ The other is booting FreeDOS, it is pretty banged up, and I don't have a floppy 
 
 ## Two video cameras from the early 80s, 
 
-including power supplies, video output cables, and cases. One is by sony, the other is a panasonic. These are not camcorders, and do not have any onboard storage. (details on request) 
+Including power supplies, video output cables, and cases. One is by sony, the other is a panasonic. These are not camcorders, and do not have any onboard storage. (details on request) 
 
 $100/each 
 
