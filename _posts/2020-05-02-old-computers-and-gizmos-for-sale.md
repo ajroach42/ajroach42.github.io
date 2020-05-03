@@ -51,8 +51,8 @@ Unknown working condition, no power supply. Everything on the board looks good, 
 
 (I really love this little computer and I'd like to get it working. It's a really neat machine, and everything that is good about it is the reason it didn't sell well and is tricky to work with today.)
 
-$40 + shipping 
-
+-- $40 + shipping --
+**SOLD**
 
 ## OLPC XO-1 
 
