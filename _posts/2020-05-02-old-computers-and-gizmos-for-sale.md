@@ -6,6 +6,17 @@ title: Old Computers and gizmos for sale
 ---
 I'm selling some old computers and other gizmos to make some extra cash and to make things easier for our upcoming move. This is a list of the things I still have available, along with a short description. I'll keep this up to date as things sell, and will provide additional photos upon request. See something you need? Reach out to me on [twitter](https://twitter.com/ajroach42), the [fediverse](https://retro.social/@ajroach42), or send me an email (me at andrewroach.net). 
 
+## Apple IIc 
+
+I have a great condition Apple IIc with carrying case, original power supply, and new power supply, a monochrome monitor, joystick, and a floppyEmu that can serve as a bootable disk for the IIc. It's tested and working. 
+
+- Apple IIc with carrying case, original power supply, and new power supply - $150 + shipping
+- Apple IIc monitor with stand - $150 + shipping 
+- FloppyEmu with case and SD card - $125 (also tested with Mac Plus) shipped in the US
+- Infocom's Hitchhiker's Guide to the Galaxy for the Apple II, tested and working, original box and most components - $35 shipped in the US 
+
+
+
 ## Tandy 1000 EX 
 
 I think it's working, but I've never tried to boot it up. Missing the expansion section cover, and does not have RAM expansion
@@ -14,7 +25,7 @@ $50 + shipping
 
 ## Tandy 1000 HX
 
-Definitely working, color monitor, RAM expansion, ISA to Tandy adapters, Tandy CF card hard drive, XT2IDE adapter. 
+Definitely working, includes color monitor, RAM expansion, ISA to Tandy adapters, Tandy CF card hard drive, XT2IDE adapter. (I would not feel bad about keeping this one.) 
 
 $300 + Shipping 
 
@@ -22,19 +33,21 @@ $300 + Shipping
 
 I got this right before the pandemic and I haven't turned it on yet. Includes greyscale monitor. The monitor works. I think the Tandy works. I'll check before I ship it and come down on the price if it doesn't. 
 
-$150 + Shipping 
+$150 + Shipping (or best offer) 
 
 ## C64
 
 I have a couple. I'll get rid of at least one of them. Cases are yellowed. Vintage but working power supply (which should be replaced!), and AV cables included
 
-$150 + shipping 
+- C64 with original power supply and AV cables - $150 + shipping 
 
 I also have: 
 
-- a new power supply - $50 + shipping 
+- New power supply - $50 + shipping 
 - a commodore monitor and chroma/luma cable - $100 + shipping 
 - a 5 1/4 disc drive - $50 + shipping 
+
+Various games on cartridge. Ask for details. 
 
 ## Timex Sinclair 2068
 
@@ -83,7 +96,7 @@ $125 + shipping
 
 ### HP Omnibook 800 
 
-Later omnibook, does not use AAs. Dead battery. 
+Later omnibook, does not use AAs. Dead battery. Left function key came loose from the board when it was shipped to me. Looks like an easy repair with epoxy, but I haven't attempted it yet. 
 
 $125 + shipping 
 
@@ -95,9 +108,9 @@ $150 + shipping
 
 ## HP Omnigo 
 
-I have a couple of omnigo's These are neat. They're DOS machines that run GEOS, and have a touch screen. I'll keep one. I'll keep all of them if I can figure out a way to make them useful, but so far I haven't made them useful. 
+I have a couple of omnigo's These are neat. They're DOS machines that run GEOS, and have a touch screen. I'll keep one. I'll keep all of them if I can figure out a way to make them useful, but so far I haven't made them useful. No accessories. 
 
-$50, free shipping in the US. 
+$55 shipped in the US  
 
 ## Palm Pilots 
 
@@ -141,11 +154,27 @@ $100/each
 
 with a CF card adapter (Working!) and a Video Toaster card (unknown condition, haven't had time to track down the video toaster software to test.) 
 
+Boots, plays games, has a keyboard to ps/2 adapter and an optical mouse. $750 + shipping 
+
+## Amiga RockGen Genlock 
+
+Cheap, basic genlock. Works with the Amiga 2000, and should work with other amigas as well. Allows you to superimpose amiga graphics over a live video stream. 
+
+$50 shipped in the US 
+
+## Panasonic AV Mixer- WJ-MX10
+
+This is a hardware video mixer, used to stabalize signals, generate special effects and transitions, and just generally manipulate multiple Composite video signals. 
+
+$175 + shipping
+
 ## BASIC Engine Kits 
 
 i have ... 18 or 19 BASIC Engine kits [https://basicengine.org/](https://basicengine.org/)
 
-I have boards and all the required components. They're unassembled, because I haven't managed to crack surface mount soldering yet. I can do unassembled kits for $20 shipped in the US.
+I have boards and all the required components. They're unassembled, because I haven't managed to crack surface mount soldering yet. I can do unassembled kits. 
+
+$20 shipped in the US.
 
 ## Toys 
 
@@ -156,4 +185,4 @@ If you see something you want but you don't like my prices, let me know. I have 
 
 # Other Stuff 
 
-I have a lot of other electronic gizmos that I'm getting together in an attempt to sell. I'll do another post later with ore details. 
+I have a lot of other electronic gizmos that I'm getting together in an attempt to sell. I'll do another post later with ore details.
