@@ -89,7 +89,7 @@ $125 + shipping
 
 ### Accessories 
 
-I have 
+- HP Omnibook 600 or later CD Rom Drive - $65 shipped in the US
 
 ## HP 200 LX 
 
