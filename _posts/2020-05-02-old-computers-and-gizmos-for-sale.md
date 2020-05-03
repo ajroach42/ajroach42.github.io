@@ -70,7 +70,7 @@ $250 + shipping
 
 ### HP Omnibook 425 
 
-The Omnibook 425 is in good cosmetic condition. No extras. I can supply a CF card for the C drive. 
+The Omnibook 425 is in good cosmetic condition, has ROM card. No extras. I can supply a CF card for the C drive. 
 
 $325 + shipping 
 
