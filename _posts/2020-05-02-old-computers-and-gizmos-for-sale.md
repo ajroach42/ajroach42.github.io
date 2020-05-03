@@ -6,6 +6,15 @@ title: Old Computers and gizmos for sale
 ---
 I'm selling some old computers and other gizmos to make some extra cash and to make things easier for our upcoming move. This is a list of the things I still have available, along with a short description. I'll keep this up to date as things sell, and will provide additional photos upon request. See something you need? Reach out to me on [twitter](https://twitter.com/ajroach42), the [fediverse](https://retro.social/@ajroach42), or send me an email (me at andrewroach.net). 
 
+## Apple IIc
+I have a great condition Apple IIc with carrying case, original power supply, and new power supply, a monochrome monitor, joystick, and a floppyEmu that can serve as a bootable disk for the IIc. It’s tested and working.
+
+- Apple IIc with carrying case, original power supply, and new power supply - $150 + shipping
+- Apple IIc monitor with stand - $150 + shipping
+- FloppyEmu with case and SD card - $125 (also tested with Mac Plus) shipped in the US
+- Infocom’s Hitchhiker’s Guide to the Galaxy for the Apple II, tested and working, original box and most components - $35 shipped in the US
+
+
 ## Tandy 1000 EX 
 
 I think it's working, but I've never tried to boot it up. Missing the expansion section cover, and does not have RAM expansion
