@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Tiny DOS computers
 ---
 I have a bunch of [tiny DOS computers for sale (among other things)](http://ajroach42.com/old-computers-and-gizmos-for-sale/) and some of the DOS machines are super weird, so I wanted to take a minute to talk about them, their strengths, and the kinds of flaws, comprimises, and limitations that only Early 90s computers have. 
@@ -89,5 +89,4 @@ Full serial and parallel ports, which is a big win.
 
 Honestly, after the omnibooks and maybe the OmniGo (if I can figure that out), this one has the most potential to me, especially if I can get it to work with CF cards. It's the one that I'd be the least worried about not selling (because it's tiny, and because I kind of want to keep it.) 
 
-But I haven't had the time to explore that potential yet, and if someone else does before me, that's fine. I'll find a similar machine eventually. 
-
+But I haven't had the time to explore that potential yet, and if someone else does before me, that's fine. I'll find a similar machine eventually.
