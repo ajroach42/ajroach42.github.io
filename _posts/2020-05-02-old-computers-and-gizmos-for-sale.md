@@ -112,15 +112,25 @@ I have a couple of omnigo's These are neat. They're DOS machines that run GEOS, 
 
 $55 shipped in the US  
 
+## Lexicomp Gradebook 
+
+It's a small (slightly larger than pocket sized) IBM PC compatible computer with a full sized keyboard and PCMCIA slot. Runs on AA batteries. Has a full serial and parallel port. If I could figure out how to make it see CF cards in the PCMCIA slot, I'd keep it, but so far, I have been unsuccessful in doing so (I'll blame time, it looks like it should be doable. I could use an SRAM card instead, allegedly it can boot from those! but that doesn't fit my current strategieis.) 
+
+$125 shipped in the US 
+
 ## Palm Pilots 
 
 I have a lot of late era palms, including a tapwave Zodiac 2, palm T|X, e2, and lifedrive. (I love these. I'll keep a lifedrive, but I have more than one. I might keep the Zodiac.) 
 
-Palm E2 - $45 
-Palm T|X - $55 
-Palm Life Drive - $65
+Palm E2 - $50 
+Palm T|X - $60 
+Palm Life Drive - $70
 
 I have some chargers and sync cables too, but not many. $15/each. 
+
+I can supply some tips on using the machines in the modern era, and software, including a video player. Allegedly there is a driver for SDHC cards and a WPA2 driver for the T|X and lifedrive, but I have yet to attempt to use them. 
+
+All Palm prices include shipping in the US. 
 
 ## Sony Mavica FD 
 
