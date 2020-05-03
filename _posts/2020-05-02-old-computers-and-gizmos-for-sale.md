@@ -143,12 +143,12 @@ with a CF card adapter (Working!) and a Video Toaster card (unknown condition, h
 
 ## BASIC Engine Kits 
 
-i have ... 18 or 19 BASIC Engine kits https://basicengine.org/
+i have ... 18 or 19 BASIC Engine kits [https://basicengine.org/](https://basicengine.org/)
 
 I have boards and all the required components. They're unassembled, because I haven't managed to crack surface mount soldering yet. I can do unassembled kits for $20 shipped in the US.
 
 ## Toys 
 
-I should mention I am also selling a ton of vintage toys, which I post on https://mountaintowntoys.com 
+I should mention I am also selling a ton of vintage toys, which I post on [https://mountaintowntoys.com](https://mountaintowntoys.com )
 
 If you see something you want but you don't like my prices, let me know. I have some flex on some of them (not as much on others.)
