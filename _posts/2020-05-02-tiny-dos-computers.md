@@ -2,9 +2,9 @@
 layout: post
 category: post
 published: true
-title: Tiny DOS computers
+title: Tiny DOS Computers
 ---
-I have a bunch of [tiny DOS computers for sale (among other things)](http://ajroach42.com/old-computers-and-gizmos-for-sale/) and some of the DOS machines are super weird, so I wanted to take a minute to talk about them, their strengths, and the kinds of flaws, comprimises, and limitations that only Early 90s computers have. 
+I have a bunch of [tiny DOS computers for sale (among other things)](http://ajroach42.com/old-computers-and-gizmos-for-sale/) and some of the DOS machines are super weird, so I wanted to take a minute to talk about them, their strengths, and the kinds of flaws, compromises, and limitations that only Early 90s computers have. 
 
 Machines I'm discussing: 
 
