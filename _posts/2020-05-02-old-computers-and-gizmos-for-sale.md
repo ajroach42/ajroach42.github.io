@@ -31,7 +31,7 @@ $300 + Shipping
 
 I got this right before the pandemic and I haven't turned it on yet. Includes greyscale monitor. The monitor works. I think the Tandy works. I'll check before I ship it and come down on the price if it doesn't. 
 
-$150 + Shipping 
+$150 + Shipping (or best offer) 
 
 ## C64
 
@@ -59,6 +59,7 @@ $40 + shipping
 I have two. One is working. One needs the firmware updated because it's firmware can't boot if the onboard clock is incorrect. I love this computer, too, and I will probably keep the working one? Maybe? I dunno.
 
 Needs new firmware, no PSU - $50 + shipping
+
 Working, with PSU - $100 + shipping
 
 ## HP Omnibooks 
@@ -111,6 +112,14 @@ $150 + shipping
 I have a couple of omnigo's These are neat. They're DOS machines that run GEOS, and have a touch screen. I'll keep one. I'll keep all of them if I can figure out a way to make them useful, but so far I haven't made them useful. 
 
 $50, free shipping in the US. 
+
+## Lexicomp Gradebook
+
+It’s a small (slightly larger than pocket sized) IBM PC compatible computer with a full sized keyboard and PCMCIA slot. Runs on AA batteries. Has a full serial and parallel port. If I could figure out how to make it see CF cards in the PCMCIA slot, I’d keep it, but so far, I have been unsuccessful in doing so (I’ll blame time, it looks like it should be doable. I could use an SRAM card instead, allegedly it can boot from those! but that doesn’t fit my current workflow.)
+
+$125 shipped in the US
+
+
 
 ## Palm Pilots 
 
