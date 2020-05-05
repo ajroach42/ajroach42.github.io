@@ -4,7 +4,9 @@ category: post
 published: true
 title: Old Computers and gizmos for sale
 ---
-I'm selling some old computers and other gizmos to make some extra cash and to make things easier for our upcoming move. This is a list of the things I still have available, along with a short description. I'll keep this up to date as things sell, and will provide additional photos upon request. See something you need? Reach out to me on [twitter](https://twitter.com/ajroach42), the [fediverse](https://retro.social/@ajroach42), or send me an email (me at andrewroach.net). 
+I'm selling some old computers and other gizmos. I bought a coffee shop, and this will help fund our first few weeks. This is a list of the things I still have available, along with a short description. I'll keep this up to date as things sell, and will provide additional photos upon request. 
+
+See something you need? Reach out to me on [twitter](https://twitter.com/ajroach42), the [fediverse](https://retro.social/@ajroach42), or send me an email (me at andrewroach.net). 
 
 ## Apple IIc
 I have a great condition Apple IIc with carrying case, original power supply, and new power supply, a monochrome monitor, joystick, and a floppyEmu that can serve as a bootable disk for the IIc. It’s tested and working.
@@ -45,7 +47,7 @@ I also have:
 - a commodore monitor and chroma/luma cable - $100 + shipping 
 - a 5 1/4 disc drive - $50 + shipping 
 
-## Timex Sinclair 2068
+## Timex Sinclair 2068 - SOLD 
 
 Unknown working condition, no power supply. Everything on the board looks good, and it probably works, I just haven't had time to build a PSU 
 
@@ -66,11 +68,11 @@ Working, with PSU - $100 + shipping
 
 I have several omnibooks. These are my favorite computers. I'll be keeping at least one of the AA battery powered ones, and maybe one of the later ones. The early omnibooks run on AA batteries and use Compact Flash cards in PCMCIA adapters for storage. They have monochrome screens, and will run for days or even weeks on a set of rechargable AAs. 
 
-### HP Omnibook 300 
+### HP Omnibook 300 SOLD 
 
-The first omnibook 300 is in nearly perfect cosmetic condition, with original manuals, rechargeable batteries (dead), power supply, and original box. Mouse is a little finicky sometimes. Has ROM card and CF based C drive. Runs on AA batteries. 
+This omnibook 300 is in nearly perfect cosmetic condition, with original manuals, rechargeable batteries (dead), power supply, and original box. Mouse is a little finicky sometimes. Has ROM card and CF based C drive. Runs on AA batteries. 
 
-$450 + shipping
+
 
 ### HP Omnibook 300  
 
@@ -181,7 +183,6 @@ $50 shipped in the US
 This is a hardware video mixer, used to stabalize signals, generate special effects and transitions, and just generally manipulate multiple Composite video signals.
 
 $175 + shipping
-
 
 
 ## BASIC Engine Kits 
