@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: DeOldify - Automatically colorizing videos
 ---
 Whew, what a year! I bought a computer in March with the intent of using it to do some video processing and film preservation work. Then ... well, this year happened. Last night, I finally finished setting it up, and I now have a great video editing rig (well, aside from the *slow* hdd, but we'll deal with that next week), and I've started playing with some automated post-processing. Today, I'd like to show you [DeOldify](https://github.com/jantic/DeOldify). 
