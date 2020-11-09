@@ -27,6 +27,8 @@ Have some still images:
 
 There are better examples of the DeOldify github page, and on MyHeritage (which uses a new version of the same algorithms), but you get the idea. 
 
+I will point out that these colors are mostly Wrong. the Space Patrol uniforms should be red and green. I don't mind this, but it might bother other folks. 
+
 It works for video. Jantic posted some GIFs of video frames with some promising results. 
 
 I decided to throw it at one of the worst videos in my collection, a low resolution, low contrast, noisy episode of Space Patrol. 
@@ -42,5 +44,7 @@ The color:
 Some scenes from the colorized version look great! Some of them are flickery, messy, and ugly! There are lots of adjustments I can make on the front end to clean up the video and make it easier for deoldify to do it's work, and there are some tweaks I can do within DeOldify that might improve things too. 
 
 So far, I'm tennatively hopeful. 
+
+I'll have more to say about the process, why I'm doing this, and what further results I'm able to achieve in subsequent posts. Look for them in the coming weeks. 
 
 Have you done any video processing with ML? I'd love to hear about it. 
