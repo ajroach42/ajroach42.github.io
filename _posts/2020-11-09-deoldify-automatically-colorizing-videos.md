@@ -11,12 +11,16 @@ First, DeOldify is designed for still images, and it does a great job there most
 Have some still images: 
 
 ![Before]({{site.baseurl}}/images/17405-1-1329762897.png)
+
 ![After]({{site.baseurl}}/images/Enhanced_photo (3).jpg)
 
 ![Before]({{site.baseurl}}/images/himmelskibet-a-trip-to-mars-1918-holger-madsen-recensione-05.jpg)
+
 ![After]({{site.baseurl}}/images/Enhanced_photo.jpg)
 
+
 ![Before]({{site.baseurl}}/images/SPACE-PATROL-16.jpg)
+
 ![Enhanced_photo (1).jpg]({{site.baseurl}}/images/Enhanced_photo (1).jpg)
 
 ![Enhanced_photo (5).jpg]({{site.baseurl}}/images/Enhanced_photo (5).jpg)
