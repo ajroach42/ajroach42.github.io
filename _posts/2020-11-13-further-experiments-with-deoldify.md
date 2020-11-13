@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Further Experiments with DeOldify
 ---
 As I mentioned in [my last post about DeOldify](http://ajroach42.com/deoldify-automatically-colorizing-videos/), my results so far have been Mixed. I'm learning what makes a good candidate for DeOldification, and what kinds of problems the system of DeOldifying will work around, versus the kinds of problems that stop it from working. Here are the results of my recent experiments: 
@@ -55,5 +55,4 @@ Over the next few days, I have queued up the following films and episodes from t
 - The Phantom of the Opera
 - The Last Man on Earth 
 
-I expect my results to continue to be pretty mixed, but I'll report back here with the best and the worst, and thoughts on moving forward in a few days. 
-
+I expect my results to continue to be pretty mixed, but I'll report back here with the best and the worst, and thoughts on moving forward in a few days.
