@@ -24,7 +24,7 @@ Video tape has existed since the 50s in the commercial space. Until the advent o
 
 Early professional video tape was usually in the [Quadroplex format](https://en.wikipedia.org/wiki/Quadruplex_videotape), it was about 2" thick, and used a playback mechanism the size of a standard pickup truck bed. It was a decidedly professional format.
 
-But Open Reel Video Tape didn't *stay* a professional format. Starting in 1965, Sony introduced the [CV-2000 an open reel video tape format for home use](https://en.wikipedia.org/wiki/CV-2000). It had limitations: It was black and white only, it was about [half the resolution of a standard TV](https://en.wikipedia.org/wiki/Skip_field), and it was fairly large and heavy, which ment it was primarily used for Time Shifting (much like Betmax and VHS in their early days.) 
+But Open Reel Video Tape didn't *stay* a professional format. Starting in 1965, Sony introduced the [CV-2000 an open reel video tape format for home use](https://en.wikipedia.org/wiki/CV-2000). It had limitations: It was black and white only, it was about [half the resolution of a standard TV](https://en.wikipedia.org/wiki/Skip_field), and it was fairly large and heavy, which meant it was primarily used for Time Shifting (much like Betmax and VHS in their early days.) 
 
 *But*, and it's a big But, The CV-2000 was 1/10th the cost and 1/10th the size of a Quadroplex system. Half the resolution at 1/10th the cost and size? It's hard to argue with that. Of course, it would only get smaller (and occasionally cheaper) from there. 
 
