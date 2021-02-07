@@ -96,6 +96,9 @@ The video activists of the 70s were, mostly, right. That's what it means for the
 
 ### Let me give you some examples: 
 
+![david-cort-videofreex-mayday-realtime-1971_crop.jpg]({{site.baseurl}}/images/david-cort-videofreex-mayday-realtime-1971_crop.jpg)
+> David Cort at a Vietnam protest about to be clubbed. (The more things change...) Courtesy Videofreex.
+
 2020 saw massive, nationwide protests against police brutality culminating in what many have described as Police Riots. These Police Riots have been documented by citizen journalists, and collected and sorted and verified by regular people. This [thread on Twitter, for example, contains still images and video footage of more than 900 instances of police violence](https://twitter.com/greg_doucette/status/1331630328469917697), directly in response to peacful protests against police violence. 
 
 This is footage that would not be in circulation without ubiquitous video cameras, and multiple avenues for the creation and distribution of television. We are the media, for better and for worse. 
