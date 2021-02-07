@@ -153,17 +153,17 @@ That is to say, I want to use the platform I've built to draw attention to work 
 
 ### Further Reading
 
-[The Independent Video Archive](https://mediaburn.org/)
-[TVTV at wikipedia](https://en.wikipedia.org/wiki/TVTV_(video_collective))
-[Lord of the Universe by TVTV at Wikipedia](https://en.wikipedia.org/wiki/Lord_of_the_Universe)
-[Mass Amateurization at Wikipedia](https://en.wikipedia.org/wiki/Mass_amateurization)
-[Media Democracy at Wikipedia](https://en.wikipedia.org/wiki/Media_democracy)
-[Guerilla TV at Wikipedia](https://en.wikipedia.org/wiki/Guerrilla_television)
-[Radical Software at wikipedia](https://en.wikipedia.org/wiki/Radical_Software)
-[Radical Software at Archive.org](https://archive.org/search.php?query=creator%3A%22Radical+Software%22)
-[The Videofreex at archive.org](https://archive.org/search.php?query=videofreex&and[]=mediatype%3A%22movies%22)
-[The world's largest TV Studio (TVTV)](https://archive.org/details/worlds-largest-studio-082_16278_PM0040843_r01of01)
-[TVTV at Archive.org](https://archive.org/search.php?query=creator%3A%22TVTV+%28Top+Value+Television%29%22)
+- [The Independent Video Archive](https://mediaburn.org/)
+- [TVTV at wikipedia](https://en.wikipedia.org/wiki/TVTV_(video_collective))
+- [Lord of the Universe by TVTV at Wikipedia](https://en.wikipedia.org/wiki/Lord_of_the_Universe)
+- [Mass Amateurization at Wikipedia](https://en.wikipedia.org/wiki/Mass_amateurization)
+- [Media Democracy at Wikipedia](https://en.wikipedia.org/wiki/Media_democracy)
+- [Guerilla TV at Wikipedia](https://en.wikipedia.org/wiki/Guerrilla_television)
+- [Radical Software at wikipedia](https://en.wikipedia.org/wiki/Radical_Software)
+- [Radical Software at Archive.org](https://archive.org/search.php?query=creator%3A%22Radical+Software%22)
+- [The Videofreex at archive.org](https://archive.org/search.php?query=videofreex&and[]=mediatype%3A%22movies%22)
+- [The world's largest TV Studio (TVTV)](https://archive.org/details/worlds-largest-studio-082_16278_PM0040843_r01of01)
+- [TVTV at Archive.org](https://archive.org/search.php?query=creator%3A%22TVTV+%28Top+Value+Television%29%22)
 
 
 
