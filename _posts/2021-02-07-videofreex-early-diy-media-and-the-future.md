@@ -40,16 +40,57 @@ Film is Cumbersome and Expensive, and frankly every problem these early video ta
 
 As early as 1969, the potential of Home Video was making waves. Activists, artists, and various countercultures embraced the potential of creating their own television. They knew what they were doing. 
 
+One such group is the NY based artist collective known as [The Videofreex](https://en.wikipedia.org/wiki/Videofreex) or The Media Bus. Some of their footage survives on youtube, but most of it is now locked behind Expensive paywalls. These folks covered the gamut. 
+
 Here, for example, is a video of [The Videofreex interviewing Fred Hampton in 1969](https://www.youtube.com/watch?v=wIbeTS8G5co), a few months before he would be murdered by the Chicago Police Department, while Bobby Seale was on trial in a kangaroo court for conspiracy, crossing state lines with intent to incite a riot. 
 
-At the same time, The [Raindance Foundation](https://en.wikipedia.org/wiki/Raindance_Foundation) was publishing the magazine [Radical Software](https://www.radicalsoftware.org/e/index.html) 
-
+They also filmed concerts, and produced local news! 
 
 The Videofreex produced this concert film in 1970: 
 
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://mountaintown.video/videos/embed/d99e5df4-d013-4a40-978c-84122e2eec51?start=3m56s&warningTitle=0" frameborder="0" allowfullscreen></iframe>
 
-and 
+
+and [here is a link to the local news show they broadcast on the pirate TV station](https://www.youtube.com/watch?v=BFkeoVkQUe8) they ran using a television transmitter given to them by Abbie Hoffman. 
+
+(There is a doucmentary about The Videofreex available on iTunes called Here Come the Videofreex, that frankly deserves to be liberated.) 
+
+On the other coast, [TVTV was creating independent media](https://en.wikipedia.org/wiki/TVTV_(video_collective)). Here's an example of work from TVTV, including one of Bill Murray's first performances. 
+
+<iframe src="https://archive.org/embed/tvtv_goes_to_the_superbowl" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+At the same time, The [Raindance Foundation](https://en.wikipedia.org/wiki/Raindance_Foundation) was publishing the magazine [Radical Software](https://www.radicalsoftware.org/e/index.html), the [first issue](https://archive.org/details/radsoft-0101) of which contains these blistering lines: 
+
+> Global information is the natural enemy of local government, for it reveals the true context in
+which that government is operating. Global television is directly responsible for the political
+turmoil that is increasing around the world today. The political establishments sense this
+and are beginning to react. But it's too late. Television makes it impossible for governments
+to maintain the illusion of sovereignty and separatism which are essential for their existence .
+Television is one of the most revolutionary tools in the entire spectrum of technoanarchy
+
+>Television, like the computer, is a sleeping giant. But those who are beginning to use it in
+revolutionary new ways are very much awake. The first generation of television babies has
+reached maturity having watched 15,000 hours of television while completing only 10,000
+hours of formal education through high school. Yet television itself still has not left the
+breast of commercial sponsorship. Just as cinema had imitated theater for seventy years,
+television has imitated cinema imitating theater for twenty years. But the new generation
+with its transnational interplanetary video consciousness will not tolerate the miniaturized
+vaudeville that is television as presently employed. We will liberate the media. 
+
+In many ways, it smacks of the kind of self-aggrandizing common to many would-be thought leaders in San Fransisco circa 1969. The same kind of techno-utopian thinking that produced Computer-Lib/Dream Machines and gave birth to the idea technology was an unmitigated force for good. (Spoiler alert: It ain't. Technology is a tool, a force multiplyer. If it makes things better, or if it makes things worse, that is as a result of the intentions and shortcomings of the people who wield it.)
+
+However, while I probably would not have phrased things the way they are phrased above, I can't argue with the base sentiment (hell, I've spent the last decade of my life arguing along side it!) We can, and must, and in many cases Have liberated the media. 
+
+2020 saw massive, nationwide protests against police brutality culminating in what many have described as Police Riots. These Police Riots have been documented by citizen journalists, and collected and sorted and verified by regular people. This [thread on Twitter, for example, contains still images and video footage of more than 900 instances of police violence](https://twitter.com/greg_doucette/status/1331630328469917697), directly in response to peacful protests against police violence. 
+
+This is footage that would not be in circulation without the 
+
+2016 proved to us, again, the power of the media. Late 2020 and Early 2021 have demonstrated to us, again, the potential destructive power of DIY Media when used to sew hatred and spread baseless conspiracy theories. [Youtube is radicalizing teens](https://www.thedailybeast.com/how-youtube-pulled-these-men-down-a-vortex-of-far-right-hate) in to far right ideologies (which is a perfect example of the problems of Content Discovery I aluded to above, but is still a topic for another post.) 
+
+Participatory media is as powerful as the activitsts of the 60s and 70s thought it would be, and it has been weaponized by far right racist extremists as a recruiting tool. 
+
+ 
 
 
 
