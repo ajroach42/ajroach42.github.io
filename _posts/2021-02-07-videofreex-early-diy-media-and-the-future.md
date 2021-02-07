@@ -100,7 +100,7 @@ The video activists of the 70s were, mostly, right. That's what it means for the
 
 This is footage that would not be in circulation without ubiquitous video cameras, and multiple avenues for the creation and distribution of television. We are the media, for better and for worse. 
 
-Late 2020 and Early 2021 have demonstrated the potential destructive power of DIY Media when used to sew hatred and spread baseless conspiracy theories. [Youtube is radicalizing teens](https://www.thedailybeast.com/how-youtube-pulled-these-men-down-a-vortex-of-far-right-hate) in to far right ideologies (which is a perfect example of the problems of Content Discovery I mentioned to above, but is still a topic for another post.) 
+Late 2020 and Early 2021 have demonstrated the potential destructive power of DIY Media when used to sew hatred and spread baseless conspiracy theories. [Youtube is radicalizing teens](https://www.thedailybeast.com/how-youtube-pulled-these-men-down-a-vortex-of-far-right-hate) in to far right ideologies (which is a perfect example of the problems of Content Discovery I mentioned to above, but that is still a topic for another post.) 
 
 Participatory media is as powerful as the activitsts of the 60s and 70s thought it would be. It has been weaponized by far right racist extremists as a recruiting tool, it has been used to shine a light on the massive inequality in this country. Technology is neither good nor bad. Media creation is neither good nor bad. They are tools, we have to use them. 
 
