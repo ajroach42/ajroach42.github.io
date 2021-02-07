@@ -2,7 +2,7 @@
 layout: post
 category: post
 published: false
-title: 'VideoFreex, Early DIY Media, and The Future'
+title: 'The Forgotten History of DIY Media '
 ---
 When researching the history of Video in [DIY Media](http://ajroach42.com/diy-media/) (or as Wikipedia is so fond of calling it, [Citizen Media](https://en.wikipedia.org/wiki/Citizen_media) or [Participatory Media](https://en.wikipedia.org/wiki/Participatory_media)), most popular accounts start with the release of the BMC-110 betamax movie camcorder by Sony in 1983. This is the first consumer Camcorder, it seems like a logical place to start. It isn't. Most popular accounts are wrong. This isn't surprising, [we're bad at this kind of thing](http://ajroach42.com/we-are-terrible-stewards-of-history/), and pretty much always have been. So, today, I want to spend a few bits talking about the first consumer video camera and tape recorder, [the Sony Portapak](https://en.wikipedia.org/wiki/Portapak) released in 1967, and the DIY Media Revolution that wasn't. 
 
@@ -40,27 +40,32 @@ Film is Cumbersome and Expensive, and frankly every problem these early video ta
 
 As early as 1969, the potential of Home Video was making waves. Activists, artists, and various countercultures embraced the potential of creating their own television. They knew what they were doing. 
 
-One such group is the NY based artist collective known as [The Videofreex](https://en.wikipedia.org/wiki/Videofreex) or The Media Bus. Some of their footage survives on youtube, but most of it is now locked behind Expensive paywalls. These folks covered the gamut. 
+One such group is the NY based artist collective known as [The Videofreex](https://en.wikipedia.org/wiki/Videofreex) or The Media Bus. Some of [their footage survives on youtube](https://www.youtube.com/user/Videofreex), but most of it is now locked behind [Expensive paywalls](https://www.vdb.org/artists/videofreex). 
+
+These folks covered the gamut. News, activism, entertainment, 
 
 Here, for example, is a video of [The Videofreex interviewing Fred Hampton in 1969](https://www.youtube.com/watch?v=wIbeTS8G5co), a few months before he would be murdered by the Chicago Police Department, while Bobby Seale was on trial in a kangaroo court for conspiracy, crossing state lines with intent to incite a riot. 
 
-They also filmed concerts, and produced local news! 
+They also filmed concerts, and produced local news, and other "entertainment"! 
 
 The Videofreex produced this concert film in 1970: 
 
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://mountaintown.video/videos/embed/d99e5df4-d013-4a40-978c-84122e2eec51?start=3m56s&warningTitle=0" frameborder="0" allowfullscreen></iframe>
 
 
-and [here is a link to the local news show they broadcast on the pirate TV station](https://www.youtube.com/watch?v=BFkeoVkQUe8) they ran using a television transmitter given to them by Abbie Hoffman. 
+[Here is a link to the local news show they broadcast on the pirate TV station](https://www.youtube.com/watch?v=BFkeoVkQUe8) they ran using a television transmitter given to them by Abbie Hoffman. 
 
-(There is a doucmentary about The Videofreex available on iTunes called Here Come the Videofreex, that frankly deserves to be liberated.) 
+[This is a comedy sketch they produced about a UFO landing](https://archive.org/details/lanesville_tv_ufo), which was also broadcast on Lanesvile TV. 
+
+(There is a doucmentary about The Videofreex available on iTunes called Here Come the Videofreex. It, and most of the rest of their footage frankly deserves to be liberated.) 
 
 On the other coast, [TVTV was creating independent media](https://en.wikipedia.org/wiki/TVTV_(video_collective)). Here's an example of work from TVTV, including one of Bill Murray's first performances. 
 
 <iframe src="https://archive.org/embed/tvtv_goes_to_the_superbowl" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+Much like The Videofreex, little of the work TVTV produced is in general circulation and what does remain is often locked behind mutli-hundred dollar paywalls. As a result, we rarely hear about it, rarely see it, and often don't know it exists. It's almost like the organizations that were intrusted to preserve this media for future have failed to do so in the most ironic way possible. 
 
-At the same time, The [Raindance Foundation](https://en.wikipedia.org/wiki/Raindance_Foundation) was publishing the magazine [Radical Software](https://www.radicalsoftware.org/e/index.html), the [first issue](https://archive.org/details/radsoft-0101) of which contains these blistering lines: 
+At the same time that TVTV and The Videofreex were active, The [Raindance Foundation](https://en.wikipedia.org/wiki/Raindance_Foundation) was publishing the magazine [Radical Software](https://www.radicalsoftware.org/e/index.html), the [first issue](https://archive.org/details/radsoft-0101) of which contains these blistering lines: 
 
 > Global information is the natural enemy of local government, for it reveals the true context in
 which that government is operating. Global television is directly responsible for the political
@@ -82,19 +87,33 @@ In many ways, it smacks of the kind of self-aggrandizing common to many would-be
 
 However, while I probably would not have phrased things the way they are phrased above, I can't argue with the base sentiment (hell, I've spent the last decade of my life arguing along side it!) We can, and must, and in many cases Have liberated the media. 
 
-2020 saw massive, nationwide protests against police brutality culminating in what many have described as Police Riots. These Police Riots have been documented by citizen journalists, and collected and sorted and verified by regular people. This [thread on Twitter, for example, contains still images and video footage of more than 900 instances of police violence](https://twitter.com/greg_doucette/status/1331630328469917697), directly in response to peacful protests against police violence. 
-
-This is footage that would not be in circulation without the 
-
-2016 proved to us, again, the power of the media. Late 2020 and Early 2021 have demonstrated to us, again, the potential destructive power of DIY Media when used to sew hatred and spread baseless conspiracy theories. [Youtube is radicalizing teens](https://www.thedailybeast.com/how-youtube-pulled-these-men-down-a-vortex-of-far-right-hate) in to far right ideologies (which is a perfect example of the problems of Content Discovery I aluded to above, but is still a topic for another post.) 
-
-Participatory media is as powerful as the activitsts of the 60s and 70s thought it would be, and it has been weaponized by far right racist extremists as a recruiting tool. 
-
- 
-
-
 
 ## What does this mean for the future? 
+
+The video activists of the 70s were, mostly, right. That's what it means for the future. They were 30 years too early to see these concepts reach their full impact, but they saw the potential. 
+
+### Let me give you some examples: 
+
+2020 saw massive, nationwide protests against police brutality culminating in what many have described as Police Riots. These Police Riots have been documented by citizen journalists, and collected and sorted and verified by regular people. This [thread on Twitter, for example, contains still images and video footage of more than 900 instances of police violence](https://twitter.com/greg_doucette/status/1331630328469917697), directly in response to peacful protests against police violence. 
+
+This is footage that would not be in circulation without ubiquitous video cameras, and multiple avenues for the creation and distribution of television. We are the media, for better and for worse. 
+
+Late 2020 and Early 2021 have demonstrated the potential destructive power of DIY Media when used to sew hatred and spread baseless conspiracy theories. [Youtube is radicalizing teens](https://www.thedailybeast.com/how-youtube-pulled-these-men-down-a-vortex-of-far-right-hate) in to far right ideologies (which is a perfect example of the problems of Content Discovery I mentioned to above, but is still a topic for another post.) 
+
+Participatory media is as powerful as the activitsts of the 60s and 70s thought it would be. It has been weaponized by far right racist extremists as a recruiting tool, it has been used to shine a light on the massive inequality in this country. Technology is neither good nor bad. Media creation is neither good nor bad. They are tools, we have to use them. 
+
+## Next Steps
+
+For me, personally, recognizing the impact of DIY Media in the Jan 6th attack on the United States Capitol was a wakeup call that led me to question some of my core beliefs. This concept of participatory media is something for which I have advocated for the last ten years, and I had to face that the events on the capitol were a direct result of the application of participatory media by people with whom I have no other common ground. 
+
+Discovering this forgotten history of DIY Media
+
+
+
+
+
+
+
 
 
 
