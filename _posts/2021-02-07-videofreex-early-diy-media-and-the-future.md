@@ -18,9 +18,9 @@ This is, really, the easiest part of this story to understand. We, as a culture,
 
 A Camcorder is a video camera and a video recorder in the same package. For us to even need a word to describe that, seperate from Video Camera, implies the existence of video cameras and video recorders as distinct devices, and that is surely the case. 
 
-## What existed prior to Betamax ?
+## What existed prior to Betamax?
 
-Video tape has existed since the 50s in the commercial space. Until the advent of the [u-matic professional video tape format](https://en.wikipedia.org/wiki/U-matic), "Video Tape" was largely the same as "Audio Tape" was before the introduction of the audio cassette. That is to say, it was a spool of magnetic ribbon that would get threaded by hand through the recording and playback mechanisms of a video tape recorder. 
+Video tape has existed since the 50s in the commercial space. Until the advent of the [u-matic professional video tape format](https://en.wikipedia.org/wiki/U-matic), "Video Tape" was largely the same as "Audio Tape" in that it was a spool of magnetic ribbon that would get threaded by hand through the recording and playback mechanisms of a tape recorder. 
 
 Early professional video tape was usually in the [Quadroplex format](https://en.wikipedia.org/wiki/Quadruplex_videotape), it was about 2" thick, and used a playback mechanism the size of a standard pickup truck bed. It was a decidedly professional format.
 
