@@ -46,7 +46,7 @@ One such group is the NY based artist collective known as [The Videofreex](https
 
 These folks covered the gamut. News, activism, entertainment, 
 
-Here, for example, is a video of [The Videofreex interviewing Fred Hampton in 1969](https://invidious.tube/watch?v=wIbeTS8G5co), a few months before he would be murdered by the Chicago Police Department, while Bobby Seale was on trial in a kangaroo court for conspiracy, crossing state lines with intent to incite a riot. 
+Here, for example, is a video of [The Videofreex interviewing Fred Hampton in 1969](https://invidious.tube/watch?v=wIbeTS8G5co), a few months before he would be murdered by the Chicago Police Department, while Bobby Seale was on trial in a kangaroo court for conspiracy, and crossing state lines with intent to incite a riot. 
 
 They also filmed concerts, and produced local news, and other "entertainment"! 
 
