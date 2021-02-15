@@ -85,7 +85,7 @@ television has imitated cinema imitating theater for twenty years. But the new g
 with its transnational interplanetary video consciousness will not tolerate the miniaturized
 vaudeville that is television as presently employed. We will liberate the media. 
 
-In many ways, it smacks of the kind of self-aggrandizing common to many would-be thought leaders in San Fransisco circa 1969. The same kind of techno-utopian thinking that produced Computer-Lib/Dream Machines and gave birth to the idea technology was an unmitigated force for good. (Spoiler alert: It ain't. Technology is a tool, a force multiplyer. If it makes things better, or if it makes things worse, that is as a result of the intentions and shortcomings of the people who wield it.)
+In many ways, it smacks of the kind of self-aggrandizing common to many would-be thought leaders in San Francisco circa 1969. The same kind of techno-utopian thinking that produced Computer-Lib/Dream Machines and gave birth to the idea technology was an unmitigated force for good. (Spoiler alert: It ain't. Technology is a tool, a force multiplier. If it makes things better, or if it makes things worse, that is as a result of the intentions and shortcomings of the people who wield it.)
 
 However, while I probably would not have phrased things the way they are phrased above, I can't argue with the base sentiment (hell, I've spent the last decade of my life arguing along side it!) We can, and must, and in many cases Have liberated the media. 
 
