@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Revisiting "Subject to Change: Guerrilla Television Revisited" '
 ---
 I've just finished reading _Subject to Change: Guerrilla Television revisted_ by Deirdre Boyle, and I have some thoughts about it that I want to capture while they're fresh. This isn't a review, really, just a way for me to organize how I feel now that the book is over. 
