@@ -22,7 +22,7 @@ More pages are devoted to TVTV than the others, because TVTV started sooner, las
 
 Ultimately, the biggest contributors to the failure of each of these video collectives came down to distribution and funding, and these twin issues fed on one another. 
 
-The only organization mentioned that seemed to have a clear vission, and a reasonable chance at success (Broadside TV) was, unfortuantely, the one that failed first. This was more or less entirely the fault of the FCC under Nixon. Prior to the change in FCC rules, allowing cable TV operators to forego local content, Broadside TV might have had a viable long term model.
+The only organization mentioned that seemed to have a clear vision, and a reasonable chance at success (Broadside TV) was, unfortuantely, the one that failed first. This was more or less entirely the fault of the FCC under Nixon. Prior to the change in FCC rules, allowing cable TV operators to forego local content, Broadside TV might have had a viable long term model.
 
 The problems of Funding and Distribution are, largely, solved problems today, but there was a third, more complicated problem: Organization. Every one of these efforts was eventually undone by struggles related to money or distribution, but before finances put the final nail in the coffin, each organization faced a crisis of purpose and identity. 
 
