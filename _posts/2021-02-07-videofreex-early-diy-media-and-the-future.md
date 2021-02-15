@@ -65,7 +65,7 @@ On the other coast, [TVTV was creating independent media](https://en.wikipedia.o
 
 <iframe src="https://archive.org/embed/tvtv_goes_to_the_superbowl" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-Much like The Videofreex, little of the work TVTV produced is in general circulation and what does remain is often locked behind mutli-hundred dollar paywalls. As a result, we rarely hear about it, rarely see it, and often don't know it exists. It's almost like the organizations that were intrusted to preserve this media for future have failed to do so in the most ironic way possible. 
+Much like The Videofreex, little of the work TVTV produced is in general circulation and what does remain is often locked behind multi-hundred dollar paywalls. As a result, we rarely hear about it, rarely see it, and often don't know it exists. It's almost like the organizations that were intrusted to preserve this media for future have failed to do so in the most ironic way possible. 
 
 At the same time that TVTV and The Videofreex were active, The [Raindance Foundation](https://en.wikipedia.org/wiki/Raindance_Foundation) was publishing the magazine [Radical Software](https://www.radicalsoftware.org/e/index.html), the [first issue](https://archive.org/details/radsoft-0101) of which contains these blistering lines: 
 
