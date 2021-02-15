@@ -8,7 +8,7 @@ When researching the history of Video in [DIY Media](http://ajroach42.com/diy-me
 
 First, I have to give credit to [Gravis](https://twitter.com/gravislizard) \\ [Cathode Ray Dude](https://www.youtube.com/CathodeRayDude) for opening my eyes with [this truly Excellent video on the history of consumer video formats from 67 - 83](https://invidious.tube/watch?v=30Uc-JxJzYI). 
 
-I live in this space, the tech and culture of the late 60s and early 70s are My Thing™️, and somehow in all the time I've spent in this space, I completely missed the early DIY TV movement. This, in some ways, blows my mind. In other ways, it highlights how Content Discovery is and will continue to be the defining problem of our generation (but that's it's own post, for another day.) 
+I live in this space, the tech and culture of the late 60s and early 70s are My Thing™️, and somehow in all the time I've spent in this space, I completely missed the early DIY TV movement. This, in some ways, blows my mind. In other ways, it highlights how Content Discovery is and will continue to be the defining problem of our generation (but that's its own post, for another day.) 
 
 If you get the chance, go watch the documentary linked above. It's great. If you just want to see the bits that inspired this post, they pick up around the 25 minute mark. 
 
@@ -24,7 +24,7 @@ Video tape has existed since the 50s in the commercial space. Until the advent o
 
 Early professional video tape was usually in the [Quadroplex format](https://en.wikipedia.org/wiki/Quadruplex_videotape), it was about 2" thick, and used a playback mechanism the size of a standard pickup truck bed. It was a decidedly professional format.
 
-But Open Reel Video Tape didn't *stay* a professional format. Starting in 1965, Sony introduced the [CV-2000 an open reel video tape format for home use](https://en.wikipedia.org/wiki/CV-2000). It had limitations: It was black and white only, it was about [half the resolution of a standard TV](https://en.wikipedia.org/wiki/Skip_field), and it was fairly large and heavy, which meant it was primarily used for Time Shifting (much like Betmax and VHS in their early days.) 
+But Open Reel Video Tape didn't *stay* a professional format. Starting in 1965, Sony introduced the [CV-2000 an open reel video tape format for home use](https://en.wikipedia.org/wiki/CV-2000). It had limitations: It was black and white only, it was about [half the resolution of a standard TV](https://en.wikipedia.org/wiki/Skip_field), and it was fairly large and heavy, which meant it was primarily used for Time Shifting (much like Betamax and VHS in their early days.) 
 
 *But*, and it's a big But, The CV-2000 was 1/10th the cost and 1/10th the size of a Quadroplex system. Half the resolution at 1/10th the cost and size? It's hard to argue with that. Of course, it would only get smaller (and occasionally cheaper) from there. 
 
@@ -44,7 +44,7 @@ As early as 1969, the potential of Home Video was making waves. Activists, artis
 
 One such group is the NY based artist collective known as [The Videofreex](https://en.wikipedia.org/wiki/Videofreex) or The Media Bus. Some of [their footage survives on youtube](https://www.youtube.com/user/Videofreex), but most of it is now locked behind [Expensive paywalls](https://www.vdb.org/artists/videofreex). 
 
-These folks covered the gamut. News, activism, entertainment, 
+These folks covered the gamut: News, activism, entertainment. 
 
 Here, for example, is a video of [The Videofreex interviewing Fred Hampton in 1969](https://invidious.tube/watch?v=wIbeTS8G5co), a few months before he would be murdered by the Chicago Police Department, while Bobby Seale was on trial in a kangaroo court for conspiracy, and crossing state lines with intent to incite a riot. 
 
