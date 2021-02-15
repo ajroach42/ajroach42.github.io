@@ -64,3 +64,16 @@ The podcast model, that is to say the subscription/download model, is superior t
 The Creative Commons Organization has the right idea. 
 
 Stop worrying about Production Quality and make something. 
+
+## Further Reading 
+
+I have a copy of Guerrilla TV (1971) on the way, and I plan on reading that with a critical eye. I'll probably talk about that here when I'm done. 
+
+I also have plans to watch Here Come The VideoFreex. I imagine watching that after having read this will color my perception. 
+
+If these topics interest you, try: 
+
+- [DIY Media](http://ajroach42.com/diy-media/)
+- [We are Terrible Stewards of History](http://ajroach42.com/we-are-terrible-stewards-of-history/) 
+- [Document and Archive your art](http://ajroach42.com/document-your-art-archive-your-art/) 
+- [The Forgotten History of DIY Media](http://ajroach42.com/videofreex-early-diy-media-and-the-future/)
