@@ -24,7 +24,7 @@ I tried a lot of codecs! Here is a short list of some of the codecs I tried, and
 
 I was performing these transcodes from a wav file. I used lame, libopus, and ffmpeg for conversions, and likely would have been able to get smaller sizes from Speex and AAC if I was more familiar with more options I could tune in the transcoders. 
 
-Put another way, while Opus actually sounds pretty okay at 1.2MB, the only reason I was able to get it that small is because opusenc gives you a *lot* of freedom when your encoding, and provides that freedom through a really easy to understand CLI. Similarly, with the mp3 encoder I was using, it was possibel to carefully fine tune the files for very small file size. 
+Put another way, while Opus actually sounds pretty okay at 1.2MB, the only reason I was able to get it that small is because opusenc gives you a *lot* of freedom when your encoding, and provides that freedom through a really easy to understand CLI. Similarly, with the mp3 encoder I was using, it was possible to carefully fine tune the files for very small file size. 
 
 The same was not true about the other codecs listed, and the resulting files are the result of tuning each setting to the loewst quality option it would allow. I presume that, if I was given more control over the encoding process, I could produce smaller files out of the remaining codecs, but I don't think that matters much (as you'll see below.) 
 
