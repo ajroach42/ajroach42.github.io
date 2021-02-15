@@ -30,7 +30,7 @@ The thing that made TVTV successful on a national scale was that they were willi
 
 UCV and Broadside TV were also at their best when focussed on collaboration and centering their community, which became harder for each organization, in unique ways, as time progressed. TVTV failed when they chose to chase broadcasting, netowrk TV money. UCV failed when they lost their focus on community video, and started focussing on winning awards. Broadside TV failed by letting Funding become more important than using the medium of video to tell stories. 
 
-A further problem that plagued all four organizations, the Videofreex, and every other alternative media movement since the dawn of time: Archival. ([We are bad at archival](http://ajroach42.com/we-are-terrible-stewards-of-history/)) Many works from TVTV and the Freex survive, but few are easy to find, few are well known, and these two organizations are the exceptions. Much of the work done by UCV and Broadside TV was not, at the time the book was published, archived in any form or available to the public at all. (I'll find out if this is still true in the coming weeks.) 
+A further problem that plagued all three organizations, the Videofreex, and every other alternative media movement since the dawn of time: Archival. ([We are bad at archival](http://ajroach42.com/we-are-terrible-stewards-of-history/)) Many works from TVTV and the Freex survive, but few are easy to find, few are well known, and these two organizations are the exceptions. Much of the work done by UCV and Broadside TV was not, at the time the book was published, archived in any form or available to the public at all. (I'll find out if this is still true in the coming weeks.) 
 
 ## The Internet
 
