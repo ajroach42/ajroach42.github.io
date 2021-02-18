@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: High Lotek - Gemini and the Small Internet
 ---
 As was probably inevitable, I've spent the last few weeks poking around with Gemini. I want to take a few minutes to talk about what Gemini is, what it isn't, and why I care. 
