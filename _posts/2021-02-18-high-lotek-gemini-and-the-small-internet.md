@@ -46,7 +46,7 @@ Above I said that it was inevitible that I'd end up playing with this tool. When
 * [A Modern BBS](http://ajroach42.com/a-modern-bbs/)
 * [Net Neutrality, The Consolidation of American Media, and you](http://ajroach42.com/net-neutrality-the-consolidation-of-american-media-and-you/)
 
-and circa 2017 I was constantly having the same conversation online, a conversation at the time which was centered on the future of Gopher. Lots of people were talking about the ways the web had failed, and the ways it had succeeded, and what there was to be done about it. One solid proposal that kept coming up again and again was an extension to the Gopher specification. 
+and circa 2017 several of us were swirling around a single thread of conversation, a conversation at the time which was centered on the future of Gopher. Lots of people were talking about the ways the web had failed, and the ways it had succeeded, and what there was to be done about it, and the one solid proposal that kept coming up again and again was an extension to the Gopher specification. 
 
 * [This thread on Mastodon is a good example of that conversation](https://retro.social/@ajroach42/99051400673074933) 
 
@@ -59,7 +59,7 @@ In that thread, I list the following goals:
 * Links within HTML and Markdown files to work the same as in menus.
 * Security/Encryption 
 
-(That client exists today. Several do, but the one that comes closest to what I described there is called Kristall. It's a gemini client that also supports gopher, finger, http (with only the most basic HTML), and markdown rendering and it's pretty great.) 
+(Something very close to that client exists today. Several do, but the one that comes closest to what I described there is called Kristall. It's a gemini client that also supports gopher, finger, http (with only the most basic HTML), and markdown rendering and it's pretty great.) 
 
 [The Kristall browser on github](https://github.com/MasterQ32/kristall)
 
