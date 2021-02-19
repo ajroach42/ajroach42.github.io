@@ -38,7 +38,7 @@ To quote solderpunk again:
 
 ## Why do I care? 
 
-Above I said that it was inevitible that I'd end up playing ith this tool. When I say that, I mean I've been talking about the failings of the Modern Internet for a really long time. See for example:
+Above I said that it was inevitible that I'd end up playing with this tool. When I say that, I mean I've been talking about the failings of the Modern Internet for a really long time. See for example:
 
 * [Steps Towards a Web without the Internet](http://ajroach42.com/steps-towards-a-web-without-the-internet/)
 * [Gopher, remembering the web that wasn't](http://ajroach42.com/gopher-remembering-the-web-that-wasn-t/)
