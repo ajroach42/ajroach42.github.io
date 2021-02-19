@@ -24,7 +24,7 @@ In the gemini FAQ, Solderpunk says
 
 The FAQ is great, and you should read the whole thing. 
 
-=> gemini://gemini.circumlunar.space/docs/faq.gmi Solderpunk's Gemini FAQ
+[gemini://gemini.circumlunar.space/docs/faq.gmi](Solderpunk's Gemini FAQ)
 
 ## What isn't Gemini? 
 
@@ -40,15 +40,15 @@ To quote solderpunk again:
 
 Above I said that it was inevitible that I'd end up playing ith this tool. When I say that, I mean I've been talking about the failings of the Modern Internet for a really long time. See for example:
 
-=> http://ajroach42.com/steps-towards-a-web-without-the-internet/ Steps Towards a Web without the Internet 
-=> http://ajroach42.com/gopher-remembering-the-web-that-wasn-t/ Gopher, remembering the web that wasn't 
-=> ajroach42.com/observations-on-modern-computing-the-last-10-years-were-a-misstep/ Observations on the digital mistakes of our last 10 years 
-=> http://ajroach42.com/a-modern-bbs/ A Modern BBS
-=> http://ajroach42.com/net-neutrality-the-consolidation-of-american-media-and-you/ Net Neutrality, The Consolidation of American Media, and you
+* [http://ajroach42.com/steps-towards-a-web-without-the-internet/]( Steps Towards a Web without the Internet)
+* [http://ajroach42.com/gopher-remembering-the-web-that-wasn-t/](Gopher, remembering the web that wasn't)
+* [http://ajroach42.com/observations-on-modern-computing-the-last-10-years-were-a-misstep/](Observations on the digital mistakes of our last 10 years) 
+* [http://ajroach42.com/a-modern-bbs/](A Modern BBS)
+* [http://ajroach42.com/net-neutrality-the-consolidation-of-american-media-and-you/](Net Neutrality, The Consolidation of American Media, and you)
 
 and circa 2017 I was constantly having the same conversation online, a conversation at the time which was centered on the future of Gopher. Lots of people were talking about the ways the web had failed, and the ways it had succeeded, and what there was to be done about it. One solid proposal that kept coming up again and again was an extension to the Gopher specification. 
 
-=> https://retro.social/@ajroach42/99051400673074933 (This thread on Mastodon is a good example of that conversation) 
+* [https://retro.social/@ajroach42/99051400673074933](This thread on Mastodon is a good example of that conversation) 
 
 In that thread, I list the following goals: 
 
@@ -61,7 +61,7 @@ In that thread, I list the following goals:
 
 (That client exists today. Several do, but the one that comes closest to what I described there is called Kristall. It's a gemini client that also supports gopher, finger, http (with only the most basic HTML), and markdown rendering and it's pretty great.) 
 
-=> https://github.com/MasterQ32/kristall The Kristall browser on github
+[https://github.com/MasterQ32/kristall](The Kristall browser on github)
 
 In that same thread, I said: 
 > Gopher is just a weird little non-capitalist, human scale way for us to publish and consume stuff. It's fun, it's easy, and it's a weird way for folks (like you and me) to resist, in our own small way, the shit that the big centralized services do, and the things that netflix pushed the w3c in to doing.
