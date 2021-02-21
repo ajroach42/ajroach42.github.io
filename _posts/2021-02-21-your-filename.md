@@ -1,10 +1,8 @@
 ---
 layout: post
 category: post
-published: false
-title: ''
-splash-tall: ''
-splash-wide: ''
+published: true
+title: Untitled
 ---
 I just finished reading a book called "The Theory and Craft of Digital Preservation", by Trevor Owens. I'm going to take a few minutes to talk about what I thought about the book, and how it is influencing my approach to my own digital collections. 
 
@@ -147,4 +145,3 @@ If you want to know more about the work that I'm doing, or see how my thoughts h
 [How to Archive your art](http://ajroach42.com/document-your-art-how-to-archive/)
 [A few words on my film preservation efforts](http://ajroach42.com/preserving-old-film/)
 [My account on Archive.org](https://archive.org/details/@ajroach42)
-
