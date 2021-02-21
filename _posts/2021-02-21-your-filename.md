@@ -3,8 +3,14 @@ layout: post
 category: post
 published: false
 title: ''
+splash-tall: ''
+splash-wide: ''
 ---
-I just finished reading a pretty interesting book called "The Theory and Craft of Digital Preservation", by Trevor Owens. I'm going to take a few minutes to talk about what I thought about the book, and how it is influencing my approach to my own digital collections. This one is for the archive nerds. 
+I just finished reading a pretty interesting book called "The Theory and Craft of Digital Preservation", by Trevor Owens. I'm going to take a few minutes to talk about what I thought about the book, and how it is influencing my approach to my own digital collections. 
+
+This one is for the archive nerds. 
+
+![The cover of The Theory and Craft of Digital Preservation ]({{site.baseurl}}/images/Euq39IXXMAQjwYT.jpeg)
 
 
 ## An aside
@@ -136,9 +142,9 @@ Frankly, it made me want to write a book of my own (but who has time for that wh
 
 If you want to know more about the work that I'm doing, or see how my thoughts have evolved on this topic: 
 
-http://ajroach42.com/we-are-terrible-stewards-of-history/
-http://ajroach42.com/document-your-art-archive-your-art/
-http://ajroach42.com/document-your-art-how-to-archive/
-https://archive.org/details/@ajroach42
-http://ajroach42.com/preserving-old-film/
+[We are terrible stewards of history](http://ajroach42.com/we-are-terrible-stewards-of-history/)
+[Document and Archive your art](http://ajroach42.com/document-your-art-archive-your-art/)
+[How to Archive your art](http://ajroach42.com/document-your-art-how-to-archive/)
+[A few words on my film preservation efforts](http://ajroach42.com/preserving-old-film/)
+[My account on Archive.org](https://archive.org/details/@ajroach42)
 
