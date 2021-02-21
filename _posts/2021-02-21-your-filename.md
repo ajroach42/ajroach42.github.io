@@ -34,7 +34,7 @@ Of course, there's a lot more. It's a book, this is a list of bullet points. Go 
 
 One question that came up at several points: What aspects of the thing you're trying to preserve are significant? 
 
-That's such a big question! With born digital objects, the answer varies from the "screen essentialist" answer ( ie "The finished, rendered file" ) to the slightly less obvious "every bit on the hard drive, even if it looks like garbage", but it also includes the even less obvious "a video of the thing as it existed when it was popular" because, the example of Mastodon or World of Warcraft, the parts of the object that are significant are fairly far removed from the object itself. 
+That's such a big question! With born digital objects, the answer varies from the "screen essentialist" answer ( ie "The finished, rendered file" ) to the slightly less obvious "every bit on the hard drive, even if it looks like garbage", but it also includes the even less obvious "a video of the thing as it existed when it was popular" because, for the example of Mastodon or World of Warcraft, the parts of the object that are significant are fairly far removed from the object itself. 
 
 The book highlights many examples of the ways that digital objects are more complicated than physical objects, and some ways that digital objects are much simpler than physical objects. I'm not a librarian, and I don't archive physical objects, so I can't speak to that. I'm going to focus on the work that I do, and the way this book influenced me. 
 
