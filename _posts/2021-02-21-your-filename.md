@@ -34,7 +34,7 @@ Of course, there's a lot more. It's a book, this is a list of bullet points. Go 
 
 One question that came up at several points: What aspects of the thing you're trying to preserve are significant? 
 
-That's such a big question! With born digital objects, the answer varies from the "screen essentialist" answer ( ie "The finished, rendered file" ) to the slightly less obvious "every bit on the hard drive, even if it looks like garbage", but it also includes the even less obvious "a video of the thing as it existed when it was popular" because, for the example of Mastodon or World of Warcraft, the parts of the object that are significant are fairly far removed from the object itself. 
+That's such a big question! With born digital objects, the answer varies from the "screen essentialist" answer ( ie "The finished, rendered file" ) to the slightly less obvious "every bit on the hard drive, even if it looks like garbage", but it also includes the even less obvious "a video of the thing as it existed when it was popular" because, for the example of federated social network software Mastodon, or the computer game World of Warcraft, the parts of the object that might be significant can fairly far removed from the object itself. (What is WoW without servers and players? Do you just want to talk about the art? Are you talking about the community? What is significant to you? Allow that to inform how you undertake preservation.) 
 
 The book highlights many examples of the ways that digital objects are more complicated than physical objects, and some ways that digital objects are much simpler than physical objects. I'm not a librarian, and I don't archive physical objects, so I can't speak to that. I'm going to focus on the work that I do, and the way this book influenced me. 
 
@@ -43,7 +43,7 @@ The book highlights many examples of the ways that digital objects are more comp
 
 I'm not a librarian, and I don't work for an archive. I'm just a dude that cares about art and stories. I have a collection of disperate digital objets that I'm trying to preserve. I'm going to discuss what these objects are, and what parts of them are significant to me. Then I'm going to explore how I can apply the ideas from "The Theory and Craft of Digital Preservation" to these items. 
 
-First, I have a handful of "Born Digital" items. Most of these stem from the ~5 years that I ran a magazine about music, art, and politics in metro atlanta, and the ~3 years I ran a "record label" under the same name. There are also some personal items, the artifacts of my years working as a web developer, and the digital objects that represent the constituent parts of the media that I produce. 
+First, I have a handful of "Born Digital" items. Most of these stem from the ~5 years that I ran a magazine about music, art, and politics in metro atlanta, and the ~3 years I ran a record label under the same name. There are also some personal items, the artifacts of my years working as a web developer, and the digital objects that represent the constituent parts of the media that I produce. 
 
 
 Born digital artifacts include: 
