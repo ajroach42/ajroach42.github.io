@@ -4,7 +4,7 @@ category: post
 published: true
 title: 'Thoughts on "The Theory and Craft of Digital Preservation" '
 ---
-I just finished reading a book called "The Theory and Craft of Digital Preservation", by Trevor Owens. I'm going to take a few minutes to talk about what I thought about the book, and how it is influencing my approach to my own digital collections. 
+I just finished reading a book called "The Theory and Craft of Digital Preservation", by [Trevor Owens](https://twitter.com/tjowens). I'm going to take a few minutes to talk about what I thought about the book, and how it is influencing my approach to my own digital collections. 
 
 This one is for the archive nerds. 
 
