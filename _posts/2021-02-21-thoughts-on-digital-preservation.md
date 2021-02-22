@@ -39,7 +39,7 @@ The book highlights many examples of the ways that digital objects are more comp
 
 ## My work
 
-I'm not a librarian, and I don't work for an archive. I'm just a dude that cares about art and stories. I have a collection of disperate digital objets that I'm trying to preserve. I'm going to discuss what these objects are, and what parts of them are significant to me. Then I'm going to explore how I can apply the ideas from "The Theory and Craft of Digital Preservation" to these items. 
+I'm not a librarian, and I don't work for an archive. I'm just a dude that cares about art and stories. I have a collection of disparate digital objects that I'm trying to preserve. I'm going to discuss what these objects are, and what parts of them are significant to me. Then I'm going to explore how I can apply the ideas from "The Theory and Craft of Digital Preservation" to these items. 
 
 First, I have a handful of "Born Digital" items. Most of these stem from the ~5 years that I ran a magazine about music, art, and politics in metro atlanta, and the ~3 years I ran a record label under the same name. There are also some personal items, the artifacts of my years working as a web developer, and the digital objects that represent the constituent parts of the media that I produce. 
 
