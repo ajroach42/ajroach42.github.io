@@ -19,4 +19,4 @@ I kept trying `[^_]` which does not work in python.
 
 So there we go, a one liner for the Internet Archive ia python CLI glob to ignore filenames with underscores.
 
-(And that should be enough keywords that I actually find this in four years when I need to remember it again. :-) ) 
+(And that should be enough keywords that I actually find this in four years when I need to remember it again. :-) )
