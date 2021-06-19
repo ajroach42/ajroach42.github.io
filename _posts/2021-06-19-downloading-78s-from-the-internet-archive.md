@@ -15,7 +15,7 @@ The syntax to download friendly filename mp3s from the George Blood LP collectio
 
 ```
 
-I kept trying `[^_]` which does not work in python. 
+I kept trying `[^_]` which does not work because the ia client uses [Python's fnmatch function](https://docs.python.org/3/library/fnmatch.html) for a Unix filepattern match, as can be seen in [internetarchive client's code](https://github.com/jjjake/internetarchive/blob/f79ec26c5755294138fea3084b186a3f63d2b513/internetarchive/item.py#L554). 
 
 So there we go, a one liner for the Internet Archive ia python CLI glob to ignore filenames with underscores.
 
