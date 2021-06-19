@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Downloading 78s from the Internet Archive
 ---
 I'm leaving this as a note for myself, so that I can refer to it in the future, but it might help other people too. I'm downloading a large quantitiy of rips of 78 RPM records from the internet archive's [Great 78 Project](https://great78.archive.org/) ([for a project that I'll discuss later](https://mountaintown.fm)) and I want to ensure that I only get the "The preferred versions suggested by an audio engineer at George Blood, L.P. [which] have been copied to have [...] more friendly filenames." 
