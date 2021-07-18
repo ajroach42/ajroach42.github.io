@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: High Definition Television in 1949
 ---
 Alright, so I've gone down a weird rabbit hole looking in to early high definition video, and I am getting way to in to this (like, getting ready to spend some money even) so before I do that I want to capture my findings here (and share them with fellow video nerds.)
@@ -56,5 +56,4 @@ Check this footage of Mountain that the videofreex captured on their portapaks i
 
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://mountaintown.video/videos/embed/d99e5df4-d013-4a40-978c-84122e2eec51?start=3m56s&warningTitle=0" frameborder="0" allowfullscreen></iframe>
 
-So now I have to find a bunch of old french TVs and broadcast gear that supports 819 line operation. IF you have any leads on that front, please let me know! 
-
+So now I have to find a bunch of old french TVs and broadcast gear that supports 819 line operation. IF you have any leads on that front, please let me know!
