@@ -36,7 +36,7 @@ It used the french 819 line standard, and then stored it on Ampex high-band quad
 
 HD Video tape in the 60s!
 
-Then, when the movie was finished, it was Kinescoped (like a regular TV show)  to film and shown in theaters. (for more on kinescopes see that other thread I did https://twitter.com/ajroach42/status/1415849218066026499 )
+Then, when the movie was finished, it was Kinescoped (like a regular TV show)  to film and shown in theaters. (for more on kinescopes see [that big twitter thread I did](https://twitter.com/ajroach42/status/1415849218066026499) )
 
 Some movies that were produced in this way include: Richard Burton's Hamlet, T.A.M.I. Show, Harlow, and other stuff. 
 
