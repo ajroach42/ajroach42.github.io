@@ -50,7 +50,7 @@ Now, why would anyone want this, especially considering how hard it was to edit 
 
 Simply put, tape was cheaper, could run for longer, and could be instantly reviewed.
 
-The same logic enabled the VideoFreex a decade later (see: http://ajroach42.com/videofreex-early-diy-media-and-the-future/ for more information about the VideoFreex, who were The Best.)
+The same logic enabled the VideoFreex a decade later (see [this early blog post on the Videofreex](http://ajroach42.com/videofreex-early-diy-media-and-the-future/) for more information about the VideoFreex, who were The Best.)
 
 Check this footage of Mountain that the videofreex captured on their portapaks in 1970, and imagine for a moment a world in which they had had access to the 819 line system.
 
