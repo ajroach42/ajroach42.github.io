@@ -4,7 +4,7 @@ category: post
 published: true
 title: High Definition Television in 1949
 ---
-Alright, so I've gone down a weird rabbit hole looking in to early high definition video, and I am getting way to in to this (like, getting ready to spend some money even) so before I do that I want to capture my findings here (and share them with fellow video nerds.)
+Alright, so I've gone down a weird rabbit hole looking in to early high definition video, and I am getting way too in to this (like, getting ready to spend some money even) so before I do that I want to capture my findings here (and share them with fellow video nerds.)
 
 First, we gotta talk about the French. 
 
