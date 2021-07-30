@@ -12,7 +12,7 @@ I live in this space, the tech and culture of the late 60s and early 70s are My 
 
 If you get the chance, go watch the documentary linked above. It's great. If you just want to see the bits that inspired this post, they pick up around the 25 minute mark. 
 
-## Why do people pretend home video started in 1967? 
+## Why do people pretend home video started in 1978? 
 
 This is, really, the easiest part of this story to understand. We, as a culture, have an exceptionally short memory, and an unnatual obsession with Firsts. The Sony Betamax Move Camera was (arguably) the first _Camcorder_. To modern readers who've grown up in the era after the introduction and subsequent ubiquity of the camcorder, that word is basically interchangable with "Video Camera", but they aren't the same word at all. 
 
