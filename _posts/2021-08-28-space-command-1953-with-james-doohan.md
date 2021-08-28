@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Space Command (1953) with James Doohan '
 ---
 I have made no secret of [my love of Space Patrol](http://ajroach42.com/space-patrol-1950/), and in fact I've spent dozens of hours over the last year [digitizing episodes of Space Patrol](https://twitter.com/ajroach42/status/1415849218066026499) which I have [spoken about several times on various social media platforms.](https://twitter.com/ajroach42/status/1415849218066026499) Space Patrol isn't the only neat forgotten 50s Sci-Fi show, though. Today, I want to share an episode of, and spill a few bits about, one that doesn't get talked about often, which gave us the first screen apperance of Star Trek's Scotty! 
@@ -18,9 +18,4 @@ One episode survives that we're aware of:
 
 [More details are available on wikipedia](https://en.wikipedia.org/wiki/Space_Command_(TV_series)), although not many more. 
 
-One fun fact is that this show (although not in this surviving episode) featured at least one appearance from William Shatner. Scotty and Kirk in a space show in the 50s! 
-
-
-
-
-
+One fun fact is that this show (although not in this surviving episode) featured at least one appearance from William Shatner. Scotty and Kirk in a space show in the 50s!
