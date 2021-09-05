@@ -38,7 +38,7 @@ I feel that it’s important to note that I will be archiving films that may be 
 
 ## And then what? 
 
-All films I digitize that are not currently under copyright will be made available via [my Peertube Channel](https://peertube.mastodon.host/video-channels/tvscifi/videos), and placed on [archive.org](https://archive.org/details/@ajroach42?tab=uploads).
+All films I digitize that are not currently under copyright will be made available via [my Peertube Channel](https://mountaintown.video/video-channels/mountaintowntv/videos), and placed on [archive.org](https://archive.org/details/@ajroach42?tab=uploads).
 
 For films the copyright status of which are currently inconclusive, I’ll do my research and work with the fine folks at the internet archive to determine what can and can’t be publicly shared. Everything that I can share will be made available. 
 
