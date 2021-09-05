@@ -68,7 +68,7 @@ There are three main expenses in this project.
 2) The equipment to digitize. 
 3) Bandwidth and storage. 
 
-Mostly, I'm buying films on eBay and from a couple of small private collections. I've also had some folks donate films to the cause, or lend me films to preserve. I'm using a mid-range telecine rig right now, and I'd like to upgrade to something that will let me capture in 4k. I'm depending on other people to host the video files that I'm digitizing right now, and I'd like to be able to move that on to servers I control. Any funds that I rase will go directly to one of these three items.
+Mostly, I'm buying films on eBay and from a couple of small private collections. I've also had some folks donate films to the cause, or lend me films to preserve. I'm using a mid-range telecine rig right now, and I'd like to upgrade to something that will let me capture in 4k. I'm hosting a copy of each video on peertube and depending on the internet archive for backups. I'd like to expand that distribution strategy in the future. Any funds that I rase will go directly to one of these three items.
 
 I’m [raising money via Patreon](https://www.patreon.com/ajroach42) to cover these expenses. I’m also [selling merchandise](https://spaceageideas.com), and eventually I will offer DVDs, AVCHD DVDs, and possibly bluray discs of the films I have preserved. 
 
