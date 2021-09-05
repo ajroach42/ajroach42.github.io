@@ -89,6 +89,6 @@ And if you know anyone that wants to help fund these efforts, that'd be cool too
 
 ## Where do we go from here? 
 
-Well, to [peertube](https://peertube.mastodon.host/video-channels/tvscifi/videos), [archive.org](https://archive.org/details/@ajroach42?tab=uploads), or [patreon](https://www.patreon.com/ajroach42) I hope.
+Well, to [peertube](https://mountaintown.video/video-channels/mountaintowntv/videos), [archive.org](https://archive.org/details/@ajroach42?tab=uploads), or [patreon](https://www.patreon.com/ajroach42) I hope.
 
 But more seriously, watch my blog or my mailing list for an announcement of the first batch of films I'm digitizing. I should have some never before digitized stuff to share with the world before the end of the year!
