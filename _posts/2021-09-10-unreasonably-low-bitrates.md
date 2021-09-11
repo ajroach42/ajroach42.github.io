@@ -12,11 +12,12 @@ At the moment, I'm working on an original sitcom with some of my comrades from t
 
 So here are some examples. [[cw for strong language]]
 
-# 720p 
+# 720p - 512KB, ~60Kbps
 
 <video src="https://retro.social/system/media_attachments/files/106/910/306/920/699/907/original/9776dfa6a3351f92.mp4" poster="https://retro.social/system/media_attachments/files/106/910/306/920/699/907/small/9776dfa6a3351f92.png" preload="metadata" role="button" tabindex="0" volume="1"></video>
 
-# 240p 
+# 240p 212KB, ~25Kbps 
 
 <video src="https://retro.social/system/media_attachments/files/106/910/422/627/777/710/original/0cb5d594010a8079.mp4" poster="https://retro.social/system/media_attachments/files/106/910/422/627/777/710/small/0cb5d594010a8079.png" preload="metadata" role="button" tabindex="0" volume="1"></video>
 
+The end results aren't exactly good, but they are pretty remarkable. 
