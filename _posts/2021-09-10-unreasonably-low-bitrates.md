@@ -19,3 +19,7 @@ So here are some examples. [[cw for strong language]]
 <video src="https://retro.social/system/media_attachments/files/106/910/422/627/777/710/original/0cb5d594010a8079.mp4" poster="https://retro.social/system/media_attachments/files/106/910/422/627/777/710/small/0cb5d594010a8079.png" controls volume="1"></video>
 
 The end results aren't exactly good, but they are pretty remarkable. 
+
+![]({{site.baseurl}}/images/IMG_20210903_162503994.jpg)
+
+For comparison, this photo of my new TV is 7.8 MB. I could fit 15 or 16 minutes of 720p video in the same space, or about half an hour's worth 240p. In the bandwidth it takes to transfer that photo, we could instead transfer half an hour of (barely) watchable video, or 15 minutes of stuff that's almost enjoyable. 
