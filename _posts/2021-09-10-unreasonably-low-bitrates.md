@@ -22,4 +22,4 @@ The end results aren't exactly good, but they are pretty remarkable.
 
 ![]({{site.baseurl}}/images/IMG_20210903_162503994.jpg)
 
-For comparison, this photo of my new TV is 7.8 MB. I could fit 15 or 16 minutes of 720p video in the same space, or about half an hour's worth 240p. In the bandwidth it takes to transfer that photo, we could instead transfer half an hour of (barely) watchable video, or 15 minutes of stuff that's almost enjoyable. 
+For comparison, this photo of my new TV is 7.8 MB. I could fit 15 or 16 minutes of 720p video in the same space, or about half an hour's worth 240p. In the bandwidth it takes to transfer that photo, we could instead transfer half an hour of (barely) watchable video, or 15 minutes of stuff that's almost enjoyable.
