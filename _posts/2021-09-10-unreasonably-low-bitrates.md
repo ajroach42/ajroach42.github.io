@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Unreasonably Low Bitrates '
 splash-tall: ''
 splash-wide: ''
@@ -20,4 +20,4 @@ So here are some examples. [[cw for strong language]]
 
 <video src="https://retro.social/system/media_attachments/files/106/910/422/627/777/710/original/0cb5d594010a8079.mp4" poster="https://retro.social/system/media_attachments/files/106/910/422/627/777/710/small/0cb5d594010a8079.png" preload="metadata" role="button" tabindex="0" volume="1"></video>
 
-The end results aren't exactly good, but they are pretty remarkable. 
+The end results aren't exactly good, but they are pretty remarkable.
