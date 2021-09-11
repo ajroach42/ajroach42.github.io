@@ -23,3 +23,5 @@ The end results aren't exactly good, but they are pretty remarkable.
 ![]({{site.baseurl}}/images/IMG_20210903_162503994.jpg)
 
 For comparison, the average size of photos from my new phone is 7.8 MB. I could fit 15 or 16 minutes of 720p video in the same space, or about half an hour's worth 240p. In the bandwidth it takes to transfer that photo, we could instead transfer half an hour of (barely) watchable video, or 15 minutes of stuff that's almost enjoyable.
+
+This is AV1 video, encoded with ffmpeg with the following settings: ffmpeg -i input-file.mp4 -c:v libaom-av1 -strict -2 -threads 16 -cpu-used 8 -filter:v fps=12,scale=720:-1 -crf 52 -c:a libopus -b:a 10k -ac 1 outputfile.webm
