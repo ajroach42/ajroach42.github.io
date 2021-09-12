@@ -6,6 +6,8 @@ title: Shouting into The Void - Coming this fall
 ---
 Shouting into the Void is a sitcom from the folks at [Ellijay Makerspace](https://ellijaymakerspace.org) about various deep space explorers, charged with building an intergalactic communications network, in a universe that has forgotten about them. They're alone, they're barely holding it together, and they've been abandoned. It's a light comedy about a dark subject. Watch the trailer bellow. 
 
+[[CW for strong language]]
+
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://mountaintown.video/videos/embed/de504ff1-5dfa-4f50-9279-6a30f4c46172" frameborder="0" allowfullscreen></iframe>
 
 The show is licensed CC-BY-SA (4.0), and all the assets and associated media that make up each episode will be made available along side each release (through a project that isn't quite ready for public consumption yet.) 
