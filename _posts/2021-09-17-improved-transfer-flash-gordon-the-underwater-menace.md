@@ -14,4 +14,4 @@ In [my last post on Flash Gordon](http://ajroach42.com/flash-gordon-1954/) I sai
 
 And I did. The [video comparison is on peertube](https://mountaintown.video/videos/watch/7df35356-a236-416b-920d-c71dbcc0a253) and archive.org, and the new transfer is embedded above (and will be [on archive.org this weekend](https://archive.org/details/@ajroach42).) 
 
-I'm uploading our TV and film transfers to peertube, with [1 week of early access for patrons on Patreon.](https://patreon.com/ajroach42), after which they'll be public on patreon and on peertube. Once a month or so, I upload everything we've digitized so far to [Archive.org](https://archive.org/details/@ajroach42).
+I'm uploading our TV and film transfers to peertube, with [1 week of early access for patrons on Patreon](https://patreon.com/ajroach42), after which they'll be public on patreon and on peertube. Once a month or so, I upload everything we've digitized so far to [Archive.org](https://archive.org/details/@ajroach42).
