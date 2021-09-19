@@ -1,8 +1,8 @@
 ---
 layout: post
 category: post
-published: false
-title: ''
+published: true
+title: Untitled
 ---
 This is a Fun one! A made-for-tv Feature Film comprised of 3 episodes of Space Patrol from 1954. (see bellow for the full details on the episodes.) This kind of thing was pretty common in the 60s, with Rocky Jones Space Ranger receiving this treatment several times, but I've never seen it done for Space Patrol.
 
