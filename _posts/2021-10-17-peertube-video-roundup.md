@@ -49,7 +49,7 @@ Demo of an anticapitalist, public domain, FPS.
 
 ### [Mirrorshades](https://mountaintown.video/accounts/mirrorshades/video-channels) 
 
-Purveyor of bizarre video and audio oddities, like a [grindhouse remake of Star Wars](https://mountaintown.video/videos/watch/4b646fc2-6edc-47c2-b7d6-01543ddd6731), or this [1980 Special Report on computers produced by a Wisconsin news crew](https://mountaintown.video/videos/watch/79017db5-6802-49ad-b87f-8a22c0f46346, or the [BBC's 2 hour audio adaptation of Neuromancer](https://mountaintown.video/videos/watch/7fbe1e41-14c3-4002-b490-6236553a2bc5).
+Purveyor of bizarre video and audio oddities, like a [grindhouse remake of Star Wars](https://mountaintown.video/videos/watch/4b646fc2-6edc-47c2-b7d6-01543ddd6731), or this [1980 Special Report on computers produced by a Wisconsin news crew](https://mountaintown.video/videos/watch/79017db5-6802-49ad-b87f-8a22c0f46346), or the [BBC's 2 hour audio adaptation of Neuromancer](https://mountaintown.video/videos/watch/7fbe1e41-14c3-4002-b490-6236553a2bc5).
 
 ### [Excerpt from Jack Kelly’s ‘The Edge of Anarchy.’](https://mountaintown.video/videos/watch/cce24f62-d538-4e5a-ba41-64d370df6db8) 
 
