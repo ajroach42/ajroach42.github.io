@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Peertube Video Roundup
 ---
 [Peertube](https://joinpeertube.org) is an open source, decentralized, federated alternative to youtube and twitch. You can upload videos to any peertube instance, and subscribe to accounts from most other instances. You can also live stream. This is really cool, and a great place to find some DIY Media. 
