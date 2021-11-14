@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Making Toys
 ---
 For the last several weeks, as we wait on the final clearance to open the [Ellijay Makerspace](https://ellijaymakerspace.org), I have been making toys. We're 3D printing original characters in resin using an elegoo mars, and then making a latex mold and casting duplicates in resin. Everything gets packaged in original cardbacks, made with recycled chipboard and resealable bubbles. You can see some of the toys we've made so far, at least the ones that are currently available for purchase, on [Mountain Town Toys](https://www.mountaintowntoys.com/introducing-fun-size-heroes/). 
@@ -32,5 +32,4 @@ The results so far have been pretty good!
 
 ![Second Screenshot]({{site.baseurl}}/images/3.JPG)
 
-Eventually, I'll finish that up and figure out how to get vice and emscriptin to play nicely together and post the game for any and all to play. 
-
+Eventually, I'll finish that up and figure out how to get vice and emscriptin to play nicely together and post the game for any and all to play.
