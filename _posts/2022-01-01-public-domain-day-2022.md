@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Public Domain Day 2022
 ---
 Happy New Year! January 1st is Public Domain day in the United States. All film, books, poetry, photos, and scores originally published in 1926 are now in the Public Domain in the US. Additionally, and significantly, this year marks the first time that any Audio Recordings have entered the public domain. You, and all Americans, now own more than 400,000 of these historic recordings. What does it all mean? And which works are in the public domain now? 
@@ -52,12 +52,4 @@ And, of course, all of this is in addition to all the works from 1926 that were 
 
 It depends! Just because it's legal for these works to be shared and remixed now doesn't automatically meant that they will become available. Only through the dedicated effort of lots of volunteers and institutions do these works actually get digitized and shared. 
 
-So if there's something you're itching to get at (linking Citizen DJ to the National Jukebox for example) wait a few hours, or a few days. It'll probably happen. If that's too slow for you, you can start tracking down originals and digitizing them yourself, or help fund the work done by The Internet Archive, Hathitrust, or one of the other great libraries, museums, institutions, or archives that makes this content available. 
-    
-    
-    
-    
-    
-    
-    
-    
+So if there's something you're itching to get at (linking Citizen DJ to the National Jukebox for example) wait a few hours, or a few days. It'll probably happen. If that's too slow for you, you can start tracking down originals and digitizing them yourself, or help fund the work done by The Internet Archive, Hathitrust, or one of the other great libraries, museums, institutions, or archives that makes this content available.
