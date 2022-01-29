@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Local Radio
 ---
 For the last few months, I've been running a little internet radio station called [Mountain Town Radio](https://mountaintown.fm). To coincide with the grand opening of [The Ellijay Makerspace](https://ellijaymakerspace.org), which will host the first live performance in *several* years from [one of my absolute favorite musical acts](https://en.wikipedia.org/wiki/Michael_Cera_Palin), I'm launching a [new radio station that plays music from (around) North GA](https://mountaintown.fm/locals.html).  
