@@ -8,15 +8,15 @@ It's Bandcamp Friday! That means bandcamp is giving 100% of revenue to bands! I'
 
 
 
-## [Andy's Song - Single from Pharmacy:](https://pharmacy21.bandcamp.com/track/andys-song)
+## [Andy's Song - Single from Pharmacy](https://pharmacy21.bandcamp.com/track/andys-song)
 
 Some of the most knowledgeable and genre savvy musicians working in Atlanta today, incredible pop/rock that you won't be able to get out of your head. 
 
-## [Halfway Down - Album from Dinner Time:](https://dinner-time.bandcamp.com/album/halfway-down)
+## [Halfway Down - Album from Dinner Time](https://dinner-time.bandcamp.com/album/halfway-down)
 
 Is "Art Pop" still a thing? Jazz infused indie rock, with hazy vocals and slow tempos. 
 
-## [Woo - Album by Floral Print:](https://floralprint.bandcamp.com/album/woo)
+## [Woo - Album by Floral Print](https://floralprint.bandcamp.com/album/woo)
 
 Vaguely mathy psychedelic stuff.
 
@@ -54,11 +54,11 @@ Livvie and co haven't recorded a song in 5 years or more? But this stuff was abs
 
 Indie pop from a bunch of classically trained musicians and also Jon from The New Clear Lawn Chairs.
 
-## [Oat Milk:](https://oatmilkmusic.bandcamp.com/)
+## [Oat Milk](https://oatmilkmusic.bandcamp.com/)
 
 Jazz-y pop from some classically trained musicians. Go listen to Bubble Tea for Breakfast. 
 
-## [Think About It - Rod Hamdallah:](https://rodhamdallah.bandcamp.com/album/think-about-it-ep)
+## [Think About It - Rod Hamdallah](https://rodhamdallah.bandcamp.com/album/think-about-it-ep)
 
 Blues Rock, in the style of The Black Keys pre El Camino. Rod's a master.
 
