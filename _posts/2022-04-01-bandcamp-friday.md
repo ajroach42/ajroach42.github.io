@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Bandcamp Friday '
 ---
 It's Bandcamp Friday! That means bandcamp is giving 100% of revenue to bands! I'm a big fan of DIY media, so I wanted to take a moment to recommend some of my favorite albums on bandcamp. 
@@ -110,8 +110,3 @@ It's required listening.
 You can also pre-order Analog Revolution's upcoming comp Songs of the Workers (to fan the flames of discontent)
 
 The final release should be out this summer, and will be 12 tracks, most of which will be radical (and a few of which will also be tubular.)
-
-
-
-
-
