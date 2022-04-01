@@ -60,7 +60,7 @@ Jazz-y pop from some classically trained musicians. Go listen to Bubble Tea for 
 
 ## [Think About It - Rod Hamdallah](https://rodhamdallah.bandcamp.com/album/think-about-it-ep)
 
-Blues Rock, in the style of The Black Keys pre El Camino. Rod's a master.
+Blues heavy garage rock. It sounds effortless and absolutely filfthy. You'd be hard pressed to find a better example of the genre anywhere. 
 
 ## [Local Honey - The Big Heed](https://thebigheed.bandcamp.com/album/local-honey)
 
