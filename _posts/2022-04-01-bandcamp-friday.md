@@ -4,7 +4,7 @@ category: post
 published: true
 title: 'Bandcamp Friday '
 ---
-It's Bandcamp Friday! That means bandcamp is giving 100% of revenue to bands! I'm a big fan of DIY media, so I wanted to take a moment to recommend some of my favorite albums on bandcamp. 
+It's Bandcamp Friday! That means bandcamp is giving 100% of revenue to bands! I'm a big fan of DIY media, so I wanted to take a moment to recommend some of my favorite albums on bandcamp. This list is not comprehensive, these are just some things I've been jamming to latetly.  
 
 
 
