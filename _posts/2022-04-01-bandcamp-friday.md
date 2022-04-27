@@ -7,7 +7,6 @@ title: 'Bandcamp Friday '
 It's Bandcamp Friday! That means bandcamp is giving 100% of revenue to bands! I'm a big fan of DIY media, so I wanted to take a moment to recommend some of my favorite albums on bandcamp. This list is not comprehensive, these are just some things I've been jamming to latetly.  
 
 
-
 ## [Andy's Song - Single from Pharmacy](https://pharmacy21.bandcamp.com/track/andys-song)
 
 Some of the most knowledgeable and genre savvy musicians working in Atlanta today, incredible pop/rock that you won't be able to get out of your head. 
