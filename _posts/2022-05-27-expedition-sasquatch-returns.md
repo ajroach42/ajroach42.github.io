@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Expedition Sasquatch Returns
 ---
 Did you know I write a podcast? It's a comedy podcast about Jack, a man who wants to find and kill bigfoot, and all the other cryptids he finds and kills instead. It has plasma guns, and ancient magicks, and mole people, and ro-men, and a racoon in the back of a Waffle House. 
