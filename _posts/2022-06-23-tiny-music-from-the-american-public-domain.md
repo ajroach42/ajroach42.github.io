@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Tiny Music from the American Public Domain
 ---
 Thanks to the (inadequate) [Music Modernization Act](https://en.wikipedia.org/wiki/Music_Modernization_Act), audio recordings entered the [public domain in the US](http://ajroach42.com/public-domain-day-2022/) for the first time this year. I've been celebrating this in various ways, and one of those ways is making copies of these songs that are Tiny and can be distributed Anywhere. 
@@ -102,7 +102,4 @@ Each of those commands crushes a file to joint mono, and re-encodes it as a 16kb
 
 If you're working with acoustically recorded 78RPM records, as I am here, it might make sense to downsample to a max frequency of roughly 8Khz, because acoustically recorded 78RPM records had a relitively limited frequency response anyway, and a lot of the sounds outside of that range are going to be surface noise introduced by the playback mechanism, and by decades of wear. 
 
-But this isn't a hard rule, and it's a nuanced thing. The settings I described above are somewhat universal. For mono source files, these settings will get you a very small, reasonably good compressed file. If you start cutting frequencies out, you might get a smaller file (or you might not!) and you might get a better sounding file (but you often won't!). 
-
-
-
+But this isn't a hard rule, and it's a nuanced thing. The settings I described above are somewhat universal. For mono source files, these settings will get you a very small, reasonably good compressed file. If you start cutting frequencies out, you might get a smaller file (or you might not!) and you might get a better sounding file (but you often won't!).
