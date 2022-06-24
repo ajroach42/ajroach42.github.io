@@ -98,8 +98,10 @@ ffmpeg -i input.flac -c:a libopus -b:a 16k -map_channel 0.0.0 output.opus
 
 ```
 
-Each of those commands crushes a file to joint mono, and re-encodes it as a 16kbps Opus file. You could tweak the 16 above up or down to get more fidelity or a smaller file. 
+Each of those commands crushes a file to joint mono, and re-encodes it as a 16kbps Opus file. You could tweak the 16 above up or down to get more fidelity or a smaller file.
 
 If you're working with acoustically recorded 78RPM records, as I am here, it might make sense to downsample to a max frequency of roughly 8Khz, because acoustically recorded 78RPM records had a relitively limited frequency response anyway, and a lot of the sounds outside of that range are going to be surface noise introduced by the playback mechanism, and by decades of wear. 
 
 But this isn't a hard rule, and it's a nuanced thing. The settings I described above are somewhat universal. For mono source files, these settings will get you a very small, reasonably good compressed file. If you start cutting frequencies out, you might get a smaller file (or you might not!) and you might get a better sounding file (but you often won't!).
+
+A lot of the files here are 12Kbps or even 10Kbps. 10 is the lowest I've gotten Music to sound like Music. I have gotten spoken word all the way down to 6 without it becoming uninteligable. It's possible to go lower for speech in other codecs, but those codecs are basically useless for music. Maybe I'll talk about that some time. 
