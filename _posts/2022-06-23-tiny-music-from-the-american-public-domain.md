@@ -49,7 +49,7 @@ The above photo of Mamie and her band is 773KB. That's already pretty impressive
 </audio>
 [Download](http://ajroach42.com/images/mamie-blues.oga) - 395 KB 
 
-But the song above is 395K. Less than half the size of the photo. 
+But the song above is 395K. Roughly half the size of the photo. 
 
 Is it perfect? No. Is it archival quality? No! But Preservation = Future Access, and it's damn accessible, and it sounds good enough. It is Small enough that you might have hundreds or thousands of copies before you noticed. It's representative of the music, good enough for listening, and small enough to be endlessly duplicated. 
 
@@ -104,4 +104,4 @@ If you're working with acoustically recorded 78RPM records, as I am here, it mig
 
 But this isn't a hard rule, and it's a nuanced thing. The settings I described above are somewhat universal. For mono source files, these settings will get you a very small, reasonably good compressed file. If you start cutting frequencies out, you might get a smaller file (or you might not!) and you might get a better sounding file (but you often won't!).
 
-A lot of the files here are 12Kbps or even 10Kbps. 10 is the lowest I've gotten Music to sound like Music. I have gotten spoken word all the way down to 6 without it becoming uninteligable. It's possible to go lower for speech in other codecs, but those codecs are basically useless for music. Maybe I'll talk about that some time. 
+A lot of the files here are 12Kbps or even 10Kbps. 10 is the lowest I've gotten Music to sound like Music. I have gotten spoken word all the way down to 6 without it becoming uninteligable. It's possible to go lower for speech in other codecs, but those codecs are basically useless for music. Maybe I'll talk about that some time.
