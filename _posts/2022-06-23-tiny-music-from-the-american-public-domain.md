@@ -47,13 +47,13 @@ The above photo of Mamie and her band is 773KB. That's already pretty impressive
   <source src="http://ajroach42.com/images/mamie-blues.oga" type="audio/ogg">
   Your browser does not support the audio element.
 </audio>
-[Download](http://ajroach42.com/images/mamie-blues.oga) - 381 KB 
+[Download](http://ajroach42.com/images/mamie-blues.oga) - 395 KB 
 
-But the song above is 381K. Less than half the size of the photo. 
+But the song above is 395K. Less than half the size of the photo. 
 
 Is it perfect? No. Is it archival quality? No! But Preservation = Future Access, and it's damn accessible, and it sounds good enough. It is Small enough that you might have hundreds or thousands of copies before you noticed. It's representative of the music, good enough for listening, and small enough to be endlessly duplicated. 
 
-If you need an archival quality copy, [archive.org has an 80MB FLAC](https://archive.org/details/78_crazy-blues_mamie-smith-and-her-jazz-hounds-perry-bradford_gbia0076149a) file that definitely contains more data than this, and possibly sounds different, but uhhh.... 
+If you need an archival quality copy, [archive.org has an 80MB FLAC](https://archive.org/details/78_crazy-blues_mamie-smith-and-her-jazz-hounds-perry-bradford_gbia0076149a) file of a different physical copy of the same recording that definitely contains more data than this, and sounds significanlty different, but uhhh.... 
 
 Look, more than 200 of this file fit in the same storage space as one 80MB FLAC file. Yes, the FLAC file is lossless, it's a perfect representation of the music that was originally recorded. The Opus file I'm embedding here is Lossy as hell. It's like comparing JPGs to TIFFs, or xerox copies to photographic prints. 
 
