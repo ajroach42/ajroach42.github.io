@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: New Ellijay TV
 ---
 I've spent the better part of the last 6 months watching my friends build something that we're calling [New Ellijay Television](https://newellijay.tv). I'm really excited about it. It launches November 5th. Think about it like Public Access TV, but for the modern age.
@@ -82,5 +82,3 @@ We expand.
 If that sounds like your cup of tea, come make TV with us. Even if you can't participate in person, the principles we're following can be applied anywhere. Work with us to reach out, to enlist participation, to make this thing everything it can and should and must become.
 
 We launch to the public November 5th, and we have a lot of work to do before then.
-
-
