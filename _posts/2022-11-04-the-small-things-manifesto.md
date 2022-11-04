@@ -209,9 +209,6 @@ People are always making [small games](https://itch.io), small software, small a
 
 Small Things are the next big thing. 
 
-
-# What now? 
-
 Make something. 
 
 Find something someone else made, and tell your friends about it. 
