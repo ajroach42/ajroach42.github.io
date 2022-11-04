@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: The small things Manifesto
 ---
 > This is a work in progress, a living document. 
@@ -213,4 +213,4 @@ Make something.
 
 Find something someone else made, and tell your friends about it. 
 
-Lift one another up. Reclaim the future. Ignore the Megacorporations. Start something worth doing. 
+Lift one another up. Reclaim the future. Ignore the Megacorporations. Start something worth doing.
