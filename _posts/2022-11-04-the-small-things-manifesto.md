@@ -51,8 +51,90 @@ We, as individuals and small communities, need to work together.
 
 We must carve a new path. 
 
+## a Small Society
 
-## Principles of Small Creation
+This is a political document, describing the intentions, motivations, and views of a small group of people practicing community scale creation. Following these artistic, social, and technological principles might help lead to more fair and just societies. 
+
+We live in an era of unparalleled abundance, unevenly distributed. The Abundance created from our labor, from our creation, from our communities, is stolen from us, bundled up and smashed against the abundance of our neighbors, and sold back to us. 
+
+They leave us with artificial scarcity, while they feast on the abundance of our labor. This Large abundance enriches a powerful few at the expense of a disenfranchised many. The few and powerful have convinced themselves, or pretend among themselves, that the abundance they steal from us is something that they create, and that it can Grow Forever. 
+
+This is, of course, nonsense. Nothing can grow forever. Indiscriment growth is harmful and destructive, and the consolidation of wealth and power in to the hands of so few is both destructive and useless. Capitalism, in it's current form, is a cancer that will consume and destroy everything 
+
+This large abundance goes to waste, and those who create it are forced to make do on the scraps that remain. Every dollar in the pocket of a billionaire, not being spent, gathering dust, collecting interest, is a dollars worth of food that is not on a worker's table. 
+
+We do not have to accept this. In fact, we cannot accept this. We must reject the illusion of infinite growth, support one another, and embrace our small abundance. 
+
+
+## Small Community 
+
+We are building a movement, but we are building a movement Made of People. Small groups of people form communities. Groups of communities form networks. Networks of small communities can accomplish more and make decisions faster than one large group. 
+
+We can and should care about our neighbors, our community members. We look out for one another. We tell our stories. We protect our community, and make sure everyone is fed and housed to the best of our abilities. 
+
+## Small Technology 
+
+Big technology is extractive, oppressive, and a tool for indoctrination and radicalization. Small technology is technology for People. [Human scale technology](https://medium.com/@jkriss/anti-capitalist-human-scale-software-and-why-it-matters-5936a372b9d). Understandable, implementable, respectful. It does not spy on you, it does not steal from you, it does not seek to manipulate you. 
+
+Small Technology is a Big Topic that deserves more words than I'll give it here. 
+
+### Social media
+
+Write a blog, start a newsletter, maybe use the [fediverse](https://joinmastodon.org). Whatever you end up doing, avoid Facebook and google wherever you can. 
+
+### Communication 
+
+Send an email, run an [element](https://element.io/matrix-services) server, don't let Gmail and Facebook control your communication. 
+
+### Storage 
+
+[Syncthing](https://syncthing.net/) and [nextcloud](https://nextcloud.com/) work as well as dropbox, and don't spy on you. 
+
+### Distribution
+
+Host your own website. Use [wordpress](https://wordpress.org/) or [neocities](https://neocities.org/) or some other platform. If you don't want to pay to rent a server, run something like [yunohost](https://yunohost.org/#/) on a raspberry pi in a closet in your home. It won't be available 100% of the time, and it won't be fast, but it'll be Good Enough and you'll learn a lot along the way. 
+
+### Creation 
+
+Free tools for creation exist and are great. Look at [Krita](https://krita.org/en/), [glimpse](https://glimpse-editor.org/), [kdenlive](https://kdenlive.org/en/), and dozens of others. All of the work I do is powered by free software. 
+
+## Small Media 
+
+Make things because you like to make them. Share things because you want to share them. People have done this since the dawn of time. Members of the [Arts and Crafts group the Roycrofter](https://en.wikipedia.org/wiki/Roycroft) were self publishing zines in the 1890s using letterpress, [Lainsville TV](https://mountaintown.video/w/tQu6svJXH6scuocNHJXnJt) and [The Videofreex](https://mountaintown.video/w/sSB1mXYfJkvwCBKSW3Fp5V) were producing independent television with the first consumer video cameras. 
+
+You don't need budget, you don't need technology, you just need something to say. 
+
+# Small things: 
+
+This is a list of things that are small. Not every thing on this list will conform to every principle of the small things manifesto, but they all have a similar flavor. 
+
+## Zines and comix 
+   
+By their very nature, Zines (self published, DIY magazines) are Small. They're usually hand made. They're usually distributed freely or cheaply. Go [embrace Zines](https://analogrevolution.com/product/analog-revolution-zine-vol-3-issue-1/) and Comix from your local book or record store. 
+   
+## The slow/small/indie web
+
+The internet does not have to belong to Amazon and Google and Facebook. Projects like [Gemini](https://gemini.circumlunar.space/) imagine a new kind of web. Projects like the fediverse (see [Mastodon](https://joinmastodon.org) or [Hometown](https://github.com/hometown-fork/hometown)) create an alternative to Twitter and Facebook. [Tilde servers](http://www.tilde.club/), and places like [SDF](https://sdf.org/?faq?BASICS?01) provide a place for communities of tech enthusiasts to get together outside the control of a massive corporation. 
+
+Email is, outside of gmail and yahoo mail, still Federated and peer to peer. 
+
+Services like [Peertube](https://joinpeertube.org/) (which powers [New Ellijay TV](https://newellijay.tv)) allow sharing even videos from underpowered simple computers on home internet connections, and projects like yunohost simplify the maintenance and deployment for self hosting on simple cheap computers. 
+
+## Podcasts
+
+Most podcasts are Small Media, even if they don't consider themselves to be. They're independently produced media distributed using small technology (RSS). Corporations like Spotify and Apple and Google have attempted to gatekeep podcasts, but anyone can go to most podcast's website and download and subscribe with any podcatcher. 
+
+Many podcasts lean in to this, distributing under an entirely open license. 
+
+Most podcasts start real rough around the edges, not only is that Fine, it's also Good. Embrace imprefections. [Reject perfection](https://expeditionsasquatch.org). 
+  
+## Music 
+
+Lots of small music gets made every day. Most DIY/Punk is small music, but to my mind there has never been a more perfect example of the Ethos of Small Production than [All Hail West Texas by The Mountain Goats](https://themountaingoats.bandcamp.com/album/all-hail-west-texas-remastered). Recorded on the internal mic of a boombox, it's a Deeply emotional and absolutely perfect record that lives in, reslishes in, its flaws. "Hail Satan, tonight." 
+
+It's not CC licensed, but it predates the entire concept, so I can't fault it. 
+
+# Principles of Small Creation
 
 - Scale and complexity are traps; 
     - It doesn't have to be scalable to 10M concurrent users if it's only going to be used by 10 people. 
@@ -115,95 +197,8 @@ We must carve a new path.
     - Don't burn yourself out
     - Take care of yourself and, if you can, help your neighbors 
 
-## a Small Society
 
-This is a political document, describing the intentions, motivations, and views of a small group of people practicing community scale creation. Following these artistic, social, and technological principles might help lead to more fair and just societies. 
-
-We live in an era of unparalleled abundance, unevenly distributed. The Abundance created from our labor, from our creation, from our communities, is stolen from us, bundled up and smashed against the abundance of our neighbors, and sold back to us. 
-
-They leave us with artificial scarcity, while they feast on the abundance of our labor. This Large abundance enriches a powerful few at the expense of a disenfranchised many. The few and powerful have convinced themselves, or pretend among themselves, that the abundance they steal from us is something that they create, and that it can Grow Forever. 
-
-This is, of course, nonsense. Nothing can grow forever. Indiscriment growth is harmful and destructive, and the consolidation of wealth and power in to the hands of so few is both destructive and useless. Capitalism, in it's current form, is a cancer that will consume and destroy everything 
-
-This large abundance goes to waste, and those who create it are forced to make do on the scraps that remain. Every dollar in the pocket of a billionaire, not being spent, gathering dust, collecting interest, is a dollars worth of food that is not on a worker's table. 
-
-We do not have to accept this. In fact, we cannot accept this. We must reject the illusion of infinite growth, support one another, and embrace our small abundance. 
-
-
-## Small Community 
-
-We are building a movement, but we are building a movement Made of People. Small groups of people form communities. Groups of communities form networks. Networks of small communities can accomplish more and make decisions faster than one large group. 
-
-We can and should care about our neighbors, our community members. We look out for one another. We tell our stories. We protect our community, and make sure everyone is fed and housed to the best of our abilities. 
-
-## Small Technology 
-
-Big technology is extractive, oppressive, and a tool for indoctrination and radicalization. Small technology is technology for People. [Human scale technology](https://medium.com/@jkriss/anti-capitalist-human-scale-software-and-why-it-matters-5936a372b9d). Understandable, implementable, respectful. It does not spy on you, it does not steal from you, it does not seek to manipulate you. 
-
-Small Technology is a Big Topic that deserves more words than I'll give it here. 
-
-### Social media
-
-Write a blog, start a newsletter, maybe use the [fediverse](https://joinmastodon.org). Whatever you end up doing, avoid Facebook and google wherever you can. 
-
-### Communication 
-
-Send an email, run an [element](https://element.io/matrix-services) server, don't let Gmail and Facebook control your communication. 
-
-### Storage 
-
-[Syncthing](https://syncthing.net/) and [nextcloud](https://nextcloud.com/) work as well as dropbox, and don't spy on you. 
-
-### Distribution
-
-Host your own website. Use [wordpress](https://wordpress.org/) or [neocities](https://neocities.org/) or some other platform. If you don't want to pay to rent a server, run something like [yunohost](https://yunohost.org/#/) on a raspberry pi in a closet in your home. It won't be available 100% of the time, and it won't be fast, but it'll be Good Enough and you'll learn a lot along the way. 
-
-### Creation 
-
-Free tools for creation exist and are great. Look at [Krita](https://krita.org/en/), [glimpse](https://glimpse-editor.org/), [kdenlive](https://kdenlive.org/en/), and dozens of others. All of the work I do is powered by free software. 
-
-## Small Media 
-
-Make things because you like to make them. Share things because you want to share them. People have done this since the dawn of time. Members of the [Arts and Crafts group the Roycrofter](https://en.wikipedia.org/wiki/Roycroft) were self publishing zines in the 1890s using letterpress, [Lainsville TV](https://mountaintown.video/w/tQu6svJXH6scuocNHJXnJt) and [The Videofreex](https://mountaintown.video/w/sSB1mXYfJkvwCBKSW3Fp5V) were producing independent television with the first consumer video cameras. 
-
-You don't need budget, you don't need technology, you just need something to say. 
-
-
-# Small things: 
-
-This is a list of things that are small. Not every thing on this list will conform to every principle of the small things manifesto, but they all have a similar flavor. 
-
-## Zines and comix 
-   
-By their very nature, Zines (self published, DIY magazines) are Small. They're usually hand made. They're usually distributed freely or cheaply. Go [embrace Zines](https://analogrevolution.com/product/analog-revolution-zine-vol-3-issue-1/) and Comix from your local book or record store. 
-   
-## The slow/small/indie web
-
-The internet does not have to belong to Amazon and Google and Facebook. Projects like [Gemini](https://gemini.circumlunar.space/) imagine a new kind of web. Projects like the fediverse (see [Mastodon](https://joinmastodon.org) or [Hometown](https://github.com/hometown-fork/hometown)) create an alternative to Twitter and Facebook. [Tilde servers](http://www.tilde.club/), and places like [SDF](https://sdf.org/?faq?BASICS?01) provide a place for communities of tech enthusiasts to get together outside the control of a massive corporation. 
-
-Email is, outside of gmail and yahoo mail, still Federated and peer to peer. 
-
-Services like [Peertube](https://joinpeertube.org/) (which powers [New Ellijay TV](https://newellijay.tv)) allow sharing even videos from underpowered simple computers on home internet connections, and projects like yunohost simplify the maintenance and deployment for self hosting on simple cheap computers. 
-
-## Podcasts
-
-Most podcasts are Small Media, even if they don't consider themselves to be. They're independently produced media distributed using small technology (RSS). Corporations like Spotify and Apple and Google have attempted to gatekeep podcasts, but anyone can go to most podcast's website and download and subscribe with any podcatcher. 
-
-Many podcasts lean in to this, distributing under an entirely open license. 
-
-Most podcasts start real rough around the edges, not only is that Fine, it's also Good. Embrace imprefections. [Reject perfection](https://expeditionsasquatch.org). 
-  
-## Music 
-
-Lots of small music gets made every day. Most DIY/Punk is small music, but to my mind there has never been a more perfect example of the Ethos of Small Production than [All Hail West Texas by The Mountain Goats](https://themountaingoats.bandcamp.com/album/all-hail-west-texas-remastered). Recorded on the internal mic of a boombox, it's a Deeply emotional and absolutely perfect record that lives in, reslishes in, its flaws. "Hail Satan, tonight." 
-
-It's not CC licensed, but it predates the entire concept, so I can't fault it. 
-
-## New Ellijay TV 
-
-We're launching a [TV network](https://newellijay.tv), with live streaming and a roku app and a website called [New Ellijay TV](https://newellijay.tv). We're creating and distributing Small Television, and we're looking for more people who believe in the cause to work with us.  
-
-## Other Small Things
+# Other Small Things
 
 People are always making [small games](https://itch.io), small software, small art. This is good! We're going to compile as many small things as we can in to a regular feature in the [analog revolution zine](https://analogrevolution.com/product/analog-revolution-zine-vol-3-issue-1/), and on [our website](https://analogrevolution.com). 
 
