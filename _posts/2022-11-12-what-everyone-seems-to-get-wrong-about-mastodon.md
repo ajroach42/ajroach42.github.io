@@ -178,4 +178,4 @@ Twitter's meltdown is not AOL.
 
 [No More Eternal Septembers](https://tedium.co/2020/10/13/eternal-september-modern-impact/)
 
-What Everyone Seems To Get Wrong About Mastodon was originally published on 2022-11-06 at gemini://gem.ajroach42.com - This web version has undergone minor revisions.
+What Everyone Seems To Get Wrong About Mastodon was originally published on 2022-11-06 at [gemini://gem.ajroach42.com](gemini://gem.ajroach42.com) - This web version has undergone minor revisions.
