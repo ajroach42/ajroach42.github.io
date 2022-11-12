@@ -4,7 +4,7 @@ category: post
 published: true
 title: What Everyone Seems To Get Wrong About Mastodon (or What Mastodon't)
 ---
-Let's get this out of the way up front. Twitter is a massive corporation that recently sold for tens of billions of dollars. Mastodon (or, really, the Fediverse) is an adhoc collection of dozens of servers run on spare change and passion by hobbiests the world over. 
+Let's get this out of the way up front. Twitter is a massive corporation that recently sold for tens of billions of dollars. Mastodon (or, really, the Fediverse) is an adhoc collection of dozens of servers run on spare change and passion by hobbyists the world over. 
 
 ## What Mastodon't
 
