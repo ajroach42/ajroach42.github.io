@@ -16,7 +16,7 @@ We built this thing, some of us over the last 10 years. We built it to provide a
 
 Guess what? It was a good idea. 
 
-We built it, we're proud of it, some of us are defensive of it, some of us are lamenting the way that it is changing, and some of us are angry that All These New People won't just Use The Platform the way we want them to. This is normal, and we'll get over it (or we won't, and we'll leave.) One server admin who I've been following for years described it as [Mastodon's Home Invastion](https://www.hughrundle.net/home-invasion/). He makes some great points. 
+We built it, we're proud of it, some of us are defensive of it, some of us are lamenting the way that it is changing, and some of us are angry that All These New People won't just Use The Platform the way we want them to. This is normal, and we'll get over it (or we won't, and we'll leave.) One server admin who I've been following for years described it as [Mastodon's Home Invasion](https://www.hughrundle.net/home-invasion/). He makes some great points. 
 
 I'm not here to address the new versus old, the Content Warning Debates, or any of the rest of that. I'm here to re-hash the same FUD that pops up every time Mastodon is in the news, and maybe one or two new fears. 
 
