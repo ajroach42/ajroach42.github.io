@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: What the eff is gemini?
 ---
 I've been talking about gemini a bunch recently, but I haven't really explained. Gemini is an attempt to reimagine a world wide web that is smaller (the the smallpunk/small things manifesto sense), that is able to be understood, that cannot spy on you, that is human centric. 
@@ -54,4 +54,4 @@ I'm working on a guide to reading and writing on gemini for non-technical users,
 
 [yesterclub cities](gemini://cities.yesterweb.org/)
 
-What the eff is gemini? was published on 2022-11-07 at [gemini://gem.ajroach42.com](gemini://gem.ajroach42.com) and republished here with minor modification. 
+What the eff is gemini? was published on 2022-11-07 at [gemini://gem.ajroach42.com](gemini://gem.ajroach42.com) and republished here with minor modification.
