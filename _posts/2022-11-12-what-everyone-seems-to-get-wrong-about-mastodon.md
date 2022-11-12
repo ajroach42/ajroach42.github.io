@@ -2,11 +2,11 @@
 layout: post
 category: post
 published: true
-title: What Everyone Seems To Get Wrong About Mastodon
+title: What Everyone Seems To Get Wrong About Mastodon (or What Mastodon't)
 ---
 Let's get this out of the way up front. Twitter is a massive corporation that recently sold for tens of billions of dollars. Mastodon (or, really, the Fediverse) is an adhoc collection of dozens of servers run on spare change and passion by hobbiests the world over. 
 
-## What Mastadon't
+## What Mastodon't
 
 I'm sure you've seen, in the last day or four, the exodus of users from Twitter. Many of these users find themsleves reaching for the open source, federated "twitter alternative" Mastodon, or one of the several other Activity Pub compatible software packages. For me, and many other longtime denizens of the Fediverse, this has been a kind of mixed blessing. I've seen an influx of new followers, up 1,000 people or so in the last week. That's Significant, I have a wider reach now than I did before. It's also stressful, I have a wider reach now than I did before.
 
