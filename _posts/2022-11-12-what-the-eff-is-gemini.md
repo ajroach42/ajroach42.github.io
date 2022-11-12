@@ -28,7 +28,7 @@ The big deal is that the modern web sucks.
 
 That should be the end of this article, but I'll go on. 
 
-The web started as something to share knowledge, and quickly became a platform for survielance and exploitation. Gemini was designed with the knowledge of how the promise of the web was stolen from us, and designed to be something apart from that, and immune to the ways the first web failed. It isn't a replacement for the modern web, it's just a small weird corner where we can make things and tell stories and find a community.
+The web started as something to share knowledge, and quickly became a platform for surveillance and exploitation. Gemini was designed with the knowledge of how the promise of the web was stolen from us, and designed to be something apart from that, and immune to the ways the first web failed. It isn't a replacement for the modern web, it's just a small weird corner where we can make things and tell stories and find a community.
 
 A place where people can get together and share things, read things, write things, without worrying about facebook's tracking pixels or google's ad buys. 
 
