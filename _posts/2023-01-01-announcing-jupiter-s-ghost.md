@@ -15,7 +15,6 @@ Episode One – Generation Mice
 Your browser does not support the audio element.
 </audio> 
 
-
 [Download file](https://intergalactic.computer/social/podcast-download/371/jupiters-ghost-episode-01-generation-mice.mp3?ref=download) | [Play in new window](https://intergalactic.computer/social/podcast-download/371/jupiters-ghost-episode-01-generation-mice.mp3?ref=new_window) | Duration: 20:54 | Recorded on December 29, 2022
 
 Subscribe: [Apple Podcasts](https://podcasts.apple.com/us/podcast/jupiters-ghost-official/id1662226079) | [Stitcher](https://www.stitcher.com/show/1050573) | [Spotify](https://open.spotify.com/show/3Psf15yCZusLMVCJfd2cgj) (boo) | [RSS](https://intergalactic.computer/social/feed/podcast/jupiters-ghost-official)
@@ -28,9 +27,6 @@ Music by [Monplaisir](https://chezmonplaisir.bandcamp.com/album/space-porn)
 
 Sound effects by [Graham Makes](https://freesound.org/people/graham_makes/sounds/447321/) and [Nexotron](https://freesound.org/people/Nexotron/sounds/371282/)
 
-### [](https://fileshare.ellijaymakerspace.org//hedgedoc/#Welcome-to-the-future)Welcome to the future.
-
-The year is 3022 and this is the crew of the starship Jupiter’s Ghost. What follows are stories reconstructed from the mission briefings, personal logs, and intership communications recorded by the starship. Join the crew on their mission of mutual aid and solidarity in deep space.
 
 * * *
 
