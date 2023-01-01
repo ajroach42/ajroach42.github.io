@@ -6,7 +6,7 @@ title: 'Announcing Jupiter''s Ghost '
 ---
 Welcome to the new year! I'm glad you made the transfer without incident. It is my Duty and Privilege to announce the public launch of a project I've been working on for the better part of a decade, This is Jupiter's Ghost! It is a podcast set in the creative commons CC-BY-SA licensed universe of the Solar Federation. It's a community initative, written and record by a small but growing group of contributors, which you are formally invited to join! 
 
-<div style-"background-color:grey; padding:5%;">
+<div style="background-color:grey; padding:5%;">
 
 Episode One – Generation Mice
 =============================
