@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Happy Public Domain Day
 ---
 It's public domain day in the US. In celebration, I'll spend the next few weeks post about things that have recently entered the public domain, and about Public Domain Remix projects. To kick things off, here's a newly scored copy of the once-lost Laruel and Hardy picture "[The Battle of the Century](https://vod.newellijay.tv/w/qK49WdrPMcZbjxhhsDNv5m)" presented by [New Ellijay Television](https://newellijay.tv). 
