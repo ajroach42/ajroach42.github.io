@@ -4,7 +4,7 @@ category: post
 published: false
 title: 'Announcing Jupiter''s Ghost '
 ---
-Welcome to the new year! I'm glad you made the transfer without incident. It is my Duty and Privilege to announce the public launch of a project I've been working on for the better part of a decade, This is Jupiter's Ghost! It is a podcast set in the creative commons CC-BY-SA licensed universe of the Solar Federation. It's a community initative, written and record by a small but growing group of contributors, which you are formally invited to join! 
+Welcome to the new year! I'm glad you made the transfer without incident. It is my Duty and Privilege to announce the public launch of a [project](https://intergalactic.computer) I've been working on for the better part of a decade, This is [Jupiter's Ghost](https://intergalactic.computer/social/podcast/jupiters-ghost-episode-01-generation-mice/)! It is a podcast set in the [creative commons CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) licensed universe of the [Solar Federation](https://intergalactic.computer/social/about-jupiters-ghost-and-the-solar-federation/). It's a community initative, written and record by a small but growing group of contributors, which you are [formally invited to join](https://intergalactic.computer/social/how-to-contribute/)! 
 
 
 Episode One – Generation Mice
@@ -30,6 +30,6 @@ Sound effects by [Graham Makes](https://freesound.org/people/graham_makes/sounds
 
 * * *
 
-Please give it a listen, share it with your friends, consider participating in the universe. Help us turn this in to something special. 
+Please give it a listen, subscribe, review us on iTunes and Stitcher and Spotify and, eventaully, when Google decides we're worth indexing, Google Podcasts. Share it with your friends, consider participating in the universe. Help us turn this in to something special. 
 
 That's the meat of the post, but if you want to stick around I'm going to talk about what we've done, and why we've done it, and what we're going to do next.
