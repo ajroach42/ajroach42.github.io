@@ -10,8 +10,11 @@ Welcome to the new year! I'm glad you made the transfer without incident. It is 
 
 Episode One – Generation Mice
 =============================
+ <audio controls>
+  <source src="https://intergalactic.computer/social/podcast-player/371/jupiters-ghost-episode-01-generation-mice.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> 
 
-https://intergalactic.computer/social/podcast-player/371/jupiters-ghost-episode-01-generation-mice.mp3
 
 [Download file](https://intergalactic.computer/social/podcast-download/371/jupiters-ghost-episode-01-generation-mice.mp3?ref=download) | [Play in new window](https://intergalactic.computer/social/podcast-download/371/jupiters-ghost-episode-01-generation-mice.mp3?ref=new_window) | Duration: 20:54 | Recorded on December 29, 2022
 
@@ -24,8 +27,6 @@ Written by [Andrew Roach](https://retro.social/@ajroach42), Jess Eves, Connor Bu
 Music by [Monplaisir](https://chezmonplaisir.bandcamp.com/album/space-porn)
 
 Sound effects by [Graham Makes](https://freesound.org/people/graham_makes/sounds/447321/) and [Nexotron](https://freesound.org/people/Nexotron/sounds/371282/)
-
-     
 
 ### [](https://fileshare.ellijaymakerspace.org//hedgedoc/#Welcome-to-the-future)Welcome to the future.
 
