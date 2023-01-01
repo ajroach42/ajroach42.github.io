@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Giant Robot Jetpack - New from Analog Revolution '
 ---
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4138125962/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://hurlyburlyandthevolcanicfallout.bandcamp.com/album/giant-robot-jetpack">Giant Robot Jetpack by Hurly Burly and the Volcanic Fallout</a></iframe>
@@ -17,5 +17,4 @@ This album is fantastic. It's full of rampant, manic, high energy tracks that ma
 
 Give it a listen. Buy it. Print out the album art and hang it on your wall. Reclaim the promise, energy, and fun that the world held when you were hyped up on sugar and watching cartoons in 2003 (substitute 2003 for whatever year is appropriate for you, of course.) 
 
-This is the second cassette release from Analog Revolution in the last three weeks, and there are many more coming. The venerable Doctor Deathray is running the show now, and she is not to be underestimated. 
-
+This is the second cassette release from Analog Revolution in the last three weeks, and there are many more coming. The venerable Doctor Deathray is running the show now, and she is not to be underestimated.
