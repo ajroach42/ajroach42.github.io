@@ -6,10 +6,10 @@ title: 'Announcing Jupiter''s Ghost '
 ---
 Welcome to the new year! I'm glad you made the transfer without incident. It is my Duty and Privilege to announce the public launch of a project I've been working on for the better part of a decade, This is Jupiter's Ghost! It is a podcast set in the creative commons CC-BY-SA licensed universe of the Solar Federation. It's a community initative, written and record by a small but growing group of contributors, which you are formally invited to join! 
 
-<div style="background-color:grey; padding:5%;">
 
 Episode One – Generation Mice
 =============================
+
  <audio controls>
   <source src="https://intergalactic.computer/social/podcast-player/371/jupiters-ghost-episode-01-generation-mice.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
@@ -30,7 +30,7 @@ Sound effects by [Graham Makes](https://freesound.org/people/graham_makes/sounds
 
 ### [](https://fileshare.ellijaymakerspace.org//hedgedoc/#Welcome-to-the-future)Welcome to the future.
 
-The year is 3022 and this is the crew of the starship Jupiter’s Ghost. What follows are stories reconstructed from the mission briefings, personal logs, and intership communications recorded by the starship. Join the crew on their mission of mutual aid and solidarity in deep space. </DIV>
+The year is 3022 and this is the crew of the starship Jupiter’s Ghost. What follows are stories reconstructed from the mission briefings, personal logs, and intership communications recorded by the starship. Join the crew on their mission of mutual aid and solidarity in deep space.
 
 * * *
 
