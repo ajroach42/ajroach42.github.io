@@ -4,7 +4,7 @@ category: post
 published: true
 title: 'Announcing Jupiter''s Ghost '
 ---
-Welcome to the new year! I'm glad you made the transfer without incident. It is my Duty and Privilege to announce the public launch of a [project](https://intergalactic.computer) I've been working on for the better part of a decade, This is [Jupiter's Ghost](https://intergalactic.computer/social/podcast/jupiters-ghost-episode-01-generation-mice/)! It is a podcast set in the [creative commons CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) licensed universe of the [Solar Federation](https://intergalactic.computer/social/about-jupiters-ghost-and-the-solar-federation/). It's a community initative, written and record by a small but growing group of contributors, which you are [formally invited to join](https://intergalactic.computer/social/how-to-contribute/)! 
+Welcome to the new year! I'm glad you made the transfer without incident. It is my Duty and Privilege to announce the public launch of a [project](https://intergalactic.computer) I've been working on for the better part of a decade, This is [Jupiter's Ghost](https://intergalactic.computer/social/podcast/jupiters-ghost-episode-01-generation-mice/)! It is a podcast set in the [creative commons CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) licensed universe of the [Solar Federation](https://intergalactic.computer/social/about-jupiters-ghost-and-the-solar-federation/). It's a community initiative, written and record by a small but growing group of contributors, which you are [formally invited to join](https://intergalactic.computer/social/how-to-contribute/)! 
 
 
 Episode One – Generation Mice
@@ -66,4 +66,4 @@ Now, I can imagine many of those reading this rolling their eyes at the idea tha
 
 So, here's Jupiter's Ghost. Here's The Solar Federation. Here's a big open universe with Spaceships and Aliens and history and a future, in to which any number of stories can be positioned. You can use it however you want, as long as you credit us, and give back to the commons. 
 
-Now yes, it's *wildly* optimistic to think that anything like Star Trek New Voyages would ever exist for our little old podcast, but it's legal, it's allowed, it's possible, and it's encouraged. That's a better model for how copyright might exist and it's a way we can live our values while producing media that reflects what we believe. 
+Now yes, it's *wildly* optimistic to think that anything like Star Trek New Voyages would ever exist for our little old podcast, but it's legal, it's allowed, it's possible, and it's encouraged. That's a better model for how copyright might exist and it's a way we can live our values while producing media that reflects what we believe.
