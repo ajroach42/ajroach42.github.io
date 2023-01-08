@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Jupiter's Ghost - Cartoon PILOT
 ---
 <iframe title="Jupiter's Ghost [PILOT] - Generational Mice" src="https://vod.newellijay.tv/videos/embed/85ea7ad6-e603-490f-aba9-20debfc06c59" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
@@ -40,4 +40,4 @@ As I said above, this is not a finished, polished thing. If the reception is goo
 
 We'll accomplish those things by having *someone else* do them. The biggest thing I learned from working on this project is that I rarely have 5 hours of uninterrupted time, and that I would be better served using my time elsewhere. There are a lot of people working on Jupiter's Ghost and New Ellijay Television and this project would be better served in the hands of some of them. 
 
-So what do you think? Is it worth going down this road? What would you do differently? 
+So what do you think? Is it worth going down this road? What would you do differently?
