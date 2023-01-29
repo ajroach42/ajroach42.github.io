@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Ellijay Makerspace Anniversary '
 ---
 A year ago, we officially opened the [Ellijay Makerspace](https://ellijaymakerspace.org) and to celebrate, as we did when we openned the place, we threw a concert. We taped it, and it's available bellow. 
@@ -39,4 +39,4 @@ But then Hurly Burly played, and the New Clear Lawn Chairs played, and Crosstalk
 
 I'm fortunate to have shared this moment with these friends and strangers.
 
-I'll cherish this, and share it with you all. 
+I'll cherish this, and share it with you all.
