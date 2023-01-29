@@ -4,7 +4,7 @@ category: post
 published: true
 title: 'Ellijay Makerspace Anniversary '
 ---
-A year ago, we officially opened the [Ellijay Makerspace](https://ellijaymakerspace.org) and to celebrate, as we did when we openned the place, we threw a concert. We taped it, and it's available bellow. 
+A year ago, we officially opened the [Ellijay Makerspace](https://ellijaymakerspace.org) and to celebrate, as we did when we openned the place, we threw a concert. We taped it, and it's available below. 
 
 ![Michael Cera Palin performing at the Ellijay Makerspace in Jan of 22.]({{site.baseurl}}/images/Concert.jpg)
 
