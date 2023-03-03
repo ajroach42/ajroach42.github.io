@@ -10,6 +10,7 @@ Just about ten years ago, I ran a [record store and little record label in Kenne
 
 New music in your mailbox, and in your inbox. $15/month, from Analog Revolution. Use code "LaunchParty" for $5 off your first month. 
 
-![]({{site.baseurl}}/images/Announcing%20Cassettes%20For%20Me%20New%20Tapes%20and%20Digital%20Downloads%20every%20month!%20Month%20One%20Spirits%20Republic%20Live%20March%202022%20httpscassettesfor.me.png)
+![Announcing Cassettes For Me New Tapes and Digital Downloads every month! Month One Spirits Republic Live March 2022 httpscassettesfor.me.png]({{site.baseurl}}/images/Announcing Cassettes For Me New Tapes and Digital Downloads every month! Month One Spirits Republic Live March 2022 httpscassettesfor.me.png)
+
 
 We're starting things off with a tape from our first [Put on a Show](https://ajroach42.com/put-on-a-show/) from the band Spirit's Republic. I've been listening to the thing on a loop and it's Wonderful, and I can't wait to share it with you all.
