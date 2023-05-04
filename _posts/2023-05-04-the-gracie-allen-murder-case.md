@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: The Gracie Allen Murder Case
 ---
 I got a book in the mail yesterday that is just the weirdest little cultural artifact from the late 30s and I want to talk about it for a second, but before I do, I have to talk about [George Burns](https://en.wikipedia.org/wiki/George_Burns) and [Gracie Allen](https://en.wikipedia.org/wiki/Gracie_Allen). 
@@ -44,4 +44,4 @@ Can you imagine the author of a successful series of serious novels today decidi
 
 But it happened.
 
-And, really, it was just the start of the [Weird Stuff](https://www.mentalfloss.com/article/604596/gracie-allen-and-the-surprise-party) that George and Gracie would get up to prior to their TV debut in 1950. 
+And, really, it was just the start of the [Weird Stuff](https://www.mentalfloss.com/article/604596/gracie-allen-and-the-surprise-party) that George and Gracie would get up to prior to their TV debut in 1950.
