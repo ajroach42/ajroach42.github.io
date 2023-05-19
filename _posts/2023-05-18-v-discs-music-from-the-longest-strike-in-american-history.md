@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: V-Discs - Music from the longest strike in American history
 ---
 Alright, time to talk about a thing from 80-ish years ago.
