@@ -14,7 +14,7 @@ Live performances continued. Radio performances continued, but no new commercial
 
 If you've followed me for a while, you might be expecting me to talk about The Savory Collection now. That's not actually what I want to talk about, but I'm going to do a brief aside about the Savory Collection for folks who are unfamiliar. 
 
-I wrote a blog post about this: https://ajroach42.com/the-national-jazz-museum-in-harlem-presents-the-savory-collection/
+[I wrote a blog post about the savory collection recordings a few years ago.](https://ajroach42.com/the-national-jazz-museum-in-harlem-presents-the-savory-collection/)
 
 The gist: A dude recorded a bunch of radio broadcasts of jazz performances in the 30s and 40s, many of which were recorded during a big recording musician's strike. 
 
