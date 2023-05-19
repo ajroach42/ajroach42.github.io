@@ -34,7 +34,7 @@ There were hundreds of discs and thousands of tracks. They are collectively refe
 
 There are [900 V-discs on the internet archive](https://archive.org/details/V-discs1-991943-1944), the first hundred are here: 
 
-<iframe src="https://archive.org/embed/V-discs1-991943-1944" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/V-discs1-991943-1944&playlist=1" width="500" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 These recordings offer a peak in to what American music was doing at a time when there are scant few other clues. 
 
