@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Community Media: A Handbook for Revolutions in DIY TV'
 ---
 This is the blueprint for a revolution in the creation and distribution of media. We will discuss how and why to produce your own television using free tools, and explore how to use Community Television as an instrument for social change.
@@ -18,4 +18,4 @@ It is a work in progress. The text above adorns the first page of the current Zi
 
 When I feel like I've said what I need to say, I'll make it available in a more professionally bound package. 
 
-In the meantime, [learn about the history of DIY Television, and how you can (and must!) make your own television today](https://communitymedia.network). 
+In the meantime, [learn about the history of DIY Television, and how you can (and must!) make your own television today](https://communitymedia.network).
