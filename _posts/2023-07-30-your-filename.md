@@ -2,7 +2,7 @@
 layout: post
 category: post
 published: true
-title: Untitled
+title: 'Analog Revolution Put on a Show - July 22nd, 2023 '
 ---
 On July 22nd 2023, [Analog Revolution](https://analogrevolution.bandcamp.com) gathered a horde of freaks, punks, anarchists, communists, witches, wizards, and emotionally stunted weirdos, and our little impromptu band of misfits descended on the usually respectable [Gilmer Arts Playhouse](https://gilmerarts.org) in [Ellijay, Georgia](https://ellijaymakerspace.org). 
 
