@@ -1,8 +1,8 @@
 ---
 layout: post
 category: post
-published: false
-title: ''
+published: true
+title: Untitled
 ---
 On July 22nd 2023, [Analog Revolution](https://analogrevolution.bandcamp.com) gathered a horde of freaks, punks, anarchists, communists, witches, wizards, and emotionally stunted weirdos, and our little impromptu band of misfits descended on the usually respectable [Gilmer Arts Playhouse](https://gilmerarts.org) in [Ellijay, Georgia](https://ellijaymakerspace.org). 
 
@@ -20,6 +20,4 @@ The audio clips occasionally, especially during the Rat Babies set. Rat Babies p
 
 ![20230722_192029.jpg]({{site.baseurl}}/images/20230722_192029.jpg)
 
-So come revel with us in the joy of loud, aggressive, and occasionally sloppy rock and/or roll. You could do a lot worse with your Sunday Morning. 
-
-
+So come revel with us in the joy of loud, aggressive, and occasionally sloppy rock and/or roll. You could do a lot worse with your Sunday Morning.
