@@ -21,3 +21,6 @@ The audio clips occasionally, especially during the Rat Babies set. Rat Babies p
 ![20230722_192029.jpg]({{site.baseurl}}/images/20230722_192029.jpg)
 
 So come revel with us in the joy of loud, aggressive, and occasionally sloppy rock and/or roll. You could do a lot worse with your Sunday Morning.
+
+
+You can watch this show, and all our concerts on [New Ellijay Television](https://newellijay.tv). 
