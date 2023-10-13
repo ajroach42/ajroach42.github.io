@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'Hifi Edition - Analog Revolution Put on a Show - July 22nd, 2023 '
 ---
 Back in July, I shared [a post about the lofi edition of our July concert at the Gilmer Arts Playhouse](https://ajroach42.com/your-filename/). Today, I'm sharing the Hi-Fi edition. This is the first show we've produced in 4k, and the first of our playhouse shows to feature videographer Nelson Crawford (of John Thefruitman and Holders.) I think the results speak for themselves, and I'm incredibly proud to have been a part of this. 
@@ -12,4 +12,4 @@ Back in July, I shared [a post about the lofi edition of our July concert at the
 
 Other featured artists include [Piece](https://piecebewithyou.bandcamp.com/album/piece-be-with-you), and [Doctor Deathray](https://doctordeathray.bandcamp.com/album/51-miles-from-nowhere). The show is a mishmash of doomy, sludgey, loud metal; grunge tinged, computerized emo; and blistering blues rock.
 
-This is part of our regular concert series for [New Ellijay Television](https://newellijay.tv). 
+This is part of our regular concert series for [New Ellijay Television](https://newellijay.tv).
