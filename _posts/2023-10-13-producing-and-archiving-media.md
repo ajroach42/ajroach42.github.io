@@ -47,6 +47,7 @@ For money, you can:
 - Buy toys from [our toystore](https://mountaintowntoys.com) (to be fair, this one helps my dad more than it helps me, as he runs most of the toystore stuff. (but I pay him to do it, and it's easier to do that when toys are selling. (That's economics (or maybe the circle of life.))))
 - [Advertise with New Ellijay Television](https://newellijay.tv/make-tv-with-us/) (packages start at $100/month, fill out the contact form for more info, or reach out to me directly via the fediverse at @ajroach42@retro.social or matrix @ajroach42:talk.ellijaymakerspace.org)
 - Sponsor one of our podcasts or video productions (There's an [Executive Producer tier on patreon right now](https://www.patreon.com/ajroach42), but I'm open to exploring other methods of sponsorship, just reach out through your method of choice.) 
+- Buy some [t-shirts from the makerspace](https://ellijaymakerspace.org/product-category/clothing/t-shirts/). We screenprint these ourselves. 
 - [Just give me money](https://www.paypal.com/paypalme/MountainTownFM). 
 
 ## This is just a begpost. 
