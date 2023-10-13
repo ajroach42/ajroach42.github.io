@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Microsoft Buys Activision - What does it mean for digital preservation?
 ---
 Microsoft purchased activision/blizzard. This is the way things go. Activision spent decades gobbling up other game studios, becoming a massive juggernaut unable to support it's own bulk, and then an even larger creature moved in and took control. It feels like something out of [the Kaiju Preservation Society](https://en.wikipedia.org/wiki/The_Kaiju_Preservation_Society), except that these incomprehensible monsters are financial fictions. The consolidation of the control of media production in to an ever shrinking number of hands is one of the biggest problems of our age (and the subject of [my recent book _Community Media: a Handbook for Revolutions in DIY TV_](https://communitymedia.network)), so I lament this purchase, but ... Well, Activision spent years doing the same thing with small studios, and it's one of those small studios that I want to talk about now. See, it's time to talk about Infocom. 
@@ -18,5 +18,4 @@ So now Microsoft owns the Infocom library (or, at least, all of it except The Hi
 
 Prominent member of the interactive fiction community (and [the author of one of my favorite games of all time](https://ajroach42.com/gaming-when-i-was-9-a-social-media-post-from-2013/)) [Andrew Plotkin is making a plea to Microsoft](https://blog.zarfhome.com/2023/10/microsoft-consumes-activision): Give the infocom archives to a non-profit, and let that non-profit release them to the world. 
 
-If you know any current decision making human beings at Microsoft, maybe send them Plotkin's plea. 
-
+If you know any current decision making human beings at Microsoft, maybe send them Plotkin's plea.
