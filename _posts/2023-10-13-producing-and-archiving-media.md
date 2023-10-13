@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Producing and Archiving Media
 ---
 Hey Folks! It's been a long time (Years!) without consistent updates coming from my corner of the north GA mountains. There are lots of reasons for that, and most of them come down to time commitments and my dayjob, but I've got some news: As of earlier this week, I'm not working a day job. I still run [Analog Revolution Records](https://analogrevolution.com), [Ellijay Coffeehouse](https://ellijaycoffeehouse.com), [GA Mountain Coffee Roasting](https://gamountaincoffee.com), [Mountain Town Toys](https://mountaintowntoys.com), [Mountain Town Antiques](https://mountaintownantiques.com), [New Ellijay Television](https://newellijay.tv), [the Ellijay Makerspace](https://ellijaymakerspace.org), [Mountain Town Radio](https://mountaintown.fm), [Mountain Town Technology](https://mountaintown.technology), the podcasts [Jupiter's Ghost](https://intergalactic.computer) and [Expedition Sasquatch](https://expeditionsasquatch.org), and I'm working to build the infrastructure and tooling for our [Community Media Network](https://communitymedia.network), among a few other things, but I'm not giving 40 hours of my life to a company that can't do me the basic dignity of speaking to me honestly and respectfully anymore, and that's liberating. **So, what am I going to do instead?**
@@ -46,4 +46,4 @@ For money, you can:
 
 Well, yeah, kind of. I'm trying something new, and that means I have to talk about it. I value transparency, this is me living that value. 
 
-So, you know, come along for the ride. 
+So, you know, come along for the ride.
