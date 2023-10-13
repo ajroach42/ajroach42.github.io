@@ -12,7 +12,11 @@ Well, it's media production time. Over the last several years, I have devoted a 
 
 I've decided that the best path forward is to spend my 40 hours of Day Job energy each week on the creation, curration, analysis, and distribution of media (and [creating tools to simplify the aforementioned media tasks](https://mountaintown.technology).) We're aiming for monthly releases from Expedition Sasquatch and Jupiter's Ghost, as well as newly digitized archives from the collection, regular blog posts and newsletters, and probably some other video productions. 
 
-I am hoping that I can transform my small successes in blogging, open media production, free software advocacy, public domain archival and curration, and making weird stuff on the internet in to something that pays my bills and keeps food on my table. I am not at all sure this will work, but I don't know that I could live with myself if I didn't try it. I'm in a position of priveledge at the moment that lets me take this risk, but it is a risk. 
+I am hoping that I can transform my small successes in blogging, open media production, free software advocacy, public domain archival and curration, and making weird stuff on the internet in to something that pays my bills and keeps food on my table.
+
+I'm trying to do this durring an economic downturn, without youtube, without twitter, without facebook (and, when I can manage it, without patreon) because that aligns with my values. Maybe I can, maybe I can't. 
+
+I am not at all sure this will work, but I don't know that I could live with myself if I didn't try it. I'm in a position of priveledge at the moment that lets me take this risk, but it is a risk. 
 
 ## Okay, so what? 
 
@@ -33,6 +37,7 @@ For free, you can:
 - [Sign up for my newsletter](https://tinyletter.com/ajroach42)
 - Read [the zine I wrote about the need for community media (for free](https://communitymedia.network)!) 
 - Play New Ellijay Television in your business, to your customers (this doesn't make as much sense if you're not in Ellijay, but I'd still appreciate it.) 
+- Listen to [mountaintown raido](https://mountaintown.fm), and encourage your friends to do the same. 
 - Tell your friends about one of the things we're producing. 
 
 For money, you can: 
@@ -41,6 +46,8 @@ For money, you can:
 - [Buy a copy of the zine I wrote about the history of community media, and it's future.](https://communitymedia.network)
 - Buy toys from [our toystore](https://mountaintowntoys.com) (to be fair, this one helps my dad more than it helps me, as he runs most of the toystore stuff. (but I pay him to do it, and it's easier to do that when toys are selling. (That's economics (or maybe the circle of life.))))
 - [Advertise with New Ellijay Television](https://newellijay.tv/make-tv-with-us/) (packages start at $100/month, fill out the contact form for more info, or reach out to me directly via the fediverse at @ajroach42@retro.social or matrix @ajroach42:talk.ellijaymakerspace.org)
+- Sponsor one of our podcasts or video productions (There's an [Executive Producer tier on patreon right now](https://www.patreon.com/ajroach42), but I'm open to exploring other methods of sponsorship, just reach out through your method of choice.) 
+- [Just give me money](https://www.paypal.com/paypalme/MountainTownFM). 
 
 ## This is just a begpost. 
 
