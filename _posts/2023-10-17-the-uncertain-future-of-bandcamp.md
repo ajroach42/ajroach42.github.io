@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: The Uncertain Future of Bandcamp
 ---
 If you've followed me for any length of time, you probably already know that I run a record label. If you haven't, now you know I run a record label. It's called [Analog Revolution](https://analogrevolution.com), and we do the bulk of our sales through our website (and our [cassette subcription platform](https://cassettesfor.me)), but we have also been, for the last ten years, big fans of and users of [Bandcamp](https://analogrevolution.bandcamp.com). It was recently announced that Bandcamp was being sold (again) and this time, [they're laying off half the staff](https://www.sfgate.com/tech/article/bandcamp-layoffs-oakland-songtradr-epic-18429463.php). This is almost certainly in response to Bandcamp's efforts to unionize (see [the bandcamp union's response to the layoffs on instagram](https://www.instagram.com/p/CyereebvuQM/)) and it leaves folks like me in a curious position. So, let's talk about the future of music distribution in a world where the future of bandcamp is uncertain. 
@@ -53,4 +53,4 @@ Maybe, yeah! When I made this blog post, that's all that was there. I made the p
 
 We're building this because we need it, and we're building it the way that we're building it so that it can become a part of the broader media production and distribution ecosystem we're working towards. Our goal is to reshape media production and distribution in to something significantly more fair, diverse, and equitable (and, frankly, something more [Community Oriented](https://communitymedia.network), and something much [smaller](https://ajroach42.com/the-small-things-manifesto/).) 
 
-So, yeah, join in. Let's make a more fair future. 
+So, yeah, join in. Let's make a more fair future.
