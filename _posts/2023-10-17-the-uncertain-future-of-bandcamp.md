@@ -4,7 +4,7 @@ category: post
 published: true
 title: The Uncertain Future of Bandcamp
 ---
-If you've followed me for any length of time, you probably already know that I run a record label. If you haven't, now you know I run a record label. It's called [Analog Revolution](https://analogrevolution.com), and we do the bulk of our sales through our website (and our [cassette subcription platform](https://cassettesfor.me)), but we have also been, for the last ten years, big fans of and users of [Bandcamp](https://analogrevolution.bandcamp.com). It was recently announced that Bandcamp was being sold (again) and this time, [they're laying off half the staff](https://www.sfgate.com/tech/article/bandcamp-layoffs-oakland-songtradr-epic-18429463.php). This is almost certainly in response to Bandcamp's efforts to unionize (see [the bandcamp union's response to the layoffs on instagram](https://www.instagram.com/p/CyereebvuQM/)) and it leaves folks like me in a curious position. So, let's talk about the future of music distribution in a world where the future of bandcamp is uncertain. 
+If you've followed me for any length of time, you probably already know that I run a record label. If you haven't, now you know I run a record label. It's called [Analog Revolution](https://analogrevolution.com), and we do the bulk of our sales through our website (and our [cassette subcription platform](https://cassettesfor.me)), but we have also been, for the last ten years, big fans of and users of [Bandcamp](https://analogrevolution.bandcamp.com). It was recently announced that Bandcamp was being sold (again) and this time, [they're laying off half the staff](https://www.sfgate.com/tech/article/bandcamp-layoffs-oakland-songtradr-epic-18429463.php). This is almost certainly in response to Bandcamp's efforts to unionize (see [the bandcamp union's response to the layoffs on instagram](https://www.instagram.com/p/CyereebvuQM/)) and it leaves folks like me in a curious position. So, let's talk about [the future of music distribution](https://code.communitymedia.network/MountainTownTechnology/aural_isle) in a world where the future of bandcamp is uncertain. 
 
 ## Will Songtradr do the right thing? 
 
@@ -14,7 +14,7 @@ I've long been an advocate of owning your own platform whenever possible, and th
 
 ## So what are we going to do? 
 
-I'm glad you asked (or, I want you to ask so I'm going to pretend you did!) As I mentioned in another recent post, [I'm currently producing media and media tooling full time](https://ajroach42.com/producing-and-archiving-media/). The [roadmap for our vision of the future of media](https://mountaintown.technology) has included a distribution platform that marries the social and curitorial aspects of bandcamp to the activity pub protocol from day one, and in light of the fact that Bandcamp is likely to be a ghost town within 18 months, and I will still need a platform through which to sell music, merch, and podcasts, we're moving up the timetable on our [federated, open source, AGPL licensed bandcamp alternative](https://code.communitymedia.network/sundog/aural_isle). 
+I'm glad you asked (or, I want you to ask so I'm going to pretend you did!) As I mentioned in another recent post, [I'm currently producing media and media tooling full time](https://ajroach42.com/producing-and-archiving-media/). The [roadmap for our vision of the future of media](https://mountaintown.technology) has included a distribution platform that marries the social and curitorial aspects of bandcamp to the activity pub protocol from day one, and in light of the fact that Bandcamp is likely to be a ghost town within 18 months, and I will still need a platform through which to sell music, merch, and podcasts, we're moving up the timetable on our [federated, open source, AGPL licensed bandcamp alternative](https://code.communitymedia.network/MountainTownTechnology/aural_isle). 
 
 (Wait, who is "We"? Right now it is me and [DJ Sundog](https://reclaim.technology/git/djsundog), and some other folks from the loose collective calling itself [Mountain Town Technology](https://mountaintown.technology). We're a group of computer professionals, developers, SREs, etc. who also produce and distribute media, and we're hoping to reshape the way media is produced and distributed. We believe in it, we're betting the farm on it, Let's Go!)
 
@@ -44,7 +44,7 @@ From the readme:
 
 > We are not interested in blockchain integrations or NFTs and will not be implementing any support for anything of the sort. We're not trying to bake the planet more or provide arbitrage opportunities.
 
-## This repo just has a readme and a license? 
+## [This repo](https://code.communitymedia.network/MountainTownTechnology/aural_isle) just has a readme and a license? 
 
 Maybe, yeah! When I made this blog post, that's all that was there. I made the post to announce our intent to get started. If you're reading this in the future, chances are pretty good that the repo is chockfull of a working implementation of the ideas described here. If you're reading this closer to when I wrote it, give us a few days. We have a team of super talented and very fast devs working through our V1 implementation right now. 
 
@@ -54,3 +54,5 @@ Maybe, yeah! When I made this blog post, that's all that was there. I made the p
 We're building this because we need it, and we're building it the way that we're building it so that it can become a part of the broader media production and distribution ecosystem we're working towards. Our goal is to reshape media production and distribution in to something significantly more fair, diverse, and equitable (and, frankly, something more [Community Oriented](https://communitymedia.network), and something much [smaller](https://ajroach42.com/the-small-things-manifesto/).) 
 
 So, yeah, join in. Let's make a more fair future.
+
+[Code Repo](https://code.communitymedia.network/MountainTownTechnology/aural_isle)
