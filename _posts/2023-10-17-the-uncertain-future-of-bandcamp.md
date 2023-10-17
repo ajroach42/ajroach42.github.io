@@ -26,7 +26,7 @@ Prior to that, feel free to back [my Patreon](https://patreon.com/ajroach42) if 
 
 ## What about $ProjectName
 
-Yes! There are lots of other projects in this space, and we could be contributing to one of them, but each of them that I've encountered so far has a limitation or concern that prevents me from embracing it wholeheartedly. If one of them makes it across the finish line before we do, great! Options are good, and if it's built around the same open federated technology we're working with, we can all work together to reach greater heights. (And if it isn't built around the same open, federated technology we're working with, it is fundamnetally at odds with what we're doing!) 
+Yes! There are lots of other projects in this space, and we could be contributing to one of them, but each of them that I've encountered so far has a limitation or concern that prevents me from embracing it wholeheartedly. If one of them makes it across the finish line before we do, great! Options are good, and if it's built around the same open federated technology we're working with, we can all work together to reach greater heights. (And if it isn't built around the same open, federated technology we're working with, it is fundamentally at odds with what we're doing!) 
 
 From the readme: 
 
