@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: The Grim Future of Youtube
 ---
 *The short version:* Corporate sponsored video sharing platforms are always going to disappoint you, so try something else. Today, the something else that I'm offering is [Community Media Video](https://communitymedia.video), this is paid peertube hosting with 10GB for storage for $15/year. *What follows:* a discussion of the way youtube is bad, and will likely continue to get worse.
@@ -61,4 +61,4 @@ To that end, if you're looking at the likely future of youtube as a DRM encumber
 - It's possible, and even easy these days, to self host something like peertube.
 - If you don't want to self host, consider signing up for an account on [Community Media ($15/year for the base package.)](https://communitymedia.video)
 
-By all means, upload to youtube if that's where your audience lives, but don't expect it to be around forever. 
+By all means, upload to youtube if that's where your audience lives, but don't expect it to be around forever.
