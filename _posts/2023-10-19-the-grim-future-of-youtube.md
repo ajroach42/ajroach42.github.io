@@ -6,6 +6,8 @@ title: The Grim Future of Youtube
 ---
 *The short version:* Corporate sponsored video sharing platforms are always going to disappoint you, so try something else. Today, the something else that I'm offering is [Community Media Video](https://communitymedia.video), this is paid peertube hosting with 10GB for storage for $15/year. *What follows:* a discussion of the way youtube is bad, and will likely continue to get worse.
 
+<iframe title="Community Media Teaser" width="560" height="315" src="https://communitymedia.video/videos/embed/262f4b55-c24c-4b6d-9bb9-d7bcfde9b0bb" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+
 Right now, Youtube is serving a mild rebuke to some people who try to view youtube with an adblocker, and I believe this is an ill portent of things to come. Right now, youtube warns users that ad blockers are in violation of youtube's terms of service. (I suspect that ublock origin will be blocking this pop-up within days, if it doesn't already, but that's not the point.) 
 
 This is the first step on a road towards a much different Youtube, and it speaks of a potential future with a much less free Web. So lets explore what is likely to happen to the web in the coming months and years, and what we can do about it. 
@@ -43,11 +45,15 @@ This would be a big deal for several reasons:
 - Simply put, the general public treats youtube like an archive, but youtube can be incredibly temporary under the wrong circumstances. 
 - With mandatory DRM for youtube content, using tools like Youtube-DL would suddenly be actual criminal violations of the DMCA, probably, I'm not a lawyer. 
 
+## What's the big deal? 
+
 Computers are good at copying things. It's probably what they're best at. But, due to a combination of rent seeking, bad legislation, and outdated copyright laws, we keep coming up with a bunch of artificial limitations on how computers can make copies of things. This is bound to be expensive, and ultimately doomed to failure, but in the meantime a lot of art and media is likely to be lost or destroyed. 
 
 [We, as a species, are fond of that kind of thing.](https://ajroach42.com/we-are-terrible-stewards-of-history/)
 
 I've been [writing about archiving your work for years.](https://ajroach42.com/document-your-art-how-to-archive/) It's vital to the principles of [Community Media.](https://communitymedia.network), and distributing your work under a license and through a platform that makes re-sharing possible is a vital component of archival. 
+
+## What do I do? 
 
 To that end, if you're looking at the likely future of youtube as a DRM encumbered distribution hub that forces you to sit through countless ads in order to watch a video your grandfather posted before he passed away, only to discover that the video is no longer available because Warner Brothers issued a copyright strike as a result of a brief snippet of a 70 year old song that can be heard briefly in the background on the radio, and you're wondering what to do instead: 
 
