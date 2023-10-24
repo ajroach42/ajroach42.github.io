@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: The Oldest Active Torrent
 ---
 If there are two things I'm known for, probably, it's talking about [independent media production](https://communitymedia.network) and [media archival](https://ajroach42.com/document-your-art-how-to-archive/). My story today comes from the confluence of both. The [oldest continually seeded torrent just turned 20 years old](https://torrentfreak.com/the-worlds-oldest-active-torrent-turns-20-years-old-230924/), and it is a matrix fan film. Watch: 
@@ -18,4 +18,6 @@ I heard about the film when it was released, but our home internet at the time w
 
 <iframe title="The Fanimatrix" width="560" height="315" src="https://communitymedia.video/videos/embed/1cbec9cb-2aa5-427f-9def-9a82a094db9c" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
-I'm working on a longer piece about fan films, transnational adaptations, and modern folklore. The Fanimatrix will slip right in to that piece, but in the meantime, I thought it was worth sharing here. 
+With the [grim future of youtube](https://ajroach42.com/the-grim-future-of-youtube/), it's almost heartwarming to see something that has been kept alive on the internet independently for more than 20 years. 
+
+I'm working on a longer piece about fan films, transnational adaptations, and modern folklore. The Fanimatrix will slip right in to that piece, but in the meantime, I thought it was worth sharing here.
