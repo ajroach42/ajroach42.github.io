@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: 'EXPEDITION SASQUATCH RETURNS (Again!) '
 ---
 Our Monthly/bi-weekly/quarterly/yearly podcast [Expedition Sasquatch](https://expeditionsasquatch.org) has just released a new episode! It's Episode Number 13. We've been producing this show since early 2019, and releasing episodes since June of 2019. That's an average of one episode every four months, although in reality it's actually 4 episodes in 2019, no episodes in 2020, 3 episodes in 2021, and 6 episodes of 2022. We're aiming to release an episode every two weeks for the forseeable future. Check it out: 
@@ -28,4 +28,4 @@ EXPEDITION SASQUATCH IS AVAILABLE TO YOU UNDER A CREATIVE COMMONS CC-BY-SA LICEN
 
 Expedition Sasquatch will return in two weeks with the conclusion of this thrilling episode. If you haven’t heard from us by December 9th, start kicking things.
 
-[Subscribe to the podcast](https://expeditionsasquatch.org) 
+[Subscribe to the podcast](https://expeditionsasquatch.org)
