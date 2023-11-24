@@ -14,7 +14,7 @@ This episode was written and edited by me, and recorded by my good friend Josh A
 
 Neither one of us has a real job anymore, and we're trying to make our living making weird media, (and tools for making weird media) and we'd really appreciate it if you'd help. 
 
-Consider [sponsoring us] (https://newellijay.tv/sponsor-us/) or [buy some of our merch](https://newellijay.tv/product/expedition-sasquatch-logo-t-shirt/) or just tell your friends about the show. Every little bit helps! 
+Consider [sponsoring us](https://newellijay.tv/sponsor-us/) or [buy some of our merch](https://newellijay.tv/product/expedition-sasquatch-logo-t-shirt/) or just tell your friends about the show. Every little bit helps! 
 
 ## Synopsis
 
