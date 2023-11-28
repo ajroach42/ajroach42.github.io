@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Harry Houdini Vs a Cyborg in The Master Mystery (1918)
 ---
 <iframe title="The Master Mystery Trailer" width="560" height="315" src="https://communitymedia.video/videos/embed/58b9e2ef-076b-40c2-a83f-6ec29eedf3c5" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
@@ -17,5 +17,4 @@ This is episode one, there are many more episodes which will be released weekly 
 
 This is one of several film serials Houdini starred in, and this one was Savaged by censors in NY and around the country. The version presented here is built from the most complete known sources, but some original materials are still missing.
 
-If you enjoy this kind of thing, [please consider sponsoring us](https://newellijay.tv/sponsor-us/). 
-
+If you enjoy this kind of thing, [please consider sponsoring us](https://newellijay.tv/sponsor-us/).
