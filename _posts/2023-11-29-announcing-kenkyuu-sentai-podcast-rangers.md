@@ -1,10 +1,10 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Announcing 研究 戦隊 ポッドキャスト レンジャー  - Kenkyuu Sentai Podcast Rangers
 ---
-As part of my [quest to make a living producing media, archiving media, and building tools to produce and archive media](https://ajroach42.com/producing-and-archiving-media/) I'm proud to announce a new show! _研究 戦隊 ポッドキャスト レンジャー_  or _Kenkyuu Sentai Podcast Rangers_ is a twice monthly podcast featuring myself, my oldest friend, and a rotating cast of supporting anchors, discussing Super Sentai, Power Rangers, and the process of turning one in to the other. The first episode is out now. 
+As part of my [quest to make a living producing media, archiving media, and building tools to produce and archive media](https://ajroach42.com/producing-and-archiving-media/) I'm proud to announce a new show! _研究 戦隊 ポッドキャスト レンジャー_  or _Kenkyuu Sentai Podcast Rangers_ is a twice monthly podcast featuring myself, my oldest friend, and a rotating cast of supporting anchors, discussing Super Sentai, Power Rangers, and the process of turning one in to the other. [The first episode is out now](https://newellijay.tv/feed/podcast). 
 
 You can [find the podcast on New Ellijay Television](https://newellijay.tv/podcast/was-there-like-other-trash-in-that-space-dumpster-alien-trash/) and you can [subscribe to it via RSS](https://newellijay.tv/feed/podcast) or [Apple Podcasts](https://podcasts.apple.com/us/podcast/%E7%A0%94%E7%A9%B6-%E6%88%A6%E9%9A%8A-%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88-%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC-kenkyuu-sentai-podcast-rangers/id1718967293). 
 
@@ -40,4 +40,4 @@ So, if you do podcasts, [subscribe](https://newellijay.tv/feed/podcast). If you'
 
 This is one of several ongoing podcasts I'm involved with, including [Expedition Sasquatch](https://expeditionsasquatch.org) and [Jupiter's Ghost](https://interglactic.computer), and those are just the tip of a deep iceburg for the media we're producing as part of [New Ellijay Television](https://newellijay.tv). If this kind of thing speaks to you, [consider sponsoring us](https://newellijay.tv/sponsor).
 
-Thanks! 
+Thanks!
