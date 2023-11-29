@@ -22,4 +22,22 @@ So, first and foremost, why am I making a podcast about Power Rangers? It starte
 
 (It is important for me to note at this time that you probably shouldn't go follow him as a result of this. He doesn't want new followers. [Go follow the show instead](https://meet.communitymedia.network/@kenkyuusentaipodcastrangers).) 
 
-I don't have unlimited financial or mental health resources, but I do have a [makerspace](https://ellijaymakerspace.org), it's associated [Television Network](https://newellijay.tv), and [Big Feels about Community Media](https://communitymedia.network). [I also have, as I recently mentioned, dedicated my days to producing media](https://ajroach42.com/producing-and-archiving-media/), so I decided not to wait for a hypothetical future
+I don't have unlimited financial or mental health resources, but I do have a [makerspace](https://ellijaymakerspace.org), it's associated [Television Network](https://newellijay.tv), and [Big Feels about Community Media](https://communitymedia.network). [I also have, as I recently mentioned, dedicated my days to producing media](https://ajroach42.com/producing-and-archiving-media/), so I decided not to wait for a hypothetical future in which we had the resources to do the thing perfectly, and I arranged conditions such that we were able to get started. 
+
+It goes a little deeper than that, though. Super Sentai is a Japanese television program that, in many ways, was a Japanese response to american comic books (No really! We'll get in to the way that [Spider-Man shaped Power Rangers](https://en.wikipedia.org/wiki/Spider-Man_(Japanese_TV_series)) in an upcoming episode of the show, but suffice it to say that they are [deeply intertwingled](https://en.wikipedia.org/wiki/Intertwingularity)) and Power Rangers was an attempt at recontextualizing Super Sentai for an American audience. This kind of Transnational adaptation is fascinating to me, and several of the pieces I am working on right now start with this idea of cross-cultural adaptation and remix, exploring the good and the bad of it, as well as talking about the legal frameworks that make it less common than it otherwise might be. 
+
+(For two Excellent books on this subject from a filmic perspective take a look at How The World Remade Hollywood and The Hollywood Meme, which cover transational film adpatation in greater detail than I will.) 
+
+There's a lot to be said about what Power Rangers says about media production in general, and about how Power Rangers has influenced the last several generations of children! 
+
+## What next? 
+
+Episodes should hit roughly bi-weekly. We're shooting two at a time, and releasing at a cadence that affords us the grace of rest. It's human scale media, so the episodes will come when they come, but I figure we can probably hit twice a month, right? 
+
+We're going to dive deep on Power Rangers and Super Sentai, with a rotating cast of guests. We'll probably use this same format to do special episodes about things like Supaidāman, the Sentai shows before Zyuranger, other Tokusatsu shows and their American counterparts (VR Troopers, BeetleBorgs, The Masked Rider), and we may even dive into the larger world of cross-cultural adaptation. 
+
+So, if you do podcasts, [subscribe](https://newellijay.tv/feed/podcast). If you're on the fediverse, [give us a follow](https://newellijay.tv/feed/podcast). If neither of those things apply, [watch the episode and share it with some friends](https://newellijay.tv/feed/podcast).
+
+This is one of several ongoing podcasts I'm involved with, including [Expedition Sasquatch](https://expeditionsasquatch.org) and [Jupiter's Ghost](https://interglactic.computer), and those are just the tip of a deep iceburg for the media we're producing as part of [New Ellijay Television](https://newellijay.tv). If this kind of thing speaks to you, [consider sponsoring us](https://newellijay.tv/sponsor).
+
+Thanks! 
