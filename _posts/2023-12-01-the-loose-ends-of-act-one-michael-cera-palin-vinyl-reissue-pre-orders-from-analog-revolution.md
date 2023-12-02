@@ -6,7 +6,7 @@ title: >-
   The Loose Ends of Act One - Michael Cera Palin - Vinyl reissue pre-orders from
   Analog Revolution
 ---
-I'm super excited to announce that my record label, [Analog Revolution, will be releasing Micahel Cera Palin's The Loose Ends of Act One on vinyl, shipping in Q2 2024](https://analogrevolution.com/product/michael-cera-palin-the-loose-ends-of-act-1-vinyl-pre-order/). I've been friends with the folks in Michael Cera Palin for longer than any of us would care to admit, they played the grand openning of our makerspace, and I am just incredibly proud of the body of work they have developed, and to have the opportunity to help bring it in to the world. 
+I'm super excited to announce that my record label, [Analog Revolution, will be releasing Micahel Cera Palin's The Loose Ends of Act One on vinyl, shipping in Q2 2024](https://analogrevolution.com/product/michael-cera-palin-the-loose-ends-of-act-1-vinyl-pre-order/). I've been friends with the folks in Michael Cera Palin for longer than any of us would care to admit, [they played the grand opening of our makerspace](https://vod.newellijay.tv/w/83qutWi78nN3Zx1XUaUnHp), and I am just incredibly proud of the body of work they have developed, and to have the opportunity to help bring this in to the world. 
 
 If you can’t wait for the vinyl release, sign up for [cassettesfor.me](https://cassettesfor.me/the-loose-ends-of-act-1-from-michael-cera-palin-for-december-cassettes-for-me-release/) by December 15th to claim your CFM exclusive MCP cassette or CD! This will be a limited run of 50 cassettes and 50 CDs, so once we are out, we are out!
 
