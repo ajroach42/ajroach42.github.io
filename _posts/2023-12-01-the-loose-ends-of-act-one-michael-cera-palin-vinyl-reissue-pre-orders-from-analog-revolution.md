@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: >-
   The Loose Ends of Act One - Michael Cera Palin - Vinyl reissue pre-orders from
   Analog Revolution
