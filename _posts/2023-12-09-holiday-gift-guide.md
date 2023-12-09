@@ -23,7 +23,8 @@ It's been a few years since my mom passed. She was 49, had an agressive cancer, 
 
 We played board games. For 6 or 7 hours, Mom and her husband, my brother and his wife, me and my wife, and an occasional assortment of other family members took turns playing board games. Mom had gone on a quest to obtain a bunch of games that we had enjoyed as kids, many of which were long out of production. It was a good day. 
 
-![Boxart for the boardgame Slapstick]({{site.baseurl}}/images/il_fullxfull.604310989_310i.webp)
+![Box art for the boardgame Slapstick]({{site.baseurl}}/images/il_fullxfull.604310989_310i.webp)
+
 
 And, obviously, it wasn't about the games. It was about the time. That day, we each gave to one another our time and attention. We put away our cameras and our computers and our notifications, and spent time together, enjoying one another's company, entertaining one another. It was genuine, rather than performative. In retrospect, it was a sad day and just one of dozens that bookended it, but it was also a celebration. 
 
