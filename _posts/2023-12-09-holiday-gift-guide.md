@@ -21,7 +21,7 @@ Christmas is an excuse to get together with your friends and family and celebrat
 
 ## The Sad Bit
 
-It's been a few years since my mom passed. She was 49, had an agressive cancer, lied to us about how serious it was and refused treatment. She died a few weeks short of her 50th birthday. Her last christmas on earth, six months before she passed, was a bittersweet affair. By then, we all knew she wasn't going to recover, and no one really knew how long she had left. My stepfather spoke in a soft whisper about how she was barely getting out of bed, how she seemed to be in constant pain. 
+It's been a few years since my mom passed. She was 49, had an agressive cancer, and refused treatment. She died a few weeks short of her 50th birthday. Her last christmas on earth, six months before she passed, was a bittersweet affair. By then, we all knew she wasn't going to recover, and no one really knew how long she had left. My stepfather spoke in a soft whisper about how she was barely getting out of bed, how she seemed to be in constant pain. 
 
 We played board games. For 6 or 7 hours, Mom and her husband, my brother and his wife, me and my wife, and an occasional assortment of other family members took turns playing board games. Mom had gone on a quest to obtain a bunch of games that we had enjoyed as kids, many of which were long out of production. It was a good day. 
 
@@ -87,6 +87,10 @@ Zines to print:
 - There are lots of great comic books available from [Comic Book Plus](https://comicbookplus.com/) that are in the public domain and free to remix or re-use. 
 - The point of a Zine is to DIY. Write something fun and silly or serious and sad. Format it 5.5 x 8.5. Save it as a PDF. Print it out in "booklet" mode on a windows PC (yes, windows. I know. It's the only OS that gets booklet mode correct in Adobe PDF viewer. It makes making zines much easier.) Have fun with it, that's the point. 
 
+### Audiobooks
+
+Maybe your friends and loved ones don't have time to read. eBooks on CD-R, Flash Drive, or QR Code download can be a great alternative. [The Librevox project has a bunch of free audiobooks](https://librivox.org/) of varying quality. There are also Old Time Radio shows like [x minus one](https://archive.org/details/OTRR_X_Minus_One_Singles) and [Space Patrol](https://archive.org/details/OTRR_Space_Patrol_Singles), or modern podcasts like [Expedition Sasquatch](https://expeditionsasquatch.org) or [Jupiter's Ghost](https://intergalactic.computer). 
+
 ### Other Media 
 
 Music, Movies, Video Games, etc.
@@ -95,10 +99,78 @@ Again thrift stores are a great source for DVDs and VHS tapes. It takes some dig
 
 There's a decent chance that someone in your family had a VHS camcorder. There's a decent chance they still do. An Easycap runs about $10 on most big box retail websites. Couple that with your VHS camcorder and OBS and you can copy all those old home movies in to a format that might live for another decade. 
 
+I don't know what DVDs, VHS tapes, Cassettes, CDs, or LPs your family would enjoy, but you do! Go dig, find something that brings joy. Consume it together. 
+
+
+#### Games
+
 Old video games are getting unreasonably pricey, but some shops still have games (and even occasionally consoles) for some systems cheaply. Our local 2nd and Charles has Atari 2600 games, for example, for $4 or less. I picked up a used Retron77 on craigslist, and a couple of games from 2nd and charles, for a total of less than $30. I'm fairly certain it will be the hit of the household. 
 
 The Retron77 has the added bonus of playing games from an SD card. Mnay of the modern retro-consoles do. That has the added benefit of letting you sideload indie games. There is a huge scene making new Atari 2600 games, commodore 64 games, Gameboy Games and a whole mess of games for other platforms. Many of these are given away for free on sites like itch.io 
 
-I'm a big fan of Halo2600 ([download Final.bin from this page](https://forums.atariage.com/topic/166916-halo-for-the-2600-released-at-cge-download-the-game-here/) to stick in your emulator or console, or ) 
+I'm a big fan of Halo2600 ([download Final.bin from this page](https://forums.atariage.com/topic/166916-halo-for-the-2600-released-at-cge-download-the-game-here/) to stick in your emulator or console, or [play it online](https://archive.org/details/atari_2600_halo_2600)), and [Flap-Ping](https://alienbill.com/2600/flapping/) a combo Joust/Pong game, but there are hundreds of homebrew atari games to explore. 
 
-I don't know what DVDs, VHS tapes, Cassettes, CDs, or LPs your family would enjoy, but you do! Go dig, find something that brings joy. Consume it together. 
+And this goes way deeper. [Independent and freely distributed Text Adventure games are widely available](https://www.ifarchive.org/). [Some of them are truly remarkable](https://ifdb.org/search?browse). You can find all kinds of neat stuff from small creators on the web, and sharing them with your friends and family can often have a bigger impact than spending money!
+
+#### Music 
+
+And, of course, any music recorded before 1923 is in the public domain in the US. You could make a mixtape (CD, Flash Drive, QR code leading to a collection on archive.org) of your favorite public domain tunes from the [National Jukebox](https://www.loc.gov/collections/national-jukebox/about-this-collection/) or [the Great 78 project](https://archive.org/details/78rpm). 
+
+Here's a free christmas album my friends recorded: 
+
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=667279958/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://hurlyburlyandthevolcanicfallout.bandcamp.com/album/hurly-burly-for-the-holidays-volume-26-hurly-burly-saves-christmas-again">Hurly Burly for the Holidays Volume 26:  Hurly Burly Saves Christmas Again by Hurly Burly and the Volcanic Fallout</a></iframe> 
+
+I've talked about [some of my favorite independent music before](https://ajroach42.com/bandcamp-friday-again/). Shove a bunch of mp3s on a flash drive or find some other way to get them to your family. 
+
+### Computer Shit
+
+Walmart sells a house brand tablet running Android "Go" for Less than $50. Amazon Kindle Fires are frequently available in the same price point. Sometimes you can find them on sale for as low as $25. Neither of these are good devices, but they're both capable of a few things that are neat. 1) Reading comic books! There are free comic book reading apps that support the standard CBZ and CBR formats, and a tablet is a great way to read a comic book. 2) connecting to a local media server and playing TV shows, movies, and music. 
+
+They also frequently offer a GoogleTV or AndroidTV box for less than $20. 
+
+If you have the technical knowhow, and you end up with a cheap android device, I recommend installing something like lineageOS if there is a build for your device. Android devices, especially AndroidTV and GoogleTV devices, are a privacy nightmare, but they're cheap and widely available and often pretty easy to hack. A hacked up second hand android device with Kodi, VLC, and KOReader can be a really great gift, especially when paired with some ebooks, music, etc. 
+
+I tend to have a fair number of old and forgotten computers sitting around at any given moment, and I like to make them useful. One quick way to make a computer useful is to install something like Kodi on it, connect it to the network, and load it up with Public Domain, Creative Commons, and other DRM free media. Couple that with a couple of android devices runing kodi, and you can have a great way to watch movies, listen to music, and even watch [independent TV](https://newellijay.tv) for not a lot of money. 
+
+Alternately, revisting the Video Game section above, it's possible to turn many old computers, android devices, and other electronics in to simple game consoles. RetroPi for the Raspberry Pi family is a popular way to do this, but EmulationStation, Libretro, and lot of other methods are available. Pair an atari 2600 emulator, a sub $15 game controller, and a bunch of homebrew game files with a computer that is too old to do anything useful, and you've got yourself a few hours of family fun. Laptops with broken screens make excellent home theater/set-top box PCs. 
+
+If you want to get a little more technical, there are lots of ways to host webpages for free. I'm a fan of [neocities](https://neocities.org), but it's far from the only option. Perhaps your loved ones would appreciate a a wacky little web art project? 
+
+If you want to get really technical, you could do something like using [yunohost](https://yunohost.org) plus spare computer bits (or a $5/month VPS from one of the various cloud providers) to run cloud services for your family, like nextcloud, matrix chat, fediverse hosting, etc. This certainly won't be the way for everyone, but it can be a cheap or free way to do something meaningful in the right communities. 
+
+
+I'm not really suggesting any of these computer-y things specifically, so much as I'm trying to encourage you to take what you have and what you know and turn it in to something new. 
+
+### Build an Adventure
+
+The point of the holidays, as far as I'm concerned, is to spend time with people you care about. Make a scavenger hunt, print a print and play board game, download [Gameboy Studio](https://www.gbstudio.dev/) and insert your friends and family in to a christmas minigame. 
+
+Go geocaching!
+
+Find some victorian christmas ghost stories and take turns reading them to one another. 
+
+Find a local concert venue that brings in artists from your community, get tickets to a show you wouldn't have usually gone to, share it with a friend. 
+
+Go see a local theater production. Find a frisby golf course and attempt to play with the cheapest frisby you can find. 
+
+The trick is to do things together. That's what it's about. 
+
+
+## Spending Money 
+
+If you have money to spend and you want to spend money, who am I to stop you? 
+
+I recommend the following things, some of which are from businesses that I operate or am involved with. Some of which are just from places I like. 
+
+- [Coffee from GA Mountain Coffee](https://gamountaincoffee.com)
+- [T-shirts or Ornaments from the Ellijay Makerspace](https://ellijaymakerspace.org/shop) 
+- [Tea or pottery from Bonsabi](https://www.bonsabitea.com/shop) 
+- [Toys from Mountain Town Toys](https://mountaintowntoys.com)
+- [Books from Firestorem Books](https://firestorm.coop/)
+- [Records, tapes, or digital downloads from Analog Revoltion](https://analogrevolution.com/shop/) (apparel from this site absolutely will not arrive in time for the holidays) 
+
+But, frankly, if you're going to spend money on gifts and it's this late in the season, let me offer one last piece of advice: Find something made in your community. Spend your money locally, it'll go further and do more. 
+
+## In Conclusion
+
+Have a wonderful holiday season everyone. Be genuine. Be present. The world is on fire, time is fleeting. Celebrate, hold your loved ones close. 
