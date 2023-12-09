@@ -105,7 +105,7 @@ I don't know what DVDs, VHS tapes, Cassettes, CDs, or LPs your family would enjo
 
 Old video games are getting unreasonably pricey, but some shops still have games (and even occasionally consoles) for some systems cheaply. Our local 2nd and Charles has Atari 2600 games, for example, for $4 or less. I picked up a used Retron77 on craigslist, and a couple of games from 2nd and charles, for a total of less than $30. I'm fairly certain it will be the hit of the household. 
 
-The Retron77 has the added bonus of playing games from an SD card. Mnay of the modern retro-consoles do. That has the added benefit of letting you sideload indie games. There is a huge scene making new Atari 2600 games, commodore 64 games, Gameboy Games and a whole mess of games for other platforms. Many of these are given away for free on sites like itch.io 
+The Retron77 has the added bonus of playing games from an SD card. Many of the modern retro-consoles do. That has the added benefit of letting you sideload indie games. There is a huge scene making new Atari 2600 games, commodore 64 games, Gameboy Games and a whole mess of games for other platforms. Many of these are given away for free on sites like itch.io 
 
 I'm a big fan of Halo2600 ([download Final.bin from this page](https://forums.atariage.com/topic/166916-halo-for-the-2600-released-at-cge-download-the-game-here/) to stick in your emulator or console, or [play it online](https://archive.org/details/atari_2600_halo_2600)), and [Flap-Ping](https://alienbill.com/2600/flapping/) a combo Joust/Pong game, but there are hundreds of homebrew atari games to explore. 
 
