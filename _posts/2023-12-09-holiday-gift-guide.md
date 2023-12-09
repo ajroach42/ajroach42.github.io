@@ -121,6 +121,18 @@ Here's a free christmas album my friends recorded:
 
 I've talked about [some of my favorite independent music before](https://ajroach42.com/bandcamp-friday-again/). Shove a bunch of mp3s on a flash drive or find some other way to get them to your family. 
 
+### Make something
+
+Iron on t-shirts can be done pretty quickly and cheaply, and they'll last a long time if they are properly cared for. Screen printed t-shirts can be done slightly less quickly, but more cheaply if you're doing more than one, and they'll last much longer. My little brother still routinely wears an iron on shirt I made for him 6 or 7 years ago, and the print has barely faded. I have hand made screenprinted shirts that are older than I am. 
+
+Your town probably has some kind of office supply store. They'll do all kinds of print services pretty cheaply. You can usually get a tabloid sized print for a dollar or two, they make excellent posters. Some places also offer even larger "drafting" prints in black and white for the same price. These can be really cool posters! 
+
+If your loved one has a car with a CD player, a mix CD on CD-R is still a great gift! If they only have a USB port, you can totally just load a flash drive with mp3s, and the car will play them! 
+
+One year, my mom took a bunch of clothes that I'd outgrown and sewed them in to a quilt. Quilts are a lot of work, and it's too late in the season to embark on a quilt for this year, but there's always next year! 
+
+Photobooks are great presents, and can be done cheaply. Everyone has, for the most part, resigned themselves to photos existing largely through facebook, and being essentially ephemeral. Getting a bunch of prints made for a few cents a piece of a photo kiosk and pasting them in to a scrapbook is magical. 
+
 ### Computer Shit
 
 Walmart sells a house brand tablet running Android "Go" for Less than $50. Amazon Kindle Fires are frequently available in the same price point. Sometimes you can find them on sale for as low as $25. Neither of these are good devices, but they're both capable of a few things that are neat. 1) Reading comic books! There are free comic book reading apps that support the standard CBZ and CBR formats, and a tablet is a great way to read a comic book. 2) connecting to a local media server and playing TV shows, movies, and music. 
