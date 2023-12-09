@@ -30,7 +30,7 @@ And, obviously, it wasn't about the games. It was about the time. That day, we e
 
 The holidays, before that, had become a chore. A thing I participated in out of obligation. The routine was set: Drive 600 miles, barely sleep, drive 150 miles from family to family, barely eat, drive 600 miles home. Spend money I didn't have on gifts people didn't want, watch the clock, run the circuit. 
 
-And then I was forced to slow down, to focus on the people around me, to realize and acknowledge the fleeting nature of our lives and the fragility of the human condition, and in light of all of that, the holidays are an opportunity! (This does not mean that they stop being awkward, or uncomfortable, or tedious, or exhausting. It means that I choose to look past those concerns to focus on giving as much of my time and attention to my loved ones as I can manage. 
+And then I was forced to slow down, to focus on the people around me, to realize and acknowledge the fleeting nature of our lives and the fragility of the human condition, and in light of all of that, the holidays are an opportunity! (This does not mean that they stop being awkward, or uncomfortable, or tedious, or exhausting. It means that I choose to look past those concerns to focus on giving as much of my time and attention to my loved ones as I can manage.)
 
 ## The Happy Bit
 
