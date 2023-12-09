@@ -1,10 +1,8 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Holiday Gift Guide
-splash-tall: ''
-splash-wide: ''
 ---
 Yo! There's not much time left before the holidays are upon us, and we're probably already passed the safe shipping threshold for ordering things and having them guaranteed to be delivered by Christmas. That means it's entirely the wrong time for a holiday shopping guide, so it's a good thing that this is barely a shopping guide, and more of a meditation on giving. There is a gift guide at the bottom, it's a little non-traditional. The middle bits are about consumerism and death, so maybe skip those if you're actually looking for a gift guide. 
 
@@ -173,4 +171,4 @@ But, frankly, if you're going to spend money on gifts and it's this late in the 
 
 ## In Conclusion
 
-Have a wonderful holiday season everyone. Be genuine. Be present. The world is on fire, time is fleeting. Celebrate, hold your loved ones close. 
+Have a wonderful holiday season everyone. Be genuine. Be present. The world is on fire, time is fleeting. Celebrate, hold your loved ones close.
