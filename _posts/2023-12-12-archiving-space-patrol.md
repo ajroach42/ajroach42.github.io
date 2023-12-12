@@ -10,4 +10,25 @@ They were [Kinescoped](https://en.wikipedia.org/wiki/Kinescope) for re-broadcast
 
 I have personally digitized dozens of episodes of the show from the original film elements, including many episodes of the half hour show. I have additionally undertaken an effort to digitize various semi-official and unofficial VHS tapes and DVD releases that I have picked up from conventions, video stores, and online fan communities. 
 
-My ultimate goal is to build the definitive collection of the show, identifying which episodes exist, and which ones are still missing, and pointing to the best available sources for the episodes which survive. I have a long way to go, but as I work I am sharing the episodes we digitize with [New Ellijay Television](https://newellijay.tv). 
+As I work I am sharing the episodes we digitize with [New Ellijay Television](https://newellijay.tv). 
+
+Here are the current New Ellijay Television Collections:
+
+## Weekly Episodes
+
+<iframe title="Space Patrol (weekly)" width="560" height="315" src="https://vod.newellijay.tv/video-playlists/embed/76e6eab9-b79b-491c-b037-f218a520c358" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+
+## Daily Episodes 
+
+<iframe title="Space Patrol (daily)" width="560" height="315" src="https://vod.newellijay.tv/video-playlists/embed/bda0903a-e81c-4b82-acb7-93c68a7b8600" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+
+These collections are nowhere near comprehensive, they do not include most episodes currently available on the internet ([such as this excellent collection of more than 80 episodes](https://archive.org/details/space-patrol-s-01e-01-low-480x-360p)) but they do include many episodes that are otherwise entirely unavailable online, or that are only available in much worse quality. 
+
+We are adding new items on a regular basis. Most of my efforts right now are centered around some homemade VHS tapes of 15 minute daily episodes. These take a lot of work, because we have to babysit the transfer, and because there is so little information about the daily show that identifying the broadcast date is often an exercise in futility. 
+
+When we're out of Daily Episodes, we'll get back to updating the weekly episodes. My ultimate goal is to build the definitive collection of the show, identifying which episodes exist, and which ones are still missing, and pointing to the best available sources for the episodes which survive. I have a long way to go, but we've also made some significant progress. 
+
+Check back often to see how things go from here. 
+
+If you'd like to help us continue this work, [please consider sponsoring us](https://newellijay.tv/sponsor) or signing up for [my patreon](https://patreon.com/ajroach42). 
+
