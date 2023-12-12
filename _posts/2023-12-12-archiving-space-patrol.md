@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Archiving Space Patrol
 ---
 I spend a lot of time and energy digitizing and cataloging episodes of Space Patrol (1950), and I haven't talked about that much recently, so I'm going to talk about that today. Space Patrol was an American science fiction Space Adventure television program that aired from 1950 to 1955. For most of it's run, it aired 6 days a week, producing a 15 minute episode every weekday in the tradition of the soap opera (or I suppose, the Space Opera), and a half hour episode every Saturday. It aired 52 weeks a year, producing more than a thousand episodes of television (in addition to several hundred episodes of the Radio Program!) All of these episodes were produced Live, with little rehersal, and broadcast live out to the world. Video tape would not enter in to common use until 5 years after the show went off the air. 
@@ -30,5 +30,4 @@ When we're out of Daily Episodes, we'll get back to updating the weekly episodes
 
 Check back often to see how things go from here. 
 
-If you'd like to help us continue this work, [please consider sponsoring us](https://newellijay.tv/sponsor) or signing up for [my patreon](https://patreon.com/ajroach42). 
-
+If you'd like to help us continue this work, [please consider sponsoring us](https://newellijay.tv/sponsor) or signing up for [my patreon](https://patreon.com/ajroach42).
