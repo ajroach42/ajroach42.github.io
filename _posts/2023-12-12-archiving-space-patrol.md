@@ -24,7 +24,7 @@ Here are the current New Ellijay Television Collections:
 
 These collections are nowhere near comprehensive, they do not include most episodes currently available on the internet ([such as this excellent collection of more than 80 episodes](https://archive.org/details/space-patrol-s-01e-01-low-480x-360p)) but they do include many episodes that are otherwise entirely unavailable online, or that are only available in much worse quality. 
 
-We are adding new items on a regular basis. Most of my efforts right now are centered around some homemade VHS tapes of 15 minute daily episodes. These take a lot of work, because we have to babysit the transfer, and because there is so little information about the daily show that identifying the broadcast date is often an exercise in futility. 
+We are adding new items on a regular basis. Most of my efforts right now are centered around some homemade (circa 1985) VHS tapes of 15 minute daily episodes that I acquired from the collection of a long time fan. These take a lot of work, because we have to babysit the transfer, and because there is so little information about the daily show that identifying the broadcast date is often an exercise in futility. 
 
 When we're out of Daily Episodes, we'll get back to updating the weekly episodes. My ultimate goal is to build the definitive collection of the show, identifying which episodes exist, and which ones are still missing, and pointing to the best available sources for the episodes which survive. I have a long way to go, but we've also made some significant progress. 
 
