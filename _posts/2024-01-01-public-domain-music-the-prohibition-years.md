@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-published: false
+published: true
 title: Public Domain Music - The Prohibition Years
 ---
 To celebrate public domain day, [here's a new album](https://analogrevolution.bandcamp.com/album/revolting-music-from-the-public-domain-1914-1928) from [Analog Revolution](https://analogrevolution.com) featuring [new recordings of public domain music](https://analogrevolution.bandcamp.com/track/devils-gonna-git-you) by the incomparable [Doctor Deathray](https://doctordeathray.bandcamp.com) and [public domain recordings by their original artists of some of the essential sides of the early 1920s](https://analogrevolution.bandcamp.com/track/save-your-man-and-satisfy-your-soul).
