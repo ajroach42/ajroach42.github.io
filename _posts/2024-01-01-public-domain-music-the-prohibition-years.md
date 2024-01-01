@@ -10,6 +10,14 @@ To celebrate public domain day, [here's a new album](https://analogrevolution.ba
 
 It's available [pay-what-you-want download](https://analogrevolution.bandcamp.com/album/revolting-music-from-the-public-domain-1914-1928) or [reasonably priced on cassette and CD](https://analogrevolution.bandcamp.com/album/revolting-music-from-the-public-domain-1914-1928). It comes with a zine (digital and physical.) In it, you’ll find biographical information, historical fact, conjecture, entertainment, illustration, education, diversion, and occasionally delusion. The album starts in 1914, and winds its way up through the newest material to enter the American public domain. The album and zine cover an exciting, vital time in the history of recorded music, a transitional time when new forms of expression were taking shape, and the seeds of modern American music were planted. 
 
+![Revolting Music.jpg]({{site.baseurl}}/images/Revolting Music.jpg)
+
+
 
 
 Collected by [Andrew Roach](https://retro.social/@ajroach42) and [Violet Hunter](https://retro.social/@DoctorDeathray/) for [Analog Revolution Records](https://analogrevolution.bandcamp.com) and [Mountain Town Industries](https://mountaintown.technology).
+
+![1.png]({{site.baseurl}}/images/1.png)
+
+
+![2.png]({{site.baseurl}}/images/2.png)
