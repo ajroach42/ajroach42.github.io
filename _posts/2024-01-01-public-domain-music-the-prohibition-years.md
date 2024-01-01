@@ -13,9 +13,10 @@ It's available [pay-what-you-want download](https://analogrevolution.bandcamp.co
 ![Revolting Music.jpg]({{site.baseurl}}/images/Revolting Music.jpg)
 
 
-
-
 Collected by [Andrew Roach](https://retro.social/@ajroach42) and [Violet Hunter](https://retro.social/@DoctorDeathray/) for [Analog Revolution Records](https://analogrevolution.bandcamp.com) and [Mountain Town Industries](https://mountaintown.technology).
+
+
+I had a blast putting this together, and I think it came out pretty well. I hope you enjoy it. 
 
 ![1.png]({{site.baseurl}}/images/1.png)
 
