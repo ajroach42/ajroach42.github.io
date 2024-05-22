@@ -2,6 +2,7 @@
 layout: post
 category: post
 title: Status Update - May 22nd
+published: false
 ---
 Hi All! It's been a while since I had the chance to sit down and write a blog post. I've been incredibly busy. That's a weird thing to hear after [one of my recent posts](https://ajroach42.com/producing-and-archiving-media/) (well, if you can call October of 2023 recent) talks about how I'll be blogging a lot more consistently, since I don't have a dayjob. Since then, a lot has happened! This blog post is a breif status update and rundown of my last six months or so. I'll follow it up with some more detailed looks at some of the things that have happened in that time, each in their own post, and then probably wrap things up with a forward looking post about the future. Should be fun! 
 
