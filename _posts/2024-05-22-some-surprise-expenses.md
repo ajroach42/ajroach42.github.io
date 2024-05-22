@@ -2,7 +2,7 @@
 layout: post
 category: post
 title: Some Surprise Expenses
-published: false
+published: true
 ---
 Hi All! As I mentioned in [my last post](https://ajroach42.com/status-update-may-22nd/), we've had a couple of surprise expenses pop up in the first half of this year. The most prominent is that the remodel that turned our cafe in to a bookstore and cafe ended up over time and over budget by a fairly substantial amount, but that was just the start of what looks to be a string of bad luck. This post details some of those things, and lists some of the ways you can help us get through it. 
 
