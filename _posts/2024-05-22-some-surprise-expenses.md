@@ -20,14 +20,13 @@ We'll make it out the other side, but it's going to be uncomfortable for a while
 
 If you'd like to help us afford to repair our walls and ceiling or replace our A/C unit you can: 
 
-- Buy a book, movie or record from us: https://hemlockbazaar.com/shop
-- Buy some of the coffee we roast: https://gamountaincoffee.com 
-- Buy one of the albums we release: https://analogrevolution.bandcamp.com 
-- Join our Tape of the Month club: https://cassettesfor.me
-- Pick up a movie: https://cowabungavideo.com
-- Buy some toys: https://mountaintowntoys.com
-- Check out our TV network: https://newellijay.tv 
-
+- [Buy a book, movie or record from us](https://hemlockbazaar.com/shop)
+- [Buy some of the coffee we roast](https://gamountaincoffee.com)
+- [Buy one of the albums we release](https://analogrevolution.bandcamp.com)
+- [Join our Tape of the Month club](https://cassettesfor.me)
+- [Pick up a movie](https://cowabungavideo.com)
+- [Buy some toys](https://mountaintowntoys.com)
+- [Check out our TV network](https://newellijay.tv) 
 
 Or come visit us in person at Hemlock Bazaar (131 N Main St, Ellijay GA 30540) or Mountain Town Antiques (12 N Side Square, Ellijay GA 30540) or the Ellijay Makerspace (54 Kiker St, Ellijay GA 30540). 
 
