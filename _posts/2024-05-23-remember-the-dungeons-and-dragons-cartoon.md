@@ -3,7 +3,7 @@ layout: post
 category: post
 title: Remember the Dungeons and Dragons Cartoon?
 ---
-I had mostly forgotten about the Dungeons and Dragons cartoon until earlier today when [someone](https://communitymedia.video/a/forgotten_futures/video-channels) uploaded a [fan made conclusion to the series] to the [peertube instance](https://communitymedia.video/w/r6uPCyEuoLQ75KR7EQegXq) I run. It ain't bad! And then I discovered that the rest of the series is currently on the Internet Archive. 
+I had mostly forgotten about the Dungeons and Dragons cartoon until earlier today when [someone](https://communitymedia.video/a/forgotten_futures/video-channels) uploaded a [fan made conclusion to the series](https://communitymedia.video/w/r6uPCyEuoLQ75KR7EQegXq) to the [peertube instance](https://communitymedia.video/w/r6uPCyEuoLQ75KR7EQegXq) I run. It ain't bad! And then I discovered that the rest of the series is currently on the Internet Archive. 
 
 ## The Full series: 
 
