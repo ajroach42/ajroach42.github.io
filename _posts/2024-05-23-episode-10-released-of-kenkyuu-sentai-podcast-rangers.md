@@ -8,3 +8,4 @@ I've been working on a podcast about Power Rangers and Super Sentai for a few mo
 
 <iframe title="研究 戦隊 ポッドキャスト レンジャー (KENKYUU SENTAI PODCAST RANGERS)" width="560" height="315" src="https://vod.newellijay.tv/video-playlists/embed/8c41ef63-aa30-4479-9a8d-7055b15f936e" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
+The [theme song of KSPR is Collosal Might by Hurly Burly and the Volcanic Fallout.](https://hurlyburlyandthevolcanicfallout.bandcamp.com/track/colossal-might-totally-radical-instrumental-version?from=com-nr)
