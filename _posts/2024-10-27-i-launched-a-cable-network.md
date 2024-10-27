@@ -19,7 +19,7 @@ If you've ever wondered if it's possible to run a broadcast television network o
 Under the hood, we're using the following software: 
 
 - Peertube
-- A fork of the PeerVue roku channel 
+- A [fork](https://fileshare.ellijaymakerspace.org/code/DIY-Media/NewEllijayTV) of the [PeerVue roku channel](https://github.com/n76/PeerVue) 
 - [ffplayout](https://ffplayout.github.io/) 
 - ffmpeg 
 - and for production, we lean on kdenlive and ardor. 
