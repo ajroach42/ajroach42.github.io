@@ -2,7 +2,7 @@
 layout: post
 category: post
 title: I Launched a Cable Network
-published: false
+published: true
 ---
 [I launched a Cable Network](https://newellijay.tv/2024/10/26/new-ellijay-television-now-on-cable/). If you're in the Ellijay Telephone Company coverage area, you can watch it on channel 176. If you're not, you can [watch it online](https://vod.newellijay.tv/w/hPrMTPpUuP8ZLoaqHTkLmd) or on [roku](https://channelstore.roku.com/details/923c7927ca06324871b965f166805a5b/new-ellijay-tv) (or even embedded on this post!) The whole thing is a Community Centered, local first production and broadcast, powered entirely by free software. Click through to watch the stream and learn more about how and why I built it. ![New Ellijay Television now broadcasting on ETC channel 176, online and on roku!]({{site.baseurl}}/images/Untitled-design57.png)
 
