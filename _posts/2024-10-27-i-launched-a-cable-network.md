@@ -2,6 +2,7 @@
 layout: post
 category: post
 title: I Launched a Cable Network
+published: false
 ---
 [I launched a Cable Network](https://newellijay.tv/2024/10/26/new-ellijay-television-now-on-cable/). If you're in the Ellijay Telephone Company coverage area, you can watch it on channel 176. If you're not, you can [watch it online](https://vod.newellijay.tv/w/hPrMTPpUuP8ZLoaqHTkLmd) or on [roku](https://channelstore.roku.com/details/923c7927ca06324871b965f166805a5b/new-ellijay-tv) (or even embedded on this post!) The whole thing is a Community Centered, local first production and broadcast, powered entirely by free software. Click through to watch the stream and learn more about how and why I built it. ![New Ellijay Television now broadcasting on ETC channel 176, online and on roku!]({{site.baseurl}}/images/Untitled-design57.png)
 
@@ -51,6 +52,8 @@ Audio is recorded, as needed, in ardor or audacity, and edited in the same place
 
 Most of our editing is also done on second hand/landfill rescue computers. Most of our programming is edited and rendered at 720p or lower because that makes it cheaper and easier to work with on old hardware. Broadwell/5th Gen intel hardware is more than capable of editing and rendering 720p video, and is often available for free or very cheaply (we work with an electronics recycler to get former workplace machines. There's probably one in your area!) 
 
+The bulk of our original material is released CC-BY-SA because I believe in giving back to the commons and I think CC-BY-SA is the best currently available license to Empower creators while disincentivising exploiters. (See [The Small Things Manifesto](https://ajroach42.com/the-small-things-manifesto/) for more on licensing.) 
+
 ## Why 
 
 I wrote a zine last year, a short book really, about why. You can [read it online](https://communitymedia.network/). I am working on a revised version that covers our broadcast cable initatives. Basically, though, the why is pretty straight forward: 
@@ -71,4 +74,4 @@ We're looking for [direct individual sponsors](https://newellijay.tv/sponsor-us/
 
 Reach out to video at NewEllijay dot TV if you'd like to learn more about our advertising program. Packages start at $225/month, with up to 3 months free under some circumstances. 
 
-Thanks! 
+Thanks!
