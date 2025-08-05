@@ -4,7 +4,7 @@ category: post
 title: 'PROJECT LAUNCHES - SKY PIRATES, SPACE HEROES, AND REVOLUTIONARY JOY'
 published: true
 ---
-It’s been a whirlwind few months here at New Ellijay Heavy Industries, and I’m thrilled to finally share what we’ve been working on. This weekend at the [**Designer Toy Art Festival** in Philadelphia (August 9-10)](https://www.toyartfest.com/about), we’re launching not just one project, but an entire ecosystem of interconnected stories and toys—all rooted in my love of **pulp history, radical storytelling, and handcrafted design.**  
+It’s been a whirlwind few months here at New Ellijay Heavy Industries, and I’m thrilled to finally share what we’ve been working on. This weekend at the [**Designer Toy Art Festival** in Philadelphia (August 9-10)](https://www.toyartfest.com/about), we’re launching not just one project, but an entire ecosystem of interconnected stories and toys, all rooted in my love of **pulp history, radical storytelling, and handcrafted design.**  
 
 ### **The Mysterious Air Pirates #1 – A Dime Novel for the Disillusioned**  
 The flagship of this new era is [*The Mysterious Air Pirates* #1](https://www.mountaintowntoys.com/product/the-mysterious-air-pirates-volume-1-issue-1/), a **quarterly story paper** in the tradition of early 20th-century dime novels. This isn’t a pastiche—it’s a direct continuation of the kind of stories that used to be sold on newsstands for a nickel.  
