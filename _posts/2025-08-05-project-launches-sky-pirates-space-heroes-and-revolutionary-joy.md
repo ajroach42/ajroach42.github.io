@@ -19,7 +19,7 @@ The flagship of this new era is [*The Mysterious Air Pirates* #1](https://www.mo
 The story follows a **genderqueer sky pirate captain** and their crew of outcasts. It’s full of heists, airship battles, and **revolutionary joy** the idea that resistance shouldn’t just be necessary, but *exhilarating*.  
 
 ### **Sky Pirate Toys – Small-Batch Rebellion**  
-Alongside the comic, we’re debuting the first of our **3.75" Sky Pirate action figures**, starting with [**Jacques**, the French-Canadian rogue](https://www.mountaintowntoys.com/product/jacques-sky-pirate-fun-size-heroes-coming-soon/). These aren’t mass-produced plastic, they’re:  
+Alongside the magazine, we’re debuting the first of our **3.75" Sky Pirate action figures**, starting with [**Jacques**, the French-Canadian rogue](https://www.mountaintowntoys.com/product/jacques-sky-pirate-fun-size-heroes-coming-soon/). These aren’t mass-produced, toxic vinyl, they’re:  
 
 - **Made from [PAL](https://www.mountaintowntoys.com/product/pal-toy-1lb-white/)**, a PVC-free, non-toxic vinyl substitute that was custom engineered for us, to produce toys that are like the vintage toys your remember, but without the chlorine gas.
 - **Hand-painted in Ellijay, GA** (no two are exactly alike)  
