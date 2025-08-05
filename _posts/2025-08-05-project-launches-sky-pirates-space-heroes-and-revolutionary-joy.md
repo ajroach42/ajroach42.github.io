@@ -2,6 +2,7 @@
 layout: post
 category: post
 title: 'PROJECT LAUNCHES - SKY PIRATES, SPACE HEROES, AND REVOLUTIONARY JOY'
+published: false
 ---
 **The Mysterious Air Pirates: A Labor of Love (and Rebellion)**  
 
@@ -43,4 +44,4 @@ If you’re near Philadelphia this weekend (Aug 9-10), visit us at the **[Design
 - See the **Spacehawk and Sky Pirate toys** in person  
 - Chat about **dime novels, radical joy, and why the past isn’t as straight as we’re told**  
 
-For everyone else, **[pre-orders are open now](https://mountaintowntoys.com)** 
+For everyone else, **[pre-orders are open now](https://mountaintowntoys.com)**
