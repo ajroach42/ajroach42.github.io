@@ -2,7 +2,7 @@
 layout: post
 category: post
 title: 'PROJECT LAUNCHES - SKY PIRATES, SPACE HEROES, AND REVOLUTIONARY JOY'
-published: false
+published: true
 ---
 **The Mysterious Air Pirates: A Labor of Love (and Rebellion)**  
 
