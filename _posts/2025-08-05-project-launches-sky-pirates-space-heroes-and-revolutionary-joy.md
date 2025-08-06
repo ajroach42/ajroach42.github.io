@@ -18,6 +18,8 @@ The flagship of this new era is [*The Mysterious Air Pirates* #1](https://www.mo
 
 The story follows a **genderqueer sky pirate captain** and their crew of outcasts. It’s full of heists, airship battles, and **revolutionary joy** the idea that resistance shouldn’t just be necessary, but *exhilarating*.  
 
+You can [preview the first 9 pages (PDF LINK)](https://www.mountaintowntoys.com/wp-content/uploads/2025/08/The-Mysterious-Air-Pirates-Volume-1-Preview.pdf)
+
 ### **Sky Pirate Toys – Small-Batch Rebellion**  
 Alongside the magazine, we’re debuting the first of our **3.75" Sky Pirate action figures**, starting with [**Jacques**, the French-Canadian rogue](https://www.mountaintowntoys.com/product/jacques-sky-pirate-fun-size-heroes-coming-soon/). These aren’t mass-produced, toxic vinyl, they’re:  
 
