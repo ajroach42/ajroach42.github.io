@@ -2,6 +2,7 @@
 layout: post
 category: post
 title: 'The Revolution Will Be Playful: Philly''s Designer Toy Art Festival'
+published: true
 ---
 
 For the last six months, we’ve been elbows-deep in melted plastic, failed molds, and the kind of stubborn optimism that keeps you going when your twentieth test shot comes out looking like modern art instead of an action figure. This weekend at the **Designer Toy Art Festival** in Philadelphia (August 9-10), we’re finally unveiling what happens when you mix **revolutionary joy** with a whole lot of trial and error.  
