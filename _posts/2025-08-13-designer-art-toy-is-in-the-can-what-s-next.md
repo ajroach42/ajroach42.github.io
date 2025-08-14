@@ -45,10 +45,10 @@ The full spread with many more toys, including our Sky Pirates
 
 ### **What’s Next?**  
 Now that we’re back, it’s time to:  
-- Pack up orders for **Bart, Jacques, and Leyla** (shipping starts this week!)  
-- Get the Super Squishy **Monstrous Minis** listed online  
+- Pack up orders for **[Bart, Jacques, and Leyla](https://www.mountaintowntoys.com/product-tag/sky-pirates/)** (shipping starts this week!)  
+- Get the Super Squishy **[Monstrous Minis](https://www.mountaintowntoys.com/product-tag/monstrous-minis/)** listed online  
 - Start planning for the next adventure  
 
-Huge thanks to everyone who stopped by, chatted, or took home a piece of our weird little world. These shows are exhausting, but they remind me why we do this—**the people, the art, and the joy of holding something strange and wonderful in your hands.**  
+Huge thanks to everyone who stopped by, chatted, or took home a piece of our weird little world. These shows are exhausting, but they remind me why we do this: **the people, the art, and the joy of holding something strange and wonderful in your hands.**  
 
 Now, if you’ll excuse me, I need a nap.
