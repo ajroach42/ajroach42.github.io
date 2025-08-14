@@ -36,12 +36,10 @@ My Pet Ewok by Greyskull toys and a portrait of Mr. T by [Edwin Salas](https://w
 The full spread with many more toys, including our Sky Pirates 
 
 
-
-
 ### **What’s Next?**  
 Now that we’re back, it’s time to:  
 - Pack up orders for **Bart, Jacques, and Leyla** (shipping starts this week!)  
-- Get the **Monstrous Minis** listed online  
+- Get the Super Squishy **Monstrous Minis** listed online  
 - Start planning for the next adventure  
 
 Huge thanks to everyone who stopped by, chatted, or took home a piece of our weird little world. These shows are exhausting, but they remind me why we do this—**the people, the art, and the joy of holding something strange and wonderful in your hands.**  
