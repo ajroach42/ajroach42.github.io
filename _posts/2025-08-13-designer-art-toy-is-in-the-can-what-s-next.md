@@ -13,7 +13,7 @@ We didn’t sell out, but we didn’t expect to. This was about **meeting people
 - Plenty of folks picked up copies of ***The Mysterious Air Pirates*** magazine (still available [here](https://www.mountaintowntoys.com/product/the-mysterious-air-pirates-volume-1-issue-1/))  
 
 ### **The Real Highlight: The People**  
-The best part of any show is the community. We got to catch up with old friends, and make some new ones ([**Mr. Lobo** and **Sally the Zombie Cheerleader**](https://themonsterchannel.com/) were in fine form) and meet a ton of amazing artists. The creativity on display was humbling! There was so much talent packed into one room.  
+The best part of any show is the community. We got to catch up with old friends, and make some new ones ([**Mr. Lobo** and **Sally the Zombie Cheerleader**](https://themonsterchannel.com/) were in fine form) and meet a ton of amazing artists. The creativity on display was humbling! There was so much talent packed into one room!
 
 ### **The Haul**  
 Of course, I couldn’t leave without bringing home some treasures myself. Here’s a peek at some of the incredible work we picked up:  
