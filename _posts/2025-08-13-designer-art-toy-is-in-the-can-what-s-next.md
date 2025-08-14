@@ -17,17 +17,23 @@ The best part of any show is the community. We got to catch up with old friends,
 ### **The Haul**  
 Of course, I couldn’t leave without bringing home some treasures myself. Here’s a peek at some of the incredible work we picked up:  
 
-![1047.jpg]({{site.baseurl}}/images/1047.jpg)
+![Red, translucent, UV reactive Kaiju by Greyskull toys]({{site.baseurl}}/images/1047.jpg)
+Kaiju by [Greyskull Toys](https://www.instagram.com/grayskulltoys1/)
 
-![1048.jpg]({{site.baseurl}}/images/1048.jpg)
+![Tranlucent alien monsters from Zimot Toys]({{site.baseurl}}/images/1048.jpg)
+Aliens by [Zimot Toys](https://www.instagram.com/zimotco/), and Strawberry man by [Grinning Narwhal](https://www.instagram.com/grinningnarwhal/) 
 
 ![1049.jpg]({{site.baseurl}}/images/1049.jpg)
+Archivists in my pocket and a walking archivist from [Archive of Haunts](https://www.youtube.com/channel/UCvT14JJI3-63nylCKwNgodA/videos) and [Sydot Toys](https://www.instagram.com/sydot_toys/). 
 
 ![1052.jpg]({{site.baseurl}}/images/1052.jpg)
+The Chupacobra by [Yoyodyne toys](https://www.instagram.com/yoyodynetoydivision/)
 
 ![1053.jpg]({{site.baseurl}}/images/1053.jpg)
+My Pet Ewok by Greyskull toys and a portrait of Mr. T by [Edwin Salas](https://www.instagram.com/edwinsalasart/). 
 
 ![1059.jpg]({{site.baseurl}}/images/1059.jpg)
+The full spread with many more toys, including our Sky Pirates 
 
 
 
