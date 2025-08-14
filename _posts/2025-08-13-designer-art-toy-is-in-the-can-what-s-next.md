@@ -24,7 +24,7 @@ Kaiju by [Greyskull Toys](https://www.instagram.com/grayskulltoys1/)
 
 ![Tranlucent alien monsters from Zimot Toys]({{site.baseurl}}/images/1048.jpg)
 
-Aliens by [Zimot Toys](https://www.instagram.com/zimotco/), and Strawberry man by [Grinning Narwhal](https://www.instagram.com/grinningnarwhal/) 
+Aliens by [Zimot Toys](https://www.instagram.com/zimotco/), and Strawbery man by [Grinning Narwhal](https://www.instagram.com/grinningnarwhal/) 
 
 ![1049.jpg]({{site.baseurl}}/images/1049.jpg)
 
