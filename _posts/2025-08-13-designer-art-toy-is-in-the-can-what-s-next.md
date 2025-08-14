@@ -40,7 +40,7 @@ My Pet Ewok by Greyskull toys and a portrait of Mr. T by [Edwin Salas](https://w
 
 ![1059.jpg]({{site.baseurl}}/images/1059.jpg)
 
-The full spread with many more toys, including our Sky Pirates 
+The full spread with many more toys, including our [Sky Pirates](https://mountaintowntoys.com/product-tag/sky-pirates/) 
 
 
 ### **What’s Next?**  
