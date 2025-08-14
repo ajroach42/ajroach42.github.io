@@ -36,7 +36,7 @@ The Chupacobra by [Yoyodyne toys](https://www.instagram.com/yoyodynetoydivision/
 
 ![1053.jpg]({{site.baseurl}}/images/1053.jpg)
 
-My Pet Ewok by Greyskull toys and a portrait of Mr. T by [Edwin Salas](https://www.instagram.com/edwinsalasart/). 
+My Pet Ewok by Greyskull toys, an Adventure Dinosaur by [General Porpoise Toys](https://www.instagram.com/generalporpoise/) and a portrait of Mr. T by [Edwin Salas](https://www.instagram.com/edwinsalasart/). 
 
 ![1059.jpg]({{site.baseurl}}/images/1059.jpg)
 
