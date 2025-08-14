@@ -8,7 +8,7 @@ Well, we survived the inagural **Designer Toy Art Fest**, and I’m still recove
 
 ### **How We Did**  
 We didn’t sell out, but we didn’t expect to. This was about **meeting people, sharing stories, and celebrating weird little toys**. Still, some highlights:  
-- **Our soon to be released [*Jupiter’s Ghost* video game]**(https://ajroach42.itch.io/jupiters-ghost-away-mission-gbc) was the surprise top seller (more on that soon!)  
+- **Our soon to be released [*Jupiter’s Ghost* video game](https://ajroach42.itch.io/jupiters-ghost-away-mission-gbc)** was the surprise top seller (more on that soon!)  
 - The **Super Squishy Monstrous Minis** were a hit. They’ll be up online next week for those who missed them  
 - Plenty of folks picked up copies of ***The Mysterious Air Pirates*** magazine (still available [here](https://www.mountaintowntoys.com/product/the-mysterious-air-pirates-volume-1-issue-1/))  
 
