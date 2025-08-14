@@ -2,6 +2,7 @@
 layout: post
 category: post
 title: 'Designer Art Toy is in the Can, What''s next? '
+published: true
 ---
 Well, we survived the inagural **Designer Toy Art Fest**, and I’m still recovering. It was a whirlwind of incredible artists, late-nights, and the kind of creative energy that makes these shows worth the exhaustion.  
 
