@@ -3,12 +3,15 @@ layout: post
 category: post
 title: 'Out Now: Expedition Sasquatch for Gameboy Color'
 published: true
+splash-tall: ''
+splash-wide: ''
 ---
 [Expedition Sasquatch](https://expeditionsasquatch.org) is Now a [Game Boy Color Game](https://www.mountaintowntoys.com/product/expedition-sasquatch-the-game-gbc-cartridge/)!
 
 Bigfoot hunter Jack is back—and this time, he’s in your Game Boy Color. Based on the hit comedy podcast [Expedition Sasquatch](https://expeditionsasquatch.org), this retro-styled adventure drops you into Jack’s world of bizarre encounters, strange creatures, and mysteries that are way weirder than anything he set out to find.
 
-![The box and cartridge art. They're shiny. ]({{site.baseurl}}images/8.png)
+![The Box and Cartridge Art (they're shiny!) ]({{site.baseurl}}/images/8.png)
+
 
 Explore dense forests, wander into a curiously out-of-place city, and meet a cast of odd characters, all while hunting for clues (and, okay, maybe something resembling a Sasquatch). With classic 8-bit visuals, chiptune music, and the same offbeat humor as the podcast, it’s a love letter to both handheld gaming and Jack’s uniquely terrible expedition skills.
 
