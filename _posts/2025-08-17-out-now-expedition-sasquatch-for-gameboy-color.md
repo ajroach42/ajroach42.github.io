@@ -3,8 +3,6 @@ layout: post
 category: post
 title: 'Out Now: Expedition Sasquatch for Gameboy Color'
 published: true
-splash-tall: ''
-splash-wide: ''
 ---
 [Expedition Sasquatch](https://expeditionsasquatch.org) is Now a [Game Boy Color Game](https://www.mountaintowntoys.com/product/expedition-sasquatch-the-game-gbc-cartridge/)!
 
@@ -19,6 +17,6 @@ The game is available now as a [physical cartridge](https://www.mountaintowntoys
 
 [Pick up your copy here](https://www.mountaintowntoys.com/product/expedition-sasquatch-the-game-gbc-cartridge/)!
 
-The game was developed by [Andrew Roach](https://impractical.computer) (That's me!) and [Elvies](https://elvies.itch.io/) If you're interested in a ROM, drop me a message on Mastodon. If enough folks reach out, I'll stick one up on itch PWYW.
+The game was developed by [Andrew Roach](https://impractical.computer) (That's me!) and [Elvies](https://elvies.itch.io/) EDIT: [ROM IS NOW AVAILABLE THROUGH ITCH.IO](https://ajroach42.itch.io/expedition-sasquatch-gb) free to pay in browser or a $5 download. 
 
 And if you’re new to Expedition Sasquatch, you can [dive into the podcast at expeditionsasquatch.org](https://expeditionsasquatch.org). Happy hunting! (Or, more likely, happy getting hopelessly sidetracked.)
