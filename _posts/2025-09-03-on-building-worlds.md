@@ -2,6 +2,7 @@
 layout: post
 category: post
 title: On Building Worlds
+published: true
 ---
 I’ve been thinking a lot lately about the stories we build for ourselves. We all have our private universes, the worlds we escape into in books, games, and shows. They’re safe harbors, but they’re also static. You can’t change the course of the Enterprise. You can’t open a weird little bar on Deep Space Nine. The story is set, the canon is immutable, and you’re just a visitor.
 
