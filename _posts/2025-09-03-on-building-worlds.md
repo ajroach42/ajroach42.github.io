@@ -17,7 +17,7 @@ We’ve been working behind the scenes to make it more welcoming, to sand down t
 
 And that’s what this post is really about. 
 
-This universe was always meant to be built together. If you’ve ever wanted to slip into the background of a sci-fi show and actually stay—to be a cynical engineer, an enthusiastic xenobotanist, or a cadet just trying to log their star hours—your spot is open. The canon isn’t a fence; it’s a playground. The story isn’t set; it’s waiting for you to help write it.
+This universe was always meant to be built together. If you’ve ever wanted to slip into the background of a sci-fi show and actually stay, to be a cynical engineer, an enthusiastic xenobotanist, or a cadet just trying to log their star hours, your spot is open. The canon isn’t a fence; it’s a playground. The story isn’t set; it’s waiting for you to help write it.
 
 If you’re interested, here’s how to start:
 
