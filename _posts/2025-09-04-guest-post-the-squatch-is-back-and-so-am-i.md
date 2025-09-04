@@ -2,6 +2,7 @@
 layout: post
 category: post
 title: 'Guest Post: The Squatch is Back and So Am I'
+published: true
 ---
 The Following is a Guest Post from Jackson QRST Sinclair, the acclaimed Cryptid Hunter, and star of the hit podcast [Expedition Sasquatch](https://ExpeditionSasquatch.org). (Yes, Jack is a fictional character that I write. Yes. This is just a blog post I wrote announcing the return of the Expedition Sasquatch podcast. If you're not a fan of my fiction, skip this one.) 
 
