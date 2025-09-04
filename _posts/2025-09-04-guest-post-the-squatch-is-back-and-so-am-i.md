@@ -16,7 +16,7 @@ But a man can only stack so many cans of beans in his basement before the itch r
 
 So, we’re back.
 
-**[Expedition Sasquatch Episode 21: "Bugs 'n' Such" is out now.](https://expeditionsasquatch.org/2025/09/03/bugs-n-such.html#758a5645)**
+**[Expedition Sasquatch Episode 19: "Bugs 'n' Such" is out now.](https://expeditionsasquatch.org/2025/09/03/bugs-n-such.html#758a5645)**
 
 It’s a good one. We’re dealing with something new. Something wing-ed. Something... Well, it's the goddamn mothman, okay. I hate him, you hate him, but he does lead us somewhere interesting. 
 
