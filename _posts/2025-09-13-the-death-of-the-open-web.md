@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-title: The Death of the Open Web.
+title: The Death of the Open Web?
 published: true
 ---
 It is a peculiar kind of tragedy to watch the thing you love be dismantled for parts, sold off as scrap, and then have the very people doing the dismantling throw up their hands and ask [who could have possibly let this happen](https://arstechnica.com/google/2025/09/in-court-filing-google-concedes-the-open-web-is-in-rapid-decline/). The web I fell in love with is fading, and I think we all know who is holding the smoking gun.
