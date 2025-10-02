@@ -82,8 +82,8 @@ These options bypass the streaming economy entirely, hitting the oligopoly where
 
 This is the cutting edge of the fight for control, directly echoing the cybernetic ideals of *Guerrilla Television*.
 
-*   **Jellyfin/Emby:** The modern equivalent of a public-access studio. These are free, self-hosted media servers that let you manage and stream your own personal library of movies, TV, and music. The technical hurdle is higher, but the reward is total control—no corporate oversight, no arbitrary removals, no algorithms.
-*   **Peer-to-Peer (P2P) & Digital Preservation:** The most radical alternative is the decentralized, community-driven sharing and archiving of media. Tools like **yt-dlp** allow users to preserve content from corporate platforms like Youtube or Tubi, saving it from the "digital decay" of licensing deals or censorship. This landscape is complex and exists in legal gray areas, but it represents a pure form of the guerrilla ethos: seizing the means of distribution to ensure cultural survival.
+*   **Jellyfin/Emby:** The modern equivalent of a public-access studio. These are free, self-hosted media servers that let you manage and stream your own personal library of movies, TV, and music. The technical hurdle is higher, but the reward is total control. No corporate oversight, no arbitrary removals, no algorithms.
+*   **Peer-to-Peer (P2P) & Digital Preservation:** The most radical alternative is the decentralized, community-driven sharing and archiving of media. Tools like **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** allow users to preserve content from corporate platforms like Youtube or Tubi, saving it from the "digital decay" of licensing deals or censorship. This landscape is complex and exists in legal gray areas, but it represents a pure form of the guerrilla ethos: seizing the means of distribution to ensure cultural survival.
 
 ### That sounds like a lot of work! 
 
