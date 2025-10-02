@@ -91,7 +91,7 @@ Yes, it’s less convenient than having everything in one app. You’ll miss som
 
 But this is the entire point. 
 
-Convenience is the tax we pay for surrender. The slight friction of a diverse media diet is the sign of a healthy ecosystem. It means you are thinking, choosing, and participating—not just consuming.
+Convenience is the tax we pay for surrender. The slight friction of a diverse media diet is the sign of a healthy ecosystem. It means you are thinking, choosing, and participating rather than just consuming.
 
 **Your Remote is a Ballot**
 
