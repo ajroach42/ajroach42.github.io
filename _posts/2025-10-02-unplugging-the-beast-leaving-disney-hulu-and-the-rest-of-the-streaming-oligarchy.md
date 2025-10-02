@@ -4,6 +4,7 @@ category: post
 title: >-
   Unplugging the Beast: Leaving Disney+, Hulu, and the Rest of the Streaming
   Oligarchy
+published: true
 ---
 This post is a guide to using some independent streaming platforms. It's part of a series I'm working on about leaving the control of massive corporations. I will follow it up in a few days with a post about running a personal Video on Demand platform, and a couple of ways you can set up personal IPTV stations, and why you might want to do that. Until then, this is an article about leaving HULU+DISNEY+HBO+MAX+DISCOVER+FLIX in the bin, and what you might find instead. 
 
