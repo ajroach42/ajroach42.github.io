@@ -99,4 +99,4 @@ Every subscription is a vote for the kind of media world you want to live in. Do
 
 The Beast is sick. It’s time to stop feeding it and start nurturing the alternatives. The future of our media, and our culture, depends on it.
 
-*What alternatives are we missing? Share your favorite independent platforms and preservation tools in the comments.*
+*What alternatives are we missing? Share your favorite independent platforms and preservation tools [on the fediverse](https://retro.social/@ajroach42).*
