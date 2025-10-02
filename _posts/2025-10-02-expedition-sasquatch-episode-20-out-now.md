@@ -2,6 +2,7 @@
 layout: post
 category: post
 title: Expedition Sasquatch - Episode 20 out now
+published: true
 ---
 The wait is over. Expedition Sasquatch Episode 20, "Betrayed by Mothman," is now available. This episode serves as the direct conclusion to the cliffhanger from Episode 19, "Bugs and Such."
 
