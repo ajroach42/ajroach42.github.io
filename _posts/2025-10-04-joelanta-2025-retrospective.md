@@ -32,6 +32,9 @@ I had a good time, but that's because things were slow enough that I was able to
 
 For context, my dad and I are lifelong toy collectors and customizers who turned our passion into a business. We run [Mountain Town Toys](https://mountaintowntoys.com), operate booths in five antique malls, and attend an average of one toy show per month all year. In additional to all that, I own a bookstore, cafe, and toy shop called [Hemlock Bazaar](https://hemlockbazaar.com) in Ellijay, Georgia. We're deeply embedded in the local toy scene, involved in various non-toy businesses, and we even do [high-touch manufactured injection molding](https://www.mountaintowntoys.com/custom-counterfeits/).
 
+![A photo of our retail store]({{site.baseurl}}/images/265337099_657393238969243_1590581921278902128_n.jpg)
+> A shot of our retail store, Hemlock Bazaar. 
+
 What I'm saying here is that I know toys pretty well, I know what the market is like outside of this show, I know a lot of the other folks involved in the scene, and I know what the broader economy beyond the vintage toy market looks like. 
 
 ## The Hard Numbers: Joelanta 2025 vs. The Past
