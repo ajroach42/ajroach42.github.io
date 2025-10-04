@@ -106,6 +106,9 @@ I don't want to be overly negative. I was surrounded by a toy community I love, 
 
 I always bring a camera to these shows, but most years we're too busy for me to actually step out and get much footage. The last time I was able to get any real footage at a toy show was at [Toylanta 2021](https://communitymedia.video/w/8c47ddd6-ba52-4f82-8f01-7083372b737d), where I had enough time on Sunday morning before general access opened up to get about ten minutes of footage (on a camera built in 1971) that we cut down into a 3 minute recap video. In that footage, you can see some of the kinds of dioramas I was talking about earlier, and a hint of the creative community no longer present at this show. 
 
+<iframe title="Toylanta 2021 Video Tour" width="560" height="315" src="https://communitymedia.video/videos/embed/ijGLhQRAsGDMEAz8QM33PP" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
+> Footage from Toylanta 2021 - I only had about 15 minutes free to capture it. It was shot on a camera from the 70s, I won't appologize for that. 
+
 Compare that the Joelanta retrospective video at the top of this post which is cut down from over two hours of footage shot over more than 4 hours of just wandering around and talking to people. 
 
 Things change, so it goes. The new event organizers have a new vision for the show, which centers high end toy designers like [Brutal Realms](https://realm-toys.com/) and [Animal Warriors of the Kingdom](https://sperotoys.com/). I wish them all the best and I want them to be successful, but I can't help but wonder if there is a disconnect between the show they want to host and the show the community wants to attend.
