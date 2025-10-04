@@ -2,8 +2,6 @@
 layout: post
 category: post
 title: 'Be Your Own Netflix: a "Why To" on running a personal streaming server'
-splash-tall: ''
-splash-wide: ''
 ---
 This is a post about running your own streaming media server, and why you might want to do that. I will discuss some surface-level strategies for how you might go about it, and how you might source media to fill it with, but this is not a step-by-step guide. It's a "why to", rather than a "how to" So hop in, and let's talk about streaming media in 2025, and what you can do to take back control.
 
@@ -18,17 +16,17 @@ But it's more than that. Self-hosting is an act of declaration. It's saying, "Th
 *  **It's Yours, Forever:** When you buy a DVD or a DRM-free file, you've purchased a license to that media. A server is how you exercise that license on your own terms. No corporation can take it away, edit it, or bury it in an algorithm. Your library is permanent.
 *  **The Great Unifier:** If you support independent cinema you might also find yourself, like me, in the position of having a large number of legitimately acquired DRM-free digital downloads from various Kickstarters, Indiegogo campaigns, and other crowdfunding efforts. Keeping track of and consuming bare digital files is, frankly, a pain in the butt. A good, self-hosted media server can make that more pleasant. It also seamlessly integrates your physical media rips, home movies, and any other digital files into one beautiful, browsable interface.
 *  **A Sanctuary from the Noise:** Your server has no ads. No "trending now" algorithms vying for your attention. No data being mined about whether you binge cartoons on Tuesday nights. It's a quiet, intentional space for the content you have consciously chosen to bring into your life.
-*  **Digital Stewardship:** You become an archivist. By ripping your discs and saving digital files, you're ensuring the art you love survives platform decay and corporate whims. You're preserving a piece of culture in a small, personal, but very real way.
+*  **Digital Stewardship:** You become an archivist. By ripping your discs and saving digital files, you're taking some steps towards ensuring the art you love survives platform decay and corporate whims. You're preserving a piece of culture in a small, personal, but very real way.
 *  **It Just Works Better (For You):** The user experience, when tailored to your own collection, is simply superior. No more jumping between six different apps with six different interfaces. Everything you care about is in one place, organized exactly how you want it, ready to play the second you hit the button.
 
 ### Jellyfin, Kodi, or Something Else? Picking Your Poison
 
 For me, there are two good options for server software, one okay option, and one I'd avoid.
 
-**Jellyfin: The New Standard**
+**[Jellyfin](https://jellyfin.org/): The New Standard**
 Jellyfin is the new kid on the block, and it's excellent. It's completely free and open-source, with no "premium" features held back. It's incredibly powerful, with apps for virtually every platform (Roku, Fire TV, Android, iOS, etc.). It automatically fetches beautiful metadata, art, and subtitles. If you're starting today, **Jellyfin is probably your best bet.**
 
-**Kodi: The Grizzled Veteran**
+**[Kodi](https://kodi.tv/): The Grizzled Veteran**
 Kodi has a long and storied history, evolving from the legendary XBMC. It's more than just a server; it's a full-blown, highly customizable media center interface. Its strength lies in its immense ecosystem of add-ons and skins. It can feel a bit more complex to set up for whole-home streaming, but it's a powerhouse for the dedicated tinkerer.
 
 **What about Emby?**
@@ -57,7 +55,8 @@ The biggest benefit to something like Plex or Emby over Jellyfin is the perceive
 
 *   **The Simple, Magical Way: ZeroTier.** Think of ZeroTier as a "magic tunnel" that creates a secure, private network between all your devices, no matter where they are. Install ZeroTier on your server and your phone/laptop, have them all join the same network. [The whole process is documented on their site, and takes about 2 minutes](https://docs.zerotier.com/quickstart/). Now, you can access your Jellyfin server from a coffee shop as if you were on your own couch. It's dead simple to set up and free for personal use. This is my go-to recommendation.
 *   **The Advanced, "Full Internet Citizen" Way: A Reverse Proxy.** This is what you'd need if you want to let your friends access your server from their homes without installing any special software. It's a way to securely open a single, specific door from the public internet into your server. The steps for doing this, and the security considerations, are beyond the scope of this article. The simple version is: 1) have a server with a static IP address join your Zerotier network 2) [configure your server software to proxy connections back to your home network](https://jellyfin.org/docs/general/post-install/networking/reverse-proxy/nginx/).
-	There are services, both free and paid, that exist to provide a quick and dirty dynamic subdomain and reverse proxy for your home network. I've used several over the years, but these days I just have a $2.50/month server from Vultr that does the work for me.
+
+There are services, both free and paid, that exist to provide a quick and dirty dynamic subdomain and reverse proxy for your home network. I've used several over the years, but these days I just have a $2.50/month server from Vultr that does the work for me.
 
 **Important note:** if all the networking stuff made your eyes gloss over, that's fine. Not everyone needs to understand home networking. If you don't need to access your media server when you're away from home, skip it. If you do, but you didn't understand the networking, I can point you towards some good tutorials, or help you when you get stuck. This kind of thing isn't *easy*, but it is achievable, even without a technical background.
 
@@ -68,15 +67,18 @@ Alright, that's most of the boring technical stuff out of the way! Now let's tal
 **1) Physical Media**
 I love physical media, but the first thing I do when I get a new DVD or Blueray is rip it. I personally use MakeMKV for this task, which does the job admirably, and is currently free to use.
 Handbrake can also do DVDs, although it might run into trouble with encrypted DVDs. If you do, you're probably on Windows and you'll [probably need a copy of libdvdcss.dll](https://github.com/allienx/libdvdcss-dll/releases).
+
 Depending on where you live, it may or may not be legal for you to break the encryption on your DVDs or blurays, but it *is* legal to back up those discs in most jurisdictions. It's a practice known as format shifting, and it has been routinely supported in both written and case law.
 Of course, your mileage may vary, I am not a lawyer, etc. etc. etc.
 
 **2) Kickstarter and Indie Downloads**
 A lot of kickstarters for new films and TV shows and for silent film restoration and other public domain archival come with a DRM free download.
+
 Often times these will be delivered via Vimeo. If it looks like it doesn't have a download and is just streaming on vimeo, double check. Often there is a "download" button hiding on the page somewhere.
 
 **3) The Internet Archive and Wikimedia Commons**
 Speaking of the public domain, the [Internet Archive](https://archive.org/) has a large repository of public domain material. Now, a critical note: **just because it's on the Internet Archive does not mean it's in the public domain.** There's a [huge amount](https://archive.org/details/space-patrol) of [legally available](https://archive.org/details/bugs-bunny-pd-cartoon-collection) [public domain material](https://archive.org/details/his-girl-friday-1940) on the archive, but there are also [ a fair number of things that probably shouldn't be there.](https://archive.org/details/ikaos-som-dragon-ball-complete-001-153-r2j-dragon-box-multi-audio-v4_202301/Dragon+Ball.001.DBOX.480p.x264-iKaos+%5Bv4%5D+%5BCED9F4DB%5D.mkv)
+
 The Archive is a particularly good resource for early public domain television episodes, classic films, and obscure newsreels. **All of these items are available via BitTorrent.** You can find a "Torrent" download link on the item's page, which you can feed to your torrent client. Downloading public domain content via torrent from the Internet Archive is a perfectly legal and efficient way to acquire these files, unlike getting your torrents from a site like [1337x.to](https://1337x.to), which hosts primarily infringing content.
 
 Wikimedia Commons also has a huge number of public domain films, such as *[Filibus](https://commons.wikimedia.org/wiki/File:Filibus_1915.webm)* and *[Charade](https://upload.wikimedia.org/wikipedia/commons/e/ef/Charade_%28Stanley_Donen%2C_1963%29.webm)*, ready to download directly.
@@ -85,7 +87,9 @@ Both services are also home to lots of music, including Public Domain recordings
 
 **4) PeerTube**
 Most videos hosted on PeerTube have downloads enabled. I have a huge library of public domain and creative commons licensed material on my own instance. You can visit [New Ellijay Television](https://vod.newellijay.tv) and press the download button on any of our videos.
+
 If that gets tedious, you can also use yt-dlp on PeerTube (along with lots of other services) to download materials that are legal to download. It works well and will download a whole playlist or channel if that's what you ask it to do.
+
 It can be intimidating to use at first, but once you get used to it it is very simple.
 
 **5) Other sources**
