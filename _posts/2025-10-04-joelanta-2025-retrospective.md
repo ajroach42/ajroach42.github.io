@@ -24,7 +24,7 @@ I've been attending both [Joelanta](https://www.joelanta.com/) and [Toylanta](ht
 When the original organizers passed the torch a few years ago, a lot of that celebratory spirit seemed to leave with them. This year, the majority of the art and creativity was confined to a few tables in a hallway. There were no dioramas, no concerts, and barely an artists' alley. Instead, the floor was filled with small manufacturers selling expensive new toys or advertising items not yet available for sale. The lighting was poor, and the mood among vendors was melancholy and bored.
 
 ![Our booth at Joelanta 2025 - Believe it or not, the lighting was *better* for us than many of the other booths.]({{site.baseurl}}/images/78c7e6ca9ec9a3b3.jpg)
-> Our booth at Joelanta 2025. Several vendords commented on how much better the lighting was in our booth compared to some of the others. 
+> Our booth at Joelanta 2025. Several vendors commented on how much better the lighting was in our booth compared to some of the others. 
 
 I had a good time, but that's because things were slow enough that I was able to go around and talk to *every vendor in the building* and get photos and video in nearly every booth. You might notice in our recap video that our camera operators are not fighting to avoid people or being jostled around, that's because there was very little crowd for the majority of the show. 
 
