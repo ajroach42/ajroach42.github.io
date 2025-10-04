@@ -8,7 +8,7 @@ published: true
 
 <iframe title="Mountain Town Toys Joelanta 2025 Recap" width="560" height="315" src="https://vod.newellijay.tv/videos/embed/9d2ccdc8-d9b8-48d3-a056-55076175d90b" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
-Things were slow enough at this year's show that I had time to walk the entire floor, talk to every vendor, and shoot this recap video. It's a neat artifact, and I'm glad I was able to produce it, but I shouldn't have had time to. 
+> Things were slow enough at this year's show that I had time to walk the entire floor, talk to every vendor, and shoot this recap video. It's a neat artifact, and I'm glad I was able to produce it, but I shouldn't have had time to. 
 
 
 ## A little background 
