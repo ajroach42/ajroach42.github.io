@@ -76,7 +76,7 @@ Joelanta 2024 and 2025 were held at the Gas South Center. Perhaps the location i
 Every other month there's a [sidewalk sale at treasure hunt in Powder Springs](https://happeningnext.com/event/toy-swap-meet-eid3a0cuurfg3). It's fairly cheap to set up, draws a huge crowd, and is usually a great time. I'd be there right now, instead of writing this post, if I wasn't doing [Crocktober fest](https://allevents.in/chattanooga/croctoberfest-electric-crocodile%E2%80%99s-1st-annual-fall-market/200028619466212) at the [Electric Crocodile](https://www.instagram.com/electriccrocodile/) today. 
 
 ![469589712_27763057600008978_316858936495962579_n.jpeg]({{site.baseurl}}/images/469589712_27763057600008978_316858936495962579_n.jpeg)
-
+> Our table at a recent sidewalk swap at treasure hunt. We didn't bring much inventory, but we still had a very good show. 
 
 We set up at the powder springs show at least 3 times a year and usually clear between $1,500 and 2,000 for our trouble. When you consider that in concert with the lower expenses ($20 for a table!) and the significantly closer venue, it becomes much more attractive to do the sidewalk swap than a big 3 day show. 
 
@@ -85,6 +85,7 @@ We set up at the powder springs show at least 3 times a year and usually clear b
 Like I said earlier in this post, I do a lot of toy shows beyond Joe/Toylanta. In the last five years, I've had three multi-day shows where I averaged less than $1500 per day in revenue, two were Joelanta, and the third was the first [Designer Art Toy Show in Philly](https://www.toyartfest.com/), which [I've written about extensively](https://ajroach42.com/the-revolution-will-be-playful-philly-s-designer-toy-art-festival/). 
 
 ![Our booth at the Philly show]({{site.baseurl}}/images/528687714_18075995513065145_4217126755993552345_n.jpg)
+> Our booth at the Designer Art Toy Show in Philly. We had a great time showcasing our handmade toys. 
 
 I had a blast at the Philly show, which is a showcase specifically for hand made toys, and I have every reason to believe it will only get bigger and better from here. In two days there, we cleared just under $3,000 in revenue across ~300 total attendees. Everyone I talked to was excited and enthusiastic. The lighting was great, the events and panels were very good, and the attendees were having a fun time. I will absolutely go back to the Designer Art Toy Show. 
 
