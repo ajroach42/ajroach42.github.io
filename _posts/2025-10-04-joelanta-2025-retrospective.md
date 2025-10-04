@@ -19,7 +19,7 @@ I've been attending both [Joelanta](https://www.joelanta.com/) and [Toylanta](ht
 
 ![washington-fight-the-kraken.jpg]({{site.baseurl}}/images/washington-fight-the-kraken.jpg)
 
-George Washington fighting the Kraken in a diorama from Toylanta 2021 
+> George Washington fighting the Kraken in a diorama from Toylanta 2021 
 
 When the original organizers passed the torch a few years ago, a lot of that celebratory spirit seemed to leave with them. This year, the majority of the art and creativity was confined to a few tables in a hallway. There were no dioramas, no concerts, and barely an artists' alley. Instead, the floor was filled with small manufacturers selling expensive new toys or advertising items not yet available for sale. The lighting was poor, and the mood among vendors was melancholy and bored.
 
@@ -49,6 +49,7 @@ Last year, we made just under $4,000 across 100+ transactions with similar expen
 I considered Joelanta 2024 a catastrophic failure driven entirely by external forces, and Joelanta 2025 has made me reconsider that assessment. 
 
 ![Some of our weird inventory]({{site.baseurl}}/images/116918491_116926333243301_727777262927915337_n.jpg)
+> Some of our weird inventory - In this case Paco Dino Warriors. 
 
 **An Aside About Inventory:** It's important to note that about 75% of our sales at both Joelantas were to other vendors. We specialize in weird and obscure toys, so we can often do well even with low customer turnout because vendors love our unique stock. The fact that we still struggled is a major red flag in my book. Many vendors I spoke with reported sales far worse than ours, with some barely covering their hotel costs.
 
@@ -64,6 +65,7 @@ Some vendors I spoke with (8 different people over the course of the show) blame
 Joelanta 2024 and 2025 were held at the Gas South Center. Perhaps the location is the issue?
 
 ![Our booth at Toylanta 2025]({{site.baseurl}}/images/487155845_1001422582052812_1730205183323320369_n.jpeg)
+> Our booth at Joelanta 2025. We were in the furthest room from the main event hall, upstairs, at the end of a long hallway. The booth was awkwardly shaped. In spite of that, it was a better show. 
 
 *   **Toylanta 2025:** Was held at the same venue in March. We generated $9,000 in revenue. It wasn't our best show, but it was solid. The venue itself isn't the problem. (Toylanta 2025 had some issues of its own, but they were minor compared to the last two Joelantas.) 
 *   **Japanfest 2025:** I was at the Gas South Center **the weekend before** Joelanta, vending for a friend at [Bonsabi Tea](https://www.bonsabitea.com/). They had their **best Japanfest ever** in terms of sales and volume. In the same building, three doors down, one week prior. 
