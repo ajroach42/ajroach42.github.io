@@ -77,6 +77,9 @@ Joelanta 2024 and 2025 were held at the Gas South Center. Perhaps the location i
 *   **Japanfest 2025:** I was at the Gas South Center **the weekend before** Joelanta, vending for a friend at [Bonsabi Tea](https://www.bonsabitea.com/). They had their **best Japanfest ever** in terms of sales and volume. In the same building, three doors down, one week prior. 
 *	**Other Locations:** As I mentioned previously, we've got booths at a number of Antique Malls throughout the southeast and we're involved in businesses beyond toys. I have years of historic sales data to pull from for these locations. August and September are, historically, our slowest months of the year across every location. This August was our best on record, and this September was within 5% of our best September. It's not the economic climate. 
 
+![491443204_542713568568775_8921835199693771783_n.jpeg]({{site.baseurl}}/images/491443204_542713568568775_8921835199693771783_n.jpeg)
+> Our booth at one of the several Antique Malls where we sell toys. This time it's The Electric Crocodile in Chatanooga, TN. 
+
 ### Powder Springs Toy Swap 
 
 Every other month there's a [sidewalk sale at treasure hunt in Powder Springs](https://happeningnext.com/event/toy-swap-meet-eid3a0cuurfg3). It's fairly cheap to set up, draws a huge crowd, and is usually a great time. I'd be there right now, instead of writing this post, if I wasn't doing [Crocktober fest](https://allevents.in/chattanooga/croctoberfest-electric-crocodile%E2%80%99s-1st-annual-fall-market/200028619466212) at the [Electric Crocodile](https://www.instagram.com/electriccrocodile/) today. 
