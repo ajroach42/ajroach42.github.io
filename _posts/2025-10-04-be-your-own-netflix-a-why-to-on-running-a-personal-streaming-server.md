@@ -2,6 +2,7 @@
 layout: post
 category: post
 title: 'Be Your Own Netflix: a "Why To" on running a personal streaming server'
+published: true
 ---
 This is a post about running your own streaming media server, and why you might want to do that. I will discuss some surface-level strategies for how you might go about it, and how you might source media to fill it with, but this is not a step-by-step guide. It's a "why to", rather than a "how to" So hop in, and let's talk about streaming media in 2025, and what you can do to take back control.
 
@@ -103,13 +104,13 @@ In the near future, I'll be writing up a more comprehensive guide to building a 
 
 ### Cleaning It Up: The Final Polish
 
-Once you've got your media on your server, you're going to want to make sure it matches the naming conventions your software expects. There are tools that'll help organize things if you're having a hard time. I like [Mediaelch](https://www.mediaelch.de/mediaelch/). It's a free tool that you can use to sort and rename your poorly named media. It's not as good as some of the paid options, but it works well enough for most people in most cases.
+Once you've got your media on your server, you're going to want to make sure it matches the naming conventions your software expects. If your TV shows aren't in folders like this: SHOW NAME > SEASON 01 > FILE they probably won't show up in Jellyfin. There are tools that'll help organize things if you're having a hard time. I like [Mediaelch](https://www.mediaelch.de/mediaelch/). It's a free tool that you can use to sort and rename your poorly named media. It's not as fast as some of the paid options (like Filebot), but it works well enough for most people in most cases. 
 
 Your server software will usually automatically fetch poster art, descriptions, and other metadata. If it doesn't, it might not be able to identify what a piece of media is. That's fine, you can either fix it by helping the server identify the media, or by manually adding images, descriptions etc.
 
 ### And Then What?
 
-Well, if you've made it this far, you'll have a home media server with a growing library of content that you can watch or listen to when you're at home or from your phone when you're on the road. And if you got real deep in the weeds with a reverse proxy, you can even let your friends access your server from their homes.
+Well, if you've made it this far, you'll have a home media server with a growing library of content that you can watch or listen to when you're at home. If you set up zerotier (and I think you should!) then you can also access it from your phone or laptop when you're on the road. And if you got real deep in the weeds with a reverse proxy, you can even let your friends access your server from their homes.
 
 In future posts, I'll discuss other places from which you can find media, turning this library into a live streaming television network (complete with commercials, if you want them), and how to make it easier for your friends to add videos to your library.
 
