@@ -17,6 +17,10 @@ Joelanta started in the early 00s, was renamed to Toylanta for a while, and then
 
 I've been attending both [Joelanta](https://www.joelanta.com/) and [Toylanta](https://www.toylanta.net/) for close to two decades. In the early days, it felt like a community celebration with a vendor area attached. My best memories are of the massive dioramas for the [Cody Lane Foundation](https://codylanefoundation.com), the [lobby parachute drops](https://www.youtube.com/watch?v=_AR-6Y9fvRM), and the [Radio Cult](https://radiocult.com/) concerts (all of which were absent from this event.) 
 
+![washington-fight-the-kraken.jpg]({{site.baseurl}}/images/washington-fight-the-kraken.jpg)
+
+George Washington fighting the Kraken in a diorama from Toylanta 2021 
+
 When the original organizers passed the torch a few years ago, a lot of that celebratory spirit seemed to leave with them. This year, the majority of the art and creativity was confined to a few tables in a hallway. There were no dioramas, no concerts, and barely an artists' alley. Instead, the floor was filled with small manufacturers selling expensive new toys or advertising items not yet available for sale. The lighting was poor, and the mood among vendors was melancholy and bored.
 
 I had a good time, but that's because things were slow enough that I was able to go around and talk to *every vendor in the building* and get photos and video in nearly every booth. You might notice in our recap video that our camera operators are not fighting to avoid people or being jostled around, that's because there was very little crowd for the majority of the show. 
@@ -81,4 +85,4 @@ Compare that the Joelanta retrospective video at the top of this post which is c
 
 Things change, so it goes. The new event organizers have a new vision for the show, which centers high end toy designers like [Brutal Realms](https://realm-toys.com/) and [Animal Warriors of the Kingdom](https://sperotoys.com/). I wish them all the best and I want them to be successful, but I can't help but wonder if there is a disconnect between the show they want to host and the show the community wants to attend.
 
-In the meantime, I have a lot of unsold inventory from this year's Joelanta, and frankly from last year's, that I'm going to be sharing on [Mastodon](https://retro.social/@mountaintowntoys) and [Instagram](https://www.instagram.com/mountaintowntoys/). If you see something you want, reach out. 
+In the meantime, I have a lot of unsold inventory from this year's Joelanta, and frankly from last year's, that I'm going to be sharing on [Mastodon](https://retro.social/@mountaintowntoys) and [Instagram](https://www.instagram.com/mountaintowntoys/). If you see something you want, reach out.
