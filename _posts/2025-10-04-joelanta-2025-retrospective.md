@@ -2,6 +2,7 @@
 layout: post
 category: post
 title: 'Joelanta Is Over, Now What? '
+published: true
 ---
 [Joelanta](https://joelanta.com) is an annual toyshow with a long history where folks who like vintage action figures and especially, but not only GI Joe, get together and celebrate or toys. The 2025 show just ended, and I wanted to take a few minutes to talk about the good, the bad, and the ugly from this Joelanta, reminisce about previous Joelantas, and consider the future of the show. It's a little bit Inside Baseball, and a little bit me trying to organize my own thoughts about the show and it's future.  
 
@@ -44,7 +45,7 @@ I considered Joelanta 2024 a catastrophic failure driven entirely by external fo
 
 ### Joelanta 2023 & The "Name" Problem
 
-Some vendors I spoke with (8, different people over the course of the show) blamed the "Joelanta" name, saying it's too niche and scares off non-G.I. Joe fans. But that argument doesn't hold up against recent history. At Joelanta 2023 (the last run by the original organizer), we had over 200 sales totaling about $10,000 in revenue. It was a strong, healthy show.
+Some vendors I spoke with (8 different people over the course of the show) blamed the "Joelanta" name, saying it's too niche and scares off non-G.I. Joe fans. But that argument doesn't hold up against recent history. At Joelanta 2023 (the last run by the original organizer), we had over 200 sales totaling about $10,000 in revenue. It was a strong, healthy show.
 
 ## Ruling Out Other Culprits
 
@@ -74,7 +75,7 @@ Joelanta was a different story. The lighting was abysmal, the event crew were st
 
 I don't want to be overly negative. I was surrounded by a toy community I love, and I had priceless time to connect with old friends and new. But that's the core issue: in past years, I was too busy *selling toys* to have those long conversations.
 
-I always bring a camera to these shows, but most years we're too busy for me to actually step out and get much footage. The last time I was able to get any real footage at a toy show was at [Toylanta 2021](https://communitymedia.video/w/8c47ddd6-ba52-4f82-8f01-7083372b737d), where I had enough time on Sunday morning before general access opened up to get about ten minutes of footage (on a camera built in 1971) that we cut down into a 3 minute recap video. In that footage, you can see some of the kinds of dioramas I was talking about earlier. 
+I always bring a camera to these shows, but most years we're too busy for me to actually step out and get much footage. The last time I was able to get any real footage at a toy show was at [Toylanta 2021](https://communitymedia.video/w/8c47ddd6-ba52-4f82-8f01-7083372b737d), where I had enough time on Sunday morning before general access opened up to get about ten minutes of footage (on a camera built in 1971) that we cut down into a 3 minute recap video. In that footage, you can see some of the kinds of dioramas I was talking about earlier, and a hint of the creative community no longer present at this show. 
 
 Compare that the Joelanta retrospective video at the top of this post which is cut down from over two hours of footage shot over more than 4 hours of just wandering around and talking to people. 
 
