@@ -1,9 +1,9 @@
 ---
 layout: post
 category: post
-title: Joelanta 2025 Retrospective
+title: 'Joelanta Is Over, Now What? '
 ---
-Joelanta is an annual toyshow with a long history where folks who like vintage action figures and especially, but not only GI Joe, get together and celebrate or toys. The 2025 show just ended, and I wanted to take a few minutes to talk about the good, the bad, and the ugly from this Joelanta, reminisce about previous Joelantas, and consider the future of the show. It's a little bit Inside Baseball, and a little bit me trying to organize my own thoughts about the show and it's future.  
+[Joelanta](https://joelanta.com) is an annual toyshow with a long history where folks who like vintage action figures and especially, but not only GI Joe, get together and celebrate or toys. The 2025 show just ended, and I wanted to take a few minutes to talk about the good, the bad, and the ugly from this Joelanta, reminisce about previous Joelantas, and consider the future of the show. It's a little bit Inside Baseball, and a little bit me trying to organize my own thoughts about the show and it's future.  
 
 <iframe title="Mountain Town Toys Joelanta 2025 Recap" width="560" height="315" src="https://vod.newellijay.tv/videos/embed/9d2ccdc8-d9b8-48d3-a056-55076175d90b" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
@@ -14,7 +14,7 @@ Things were slow enough at this year's show that I had time to walk the entire f
 
 Joelanta started in the early 00s, was renamed to Toylanta for a while, and then eventually spun back off into it's own show separate from Toylanta, but run by the same team. 
 
-I've been attending both [Joelanta](https://www.joelanta.com/) and [Toylanta](https://www.toylanta.net/) for close to two decades. In the early days, it felt like a community celebration with a vendor area attached. My best memories are of the massive dioramas for the [Cody Lane Foundation](https://codylanefoundation.com), the lobby parachute drops, and the Radio Cult concerts (all of which were absent from this event.) 
+I've been attending both [Joelanta](https://www.joelanta.com/) and [Toylanta](https://www.toylanta.net/) for close to two decades. In the early days, it felt like a community celebration with a vendor area attached. My best memories are of the massive dioramas for the [Cody Lane Foundation](https://codylanefoundation.com), the [lobby parachute drops](https://www.youtube.com/watch?v=_AR-6Y9fvRM), and the [Radio Cult](https://radiocult.com/) concerts (all of which were absent from this event.) 
 
 When the original organizers passed the torch a few years ago, a lot of that celebratory spirit seemed to leave with them. This year, the majority of the art and creativity was confined to a few tables in a hallway. There were no dioramas, no concerts, and barely an artists' alley. Instead, the floor was filled with small manufacturers selling expensive new toys or advertising items not yet available for sale. The lighting was poor, and the mood among vendors was melancholy and bored.
 
@@ -22,7 +22,7 @@ I had a good time, but that's because things were slow enough that I was able to
 
 ## Who are you, anyway? 
 
-For context, my dad and I are lifelong toy collectors and customizers who turned our passion into a business. We run [Mountain Town Toys](https://mountaintowntoys.com), operate booths in five antique malls, and attend an average of one two show per month all year. In additional to all that, I own a bookstore, cafe, and toy shop called [Hemlock Bazaar](https://hemlockbazaar.com) in Ellijay, Georgia. We're deeply embedded in the local toy scene, involved in various non-toy businesses, and we even do [high-touch manufactured injection molding](https://www.mountaintowntoys.com/custom-counterfeits/).
+For context, my dad and I are lifelong toy collectors and customizers who turned our passion into a business. We run [Mountain Town Toys](https://mountaintowntoys.com), operate booths in five antique malls, and attend an average of one toy show per month all year. In additional to all that, I own a bookstore, cafe, and toy shop called [Hemlock Bazaar](https://hemlockbazaar.com) in Ellijay, Georgia. We're deeply embedded in the local toy scene, involved in various non-toy businesses, and we even do [high-touch manufactured injection molding](https://www.mountaintowntoys.com/custom-counterfeits/).
 
 What I'm saying here is that I know toys pretty well, I know what the market is like outside of this show, I know a lot of the other folks involved in the scene, and I know what the broader economy beyond the vintage toy market looks like. 
 
