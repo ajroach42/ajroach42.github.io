@@ -65,10 +65,12 @@ There are services, both free and paid, that exist to provide a quick and dirty 
 Alright, that's most of the boring technical stuff out of the way! Now let's talk about the fun part: a few strategies you can use to load up your server with media.
 
 **1) Physical Media**
-I love physical media, but the first thing I do when I get a new DVD or Blueray is rip it. I personally use MakeMKV for this task, which does the job admirably, and is currently free to use.
-Handbrake can also do DVDs, although it might run into trouble with encrypted DVDs. If you do, you're probably on Windows and you'll [probably need a copy of libdvdcss.dll](https://github.com/allienx/libdvdcss-dll/releases).
+I love physical media, but the first thing I do when I get a new DVD or Blueray is rip it. I personally use [MakeMKV](https://www.makemkv.com/) for this task, which does the job admirably, and is currently free to use. MakeMKV will also work with 4K/UHD discs, but you'll need a [drive with the appropriate firmware](https://forum.makemkv.com/forum/viewtopic.php?t=19634).
 
-Depending on where you live, it may or may not be legal for you to break the encryption on your DVDs or blurays, but it *is* legal to back up those discs in most jurisdictions. It's a practice known as format shifting, and it has been routinely supported in both written and case law.
+[Handbrake](https://handbrake.fr/) can also do DVDs, although it might run into trouble with encrypted DVDs. If you do, you're probably on Windows and you'll [probably need a copy of libdvdcss.dll](https://github.com/allienx/libdvdcss-dll/releases).
+
+Depending on where you live, it may or may not be legal for you to break the encryption on your DVDs or blurays, but it *is* legal to back up those discs in most jurisdictions. It's a practice known as format shifting, and it has been routinely supported in both written and case law. This mess is, in the US at least, because of the DMCA. The DMCA was a bad law that should not have been passed. 
+
 Of course, your mileage may vary, I am not a lawyer, etc. etc. etc.
 
 **2) Kickstarter and Indie Downloads**
@@ -86,9 +88,11 @@ Wikimedia Commons also has a huge number of public domain films, such as *[Filib
 Both services are also home to lots of music, including Public Domain recordings, and CC licensed material from various netlables. I'll talk more about music in a future post. 
 
 **4) PeerTube**
-Most videos hosted on PeerTube have downloads enabled. I have a huge library of public domain and creative commons licensed material on my own instance. You can visit [New Ellijay Television](https://vod.newellijay.tv) and press the download button on any of our videos.
+Most videos hosted on PeerTube have downloads enabled. I have a huge library of public domain and creative commons licensed material on my own instance. You can visit [New Ellijay Television](https://vod.newellijay.tv) and press the download button on any of our videos. (Here's one to get you started: [The First Spaceship on Venus](https://vod.newellijay.tv/w/wK4UoQwukx5gf6mTgh6Ak8).) 
 
-If that gets tedious, you can also use yt-dlp on PeerTube (along with lots of other services) to download materials that are legal to download. It works well and will download a whole playlist or channel if that's what you ask it to do.
+If that gets tedious, you can also use [yt-dlp](https://github.com/yt-dlp/yt-dlp) on PeerTube (along with [lots of other services](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)) to download materials that are legal to download. It works well and will download a whole playlist or channel if that's what you ask it to do. If you're going to use yt-dlp, wrap the url in quotes. So the command to download every video from our music channel would be: 
+
+`yt-dlp "https://vod.newellijay.tv/c/music/videos"`
 
 It can be intimidating to use at first, but once you get used to it it is very simple.
 
