@@ -60,6 +60,9 @@ I considered Joelanta 2024 a catastrophic failure driven entirely by external fo
 
 Some vendors I spoke with (8 different people over the course of the show) blamed the "Joelanta" name, saying it's too niche and scares off non-G.I. Joe fans. But that argument doesn't hold up against recent history. At Joelanta 2023 (the last run by the original organizer), we had over 200 sales totaling about $10,000 in revenue. It was a strong, healthy show.
 
+![363792846_1471853583605031_1368579978662623410_n.jpeg]({{site.baseurl}}/images/363792846_1471853583605031_1368579978662623410_n.jpeg)
+> Joelanta 2023 was so busy that this is the only photo I managed to grab! You can sort of make out our inventory behind the makeshift badge we were given. 
+
 
 ## Ruling Out Other Culprits
 
