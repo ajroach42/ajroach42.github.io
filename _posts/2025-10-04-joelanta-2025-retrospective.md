@@ -96,7 +96,9 @@ Like I said earlier in this post, I do a lot of toy shows beyond Joe/Toylanta. I
 ![Our booth at the Philly show]({{site.baseurl}}/images/528687714_18075995513065145_4217126755993552345_n.jpg)
 > Our booth at the Designer Art Toy Show in Philly. We had a great time showcasing our handmade toys. 
 
-I had a blast at the Philly show, which is a showcase specifically for hand made toys, and I have every reason to believe it will only get bigger and better from here. In two days there, we cleared just under $3,000 in revenue across ~300 total attendees. Everyone I talked to was excited and enthusiastic. The lighting was great, the events and panels were very good, and the attendees were having a fun time. I will absolutely go back to the Designer Art Toy Show. 
+I had a blast at the Philly show, which is a showcase specifically for hand made toys, and I have every reason to believe it will only get bigger and better from here. In two days there, we cleared just under $3,000 in revenue across ~300 total attendees. That's about 15% better sales per diem sales, at a show with significantly fewer attendees in a much more niche market. 
+
+Everyone I talked to was excited and enthusiastic. The lighting was great, the events and panels were very good, and the attendees were having a fun time. I will absolutely go back to the Designer Art Toy Show. 
 
 Joelanta was a different story. The lighting was abysmal, the event crew were stressed and overwhelmed, the other vendors were unhappy, and even the attendees seemed to want to be somewhere else. While I'm sure there were more people in attendance than at the Philly show *and* a much wider variety of toys on display, every vendor I spoke with reported lower than usual sales and, aside from some first time visitors, nearly every attendee I spoke to was disappointed with the show. 
 
