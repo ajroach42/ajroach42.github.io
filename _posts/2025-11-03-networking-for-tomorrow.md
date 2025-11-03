@@ -100,4 +100,4 @@ Then it's implementing automatic server > client > server sync (carrier pigeonin
 
 In parallel, I'd like to get a few more servers online to begin testing hop distance.
 
-I'll post here again when it's ready, so subscribe via RSS or follow me on the fediverse for that announcement. This is pre-alpha, bare minimum. It might never move far beyond that, but if I can get some people on board to work with me, it might go a little further.
+I'll post here again when it's ready, so [subscribe via RSS](https://ajroach42.com/feed.xml) or [follow me on the fediverse for that announcement](https://retro.social/@ajroach42). This is pre-alpha, bare minimum, proof of concept stuff. It might never move far beyond that, but if I can get some people on board to work with me, it might go a little further.
