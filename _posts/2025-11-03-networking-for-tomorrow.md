@@ -2,6 +2,7 @@
 layout: post
 category: post
 title: Networking for Tomorrow
+published: true
 ---
 I've been thinking ([and that's not good for anyone, and everyone should be holding their breath](https://communitymedia.video/w/exFoSTiCszM2r52Qsi1sdy)) about technology again. I can't help myself; every time I think I'm out, they pull me back in. Mostly, I'm thinking about technology right now because I'm contemplating the ways that the US is a failed state, and thinking about the kinds of technology that we're going to need to get through to whatever comes next. This is mostly a post about technology, but the next header is a justification of my claim that the US is a failed state. If that might be too much for you to read right now, skip it.
 
